@@ -19,6 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+// Maximize the browser window
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://plms-php81.paradisolms.net/login/index.php')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'), 
@@ -37,5 +40,5 @@ WebUI.click(findTestObject('Object Repository/Page_Paradiso LMS Log in to the si
 
 WebUI.click(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/button_Log in'))
 
-WebUI.closeBrowser()
+//WebUI.closeBrowser()
 
