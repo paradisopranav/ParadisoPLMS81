@@ -112,7 +112,6 @@ WebUI.setText(findTestObject('Object Repository/Page_Manage People/p_gyjgjmuhk j
 
 WebUI.click(findTestObject('Object Repository/Page_Manage People/button_Save'))
 */
-
 WebUI.click(findTestObject('Object Repository/Page_Manage People/i_Manage People_fa fa-close close_icon_search'))
 
 WebUI.click(findTestObject('Object Repository/Page_Manage People/svg'))

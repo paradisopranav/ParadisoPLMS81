@@ -17,3 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://plms-php81.paradisolms.net/login/index.php')
+
+WebUI.setText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'), 'admin')
+
+WebUI.click(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'), 
+    'ed/1/AZbo1YX04df+rN1oA==')
+
+WebUI.click(findTestObject('Page_Paradiso LMS Log in to the site/button_Log in'))
+
+WebUI.navigateToUrl('https://plms-php81.paradisolms.net/admin/tool/uploaduser/index.php')
+
+WebUI.click(findTestObject('Page_PLMS Administration Users Accounts Upload Users/input_File_userfilechoose'))
+
+WebUI.uploadFile(findTestObject('Page_PLMS Administration Users Accounts Upload Users/input_Attachment_repo_upload_file'), 
+    file)
+
+WebUI.click(findTestObject('Page_PLMS Administration Users Accounts Upload Users/button_Upload'))
+
+WebUI.click(findTestObject('Page_PLMS Administration Users Accounts Upload Users/input_Preview Rows_submitbutton'))
+
+WebUI.click(findTestObject('Page_PLMS Administration Users Accounts Upload Users/input__submitbutton'))
+
