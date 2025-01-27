@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log in</name>
+   <name>a_Enroll Users</name>
    <tag></tag>
-   <elementGuidId>e5b333a8-4617-42ff-91b9-073c9caf5018</elementGuidId>
+   <elementGuidId>98bf06c5-b501-47b6-ae32-9db81ec561cd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#loginbtn</value>
+         <value>#enrol_user</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginbtn']</value>
+         <value>//a[@id='enrol_user']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Log in&quot;i]</value>
+         <value>internal:role=link[name=&quot;Enroll Users&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,111 +28,136 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>150a8ca3-be94-4838-948e-968137e253e5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>cbbef219-dba2-462a-9ce1-746c319156d7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-primary btn-block btn-round</value>
-      <webElementGuid>5acb1a9a-7397-461c-b4e6-64088cd6926c</webElementGuid>
+      <value>a</value>
+      <webElementGuid>3e4dae4f-260c-4bf8-960b-b322ab4cc66c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginbtn</value>
-      <webElementGuid>c50756bf-e54d-4341-bedc-ae3b79aba84c</webElementGuid>
+      <value>enrol_user</value>
+      <webElementGuid>7eae97fc-c32d-4ce4-ba89-76e4b7bb6f2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button_disable bulk-action btn_css btn btn-primary btn-round btn-labeled fa-2x loadiframe active-bulk</value>
+      <webElementGuid>561987fd-b0db-4cae-a3f2-8e3be705a7a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>abbdc170-5ec1-4de0-9ca3-d96356df0995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#enrollModal</value>
+      <webElementGuid>10be7a38-dcaa-47c4-b646-abfd13e9f002</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>44d4dbe4-7daf-475e-8ac2-c269f484ec4c</webElementGuid>
+      <value>
+      
+      Enroll Users
+      </value>
+      <webElementGuid>0f8ff34a-4c7f-4fb6-979c-7b538f3eff79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginbtn&quot;)</value>
-      <webElementGuid>0dd4f591-9345-42b0-8f94-0197f2331e7f</webElementGuid>
+      <value>id(&quot;enrol_user&quot;)</value>
+      <webElementGuid>34b60917-47cd-457c-a3b4-9c6a3d1a4e87</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='loginbtn']</value>
-      <webElementGuid>7cf912da-1a80-4c61-b04a-f7e427cde511</webElementGuid>
+      <value>//a[@id='enrol_user']</value>
+      <webElementGuid>68e3d046-749c-4862-b6de-57dcd2ea9e89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[5]/div/button</value>
-      <webElementGuid>65aac2d5-30fd-4323-9422-befd121de8b2</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1737963960952_411']/div/div/div[3]/div/a[2]</value>
+      <webElementGuid>67e0e108-da68-40f0-98a1-5302c8da7b3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::button[1]</value>
-      <webElementGuid>46a1618d-e44a-4f44-9814-c1ebe818ba37</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entire LMS Peoples'])[2]/following::a[3]</value>
+      <webElementGuid>177072fe-2575-406c-963d-3247e96f608f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='日本語 ‎(ja)‎'])[1]/following::button[1]</value>
-      <webElementGuid>15d70b08-d498-423c-b531-3bf4dd0c1bc3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[2]/preceding::a[3]</value>
+      <webElementGuid>6364cfb6-d007-4518-a2bb-d6c955abf810</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or you can join with'])[1]/preceding::button[1]</value>
-      <webElementGuid>20c426cf-7fa3-4479-88b7-c4a017373d26</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/preceding::a[4]</value>
+      <webElementGuid>ecf70ea7-ed71-4c03-ae17-b5357d312637</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>e6998975-1214-4e81-8ad4-c6eb64b27cd4</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Enroll Users']/parent::*</value>
+      <webElementGuid>ae214e94-02e1-482b-816c-d472706cbbb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[19]</value>
+      <webElementGuid>46d38c90-6c52-4421-807e-4addc77097b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>70e81569-51d7-4de7-9fa3-e2fa233851db</webElementGuid>
+      <value>//div[3]/div/a[2]</value>
+      <webElementGuid>6958202b-0812-4ded-b788-d2bbee72ce13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'loginbtn' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>be742c85-78c9-4dd2-b2e6-0942a7245e7f</webElementGuid>
+      <value>//a[@id = 'enrol_user' and @href = '#' and (text() = '
+      
+      Enroll Users
+      ' or . = '
+      
+      Enroll Users
+      ')]</value>
+      <webElementGuid>9818451d-173f-46d5-922a-d7c139b8850c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

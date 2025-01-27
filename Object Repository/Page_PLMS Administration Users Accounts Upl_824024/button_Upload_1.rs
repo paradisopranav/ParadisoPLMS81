@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log in</name>
+   <name>button_Upload_1</name>
    <tag></tag>
-   <elementGuidId>e5b333a8-4617-42ff-91b9-073c9caf5018</elementGuidId>
+   <elementGuidId>61b335a9-9f38-44ba-af52-f133b5370355</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#loginbtn</value>
+         <value>#yui_3_17_2_1_1737971703806_657</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginbtn']</value>
+         <value>//button[@id='yui_3_17_2_1_1737971703806_657']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Log in&quot;i]</value>
+         <value>internal:role=button[name=&quot;Upload&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,110 +29,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>150a8ca3-be94-4838-948e-968137e253e5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>cbbef219-dba2-462a-9ce1-746c319156d7</webElementGuid>
+      <webElementGuid>e896708b-54eb-4c8c-a9a5-715983b024b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-block btn-round</value>
-      <webElementGuid>5acb1a9a-7397-461c-b4e6-64088cd6926c</webElementGuid>
+      <value>fp-upload-btn btn-primary btn btn-round</value>
+      <webElementGuid>1f3db9f8-f26e-4880-81b4-4a12025d5a93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginbtn</value>
-      <webElementGuid>c50756bf-e54d-4341-bedc-ae3b79aba84c</webElementGuid>
+      <value>yui_3_17_2_1_1737971703806_657</value>
+      <webElementGuid>8abd8825-6eb5-4f6b-9dc0-8a06d134f02b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>44d4dbe4-7daf-475e-8ac2-c269f484ec4c</webElementGuid>
+      <value>Upload</value>
+      <webElementGuid>3ccfecfd-3917-4b87-8dd3-7c7cb6db6c5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginbtn&quot;)</value>
-      <webElementGuid>0dd4f591-9345-42b0-8f94-0197f2331e7f</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1737971703806_657&quot;)</value>
+      <webElementGuid>583b68d1-be29-4c63-adac-2112dbc44a5e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='loginbtn']</value>
-      <webElementGuid>7cf912da-1a80-4c61-b04a-f7e427cde511</webElementGuid>
+      <value>//button[@id='yui_3_17_2_1_1737971703806_657']</value>
+      <webElementGuid>c1277c66-155e-4854-b307-dffaeaa99ea9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[5]/div/button</value>
-      <webElementGuid>65aac2d5-30fd-4323-9422-befd121de8b2</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1737971703806_658']/button</value>
+      <webElementGuid>599ce324-8ad0-435d-adfe-ceaa8dd7d503</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::button[1]</value>
-      <webElementGuid>46a1618d-e44a-4f44-9814-c1ebe818ba37</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose licence'])[1]/following::button[1]</value>
+      <webElementGuid>74235e49-da02-4f80-ae19-b6f1f98f5eed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='日本語 ‎(ja)‎'])[1]/following::button[1]</value>
-      <webElementGuid>15d70b08-d498-423c-b531-3bf4dd0c1bc3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Author'])[1]/following::button[1]</value>
+      <webElementGuid>81b49345-3d3f-4716-92f9-6eb47a025988</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or you can join with'])[1]/preceding::button[1]</value>
-      <webElementGuid>20c426cf-7fa3-4479-88b7-c4a017373d26</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[1]/preceding::button[1]</value>
+      <webElementGuid>31f3be11-50b2-4d75-8e2a-5edc23e3a5bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>e6998975-1214-4e81-8ad4-c6eb64b27cd4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/preceding::button[2]</value>
+      <webElementGuid>3ac2fb39-f57c-46c2-9085-048cb279e1f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>70e81569-51d7-4de7-9fa3-e2fa233851db</webElementGuid>
+      <value>//div[2]/div/div[2]/div/div/div/button</value>
+      <webElementGuid>204a783f-5cdc-49ae-8b6a-a9fa2460d95e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'loginbtn' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>be742c85-78c9-4dd2-b2e6-0942a7245e7f</webElementGuid>
+      <value>//button[@id = 'yui_3_17_2_1_1737971703806_657' and (text() = 'Upload' or . = 'Upload')]</value>
+      <webElementGuid>ab40c516-4188-495f-a016-d16a58b0bfa2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log in</name>
+   <name>p_Users created 1Users having a weak passwo_e2a8c9_1</name>
    <tag></tag>
-   <elementGuidId>e5b333a8-4617-42ff-91b9-073c9caf5018</elementGuidId>
+   <elementGuidId>161deb34-f822-4fa5-bf90-67a8fb0996af</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#loginbtn</value>
+         <value>#yui_3_17_2_1_1737971773292_18</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginbtn']</value>
+         <value>//p[@id='yui_3_17_2_1_1737971773292_18']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Log in&quot;i]</value>
+         <value>internal:text=&quot;Users created: 1Users having a weak password: 0Errors: 0&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,111 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>150a8ca3-be94-4838-948e-968137e253e5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>cbbef219-dba2-462a-9ce1-746c319156d7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-primary btn-block btn-round</value>
-      <webElementGuid>5acb1a9a-7397-461c-b4e6-64088cd6926c</webElementGuid>
+      <value>p</value>
+      <webElementGuid>12bbf16a-b932-4b6e-b4c4-7f5f648bd43f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginbtn</value>
-      <webElementGuid>c50756bf-e54d-4341-bedc-ae3b79aba84c</webElementGuid>
+      <value>yui_3_17_2_1_1737971773292_18</value>
+      <webElementGuid>f2573b03-03dd-41fd-8e2d-ddcfb33430fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>44d4dbe4-7daf-475e-8ac2-c269f484ec4c</webElementGuid>
+      <value>Users created: 1Users having a weak password: 0Errors: 0</value>
+      <webElementGuid>9da29c53-f06e-4b34-bcab-0537e88bec4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginbtn&quot;)</value>
-      <webElementGuid>0dd4f591-9345-42b0-8f94-0197f2331e7f</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1737971773292_18&quot;)</value>
+      <webElementGuid>07f7a1ec-e66c-47b6-888d-3bacd4ebbd69</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='loginbtn']</value>
-      <webElementGuid>7cf912da-1a80-4c61-b04a-f7e427cde511</webElementGuid>
+      <value>//p[@id='yui_3_17_2_1_1737971773292_18']</value>
+      <webElementGuid>f4f5be58-1e1a-4ec3-85ed-deefb39265be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[5]/div/button</value>
-      <webElementGuid>65aac2d5-30fd-4323-9422-befd121de8b2</webElementGuid>
+      <value>//div[@id='uploadresults']/p</value>
+      <webElementGuid>ac8a6d4e-46f4-4380-956b-41c86aea63a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::button[1]</value>
-      <webElementGuid>46a1618d-e44a-4f44-9814-c1ebe818ba37</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::p[1]</value>
+      <webElementGuid>ec3eebe9-38be-487f-b424-74204155afdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='日本語 ‎(ja)‎'])[1]/following::button[1]</value>
-      <webElementGuid>15d70b08-d498-423c-b531-3bf4dd0c1bc3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='manual'])[1]/following::p[1]</value>
+      <webElementGuid>a8839c1f-afed-4657-9e77-9c3ecdfdb754</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or you can join with'])[1]/preceding::button[1]</value>
-      <webElementGuid>20c426cf-7fa3-4479-88b7-c4a017373d26</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::p[1]</value>
+      <webElementGuid>091a765a-546a-4451-91f9-f3a78c739472</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>e6998975-1214-4e81-8ad4-c6eb64b27cd4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::p[1]</value>
+      <webElementGuid>96cbc37a-6e86-4d53-9c2b-9fcdbe940fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Users created: 1']/parent::*</value>
+      <webElementGuid>aca483c5-90ec-4c0a-9834-ace8f412be2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>70e81569-51d7-4de7-9fa3-e2fa233851db</webElementGuid>
+      <value>//section/div/div/div/p</value>
+      <webElementGuid>3c2a39e8-90ad-4bee-a676-d0ca0823a57b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'loginbtn' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>be742c85-78c9-4dd2-b2e6-0942a7245e7f</webElementGuid>
+      <value>//p[@id = 'yui_3_17_2_1_1737971773292_18' and (text() = 'Users created: 1Users having a weak password: 0Errors: 0' or . = 'Users created: 1Users having a weak password: 0Errors: 0')]</value>
+      <webElementGuid>679333d1-3483-401b-9580-a38a6aa5c5d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

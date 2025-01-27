@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_(ja)_keepmeloggedin</name>
+   <name>input_Attachment_repo_upload_file</name>
    <tag></tag>
-   <elementGuidId>382ad494-b60b-4411-82d2-f8c9805a487f</elementGuidId>
+   <elementGuidId>409d043f-8f8e-47d6-abad-eeff3e52f356</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#keepmeloggedin</value>
+         <value>#yui_3_17_2_1_1737980307560_816</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='keepmeloggedin']</value>
+         <value>//input[@id='yui_3_17_2_1_1737980307560_816']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Keep me logged in&quot;i</value>
+         <value>internal:label=&quot;Attachment&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,78 +29,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4504719d-594b-4d7b-8d42-7a368eda28ce</webElementGuid>
+      <webElementGuid>f2659113-cbb1-46fd-aee2-2c2d7ace8517</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>f854606b-6726-4f41-8d50-e6ca2354e319</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>keepmeloggedin</value>
-      <webElementGuid>dcc4cc1d-2966-4d7d-aa57-6d07b3afbcb4</webElementGuid>
+      <value>file</value>
+      <webElementGuid>c9f9b821-b8ca-4df7-a5d7-2957b400626e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>keepmeloggedin</value>
-      <webElementGuid>3017c43f-91d8-442a-a451-5a9c8e5228d2</webElementGuid>
+      <value>yui_3_17_2_1_1737980307560_816</value>
+      <webElementGuid>62508452-34d9-4fa4-8ecb-65b015dc755e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>name</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>e0a710fa-0832-4aae-bfdd-6ecf54557afc</webElementGuid>
+      <value>repo_upload_file</value>
+      <webElementGuid>c5ee65fa-064b-4e83-ba1b-3dc1af1d041d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;keepmeloggedin&quot;)</value>
-      <webElementGuid>9868213e-4b28-48e5-801f-cddde0880ef8</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1737980307560_816&quot;)</value>
+      <webElementGuid>30b75f86-bd87-4fca-b70c-6d07ec45ee8a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='keepmeloggedin']</value>
-      <webElementGuid>3356de49-a99c-4aef-b2b8-85efc68580de</webElementGuid>
+      <value>//input[@id='yui_3_17_2_1_1737980307560_816']</value>
+      <webElementGuid>b67aec8f-a327-43cc-b39f-e51192537d94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[4]/input</value>
-      <webElementGuid>5af8fc74-b0ca-42f1-9814-2324c26fa4c0</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1737980307560_852']/input</value>
+      <webElementGuid>bcf83f8f-4d29-4d7e-b93d-d53a70a1211a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/input</value>
-      <webElementGuid>79d7b994-e74b-4808-ad01-aa5e559b81df</webElementGuid>
+      <value>//form/div/div/div/input</value>
+      <webElementGuid>104debe7-f4fd-4d49-8ecf-47e3f7a3b75e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @name = 'keepmeloggedin' and @id = 'keepmeloggedin']</value>
-      <webElementGuid>76159851-c05e-4f60-aa46-d0c787409b36</webElementGuid>
+      <value>//input[@type = 'file' and @id = 'yui_3_17_2_1_1737980307560_816' and @name = 'repo_upload_file']</value>
+      <webElementGuid>b7ede220-2543-47d2-8702-d3f4e3119c2f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

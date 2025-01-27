@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Email Address_closebutton</name>
+   <tag></tag>
+   <elementGuidId>8467d522-c0dd-4503-af61-d1c19ae03590</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.closebutton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yui_3_17_2_1_1737964225330_48']/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div[2]/div/span/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;Email Address&quot;i >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0b76fdf4-80da-43d0-8059-3a105c212fd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>closebutton</value>
+      <webElementGuid>5f715f54-0857-4f9c-83bc-2de97c1b3133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1737964225330_48&quot;)/div[1]/div[@class=&quot;row content px-0&quot;]/div[@class=&quot;col-sm-12 col-md-12 col-lg-12 col-xl-12 mar-no pad-no pad table-filters&quot;]/div[@class=&quot;bg-grey-dark&quot;]/div[@class=&quot;pad-btm pad-hor card&quot;]/div[@class=&quot;content-form&quot;]/div[@class=&quot;row pb-3&quot;]/div[@class=&quot;total-records footer-total-records d-flex col-sm-8 pl-0&quot;]/div[@class=&quot;filters-list&quot;]/div[@class=&quot;btn btn-primary btn-sm reset&quot;]/span[1]/span[@class=&quot;remove-filter&quot;]/span[@class=&quot;closebutton&quot;]</value>
+      <webElementGuid>f6a00f22-fb9f-4589-b917-a327d5c440fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1737964225330_48']/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div[2]/div/span/span/span</value>
+      <webElementGuid>d7efb67a-eeeb-4563-b0ec-9602b2668207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/span/span/span</value>
+      <webElementGuid>d7b4143a-6dd4-4f38-a496-e061a5236eca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

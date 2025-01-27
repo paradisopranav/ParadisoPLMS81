@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Disabled_wid wid-dots hideicon</name>
+   <tag></tag>
+   <elementGuidId>9ef4ec8a-cd31-4ac3-9603-2bdb6b2daa11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='mortalEngines']/tbody/tr/td[7]/span[2]/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.wid.wid-dots.hideicon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;Edit DeleteDelete EnableEnable&quot;i >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>747b9c7b-9fb2-4a2e-9914-b3a807a3ff4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wid wid-dots hideicon</value>
+      <webElementGuid>6c204e91-8f9b-45a2-b61a-54d410d66c6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6a639cb5-cdbd-4ef7-bcaf-a8960a7d0929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mortalEngines&quot;)/tbody[1]/tr[@class=&quot;lastrow&quot;]/td[@class=&quot;cell c6 lastcol&quot;]/span[2]/div[@class=&quot;dropdown options-table&quot;]/a[1]/i[@class=&quot;wid wid-dots hideicon&quot;]</value>
+      <webElementGuid>13a7aa46-f130-47e9-be0a-54f7e95be871</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='mortalEngines']/tbody/tr/td[7]/span[2]/div/a/i</value>
+      <webElementGuid>cacedc50-1e56-45f8-9eff-38a197b8ee86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div/a/i</value>
+      <webElementGuid>b64e8498-f433-4455-af6b-390b2aaa66bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_New User_wid wid-dots</name>
+   <tag></tag>
+   <elementGuidId>5cc63044-9f31-420b-9978-598a2dc0458f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.wid.wid-dots</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yui_3_17_2_1_1737968277697_411']/div/div/div[3]/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button >> nth=4</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ddbf790e-cd5e-4095-850d-5b0d374b591c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wid wid-dots</value>
+      <webElementGuid>8cd6ccf0-a7c5-4d14-aea5-f54bff7bab1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>100f675b-71ef-4532-9bc9-89c804f806a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1737968277697_411&quot;)/div[@class=&quot;search-filter-buttons col-sm-12 col-md-12 col-lg-12&quot;]/div[@class=&quot;row mar-btm header-search&quot;]/div[@class=&quot;col-lg-6 col-md-12 bulk-actions&quot;]/div[@class=&quot;content-actions&quot;]/button[@class=&quot;btn btn_css dropdown dropdown-toggle dropdwn_people&quot;]/i[@class=&quot;wid wid-dots&quot;]</value>
+      <webElementGuid>f5291ecd-c87b-4ca4-bda2-cb5e05781e4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1737968277697_411']/div/div/div[3]/div/button/i</value>
+      <webElementGuid>c4305a7a-f355-4458-bdaf-8968be17d4b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/i</value>
+      <webElementGuid>ea3f22bc-8ac8-4d63-9938-4523db0fbda9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1737964274431_407']/div/div/div[3]/div/button/i</value>
+      <webElementGuid>563a8b04-e779-49b5-ab94-44eaa686cf62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

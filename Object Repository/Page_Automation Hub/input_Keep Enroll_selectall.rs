@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Username_username</name>
+   <name>input_Keep Enroll_selectall</name>
    <tag></tag>
-   <elementGuidId>b5ea3573-59e6-4c85-a656-e5621c18c4cc</elementGuidId>
+   <elementGuidId>6778d7be-5b95-47e1-801e-7a7eceb28271</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#username</value>
+         <key>XPATH</key>
+         <value>//input[@id='selectall627']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <key>CSS</key>
+         <value>#selectall627</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Username&quot;i]</value>
+         <value>#selectall627</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,102 +29,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1e3a5d97-a109-4dde-a06e-19173543d3f7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>aa9dc2d2-ad24-4cea-94a8-44d8d44305d9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>username</value>
-      <webElementGuid>f313c418-bb6a-44e8-9b1b-a9a00dc3d67c</webElementGuid>
+      <webElementGuid>56bc289f-1480-4ff4-9cda-d37c5b607ca6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>6a67e02a-c58c-4f7a-b0e2-a09bcba0d42b</webElementGuid>
+      <value>selectall627</value>
+      <webElementGuid>884371a8-6376-4a0a-b683-8bb95a9ea31f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ruleid</name>
+      <type>Main</type>
+      <value>627</value>
+      <webElementGuid>08979564-8372-4b33-9829-3b6ae62c2a77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value> form-control </value>
-      <webElementGuid>67028f04-b682-4f83-afd3-9ebe8808fef7</webElementGuid>
+      <value>selectall</value>
+      <webElementGuid>0ecceb60-89e4-4b14-9ad8-3566110bd70c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>type</name>
       <type>Main</type>
-      <value>Username</value>
-      <webElementGuid>c184d405-0d45-4b83-92c9-6a646e7f85a4</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>2dd020d6-e3c0-4adb-af1a-303b2762e741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>5f17eeff-0842-4a61-a3a5-8f1b3dd2bf51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>selectall</value>
+      <webElementGuid>a1e1c9e5-b35a-45ac-85da-f3d20c1d26b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>3a8cc14f-ea7c-42b3-9fe9-294a0c7b3b67</webElementGuid>
+      <value>id(&quot;selectall627&quot;)</value>
+      <webElementGuid>11e4f388-cedd-4267-aafc-ae261f7f4109</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='username']</value>
-      <webElementGuid>4367d884-b0bd-4b09-b433-28275ba32249</webElementGuid>
+      <value>//input[@id='selectall627']</value>
+      <webElementGuid>cce87c6f-f814-475b-a1da-dc79cb2c389e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1737980557965_18']/input</value>
-      <webElementGuid>371518e2-d19a-4e3d-991a-d16f4aacaf1a</webElementGuid>
+      <value>//table[@id='mortalEngines']/tbody/tr/td/input</value>
+      <webElementGuid>15bbfeab-8089-4556-8862-33e4fb824d18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/input</value>
-      <webElementGuid>bc7c0997-90d9-4121-bc7e-96d8e6cffe91</webElementGuid>
+      <value>//td/input</value>
+      <webElementGuid>424f91ea-2771-4d57-95de-97402737c040</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'username' and @id = 'username' and @placeholder = 'Username']</value>
-      <webElementGuid>31bb9b1a-e039-4c0f-8194-b3b3cf2164d9</webElementGuid>
+      <value>//input[@id = 'selectall627' and @type = 'checkbox' and @name = 'selectall']</value>
+      <webElementGuid>7f576e76-47fa-43f3-afcd-5532a9000f1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1737963860261_18']/input</value>
-      <webElementGuid>5e5297b3-4310-4f94-b936-37b357a207c5</webElementGuid>
+      <value>//input[@id='selectall607']</value>
+      <webElementGuid>bb028688-dec4-4f3b-aa2a-c5ef576c59c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1737960148018_12']/input</value>
-      <webElementGuid>3e9d575c-0c89-4ed9-a6ab-d27b83b2592f</webElementGuid>
+      <value>//input[@id = 'selectall607' and @type = 'checkbox' and @name = 'selectall']</value>
+      <webElementGuid>3c67e105-a7f0-4072-a7d7-84983252de49</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

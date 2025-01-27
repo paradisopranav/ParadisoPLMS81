@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Manage People_fa fa-close close_icon_search</name>
+   <tag></tag>
+   <elementGuidId>0294cf0a-4589-491d-9b53-6a4b05158e29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-close.close_icon_search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='searchbutton']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0496f0f4-72a0-48ad-8a61-1c7347e63866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-close close_icon_search</value>
+      <webElementGuid>1e7a4dae-a007-4a3d-8a3e-33f65867b74f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchbutton&quot;)/i[@class=&quot;fa fa-close close_icon_search&quot;]</value>
+      <webElementGuid>6ea8bbad-c9d7-4002-95b2-2e2b478a910f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='searchbutton']/i</value>
+      <webElementGuid>225319f6-bdd2-486e-88ad-fd17f645addc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button/i</value>
+      <webElementGuid>71320f97-5c53-4186-a7df-3c4f9814f446</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

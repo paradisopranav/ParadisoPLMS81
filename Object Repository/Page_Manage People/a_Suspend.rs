@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Suspend</name>
+   <tag></tag>
+   <elementGuidId>afb3edf2-0b16-4fae-853a-a5f0fc329c57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button_disable.btn-bulk-suspend_unsuspend.btn_css.btn-primary.bulk-action.btn.btn-round.btn-labeled.loadiframe.active-bulk</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yui_3_17_2_1_1737964008722_411']/div/div/div[3]/div/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Suspend&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f95d9225-c3b8-4b38-92c0-2418c2618e49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>suspend</value>
+      <webElementGuid>6ee13690-382b-41d7-ba31-302f27e8030c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-showmodal</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>14202e50-2c2f-4b93-a39d-a90ac3ef1c42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button_disable btn-bulk-suspend_unsuspend btn_css btn-primary bulk-action btn btn-round btn-labeled loadiframe active-bulk</value>
+      <webElementGuid>42272756-1b3a-4369-8526-f1941c177e02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>52ec9915-e1e8-4323-9f16-a50aa2097113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+      
+        Suspend 
+      </value>
+      <webElementGuid>beb9bc8b-1c67-4fbe-9e44-646e38e3a3ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1737964008722_411&quot;)/div[@class=&quot;search-filter-buttons col-sm-12 col-md-12 col-lg-12&quot;]/div[@class=&quot;row mar-btm header-search&quot;]/div[@class=&quot;col-lg-6 col-md-12 bulk-actions&quot;]/div[@class=&quot;content-actions&quot;]/a[@class=&quot;button_disable btn-bulk-suspend_unsuspend btn_css btn-primary bulk-action btn btn-round btn-labeled loadiframe active-bulk&quot;]</value>
+      <webElementGuid>5910a98c-8f02-40c6-9d02-08f70f78538f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1737964008722_411']/div/div/div[3]/div/a[3]</value>
+      <webElementGuid>42f5409b-d290-4304-9e9c-6da40ec8ff68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entire LMS Peoples'])[2]/following::a[4]</value>
+      <webElementGuid>77bfea98-b59b-4c50-b788-5fb77f52b726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[2]/preceding::a[2]</value>
+      <webElementGuid>a8cdec21-48ec-4d54-a42d-4f9de22e58c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/preceding::a[3]</value>
+      <webElementGuid>3a714477-75bc-4edc-969d-0dd0085b713b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Suspend']/parent::*</value>
+      <webElementGuid>35cbacc1-ad92-4eeb-a48a-9b9605c16321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[20]</value>
+      <webElementGuid>ff02724d-09e2-46f4-abba-e5d2b3eb1dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a[3]</value>
+      <webElementGuid>91ef4ca3-e1c3-4ff8-838a-84c48e5281ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = ' 
+      
+        Suspend 
+      ' or . = ' 
+      
+        Suspend 
+      ')]</value>
+      <webElementGuid>74dc0322-9d81-413d-8534-75fa3582f25b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
