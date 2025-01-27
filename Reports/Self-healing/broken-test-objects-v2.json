@@ -319,6 +319,26 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/ManagePeopleUpload/Page_PLMS Administration Users Accounts Upload Users/button_Upload_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Administration Users Accounts Upload Users/input_File_userfilechoose",
+      "brokenLocator": "//input[@id\u003d\u0027filepicker-button-679779935085f\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//fieldset/div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_PLMS Administration Users Accounts Upload Users/input_File_userfilechoose_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Administration Users Accounts Upload Users/button_Upload",
+      "brokenLocator": "//button[@id\u003d\u0027yui_3_17_2_1_1737980307560_865\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Choose licence\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_PLMS Administration Users Accounts Upload Users/button_Upload_neighbor.png"
     }
   ]
 }
