@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PLMS81 Test Suite" time="242.699" tests="2" failures="0" errors="0">
+   <testsuite name="PLMS81 Test Suite" tests="2" failures="0" errors="0" time="242.699" skipped="0" timestamp="27-01-2025T13:04:15" hostname="hp - DESKTOP-20CTJHV.Optilink" id="Test Suites/PLMS81 Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\hp\\OneDrive - PARADISO\\Documents\\Paradiso Data\\ParadisoPLMS81\\Reports\\20250127_130404\\PLMS81 Test Suite\\20250127_130404"/>
+         <property name="logFiles" value="C:\\Users\\hp\\OneDrive - PARADISO\\Documents\\Paradiso Data\\ParadisoPLMS81\\Reports\\20250127_130404\\PLMS81 Test Suite\\20250127_130404\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hp - DESKTOP-20CTJHV.Optilink"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.0.1.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.10.8"/>
+         <property name="sessionId" value="036cb6a15c0c95d8c79151c89ac2e8f7"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/PLMS81_LoginPage Test" time="20.497" classname="Test Cases/PLMS81_LoginPage Test" status="PASSED">
+         <system-out><![CDATA[27-01-2025T13:04:16 - [TEST_CASE][PASSED] - Test Cases/PLMS81_LoginPage Test: Test Cases/PLMS81_LoginPage Test
+
+27-01-2025T13:04:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-01-2025T13:04:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-01-2025T13:04:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-01-2025T13:04:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-01-2025T13:04:24 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+27-01-2025T13:04:24 - [MESSAGE][PASSED] - Current window maximized
+
+27-01-2025T13:04:24 - [TEST_STEP][PASSED] - navigateToUrl("https://plms-php81.paradisolms.net/login/index.php"): Navigate to 'https://plms-php81.paradisolms.net/login/index.php' successfully
+
+27-01-2025T13:04:27 - [MESSAGE][PASSED] - Navigate to 'https://plms-php81.paradisolms.net/login/index.php' successfully
+
+27-01-2025T13:04:27 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password"), "9NLz+4tGZcQ="): Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+27-01-2025T13:04:28 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+27-01-2025T13:04:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username' is clicked on
+
+27-01-2025T13:04:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username' is clicked on
+
+27-01-2025T13:04:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b' is clicked on
+
+27-01-2025T13:04:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b' is clicked on
+
+27-01-2025T13:04:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'
+
+27-01-2025T13:04:30 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'
+
+27-01-2025T13:04:30 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password"), "ed/1/AZbo1YX04df+rN1oA=="): Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+27-01-2025T13:04:31 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+27-01-2025T13:04:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin' is clicked on
+
+27-01-2025T13:04:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin' is clicked on
+
+27-01-2025T13:04:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/button_Log in")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/button_Log in' is clicked on
+
+27-01-2025T13:04:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/button_Log in' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PLMS81_AutomationHub" time="221.192" classname="Test Cases/PLMS81_AutomationHub" status="PASSED">
+         <system-out><![CDATA[27-01-2025T13:04:36 - [TEST_CASE][PASSED] - Test Cases/PLMS81_AutomationHub: Test Cases/PLMS81_AutomationHub
+
+27-01-2025T13:04:38 - [TEST_STEP][PASSED] - navigateToUrl("https://plms-php81.paradisolms.net/local/enroll_by_profile/index.php/"): Navigate to 'https://plms-php81.paradisolms.net/local/enroll_by_profile/index.php/' successfully
+
+27-01-2025T13:04:39 - [MESSAGE][PASSED] - Navigate to 'https://plms-php81.paradisolms.net/local/enroll_by_profile/index.php/' successfully
+
+27-01-2025T13:04:39 - [TEST_STEP][PASSED] - randomName = randomAlphabetic(8).toLowerCase(): null
+
+27-01-2025T13:04:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/span_Add Rule")): Object: 'Object Repository/Page_Automation Hub/span_Add Rule' is clicked on
+
+27-01-2025T13:04:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/span_Add Rule' is clicked on
+
+27-01-2025T13:04:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Automation Hub/input_Name_id_name_field1"), randomName): Text 'tgetmgkm' is set on object 'Object Repository/Page_Automation Hub/input_Name_id_name_field1'
+
+27-01-2025T13:04:41 - [MESSAGE][PASSED] - Text 'tgetmgkm' is set on object 'Object Repository/Page_Automation Hub/input_Name_id_name_field1'
+
+27-01-2025T13:04:41 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Automation Hub/select_-- Select Option --CityTownCountryEm_55ab99"), "firstname", true): All options with value 'firstname' are selected in object 'Object Repository/Page_Automation Hub/select_-- Select Option --CityTownCountryEm_55ab99'  using regular expression
+
+27-01-2025T13:04:45 - [MESSAGE][PASSED] - All options with value 'firstname' are selected in object 'Object Repository/Page_Automation Hub/select_-- Select Option --CityTownCountryEm_55ab99'  using regular expression
+
+27-01-2025T13:04:45 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Automation Hub/select_-- Select Option --Containsmatches e_42dc74"), "exactmatch", true): All options with value 'exactmatch' are selected in object 'Object Repository/Page_Automation Hub/select_-- Select Option --Containsmatches e_42dc74'  using regular expression
+
+27-01-2025T13:04:47 - [MESSAGE][PASSED] - All options with value 'exactmatch' are selected in object 'Object Repository/Page_Automation Hub/select_-- Select Option --Containsmatches e_42dc74'  using regular expression
+
+27-01-2025T13:04:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Automation Hub/input_Value_textmatch1"), randomName): Text 'tgetmgkm' is set on object 'Object Repository/Page_Automation Hub/input_Value_textmatch1'
+
+27-01-2025T13:04:48 - [MESSAGE][PASSED] - Text 'tgetmgkm' is set on object 'Object Repository/Page_Automation Hub/input_Value_textmatch1'
+
+27-01-2025T13:04:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/input_Value_textmatch1")): Object: 'Object Repository/Page_Automation Hub/input_Value_textmatch1' is clicked on
+
+27-01-2025T13:04:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/input_Value_textmatch1' is clicked on
+
+27-01-2025T13:04:48 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Automation Hub/select_-- Select Option --CourseTenantLearn_c75734"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Automation Hub/select_-- Select Option --CourseTenantLearn_c75734'  using regular expression
+
+27-01-2025T13:04:50 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Automation Hub/select_-- Select Option --CourseTenantLearn_c75734'  using regular expression
+
+27-01-2025T13:04:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/input_bottelneck- 2025_elements")): Object: 'Object Repository/Page_Automation Hub/input_bottelneck- 2025_elements' is clicked on
+
+27-01-2025T13:04:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/input_bottelneck- 2025_elements' is clicked on
+
+27-01-2025T13:04:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/button_Save")): Object: 'Object Repository/Page_Automation Hub/button_Save' is clicked on
+
+27-01-2025T13:04:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/button_Save' is clicked on
+
+27-01-2025T13:04:51 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Automation Hub/input_Automation Hub_search"), randomName): Text 'tgetmgkm' is set on object 'Object Repository/Page_Automation Hub/input_Automation Hub_search'
+
+27-01-2025T13:04:53 - [MESSAGE][PASSED] - Text 'tgetmgkm' is set on object 'Object Repository/Page_Automation Hub/input_Automation Hub_search'
+
+27-01-2025T13:04:53 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Automation Hub/input_Automation Hub_search"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Automation Hub/input_Automation Hub_search'
+
+27-01-2025T13:04:55 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Automation Hub/input_Automation Hub_search'
+
+27-01-2025T13:04:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/input_Keep Enroll_selectall")): Object: 'Object Repository/Page_Automation Hub/input_Keep Enroll_selectall' is clicked on
+
+27-01-2025T13:05:26 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='selectall627']'. Please recheck the objects properties to make sure the desired element is located. 
+
+27-01-2025T13:05:26 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Automation Hub/input_Keep Enroll_selectall'. Try using Self-healing.
+
+27-01-2025T13:05:26 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//input[@id='selectall627']'.
+
+27-01-2025T13:05:27 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '//table[@id='mortalEngines']/tbody/tr/td/input'.
+
+27-01-2025T13:05:28 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/hp/OneDrive - PARADISO/Documents/Paradiso Data/ParadisoPLMS81/Reports/Self-healing/Object Repository/Page_Automation Hub/input_Keep Enroll_selectall_idRelative.png
+
+27-01-2025T13:05:28 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Automation Hub/input_Keep Enroll_selectall' was broken. Propose an alternative one: '//table[@id='mortalEngines']/tbody/tr/td/input'.
+
+27-01-2025T13:05:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/input_Keep Enroll_selectall' is clicked on
+
+27-01-2025T13:05:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/span_Disable")): Object: 'Object Repository/Page_Automation Hub/span_Disable' is clicked on
+
+27-01-2025T13:06:00 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='yui_3_17_2_1_1737540995016_23']/div[3]/span[2]/div/a[4]/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+27-01-2025T13:06:00 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Automation Hub/span_Disable'. Try using Self-healing.
+
+27-01-2025T13:06:00 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[@id='yui_3_17_2_1_1737540995016_23']/div[3]/span[2]/div/a[4]/span'.
+
+27-01-2025T13:06:01 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::span[1]'.
+
+27-01-2025T13:06:01 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/hp/OneDrive - PARADISO/Documents/Paradiso Data/ParadisoPLMS81/Reports/Self-healing/Object Repository/Page_Automation Hub/span_Disable_neighbor.png
+
+27-01-2025T13:06:01 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Automation Hub/span_Disable' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::span[1]'.
+
+27-01-2025T13:06:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/span_Disable' is clicked on
+
+27-01-2025T13:06:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/button_OK")): Object: 'Object Repository/Page_Automation Hub/button_OK' is clicked on
+
+27-01-2025T13:06:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/button_OK' is clicked on
+
+27-01-2025T13:06:02 - [TEST_STEP][PASSED] - delay(15): Delayed 15 second(s)
+
+27-01-2025T13:06:17 - [MESSAGE][PASSED] - Delayed 15 second(s)
+
+27-01-2025T13:06:17 - [TEST_STEP][PASSED] - waitForPageLoad(5): Wait for page load successfully
+
+27-01-2025T13:06:17 - [MESSAGE][PASSED] - Wait for page load successfully
+
+27-01-2025T13:06:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/i_Disabled_wid wid-dots hideicon")): Object: 'Object Repository/Page_Automation Hub/i_Disabled_wid wid-dots hideicon' is clicked on
+
+27-01-2025T13:06:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/i_Disabled_wid wid-dots hideicon' is clicked on
+
+27-01-2025T13:06:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/a_EnableEnable")): Object: 'Object Repository/Page_Automation Hub/a_EnableEnable' is clicked on
+
+27-01-2025T13:06:49 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='enable_rule-627']'. Please recheck the objects properties to make sure the desired element is located. 
+
+27-01-2025T13:06:49 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Automation Hub/a_EnableEnable'. Try using Self-healing.
+
+27-01-2025T13:06:50 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//a[@id='enable_rule-627']'.
+
+27-01-2025T13:06:50 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[@id='yui_3_17_2_1_1737541016373_20']/div/a[3]'.
+
+27-01-2025T13:06:50 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[3]/following::a[1]'.
+
+27-01-2025T13:06:51 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/hp/OneDrive - PARADISO/Documents/Paradiso Data/ParadisoPLMS81/Reports/Self-healing/Object Repository/Page_Automation Hub/a_EnableEnable_neighbor.png
+
+27-01-2025T13:06:51 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Automation Hub/a_EnableEnable' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[3]/following::a[1]'.
+
+27-01-2025T13:06:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/a_EnableEnable' is clicked on
+
+27-01-2025T13:06:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/button_OK")): Object: 'Object Repository/Page_Automation Hub/button_OK' is clicked on
+
+27-01-2025T13:06:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/button_OK' is clicked on
+
+27-01-2025T13:06:52 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+27-01-2025T13:07:02 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+27-01-2025T13:07:02 - [TEST_STEP][PASSED] - waitForPageLoad(5): Wait for page load successfully
+
+27-01-2025T13:07:02 - [MESSAGE][PASSED] - Wait for page load successfully
+
+27-01-2025T13:07:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/input_Keep Enroll_selectall")): Object: 'Object Repository/Page_Automation Hub/input_Keep Enroll_selectall' is clicked on
+
+27-01-2025T13:07:33 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='selectall627']'. Please recheck the objects properties to make sure the desired element is located. 
+
+27-01-2025T13:07:33 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Automation Hub/input_Keep Enroll_selectall'. Try using Self-healing.
+
+27-01-2025T13:07:34 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Automation Hub/input_Keep Enroll_selectall' was broken. Propose an alternative one: '//table[@id='mortalEngines']/tbody/tr/td/input'.
+
+27-01-2025T13:07:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/input_Keep Enroll_selectall' is clicked on
+
+27-01-2025T13:07:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/span_Delete")): Object: 'Object Repository/Page_Automation Hub/span_Delete' is clicked on
+
+27-01-2025T13:08:05 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='yui_3_17_2_1_1737541016373_27']/div[3]/span[2]/div/a[3]/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+27-01-2025T13:08:05 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Automation Hub/span_Delete'. Try using Self-healing.
+
+27-01-2025T13:08:05 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[@id='yui_3_17_2_1_1737541016373_27']/div[3]/span[2]/div/a[3]/span'.
+
+27-01-2025T13:08:05 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Task logs'])[1]/following::span[1]'.
+
+27-01-2025T13:08:06 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/hp/OneDrive - PARADISO/Documents/Paradiso Data/ParadisoPLMS81/Reports/Self-healing/Object Repository/Page_Automation Hub/span_Delete_neighbor.png
+
+27-01-2025T13:08:06 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Automation Hub/span_Delete' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Task logs'])[1]/following::span[1]'.
+
+27-01-2025T13:08:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/span_Delete' is clicked on
+
+27-01-2025T13:08:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/button_OK")): Object: 'Object Repository/Page_Automation Hub/button_OK' is clicked on
+
+27-01-2025T13:08:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/button_OK' is clicked on
+
+27-01-2025T13:08:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/div_Automation Hub                         _90b4e9")): Object: 'Object Repository/Page_Automation Hub/div_Automation Hub                         _90b4e9' is clicked on
+
+27-01-2025T13:08:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/div_Automation Hub                         _90b4e9' is clicked on
+
+27-01-2025T13:08:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Automation Hub/input_Automation Hub_search"), ""): Text '' is set on object 'Object Repository/Page_Automation Hub/input_Automation Hub_search'
+
+27-01-2025T13:08:09 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Automation Hub/input_Automation Hub_search'
+
+27-01-2025T13:08:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/a_Task logs")): Object: 'Object Repository/Page_Automation Hub/a_Task logs' is clicked on
+
+27-01-2025T13:08:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/a_Task logs' is clicked on
+
+27-01-2025T13:08:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/a_File Uploaded Successfully_back_page mr-2")): Object: 'Object Repository/Page_Automation Hub/a_File Uploaded Successfully_back_page mr-2' is clicked on
+
+27-01-2025T13:08:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/a_File Uploaded Successfully_back_page mr-2' is clicked on
+
+27-01-2025T13:08:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-01-2025T13:08:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[27-01-2025T13:04:15 - [TEST_SUITE][PASSED] - PLMS81 Test Suite: Test Cases/PLMS81_AutomationHub]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

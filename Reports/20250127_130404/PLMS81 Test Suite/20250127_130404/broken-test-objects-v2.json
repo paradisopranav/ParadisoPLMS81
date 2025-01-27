@@ -1,0 +1,44 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Automation Hub/input_Keep Enroll_selectall",
+      "brokenLocator": "//input[@id\u003d\u0027selectall627\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//table[@id\u003d\u0027mortalEngines\u0027]/tbody/tr/td/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250127_130404/PLMS81 Test Suite/20250127_130404/Object Repository/Page_Automation Hub/input_Keep Enroll_selectall_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Automation Hub/span_Disable",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1737540995016_23\u0027]/div[3]/span[2]/div/a[4]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Delete\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250127_130404/PLMS81 Test Suite/20250127_130404/Object Repository/Page_Automation Hub/span_Disable_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Automation Hub/a_EnableEnable",
+      "brokenLocator": "//a[@id\u003d\u0027enable_rule-627\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Delete\u0027])[3]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250127_130404/PLMS81 Test Suite/20250127_130404/Object Repository/Page_Automation Hub/a_EnableEnable_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Automation Hub/span_Delete",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1737541016373_27\u0027]/div[3]/span[2]/div/a[3]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Task logs\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250127_130404/PLMS81 Test Suite/20250127_130404/Object Repository/Page_Automation Hub/span_Delete_neighbor.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PLMS81 Test Suite,Chrome 131.0.0.0,,,27-01-2025 12:57:59,27-01-2025 12:58:34,34.985s,FAILED
+,,,,,,,
+Test Cases/PLMS81_LoginPage Test,Chrome 131.0.0.0,,,27-01-2025 12:57:59,27-01-2025 12:58:24,24.554s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,27-01-2025 12:58:00,27-01-2025 12:58:11,10.398s,PASSED
+maximizeWindow(),Chrome 131.0.0.0,,,27-01-2025 12:58:11,27-01-2025 12:58:11,0.366s,PASSED
+"navigateToUrl(""https://plms-php81.paradisolms.net/login/index.php"")",Chrome 131.0.0.0,,,27-01-2025 12:58:11,27-01-2025 12:58:15,3.503s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password""), ""9NLz+4tGZcQ="")",Chrome 131.0.0.0,,,27-01-2025 12:58:15,27-01-2025 12:58:16,1.101s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username""))",Chrome 131.0.0.0,,,27-01-2025 12:58:16,27-01-2025 12:58:16,0.609s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b""))",Chrome 131.0.0.0,,,27-01-2025 12:58:16,27-01-2025 12:58:17,0.538s,PASSED
+"setText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username""), ""admin"")",Chrome 131.0.0.0,,,27-01-2025 12:58:17,27-01-2025 12:58:18,0.936s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password""), ""ed/1/AZbo1YX04df+rN1oA=="")",Chrome 131.0.0.0,,,27-01-2025 12:58:18,27-01-2025 12:58:19,0.746s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin""))",Chrome 131.0.0.0,,,27-01-2025 12:58:19,27-01-2025 12:58:19,0.514s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/button_Log in""))",Chrome 131.0.0.0,,,27-01-2025 12:58:19,27-01-2025 12:58:24,4.623s,PASSED
+,,,,,,,
+Test Cases/PLMS81_AutomationHub,Chrome 131.0.0.0,,,27-01-2025 12:58:32,27-01-2025 12:58:34,1.370s,FAILED
+"navigateToUrl(""https://plms-php81.paradisolms.net/local/enroll_by_profile/index.php/"")",Chrome 131.0.0.0,,,27-01-2025 12:58:32,27-01-2025 12:58:33,0.616s,PASSED
+randomName = randomAlphabetic(8).toLowerCase(),Chrome 131.0.0.0,,,27-01-2025 12:58:33,27-01-2025 12:58:33,0.001s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/span_Add Rule""))",Chrome 131.0.0.0,,,27-01-2025 12:58:33,27-01-2025 12:58:34,0.616s,FAILED
