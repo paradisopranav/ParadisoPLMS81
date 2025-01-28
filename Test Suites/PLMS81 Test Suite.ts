@@ -25,4 +25,24 @@
       <testCaseId>Test Cases/PLMS81_AutomationHub</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>c732fbc0-d92c-4131-bdbd-906bf1e7e196</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PLMS81_ManagePeople</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4a8d380a-29df-400b-855a-535559048ac0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PLMS81_UploadUsers</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>debd4122-360e-48ee-82ad-4585d2d38832</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>
