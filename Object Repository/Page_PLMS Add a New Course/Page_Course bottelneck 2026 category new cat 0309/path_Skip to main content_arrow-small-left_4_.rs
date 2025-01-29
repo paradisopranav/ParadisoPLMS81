@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Skip to main content_arrow-small-left_4_</name>
+   <tag></tag>
+   <elementGuidId>60952605-fe71-4d65-b0d2-27e2904f72b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#arrow-small-left_4_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'arrow-small-left_4_']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Back to Course Catalog&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>c24b40c1-866e-4f65-905c-1fef4065a28f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>arrow-small-left_4_</value>
+      <webElementGuid>18cc34d2-8c80-4b4f-a93a-135e11089231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>arrow-small-left (4)</value>
+      <webElementGuid>ff7d0988-0fb2-47df-8bca-401278ed8372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M19,11H9l3.29-3.29a1,1,0,0,0-1.41-1.42l-4.29,4.3A2,2,0,0,0,6,12H6a2,2,0,0,0,.59,1.4l4.29,4.3a1,1,0,1,0,1.41-1.42L9,13H19a1,1,0,0,0,0-2Z</value>
+      <webElementGuid>5fbc8275-949a-41c0-bcc1-7599aa873ece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(-6 -5.999)</value>
+      <webElementGuid>4f130ce2-103c-4201-8e90-3acecfad43f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#334155</value>
+      <webElementGuid>1def4e01-4c9d-4a38-ac69-9d8fc9fb646b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;arrow-small-left_4_&quot;)</value>
+      <webElementGuid>dd835a2e-0862-450e-9bdd-2b1eaff9c5fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'arrow-small-left_4_']</value>
+      <webElementGuid>7740b12f-2ccd-412b-8ec6-66601c6d68d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
