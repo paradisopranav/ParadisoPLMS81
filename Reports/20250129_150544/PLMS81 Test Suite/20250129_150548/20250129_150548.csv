@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PLMS81 Test Suite,,,,29-01-2025 15:06:27,29-01-2025 15:07:21,54.230s,FAILED
+,,,,,,,
+Test Cases/PLMS81_LoginPage Test,,,,29-01-2025 15:07:09,29-01-2025 15:07:19,10.551s,FAILED
+"openBrowser("""")",,,,29-01-2025 15:07:09,29-01-2025 15:07:19,10.501s,FAILED
+,,,,,,,
+Test Cases/PLMS81_AutomationHub,,,,29-01-2025 15:07:21,29-01-2025 15:07:21,0.124s,FAILED
+"navigateToUrl(""https://plms-php81.paradisolms.net/local/enroll_by_profile/index.php/"")",,,,29-01-2025 15:07:21,29-01-2025 15:07:21,0.029s,FAILED

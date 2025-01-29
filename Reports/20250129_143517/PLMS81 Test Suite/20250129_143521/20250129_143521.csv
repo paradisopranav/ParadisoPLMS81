@@ -1,0 +1,47 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PLMS81 Test Suite,Chrome 132.0.0.0,,,29-01-2025 14:35:48,29-01-2025 14:41:20,5m - 32.193s,PASSED
+,,,,,,,
+Test Cases/PLMS81_LoginPage Test,Chrome 132.0.0.0,,,29-01-2025 14:35:50,29-01-2025 14:37:02,1m - 12.445s,PASSED
+"openBrowser("""")",Chrome 132.0.0.0,,,29-01-2025 14:35:52,29-01-2025 14:36:15,23.221s,PASSED
+maximizeWindow(),Chrome 132.0.0.0,,,29-01-2025 14:36:15,29-01-2025 14:36:16,0.915s,PASSED
+"navigateToUrl(""https://plms-php81.paradisolms.net/login/index.php"")",Chrome 132.0.0.0,,,29-01-2025 14:36:16,29-01-2025 14:36:31,15.468s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password""), ""9NLz+4tGZcQ="")",Chrome 132.0.0.0,,,29-01-2025 14:36:31,29-01-2025 14:36:39,7.210s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username""))",Chrome 132.0.0.0,,,29-01-2025 14:36:39,29-01-2025 14:36:40,1.577s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b""))",Chrome 132.0.0.0,,,29-01-2025 14:36:40,29-01-2025 14:36:41,0.920s,PASSED
+"setText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username""), ""admin"")",Chrome 132.0.0.0,,,29-01-2025 14:36:41,29-01-2025 14:36:43,1.547s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password""), ""ed/1/AZbo1YX04df+rN1oA=="")",Chrome 132.0.0.0,,,29-01-2025 14:36:43,29-01-2025 14:36:44,1.072s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin""))",Chrome 132.0.0.0,,,29-01-2025 14:36:44,29-01-2025 14:36:45,1.339s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/button_Log in""))",Chrome 132.0.0.0,,,29-01-2025 14:36:45,29-01-2025 14:37:02,17.129s,PASSED
+,,,,,,,
+Test Cases/PLMS81_AutomationHub,Chrome 132.0.0.0,,,29-01-2025 14:37:03,29-01-2025 14:41:20,4m - 17.618s,PASSED
+"navigateToUrl(""https://plms-php81.paradisolms.net/local/enroll_by_profile/index.php/"")",Chrome 132.0.0.0,,,29-01-2025 14:37:09,29-01-2025 14:37:16,6.385s,PASSED
+randomName = randomAlphabetic(8).toLowerCase(),Chrome 132.0.0.0,,,29-01-2025 14:37:16,29-01-2025 14:37:16,0.053s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/span_Add Rule""))",Chrome 132.0.0.0,,,29-01-2025 14:37:16,29-01-2025 14:37:17,1.098s,PASSED
+"setText(findTestObject(""Object Repository/Page_Automation Hub/input_Name_id_name_field1""), randomName)",Chrome 132.0.0.0,,,29-01-2025 14:37:17,29-01-2025 14:37:19,1.567s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Automation Hub/select_-- Select Option --CityTownCountryEm_55ab99""), ""firstname"", true)",Chrome 132.0.0.0,,,29-01-2025 14:37:19,29-01-2025 14:37:25,6.725s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Automation Hub/select_-- Select Option --Containsmatches e_42dc74""), ""exactmatch"", true)",Chrome 132.0.0.0,,,29-01-2025 14:37:25,29-01-2025 14:37:27,1.852s,PASSED
+"setText(findTestObject(""Object Repository/Page_Automation Hub/input_Value_textmatch1""), randomName)",Chrome 132.0.0.0,,,29-01-2025 14:37:27,29-01-2025 14:37:38,10.607s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/input_Value_textmatch1""))",Chrome 132.0.0.0,,,29-01-2025 14:37:38,29-01-2025 14:37:39,1.081s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Automation Hub/select_-- Select Option --CourseTenantLearn_c75734""), ""1"", true)",Chrome 132.0.0.0,,,29-01-2025 14:37:39,29-01-2025 14:37:44,4.718s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/input_bottelneck- 2025_elements""))",Chrome 132.0.0.0,,,29-01-2025 14:37:44,29-01-2025 14:37:45,1.176s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/button_Save""))",Chrome 132.0.0.0,,,29-01-2025 14:37:45,29-01-2025 14:37:47,2.677s,PASSED
+"setText(findTestObject(""Object Repository/Page_Automation Hub/input_Automation Hub_search""), randomName)",Chrome 132.0.0.0,,,29-01-2025 14:37:47,29-01-2025 14:37:49,1.937s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Automation Hub/input_Automation Hub_search""), Keys.chord(ENTER))",Chrome 132.0.0.0,,,29-01-2025 14:37:49,29-01-2025 14:37:53,3.335s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/input_Keep Enroll_selectall""))",Chrome 132.0.0.0,,,29-01-2025 14:37:53,29-01-2025 14:38:26,32.822s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/span_Disable""))",Chrome 132.0.0.0,,,29-01-2025 14:38:26,29-01-2025 14:39:03,37.148s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/button_OK""))",Chrome 132.0.0.0,,,29-01-2025 14:39:03,29-01-2025 14:39:04,1.203s,PASSED
+delay(15),Chrome 132.0.0.0,,,29-01-2025 14:39:04,29-01-2025 14:39:19,15.248s,PASSED
+waitForPageLoad(5),Chrome 132.0.0.0,,,29-01-2025 14:39:19,29-01-2025 14:39:20,0.788s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/i_Disabled_wid wid-dots hideicon""))",Chrome 132.0.0.0,,,29-01-2025 14:39:20,29-01-2025 14:39:23,2.998s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/a_EnableEnable""))",Chrome 132.0.0.0,,,29-01-2025 14:39:23,29-01-2025 14:39:57,33.743s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/button_OK""))",Chrome 132.0.0.0,,,29-01-2025 14:39:57,29-01-2025 14:39:58,0.927s,PASSED
+delay(10),Chrome 132.0.0.0,,,29-01-2025 14:39:58,29-01-2025 14:40:08,10.065s,PASSED
+waitForPageLoad(5),Chrome 132.0.0.0,,,29-01-2025 14:40:08,29-01-2025 14:40:08,0.203s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/input_Keep Enroll_selectall""))",Chrome 132.0.0.0,,,29-01-2025 14:40:08,29-01-2025 14:40:39,31.584s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/span_Delete""))",Chrome 132.0.0.0,,,29-01-2025 14:40:39,29-01-2025 14:41:11,31.869s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/button_OK""))",Chrome 132.0.0.0,,,29-01-2025 14:41:11,29-01-2025 14:41:12,0.732s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/div_Automation Hub                         _90b4e9""))",Chrome 132.0.0.0,,,29-01-2025 14:41:12,29-01-2025 14:41:13,0.953s,PASSED
+"setText(findTestObject(""Object Repository/Page_Automation Hub/input_Automation Hub_search""), """")",Chrome 132.0.0.0,,,29-01-2025 14:41:13,29-01-2025 14:41:14,0.839s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/a_Task logs""))",Chrome 132.0.0.0,,,29-01-2025 14:41:14,29-01-2025 14:41:16,2.394s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Hub/a_File Uploaded Successfully_back_page mr-2""))",Chrome 132.0.0.0,,,29-01-2025 14:41:16,29-01-2025 14:41:19,2.445s,PASSED
+closeBrowser(),Chrome 132.0.0.0,,,29-01-2025 14:41:19,29-01-2025 14:41:20,1.397s,PASSED

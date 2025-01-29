@@ -1,0 +1,87 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PLMS81 Test Suite,Edge Chromium 132,,,29-01-2025 15:55:42,29-01-2025 16:09:32,13m - 49.663s,PASSED
+,,,,,,,
+Test Cases/PLMS81_LoginPage Test,Edge Chromium 132,,,29-01-2025 15:55:43,29-01-2025 15:56:42,58.979s,PASSED
+"openBrowser("""")",Edge Chromium 132,,,29-01-2025 15:55:45,29-01-2025 15:56:10,24.523s,PASSED
+maximizeWindow(),Edge Chromium 132,,,29-01-2025 15:56:10,29-01-2025 15:56:10,0.208s,PASSED
+"navigateToUrl(""https://plms-php81.paradisolms.net/login/index.php"")",Edge Chromium 132,,,29-01-2025 15:56:10,29-01-2025 15:56:20,9.747s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password""), ""9NLz+4tGZcQ="")",Edge Chromium 132,,,29-01-2025 15:56:20,29-01-2025 15:56:23,2.638s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username""))",Edge Chromium 132,,,29-01-2025 15:56:23,29-01-2025 15:56:24,1.331s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b""))",Edge Chromium 132,,,29-01-2025 15:56:24,29-01-2025 15:56:25,1.020s,PASSED
+"setText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username""), ""admin"")",Edge Chromium 132,,,29-01-2025 15:56:25,29-01-2025 15:56:27,2.171s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password""), ""ed/1/AZbo1YX04df+rN1oA=="")",Edge Chromium 132,,,29-01-2025 15:56:27,29-01-2025 15:56:29,1.487s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin""))",Edge Chromium 132,,,29-01-2025 15:56:29,29-01-2025 15:56:29,0.891s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/button_Log in""))",Edge Chromium 132,,,29-01-2025 15:56:29,29-01-2025 15:56:42,12.558s,PASSED
+,,,,,,,
+Test Cases/PLMS81_ManagePeople,Edge Chromium 132,,,29-01-2025 15:58:57,29-01-2025 16:09:32,10m - 34.208s,PASSED
+"openBrowser("""")",Edge Chromium 132,,,29-01-2025 15:58:58,29-01-2025 15:59:12,14.188s,PASSED
+"navigateToUrl(""https://plms-php81.paradisolms.net/login/index.php"")",Edge Chromium 132,,,29-01-2025 15:59:12,29-01-2025 15:59:22,9.536s,PASSED
+"setText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username""), ""admin"")",Edge Chromium 132,,,29-01-2025 15:59:22,29-01-2025 15:59:24,2.409s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username""))",Edge Chromium 132,,,29-01-2025 15:59:24,29-01-2025 15:59:25,0.647s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password""), ""ed/1/AZbo1YX04df+rN1oA=="")",Edge Chromium 132,,,29-01-2025 15:59:25,29-01-2025 15:59:25,0.810s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin""))",Edge Chromium 132,,,29-01-2025 15:59:25,29-01-2025 15:59:26,0.695s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/button_Log in""))",Edge Chromium 132,,,29-01-2025 15:59:26,29-01-2025 15:59:33,6.403s,PASSED
+randomFirstName = randomAlphabetic(8).toLowerCase(),Edge Chromium 132,,,29-01-2025 15:59:33,29-01-2025 15:59:33,0.001s,PASSED
+randomLastName = randomAlphabetic(8).toLowerCase(),Edge Chromium 132,,,29-01-2025 15:59:33,29-01-2025 15:59:33,0.015s,PASSED
+"randomEmail = randomAlphabetic(8).toLowerCase() + ""@example.com""",Edge Chromium 132,,,29-01-2025 15:59:33,29-01-2025 15:59:33,0.001s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS/span_Manage people""))",Edge Chromium 132,,,29-01-2025 15:59:33,29-01-2025 15:59:34,1.589s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS/a_People""))",Edge Chromium 132,,,29-01-2025 15:59:34,29-01-2025 15:59:39,4.408s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/a_New User""))",Edge Chromium 132,,,29-01-2025 15:59:39,29-01-2025 16:00:13,34.460s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input_Username_username""), randomEmail)",Edge Chromium 132,,,29-01-2025 16:00:13,29-01-2025 16:00:15,1.588s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_/input_Password_newpassword""), ""xkuS2zDhoxbqAxb5QPoxUg=="")",Edge Chromium 132,,,29-01-2025 16:00:15,29-01-2025 16:00:16,1.008s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input_First Name_firstname""), randomFirstName)",Edge Chromium 132,,,29-01-2025 16:00:16,29-01-2025 16:00:18,2.115s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input_Surname_lastname""), randomLastName)",Edge Chromium 132,,,29-01-2025 16:00:18,29-01-2025 16:00:23,5.281s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input_Email_email""), randomEmail)",Edge Chromium 132,,,29-01-2025 16:00:23,29-01-2025 16:00:28,4.475s,PASSED
+"click(findTestObject(""Object Repository/Page_/input_Email_submitbutton""))",Edge Chromium 132,,,29-01-2025 16:00:28,29-01-2025 16:00:33,5.274s,PASSED
+"setText(findTestObject(""Object Repository/Page_Manage People/input_Manage People_txt""), randomEmail)",Edge Chromium 132,,,29-01-2025 16:00:33,29-01-2025 16:00:34,1.650s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Manage People/input_Manage People_txt""), Keys.chord(ENTER))",Edge Chromium 132,,,29-01-2025 16:00:34,29-01-2025 16:00:37,2.988s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/input_Status_id""))",Edge Chromium 132,,,29-01-2025 16:00:37,29-01-2025 16:01:09,31.747s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/a_Enroll Users""))",Edge Chromium 132,,,29-01-2025 16:01:09,29-01-2025 16:01:10,1.042s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/ul_Courses_select2-selection__rendered""))",Edge Chromium 132,,,29-01-2025 16:01:10,29-01-2025 16:01:12,1.693s,PASSED
+"setText(findTestObject(""Object Repository/Page_Manage People/input_Courses_select2-search__field""), ""test"")",Edge Chromium 132,,,29-01-2025 16:01:12,29-01-2025 16:01:14,1.902s,PASSED
+"sendKeys(findTestObject(""Page_Manage People/input_Courses_select2-search__field""), Keys.chord(ENTER))",Edge Chromium 132,,,29-01-2025 16:01:14,29-01-2025 16:01:14,0.565s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/button_Enroll""))",Edge Chromium 132,,,29-01-2025 16:01:14,29-01-2025 16:01:19,5.010s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/input_Status_id_1""))",Edge Chromium 132,,,29-01-2025 16:01:19,29-01-2025 16:01:52,32.408s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/a_Suspend""))",Edge Chromium 132,,,29-01-2025 16:01:52,29-01-2025 16:02:26,33.727s,PASSED
+"click(findTestObject(""Object Repository/Page_/button_Yes""))",Edge Chromium 132,,,29-01-2025 16:02:26,29-01-2025 16:03:01,35.095s,PASSED
+"click(findTestObject(""Object Repository/Page_/button_Continue""))",Edge Chromium 132,,,29-01-2025 16:03:01,29-01-2025 16:03:37,36.597s,PASSED
+"setText(findTestObject(""Object Repository/Page_Manage People/input_Manage People_txt""), randomEmail)",Edge Chromium 132,,,29-01-2025 16:03:37,29-01-2025 16:03:39,1.623s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Manage People/input_Manage People_txt""), Keys.chord(ENTER))",Edge Chromium 132,,,29-01-2025 16:03:39,29-01-2025 16:03:41,2.455s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/a_Never_btn dropdown-toggle""))",Edge Chromium 132,,,29-01-2025 16:03:41,29-01-2025 16:03:43,1.488s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/span_Activate User Account""))",Edge Chromium 132,,,29-01-2025 16:03:43,29-01-2025 16:04:17,34.174s,PASSED
+"setText(findTestObject(""Object Repository/Page_Manage People/input_Manage People_txt""), randomEmail)",Edge Chromium 132,,,29-01-2025 16:04:17,29-01-2025 16:04:19,1.468s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Manage People/input_Manage People_txt""), Keys.chord(ENTER))",Edge Chromium 132,,,29-01-2025 16:04:19,29-01-2025 16:04:21,2.278s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/input_Status_id_1_2""))",Edge Chromium 132,,,29-01-2025 16:04:21,29-01-2025 16:04:53,31.971s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/a_Add to Cohort""))",Edge Chromium 132,,,29-01-2025 16:04:53,29-01-2025 16:05:25,32.002s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/button_Add to Cohort""))",Edge Chromium 132,,,29-01-2025 16:05:25,29-01-2025 16:05:26,1.659s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/i_Manage People_fa fa-close close_icon_search""))",Edge Chromium 132,,,29-01-2025 16:05:26,29-01-2025 16:05:31,4.649s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/svg""))",Edge Chromium 132,,,29-01-2025 16:05:31,29-01-2025 16:05:32,1.405s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/a_Full Name""))",Edge Chromium 132,,,29-01-2025 16:05:32,29-01-2025 16:05:34,1.298s,PASSED
+"setText(findTestObject(""Object Repository/Page_Manage People/input_Full Name_userfullname""), randomFirstName)",Edge Chromium 132,,,29-01-2025 16:05:34,29-01-2025 16:05:36,1.779s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/button_Apply Filter""))",Edge Chromium 132,,,29-01-2025 16:05:36,29-01-2025 16:05:39,3.431s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/svg""))",Edge Chromium 132,,,29-01-2025 16:05:39,29-01-2025 16:05:40,0.970s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/svg_1""))",Edge Chromium 132,,,29-01-2025 16:05:40,29-01-2025 16:05:44,4.457s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/svg""))",Edge Chromium 132,,,29-01-2025 16:05:44,29-01-2025 16:05:46,1.130s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/a_Email Address""))",Edge Chromium 132,,,29-01-2025 16:05:46,29-01-2025 16:05:47,1.180s,PASSED
+"setText(findTestObject(""Object Repository/Page_Manage People/input_Email Address_email""), randomEmail)",Edge Chromium 132,,,29-01-2025 16:05:47,29-01-2025 16:05:48,1.388s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/input_Email Address_email""))",Edge Chromium 132,,,29-01-2025 16:05:48,29-01-2025 16:05:49,1.213s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/button_Apply Filter""))",Edge Chromium 132,,,29-01-2025 16:05:49,29-01-2025 16:05:52,2.989s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/span_Email Address_closebutton""))",Edge Chromium 132,,,29-01-2025 16:05:52,29-01-2025 16:06:27,34.426s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/svg""))",Edge Chromium 132,,,29-01-2025 16:06:27,29-01-2025 16:06:28,1.568s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/a_Username""))",Edge Chromium 132,,,29-01-2025 16:06:28,29-01-2025 16:06:29,0.871s,PASSED
+"setText(findTestObject(""Object Repository/Page_Manage People/input_Username_username""), randomEmail)",Edge Chromium 132,,,29-01-2025 16:06:29,29-01-2025 16:06:31,1.772s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/button_Apply Filter""))",Edge Chromium 132,,,29-01-2025 16:06:31,29-01-2025 16:06:34,2.786s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/button_Manage People_filterdropdownMenupeople""))",Edge Chromium 132,,,29-01-2025 16:06:34,29-01-2025 16:06:35,1.134s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/svg_1""))",Edge Chromium 132,,,29-01-2025 16:06:35,29-01-2025 16:06:38,3.434s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/input_Total Record Found 24119_show_tenant""))",Edge Chromium 132,,,29-01-2025 16:06:38,29-01-2025 16:06:39,1.081s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/i_New User_wid wid-dots""))",Edge Chromium 132,,,29-01-2025 16:06:39,29-01-2025 16:07:11,32.027s,PASSED
+"setText(findTestObject(""Object Repository/Page_Manage People/input_Manage People_txt""), randomEmail)",Edge Chromium 132,,,29-01-2025 16:07:11,29-01-2025 16:07:13,1.252s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Manage People/input_Manage People_txt""), Keys.chord(ENTER))",Edge Chromium 132,,,29-01-2025 16:07:13,29-01-2025 16:07:16,2.878s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/input_Status_id_1_2_3""))",Edge Chromium 132,,,29-01-2025 16:07:16,29-01-2025 16:07:48,32.040s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/button_New User_btn btn_css dropdown dropdo_1428cf""))",Edge Chromium 132,,,29-01-2025 16:07:48,29-01-2025 16:07:48,0.744s,PASSED
+"click(findTestObject(""Object Repository/Page_Manage People/span_Delete""))",Edge Chromium 132,,,29-01-2025 16:07:48,29-01-2025 16:08:21,32.320s,PASSED
+"click(findTestObject(""Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Yes""))",Edge Chromium 132,,,29-01-2025 16:08:21,29-01-2025 16:08:54,32.998s,PASSED
+"click(findTestObject(""Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Continue""))",Edge Chromium 132,,,29-01-2025 16:08:54,29-01-2025 16:09:27,33.023s,PASSED
+"setText(findTestObject(""Object Repository/Page_Manage People/input_Manage People_txt""), randomEmail)",Edge Chromium 132,,,29-01-2025 16:09:27,29-01-2025 16:09:28,1.149s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Manage People/input_Manage People_txt""), Keys.chord(ENTER))",Edge Chromium 132,,,29-01-2025 16:09:28,29-01-2025 16:09:30,1.757s,PASSED
+closeBrowser(),Edge Chromium 132,,,29-01-2025 16:09:30,29-01-2025 16:09:32,2.032s,PASSED

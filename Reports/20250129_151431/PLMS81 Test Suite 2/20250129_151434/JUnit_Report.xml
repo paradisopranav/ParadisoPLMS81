@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PLMS81 Test Suite 2" time="435.774" tests="1" failures="0" errors="0">
+   <testsuite name="PLMS81 Test Suite 2" tests="1" failures="0" errors="0" time="435.774" skipped="0" timestamp="29-01-2025T15:14:56" hostname="hp - DESKTOP-20CTJHV.Optilink" id="Test Suites/PLMS81 Test Suite 2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\hp\\OneDrive - PARADISO\\Documents\\Paradiso Data\\ParadisoPLMS81\\Reports\\20250129_151431\\PLMS81 Test Suite 2\\20250129_151434"/>
+         <property name="logFiles" value="C:\\Users\\hp\\OneDrive - PARADISO\\Documents\\Paradiso Data\\ParadisoPLMS81\\Reports\\20250129_151431\\PLMS81 Test Suite 2\\20250129_151434\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hp - DESKTOP-20CTJHV.Optilink"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.0.1.223"/>
+         <property name="browser" value="Chrome 132.0.0.0"/>
+         <property name="hostAddress" value="192.168.10.8"/>
+         <property name="sessionId" value="bbe7051bde562ecc43fbf7df18b2abab"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/PLMS81_Create_Course and Category" time="434.313" classname="Test Cases/PLMS81_Create_Course and Category" status="PASSED">
+         <system-out><![CDATA[29-01-2025T15:14:57 - [TEST_CASE][PASSED] - Test Cases/PLMS81_Create_Course and Category: Test Cases/PLMS81_Create_Course and Category
+
+29-01-2025T15:15:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+29-01-2025T15:15:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+29-01-2025T15:15:04 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+29-01-2025T15:15:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+29-01-2025T15:15:10 - [TEST_STEP][PASSED] - navigateToUrl("https://plms-php81.paradisolms.net/login/index.php"): Navigate to 'https://plms-php81.paradisolms.net/login/index.php' successfully
+
+29-01-2025T15:15:13 - [MESSAGE][PASSED] - Navigate to 'https://plms-php81.paradisolms.net/login/index.php' successfully
+
+29-01-2025T15:15:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'
+
+29-01-2025T15:15:15 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'
+
+29-01-2025T15:15:15 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password"), "ed/1/AZbo1YX04df+rN1oA=="): Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+29-01-2025T15:15:17 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+29-01-2025T15:15:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin' is clicked on
+
+29-01-2025T15:15:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin' is clicked on
+
+29-01-2025T15:15:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/button_Log in")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/button_Log in' is clicked on
+
+29-01-2025T15:15:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/button_Log in' is clicked on
+
+29-01-2025T15:15:25 - [TEST_STEP][PASSED] - randomName = randomAlphabetic(8).toLowerCase(): null
+
+29-01-2025T15:15:25 - [TEST_STEP][PASSED] - click(findTestObject("Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses")): Object: 'Object Repository/Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses' is clicked on
+
+29-01-2025T15:15:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses' is clicked on
+
+29-01-2025T15:15:26 - [TEST_STEP][PASSED] - click(findTestObject("Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog")): Object: 'Object Repository/Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog' is clicked on
+
+29-01-2025T15:15:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog' is clicked on
+
+29-01-2025T15:15:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Course Categories/button_Add New")): Object: 'Object Repository/Page_PLMS Course Categories/button_Add New' is clicked on
+
+29-01-2025T15:15:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Course Categories/button_Add New' is clicked on
+
+29-01-2025T15:15:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Course Categories/a_Category")): Object: 'Object Repository/Page_PLMS Course Categories/a_Category' is clicked on
+
+29-01-2025T15:16:01 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='yui_3_17_2_1_1737460953445_42']/div/div/a[2]'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T15:16:01 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_PLMS Course Categories/a_Category'. Try using Self-healing.
+
+29-01-2025T15:16:01 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_PLMS Course Categories/a_Category' was broken. Propose an alternative one: '//a[contains(text(),'Category')]'.
+
+29-01-2025T15:16:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Course Categories/a_Category' is clicked on
+
+29-01-2025T15:16:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_PLMS Add New Category/input_Category Name_name"), randomName): Text 'eckzypnv' is set on object 'Object Repository/Page_PLMS Add New Category/input_Category Name_name'
+
+29-01-2025T15:16:05 - [MESSAGE][PASSED] - Text 'eckzypnv' is set on object 'Object Repository/Page_PLMS Add New Category/input_Category Name_name'
+
+29-01-2025T15:16:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Add New Category/input_Description_submitbutton")): Object: 'Object Repository/Page_PLMS Add New Category/input_Description_submitbutton' is clicked on
+
+29-01-2025T15:16:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add New Category/input_Description_submitbutton' is clicked on
+
+29-01-2025T15:16:09 - [TEST_STEP][PASSED] - click(findTestObject("Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses")): Object: 'Object Repository/Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses' is clicked on
+
+29-01-2025T15:16:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses' is clicked on
+
+29-01-2025T15:16:10 - [TEST_STEP][PASSED] - click(findTestObject("Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog")): Object: 'Object Repository/Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog' is clicked on
+
+29-01-2025T15:16:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog' is clicked on
+
+29-01-2025T15:16:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search")): Object: 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search' is clicked on
+
+29-01-2025T15:16:45 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: ottel'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T15:16:45 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search'. Try using Self-healing.
+
+29-01-2025T15:16:46 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search' was broken. Propose an alternative one: '(//input[@type='text'])[4]'.
+
+29-01-2025T15:16:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search' is clicked on
+
+29-01-2025T15:16:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41"), randomName): Text 'eckzypnv' is set on object 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41'
+
+29-01-2025T15:17:17 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='yui_3_17_2_1_1737526113553_41']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T15:17:17 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41'. Try using Self-healing.
+
+29-01-2025T15:17:18 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41' was broken. Propose an alternative one: '//div[3]/div/div/input'.
+
+29-01-2025T15:17:49 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='yui_3_17_2_1_1737526113553_41']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T15:17:49 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41'. Try using Self-healing.
+
+29-01-2025T15:17:49 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41' was broken. Propose an alternative one: '//div[3]/div/div/input'.
+
+29-01-2025T15:17:50 - [MESSAGE][PASSED] - Text 'eckzypnv' is set on object 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41'
+
+29-01-2025T15:17:50 - [TEST_STEP][PASSED] - waitForPageLoad(5): Wait for page load successfully
+
+29-01-2025T15:17:50 - [MESSAGE][PASSED] - Wait for page load successfully
+
+29-01-2025T15:17:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Course and Category Management/span_Courses")): Object: 'Object Repository/Page_Course and Category Management/span_Courses' is clicked on
+
+29-01-2025T15:17:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Course and Category Management/span_Courses' is clicked on
+
+29-01-2025T15:17:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Course Categories/button_Add New")): Object: 'Object Repository/Page_PLMS Course Categories/button_Add New' is clicked on
+
+29-01-2025T15:17:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Course Categories/button_Add New' is clicked on
+
+29-01-2025T15:17:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Course Categories/a_Course")): Object: 'Object Repository/Page_PLMS Course Categories/a_Course' is clicked on
+
+29-01-2025T15:18:22 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='yui_3_17_2_1_1737460991038_42']/div/div/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T15:18:22 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_PLMS Course Categories/a_Course'. Try using Self-healing.
+
+29-01-2025T15:18:23 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_PLMS Course Categories/a_Course' was broken. Propose an alternative one: '(//a[contains(text(),'Course')])[2]'.
+
+29-01-2025T15:18:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Course Categories/a_Course' is clicked on
+
+29-01-2025T15:18:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Add a New Course/button_Create")): Object: 'Object Repository/Page_PLMS Add a New Course/button_Create' is clicked on
+
+29-01-2025T15:18:55 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //button[@id='yui_3_17_2_1_1737460997816_338']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T15:18:55 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_PLMS Add a New Course/button_Create'. Try using Self-healing.
+
+29-01-2025T15:18:55 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_PLMS Add a New Course/button_Create' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Blank'])[1]/following::button[1]'.
+
+29-01-2025T15:18:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add a New Course/button_Create' is clicked on
+
+29-01-2025T15:18:56 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_PLMS Add a New Course/input_Course Name_fullname"), randomName): Text 'eckzypnv' is set on object 'Object Repository/Page_PLMS Add a New Course/input_Course Name_fullname'
+
+29-01-2025T15:18:57 - [MESSAGE][PASSED] - Text 'eckzypnv' is set on object 'Object Repository/Page_PLMS Add a New Course/input_Course Name_fullname'
+
+29-01-2025T15:18:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Add a New Course/li_Next")): Object: 'Object Repository/Page_PLMS Add a New Course/li_Next' is clicked on
+
+29-01-2025T15:19:28 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='yui_3_17_2_1_1737460997816_363']/ul/li'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T15:19:28 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_PLMS Add a New Course/li_Next'. Try using Self-healing.
+
+29-01-2025T15:19:28 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_PLMS Add a New Course/li_Next' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::li[1]'.
+
+29-01-2025T15:19:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add a New Course/li_Next' is clicked on
+
+29-01-2025T15:19:28 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+29-01-2025T15:19:38 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+29-01-2025T15:19:38 - [TEST_STEP][PASSED] - waitForPageLoad(5): Wait for page load successfully
+
+29-01-2025T15:19:38 - [MESSAGE][PASSED] - Wait for page load successfully
+
+29-01-2025T15:19:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Add a New Course/input_Previous_saveanddisplay")): Object: 'Object Repository/Page_PLMS Add a New Course/input_Previous_saveanddisplay' is clicked on
+
+29-01-2025T15:19:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add a New Course/input_Previous_saveanddisplay' is clicked on
+
+29-01-2025T15:19:39 - [TEST_STEP][PASSED] - click(findTestObject("Page_PLMS Add a New Course/Page_Course bottelneck 2026 category new cat 0309/a_Skip to main content_yui_3_17_2_1_1738139221172_99")): Object: 'Object Repository/Page_PLMS Add a New Course/Page_Course bottelneck 2026 category new cat 0309/a_Skip to main content_yui_3_17_2_1_1738139221172_99' is clicked on
+
+29-01-2025T15:20:10 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='yui_3_17_2_1_1738139221172_99']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T15:20:10 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_PLMS Add a New Course/Page_Course bottelneck 2026 category new cat 0309/a_Skip to main content_yui_3_17_2_1_1738139221172_99'. Try using Self-healing.
+
+29-01-2025T15:20:14 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_PLMS Add a New Course/Page_Course bottelneck 2026 category new cat 0309/a_Skip to main content_yui_3_17_2_1_1738139221172_99' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/following::a[1]'.
+
+29-01-2025T15:20:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add a New Course/Page_Course bottelneck 2026 category new cat 0309/a_Skip to main content_yui_3_17_2_1_1738139221172_99' is clicked on
+
+29-01-2025T15:20:23 - [TEST_STEP][PASSED] - navigateToUrl("https://plms-php81.paradisolms.net/course/"): Navigate to 'https://plms-php81.paradisolms.net/course/' successfully
+
+29-01-2025T15:20:31 - [MESSAGE][PASSED] - Navigate to 'https://plms-php81.paradisolms.net/course/' successfully
+
+29-01-2025T15:20:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search")): Object: 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search' is clicked on
+
+29-01-2025T15:21:02 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: ottel'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T15:21:02 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search'. Try using Self-healing.
+
+29-01-2025T15:21:02 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search' was broken. Propose an alternative one: '(//input[@type='text'])[4]'.
+
+29-01-2025T15:21:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search' is clicked on
+
+29-01-2025T15:21:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41"), randomName): Text 'eckzypnv' is set on object 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41'
+
+29-01-2025T15:21:37 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='yui_3_17_2_1_1737526113553_41']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T15:21:37 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41'. Try using Self-healing.
+
+29-01-2025T15:21:38 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41' was broken. Propose an alternative one: '//div[3]/div/div/input'.
+
+29-01-2025T15:22:09 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='yui_3_17_2_1_1737526113553_41']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T15:22:09 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41'. Try using Self-healing.
+
+29-01-2025T15:22:10 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41' was broken. Propose an alternative one: '//div[3]/div/div/input'.
+
+29-01-2025T15:22:10 - [MESSAGE][PASSED] - Text 'eckzypnv' is set on object 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41'
+
+29-01-2025T15:22:10 - [TEST_STEP][PASSED] - waitForPageLoad(5): Wait for page load successfully
+
+29-01-2025T15:22:10 - [MESSAGE][PASSED] - Wait for page load successfully
+
+29-01-2025T15:22:10 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+29-01-2025T15:22:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[29-01-2025T15:14:56 - [TEST_SUITE][PASSED] - PLMS81 Test Suite 2: Test Cases/PLMS81_Create_Course and Category]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

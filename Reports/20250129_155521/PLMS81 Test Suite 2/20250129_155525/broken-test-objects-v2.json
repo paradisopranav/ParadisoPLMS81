@@ -1,0 +1,74 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Course Categories/a_Category",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1737460953445_42\u0027]/div/div/a[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Category\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite 2/20250129_155525/Object Repository/Page_PLMS Course Categories/a_Category_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search",
+      "brokenLocator": "ottel",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//input[@type\u003d\u0027text\u0027])[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite 2/20250129_155525/Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41",
+      "brokenLocator": "//input[@id\u003d\u0027yui_3_17_2_1_1737526113553_41\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite 2/20250129_155525/Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Course Categories/a_Course",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1737460991038_42\u0027]/div/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//a[contains(text(),\u0027Course\u0027)])[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite 2/20250129_155525/Object Repository/Page_PLMS Course Categories/a_Course_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Add a New Course/button_Create",
+      "brokenLocator": "//button[@id\u003d\u0027yui_3_17_2_1_1737460997816_338\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Blank\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite 2/20250129_155525/Object Repository/Page_PLMS Add a New Course/button_Create_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Add a New Course/li_Next",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1737460997816_363\u0027]/ul/li",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Previous\u0027])[1]/following::li[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite 2/20250129_155525/Object Repository/Page_PLMS Add a New Course/li_Next_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Add a New Course/Page_Course bottelneck 2026 category new cat 0309/a_Skip to main content_yui_3_17_2_1_1738139221172_99",
+      "brokenLocator": "//a[@id\u003d\u0027yui_3_17_2_1_1738139221172_99\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Skip to main content\u0027])[1]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite 2/20250129_155525/Object Repository/Page_PLMS Add a New Course/Page_Course bottelneck 2026 category new cat 0309/a_Skip to main content_yui_3_17_2_1_1738139221172_99_neighbor.png"
+    }
+  ]
+}

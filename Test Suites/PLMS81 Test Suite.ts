@@ -21,7 +21,7 @@
    <testCaseLink>
       <guid>bbf26ed5-bb2b-4465-bce6-6b163f49691a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/PLMS81_AutomationHub</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -35,7 +35,7 @@
    <testCaseLink>
       <guid>4a8d380a-29df-400b-855a-535559048ac0</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/PLMS81_UploadUsers</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>

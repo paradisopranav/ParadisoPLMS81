@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PLMS81 Test Suite" time="829.663" tests="2" failures="0" errors="0">
+   <testsuite name="PLMS81 Test Suite" tests="2" failures="0" errors="0" time="829.663" skipped="0" timestamp="29-01-2025T15:55:42" hostname="hp - DESKTOP-20CTJHV.Optilink" id="Test Suites/PLMS81 Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\hp\\OneDrive - PARADISO\\Documents\\Paradiso Data\\ParadisoPLMS81\\Reports\\20250129_155521\\PLMS81 Test Suite\\20250129_155523"/>
+         <property name="logFiles" value="C:\\Users\\hp\\OneDrive - PARADISO\\Documents\\Paradiso Data\\ParadisoPLMS81\\Reports\\20250129_155521\\PLMS81 Test Suite\\20250129_155523\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\hp\\OneDrive - PARADISO\\Documents\\Paradiso Data\\ParadisoPLMS81\\Reports\\20250129_155521\\PLMS81 Test Suite\\20250129_155523\\1738146536970.png"/>
+         <property name="hostName" value="hp - DESKTOP-20CTJHV.Optilink"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.0.1.223"/>
+         <property name="browser" value="Edge Chromium 132"/>
+         <property name="hostAddress" value="192.168.10.8"/>
+         <property name="sessionId" value="6a3d21076fa007935052cf11b25597ba"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/PLMS81_LoginPage Test" time="58.979" classname="Test Cases/PLMS81_LoginPage Test" status="PASSED">
+         <system-out><![CDATA[29-01-2025T15:55:43 - [TEST_CASE][PASSED] - Test Cases/PLMS81_LoginPage Test: Test Cases/PLMS81_LoginPage Test
+
+29-01-2025T15:55:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+29-01-2025T15:55:48 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+29-01-2025T15:55:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+29-01-2025T15:56:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+29-01-2025T15:56:10 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+29-01-2025T15:56:10 - [MESSAGE][PASSED] - Current window maximized
+
+29-01-2025T15:56:10 - [TEST_STEP][PASSED] - navigateToUrl("https://plms-php81.paradisolms.net/login/index.php"): Navigate to 'https://plms-php81.paradisolms.net/login/index.php' successfully
+
+29-01-2025T15:56:20 - [MESSAGE][PASSED] - Navigate to 'https://plms-php81.paradisolms.net/login/index.php' successfully
+
+29-01-2025T15:56:20 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password"), "9NLz+4tGZcQ="): Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+29-01-2025T15:56:23 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+29-01-2025T15:56:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username' is clicked on
+
+29-01-2025T15:56:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username' is clicked on
+
+29-01-2025T15:56:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b' is clicked on
+
+29-01-2025T15:56:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b' is clicked on
+
+29-01-2025T15:56:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'
+
+29-01-2025T15:56:27 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'
+
+29-01-2025T15:56:27 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password"), "ed/1/AZbo1YX04df+rN1oA=="): Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+29-01-2025T15:56:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+29-01-2025T15:56:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin' is clicked on
+
+29-01-2025T15:56:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin' is clicked on
+
+29-01-2025T15:56:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/button_Log in")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/button_Log in' is clicked on
+
+29-01-2025T15:56:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/button_Log in' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PLMS81_ManagePeople" time="634.208" classname="Test Cases/PLMS81_ManagePeople" status="PASSED">
+         <system-out><![CDATA[29-01-2025T15:58:57 - [TEST_CASE][PASSED] - Test Cases/PLMS81_ManagePeople: Test Cases/PLMS81_ManagePeople
+
+29-01-2025T15:58:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+29-01-2025T15:58:58 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+29-01-2025T15:59:02 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+29-01-2025T15:59:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+29-01-2025T15:59:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+29-01-2025T15:59:12 - [TEST_STEP][PASSED] - navigateToUrl("https://plms-php81.paradisolms.net/login/index.php"): Navigate to 'https://plms-php81.paradisolms.net/login/index.php' successfully
+
+29-01-2025T15:59:22 - [MESSAGE][PASSED] - Navigate to 'https://plms-php81.paradisolms.net/login/index.php' successfully
+
+29-01-2025T15:59:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'
+
+29-01-2025T15:59:24 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'
+
+29-01-2025T15:59:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username' is clicked on
+
+29-01-2025T15:59:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username' is clicked on
+
+29-01-2025T15:59:25 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password"), "ed/1/AZbo1YX04df+rN1oA=="): Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+29-01-2025T15:59:25 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+29-01-2025T15:59:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin' is clicked on
+
+29-01-2025T15:59:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin' is clicked on
+
+29-01-2025T15:59:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/button_Log in")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/button_Log in' is clicked on
+
+29-01-2025T15:59:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/button_Log in' is clicked on
+
+29-01-2025T15:59:33 - [TEST_STEP][PASSED] - randomFirstName = randomAlphabetic(8).toLowerCase(): null
+
+29-01-2025T15:59:33 - [TEST_STEP][PASSED] - randomLastName = randomAlphabetic(8).toLowerCase(): null
+
+29-01-2025T15:59:33 - [TEST_STEP][PASSED] - randomEmail = randomAlphabetic(8).toLowerCase() + "@example.com": null
+
+29-01-2025T15:59:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS/span_Manage people")): Object: 'Object Repository/Page_Paradiso LMS/span_Manage people' is clicked on
+
+29-01-2025T15:59:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS/span_Manage people' is clicked on
+
+29-01-2025T15:59:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS/a_People")): Object: 'Object Repository/Page_Paradiso LMS/a_People' is clicked on
+
+29-01-2025T15:59:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS/a_People' is clicked on
+
+29-01-2025T15:59:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/a_New User")): Object: 'Object Repository/Page_Manage People/a_New User' is clicked on
+
+29-01-2025T16:00:10 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='yui_3_17_2_1_1737963892265_48']/div/div[2]/div/div/div[3]/div/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:00:10 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Manage People/a_New User'. Try using Self-healing.
+
+29-01-2025T16:00:11 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Manage People/a_New User' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Entire LMS Peoples'])[2]/following::a[2]'.
+
+29-01-2025T16:00:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/a_New User' is clicked on
+
+29-01-2025T16:00:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_/input_Username_username"), randomEmail): Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_/input_Username_username'
+
+29-01-2025T16:00:15 - [MESSAGE][PASSED] - Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_/input_Username_username'
+
+29-01-2025T16:00:15 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_/input_Password_newpassword"), "xkuS2zDhoxbqAxb5QPoxUg=="): Text ****** has been set on object 'Object Repository/Page_/input_Password_newpassword'
+
+29-01-2025T16:00:16 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_/input_Password_newpassword'
+
+29-01-2025T16:00:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_/input_First Name_firstname"), randomFirstName): Text 'vxcyhaaj' is set on object 'Object Repository/Page_/input_First Name_firstname'
+
+29-01-2025T16:00:18 - [MESSAGE][PASSED] - Text 'vxcyhaaj' is set on object 'Object Repository/Page_/input_First Name_firstname'
+
+29-01-2025T16:00:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_/input_Surname_lastname"), randomLastName): Text 'monquexi' is set on object 'Object Repository/Page_/input_Surname_lastname'
+
+29-01-2025T16:00:23 - [MESSAGE][PASSED] - Text 'monquexi' is set on object 'Object Repository/Page_/input_Surname_lastname'
+
+29-01-2025T16:00:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_/input_Email_email"), randomEmail): Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_/input_Email_email'
+
+29-01-2025T16:00:28 - [MESSAGE][PASSED] - Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_/input_Email_email'
+
+29-01-2025T16:00:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/input_Email_submitbutton")): Object: 'Object Repository/Page_/input_Email_submitbutton' is clicked on
+
+29-01-2025T16:00:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/input_Email_submitbutton' is clicked on
+
+29-01-2025T16:00:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Manage People/input_Manage People_txt"), randomEmail): Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:00:34 - [MESSAGE][PASSED] - Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:00:34 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Manage People/input_Manage People_txt"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:00:37 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:00:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/input_Status_id")): Object: 'Object Repository/Page_Manage People/input_Status_id' is clicked on
+
+29-01-2025T16:01:09 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='checkboxc25d25def2']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:01:09 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Manage People/input_Status_id'. Try using Self-healing.
+
+29-01-2025T16:01:09 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Manage People/input_Status_id' was broken. Propose an alternative one: '//form[@id='form-bulk-actions']/div/table/tbody/tr/td/div/input'.
+
+29-01-2025T16:01:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/input_Status_id' is clicked on
+
+29-01-2025T16:01:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/a_Enroll Users")): Object: 'Object Repository/Page_Manage People/a_Enroll Users' is clicked on
+
+29-01-2025T16:01:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/a_Enroll Users' is clicked on
+
+29-01-2025T16:01:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/ul_Courses_select2-selection__rendered")): Object: 'Object Repository/Page_Manage People/ul_Courses_select2-selection__rendered' is clicked on
+
+29-01-2025T16:01:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/ul_Courses_select2-selection__rendered' is clicked on
+
+29-01-2025T16:01:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Manage People/input_Courses_select2-search__field"), "test"): Text 'test' is set on object 'Object Repository/Page_Manage People/input_Courses_select2-search__field'
+
+29-01-2025T16:01:14 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/Page_Manage People/input_Courses_select2-search__field'
+
+29-01-2025T16:01:14 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Manage People/input_Courses_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Manage People/input_Courses_select2-search__field'
+
+29-01-2025T16:01:14 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Manage People/input_Courses_select2-search__field'
+
+29-01-2025T16:01:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/button_Enroll")): Object: 'Object Repository/Page_Manage People/button_Enroll' is clicked on
+
+29-01-2025T16:01:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/button_Enroll' is clicked on
+
+29-01-2025T16:01:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/input_Status_id_1")): Object: 'Object Repository/Page_Manage People/input_Status_id_1' is clicked on
+
+29-01-2025T16:01:51 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='checkbox5a27c63967']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:01:51 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Manage People/input_Status_id_1'. Try using Self-healing.
+
+29-01-2025T16:01:51 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Manage People/input_Status_id_1' was broken. Propose an alternative one: '//form[@id='form-bulk-actions']/div/table/tbody/tr/td/div/input'.
+
+29-01-2025T16:01:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/input_Status_id_1' is clicked on
+
+29-01-2025T16:01:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/a_Suspend")): Object: 'Object Repository/Page_Manage People/a_Suspend' is clicked on
+
+29-01-2025T16:02:23 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='yui_3_17_2_1_1737964008722_411']/div/div/div[3]/div/a[3]'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:02:23 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Manage People/a_Suspend'. Try using Self-healing.
+
+29-01-2025T16:02:24 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Manage People/a_Suspend' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Entire LMS Peoples'])[2]/following::a[4]'.
+
+29-01-2025T16:02:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/a_Suspend' is clicked on
+
+29-01-2025T16:02:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/button_Yes")): Object: 'Object Repository/Page_/button_Yes' is clicked on
+
+29-01-2025T16:02:57 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //button[@id='single_button679739fa0cfa419']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:02:57 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_/button_Yes'. Try using Self-healing.
+
+29-01-2025T16:02:57 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_/button_Yes' was broken. Propose an alternative one: '//div[@id='modal-footer']/div/div/form/button'.
+
+29-01-2025T16:03:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/button_Yes' is clicked on
+
+29-01-2025T16:03:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/button_Continue")): Object: 'Object Repository/Page_/button_Continue' is clicked on
+
+29-01-2025T16:03:32 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //button[@id='single_button679739fed48fb19']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:03:32 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_/button_Continue'. Try using Self-healing.
+
+29-01-2025T16:03:32 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_/button_Continue' was broken. Propose an alternative one: '//section[@id='region-main']/div/div/div[2]/form/button'.
+
+29-01-2025T16:03:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/button_Continue' is clicked on
+
+29-01-2025T16:03:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Manage People/input_Manage People_txt"), randomEmail): Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:03:39 - [MESSAGE][PASSED] - Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:03:39 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Manage People/input_Manage People_txt"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:03:41 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:03:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/a_Never_btn dropdown-toggle")): Object: 'Object Repository/Page_Manage People/a_Never_btn dropdown-toggle' is clicked on
+
+29-01-2025T16:03:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/a_Never_btn dropdown-toggle' is clicked on
+
+29-01-2025T16:03:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/span_Activate User Account")): Object: 'Object Repository/Page_Manage People/span_Activate User Account' is clicked on
+
+29-01-2025T16:04:14 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='yui_3_17_2_1_1737964054298_402']/div/a[2]/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:04:14 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Manage People/span_Activate User Account'. Try using Self-healing.
+
+29-01-2025T16:04:14 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Manage People/span_Activate User Account' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Login As'])[1]/following::span[1]'.
+
+29-01-2025T16:04:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/span_Activate User Account' is clicked on
+
+29-01-2025T16:04:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Manage People/input_Manage People_txt"), randomEmail): Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:04:19 - [MESSAGE][PASSED] - Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:04:19 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Manage People/input_Manage People_txt"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:04:21 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:04:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/input_Status_id_1_2")): Object: 'Object Repository/Page_Manage People/input_Status_id_1_2' is clicked on
+
+29-01-2025T16:04:52 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='checkbox266a2793c3']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:04:52 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Manage People/input_Status_id_1_2'. Try using Self-healing.
+
+29-01-2025T16:04:52 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Manage People/input_Status_id_1_2' was broken. Propose an alternative one: '//form[@id='form-bulk-actions']/div/table/tbody/tr/td/div/input'.
+
+29-01-2025T16:04:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/input_Status_id_1_2' is clicked on
+
+29-01-2025T16:04:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/a_Add to Cohort")): Object: 'Object Repository/Page_Manage People/a_Add to Cohort' is clicked on
+
+29-01-2025T16:05:24 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='yui_3_17_2_1_1737964091061_411']/div/div/div[3]/div/a[4]'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:05:24 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Manage People/a_Add to Cohort'. Try using Self-healing.
+
+29-01-2025T16:05:24 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Manage People/a_Add to Cohort' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Entire LMS Peoples'])[2]/following::a[5]'.
+
+29-01-2025T16:05:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/a_Add to Cohort' is clicked on
+
+29-01-2025T16:05:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/button_Add to Cohort")): Object: 'Object Repository/Page_Manage People/button_Add to Cohort' is clicked on
+
+29-01-2025T16:05:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/button_Add to Cohort' is clicked on
+
+29-01-2025T16:05:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/i_Manage People_fa fa-close close_icon_search")): Object: 'Object Repository/Page_Manage People/i_Manage People_fa fa-close close_icon_search' is clicked on
+
+29-01-2025T16:05:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/i_Manage People_fa fa-close close_icon_search' is clicked on
+
+29-01-2025T16:05:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/svg")): Object: 'Object Repository/Page_Manage People/svg' is clicked on
+
+29-01-2025T16:05:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/svg' is clicked on
+
+29-01-2025T16:05:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/a_Full Name")): Object: 'Object Repository/Page_Manage People/a_Full Name' is clicked on
+
+29-01-2025T16:05:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/a_Full Name' is clicked on
+
+29-01-2025T16:05:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Manage People/input_Full Name_userfullname"), randomFirstName): Text 'vxcyhaaj' is set on object 'Object Repository/Page_Manage People/input_Full Name_userfullname'
+
+29-01-2025T16:05:36 - [MESSAGE][PASSED] - Text 'vxcyhaaj' is set on object 'Object Repository/Page_Manage People/input_Full Name_userfullname'
+
+29-01-2025T16:05:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/button_Apply Filter")): Object: 'Object Repository/Page_Manage People/button_Apply Filter' is clicked on
+
+29-01-2025T16:05:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/button_Apply Filter' is clicked on
+
+29-01-2025T16:05:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/svg")): Object: 'Object Repository/Page_Manage People/svg' is clicked on
+
+29-01-2025T16:05:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/svg' is clicked on
+
+29-01-2025T16:05:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/svg_1")): Object: 'Object Repository/Page_Manage People/svg_1' is clicked on
+
+29-01-2025T16:05:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/svg_1' is clicked on
+
+29-01-2025T16:05:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/svg")): Object: 'Object Repository/Page_Manage People/svg' is clicked on
+
+29-01-2025T16:05:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/svg' is clicked on
+
+29-01-2025T16:05:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/a_Email Address")): Object: 'Object Repository/Page_Manage People/a_Email Address' is clicked on
+
+29-01-2025T16:05:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/a_Email Address' is clicked on
+
+29-01-2025T16:05:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Manage People/input_Email Address_email"), randomEmail): Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Email Address_email'
+
+29-01-2025T16:05:48 - [MESSAGE][PASSED] - Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Email Address_email'
+
+29-01-2025T16:05:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/input_Email Address_email")): Object: 'Object Repository/Page_Manage People/input_Email Address_email' is clicked on
+
+29-01-2025T16:05:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/input_Email Address_email' is clicked on
+
+29-01-2025T16:05:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/button_Apply Filter")): Object: 'Object Repository/Page_Manage People/button_Apply Filter' is clicked on
+
+29-01-2025T16:05:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/button_Apply Filter' is clicked on
+
+29-01-2025T16:05:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/span_Email Address_closebutton")): Object: 'Object Repository/Page_Manage People/span_Email Address_closebutton' is clicked on
+
+29-01-2025T16:06:24 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='yui_3_17_2_1_1737964225330_48']/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div[2]/div/span/span/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:06:24 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Manage People/span_Email Address_closebutton'. Try using Self-healing.
+
+29-01-2025T16:06:24 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Manage People/span_Email Address_closebutton' was broken. Propose an alternative one: '//div[2]/div/div[2]/div/span/span/span'.
+
+29-01-2025T16:06:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/span_Email Address_closebutton' is clicked on
+
+29-01-2025T16:06:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/svg")): Object: 'Object Repository/Page_Manage People/svg' is clicked on
+
+29-01-2025T16:06:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/svg' is clicked on
+
+29-01-2025T16:06:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/a_Username")): Object: 'Object Repository/Page_Manage People/a_Username' is clicked on
+
+29-01-2025T16:06:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/a_Username' is clicked on
+
+29-01-2025T16:06:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Manage People/input_Username_username"), randomEmail): Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Username_username'
+
+29-01-2025T16:06:31 - [MESSAGE][PASSED] - Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Username_username'
+
+29-01-2025T16:06:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/button_Apply Filter")): Object: 'Object Repository/Page_Manage People/button_Apply Filter' is clicked on
+
+29-01-2025T16:06:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/button_Apply Filter' is clicked on
+
+29-01-2025T16:06:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/button_Manage People_filterdropdownMenupeople")): Object: 'Object Repository/Page_Manage People/button_Manage People_filterdropdownMenupeople' is clicked on
+
+29-01-2025T16:06:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/button_Manage People_filterdropdownMenupeople' is clicked on
+
+29-01-2025T16:06:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/svg_1")): Object: 'Object Repository/Page_Manage People/svg_1' is clicked on
+
+29-01-2025T16:06:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/svg_1' is clicked on
+
+29-01-2025T16:06:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/input_Total Record Found 24119_show_tenant")): Object: 'Object Repository/Page_Manage People/input_Total Record Found 24119_show_tenant' is clicked on
+
+29-01-2025T16:06:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/input_Total Record Found 24119_show_tenant' is clicked on
+
+29-01-2025T16:06:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/i_New User_wid wid-dots")): Object: 'Object Repository/Page_Manage People/i_New User_wid wid-dots' is clicked on
+
+29-01-2025T16:07:11 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='yui_3_17_2_1_1737968277697_411']/div/div/div[3]/div/button/i'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:07:11 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Manage People/i_New User_wid wid-dots'. Try using Self-healing.
+
+29-01-2025T16:07:11 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Manage People/i_New User_wid wid-dots' was broken. Propose an alternative one: '//div[3]/div/button/i'.
+
+29-01-2025T16:07:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/i_New User_wid wid-dots' is clicked on
+
+29-01-2025T16:07:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Manage People/input_Manage People_txt"), randomEmail): Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:07:13 - [MESSAGE][PASSED] - Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:07:13 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Manage People/input_Manage People_txt"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:07:16 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:07:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/input_Status_id_1_2_3")): Object: 'Object Repository/Page_Manage People/input_Status_id_1_2_3' is clicked on
+
+29-01-2025T16:07:47 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='checkbox51cc59fbb8']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:07:47 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Manage People/input_Status_id_1_2_3'. Try using Self-healing.
+
+29-01-2025T16:07:47 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Manage People/input_Status_id_1_2_3' was broken. Propose an alternative one: '//form[@id='form-bulk-actions']/div/table/tbody/tr/td/div/input'.
+
+29-01-2025T16:07:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/input_Status_id_1_2_3' is clicked on
+
+29-01-2025T16:07:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/button_New User_btn btn_css dropdown dropdo_1428cf")): Object: 'Object Repository/Page_Manage People/button_New User_btn btn_css dropdown dropdo_1428cf' is clicked on
+
+29-01-2025T16:07:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/button_New User_btn btn_css dropdown dropdo_1428cf' is clicked on
+
+29-01-2025T16:07:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Manage People/span_Delete")): Object: 'Object Repository/Page_Manage People/span_Delete' is clicked on
+
+29-01-2025T16:08:20 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='yui_3_17_2_1_1737964303513_415']/span/ul/li[5]/a/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:08:20 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Manage People/span_Delete'. Try using Self-healing.
+
+29-01-2025T16:08:20 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Manage People/span_Delete' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Enable'])[1]/following::span[1]'.
+
+29-01-2025T16:08:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Manage People/span_Delete' is clicked on
+
+29-01-2025T16:08:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Yes")): Object: 'Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Yes' is clicked on
+
+29-01-2025T16:08:52 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //button[@id='single_button67973b2ccc5b320']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:08:52 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Yes'. Try using Self-healing.
+
+29-01-2025T16:08:52 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Yes' was broken. Propose an alternative one: '//div[@id='modal-footer']/div/div/form/button'.
+
+29-01-2025T16:08:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Yes' is clicked on
+
+29-01-2025T16:08:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Continue")): Object: 'Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Continue' is clicked on
+
+29-01-2025T16:09:25 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //button[@id='single_button67973b309731f20']'. Please recheck the objects properties to make sure the desired element is located. 
+
+29-01-2025T16:09:25 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Continue'. Try using Self-healing.
+
+29-01-2025T16:09:25 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Continue' was broken. Propose an alternative one: '//div[@id='notice']/div[2]/form/button'.
+
+29-01-2025T16:09:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Continue' is clicked on
+
+29-01-2025T16:09:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Manage People/input_Manage People_txt"), randomEmail): Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:09:28 - [MESSAGE][PASSED] - Text 'sqsfgeld@example.com' is set on object 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:09:28 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Manage People/input_Manage People_txt"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:09:30 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Manage People/input_Manage People_txt'
+
+29-01-2025T16:09:30 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+29-01-2025T16:09:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[29-01-2025T15:55:42 - [TEST_SUITE][FAILED] - PLMS81 Test Suite: Test Cases/PLMS81_ManagePeople FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_/input_Email_submitbutton'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at PLMS81_ManagePeople.run(PLMS81_ManagePeople:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1738146323015.run(TempTestSuite1738146323015.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="submit" class="btn btn-round
+                    btn-primary
+                    
+                    " name="submitbutton" id="id_submitbutton" value="Create User"> is not clickable at point (256, 644). Other element would receive the click: <div class="card card-block content-shadow not-card" id="yui_3_17_2_1_1738146490565_50">...</div>
+  (Session info: MicrosoftEdge=132.0.2957.127)
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CEdgeDriver
+Command: [6d8223150a96451203580e115af206c0, clickElement {id=f.63C9A8795539007ED2179E96EC416A39.d.1B032F7B0795632BB42A3E2916734F02.e.299}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 132.0.2957.127, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57849}, msedge: {msedgedriverVersion: 132.0.2957.127 (cbce079b96b..., userDataDir: C:\Users\hp\AppData\Local\T...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57849/devtoo..., se:cdpVersion: 132.0.2957.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:31803/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[CEdgeDriver: MicrosoftEdge on windows (6d8223150a96451203580e115af206c0)] -> xpath: //input[@id='id_submitbutton']]
+Session ID: 6d8223150a96451203580e115af206c0
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at jdk.internal.reflect.GeneratedMethodAccessor23.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:249)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxy$2(WebDriverDecorator.java:321)
+	at net.bytebuddy.renamed.java.lang.Object$ByteBuddy$1iK4iWH0.click(Unknown Source)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:68)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[29-01-2025T15:55:42 - [TEST_SUITE][FAILED] - PLMS81 Test Suite: Test Cases/PLMS81_ManagePeople FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_/input_Email_submitbutton'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at PLMS81_ManagePeople.run(PLMS81_ManagePeople:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1738146323015.run(TempTestSuite1738146323015.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="submit" class="btn btn-round
+                    btn-primary
+                    
+                    " name="submitbutton" id="id_submitbutton" value="Create User"> is not clickable at point (256, 644). Other element would receive the click: <div class="card card-block content-shadow not-card" id="yui_3_17_2_1_1738146490565_50">...</div>
+  (Session info: MicrosoftEdge=132.0.2957.127)
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CEdgeDriver
+Command: [6d8223150a96451203580e115af206c0, clickElement {id=f.63C9A8795539007ED2179E96EC416A39.d.1B032F7B0795632BB42A3E2916734F02.e.299}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 132.0.2957.127, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57849}, msedge: {msedgedriverVersion: 132.0.2957.127 (cbce079b96b..., userDataDir: C:\Users\hp\AppData\Local\T...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57849/devtoo..., se:cdpVersion: 132.0.2957.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:31803/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[CEdgeDriver: MicrosoftEdge on windows (6d8223150a96451203580e115af206c0)] -> xpath: //input[@id='id_submitbutton']]
+Session ID: 6d8223150a96451203580e115af206c0
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at jdk.internal.reflect.GeneratedMethodAccessor23.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:249)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxy$2(WebDriverDecorator.java:321)
+	at net.bytebuddy.renamed.java.lang.Object$ByteBuddy$1iK4iWH0.click(Unknown Source)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:68)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

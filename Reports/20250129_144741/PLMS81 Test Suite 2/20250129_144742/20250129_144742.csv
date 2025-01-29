@@ -1,0 +1,37 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PLMS81 Test Suite 2,Chrome 132.0.0.0,,,29-01-2025 14:48:07,29-01-2025 14:55:45,7m - 38.658s,PASSED
+,,,,,,,
+Test Cases/PLMS81_Create_Course and Category,Chrome 132.0.0.0,,,29-01-2025 14:48:08,29-01-2025 14:55:45,7m - 36.829s,PASSED
+"openBrowser("""")",Chrome 132.0.0.0,,,29-01-2025 14:48:11,29-01-2025 14:48:25,14.233s,PASSED
+"navigateToUrl(""https://plms-php81.paradisolms.net/login/index.php"")",Chrome 132.0.0.0,,,29-01-2025 14:48:25,29-01-2025 14:48:30,4.608s,PASSED
+"setText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username""), ""admin"")",Chrome 132.0.0.0,,,29-01-2025 14:48:30,29-01-2025 14:48:32,2.085s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password""), ""ed/1/AZbo1YX04df+rN1oA=="")",Chrome 132.0.0.0,,,29-01-2025 14:48:32,29-01-2025 14:48:33,1.074s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin""))",Chrome 132.0.0.0,,,29-01-2025 14:48:33,29-01-2025 14:48:34,0.932s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/button_Log in""))",Chrome 132.0.0.0,,,29-01-2025 14:48:34,29-01-2025 14:48:40,6.017s,PASSED
+randomName = randomAlphabetic(8).toLowerCase(),Chrome 132.0.0.0,,,29-01-2025 14:48:40,29-01-2025 14:48:40,0.081s,PASSED
+"click(findTestObject(""Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses""))",Chrome 132.0.0.0,,,29-01-2025 14:48:40,29-01-2025 14:48:41,1.198s,PASSED
+"click(findTestObject(""Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog""))",Chrome 132.0.0.0,,,29-01-2025 14:48:41,29-01-2025 14:48:46,5.265s,PASSED
+"click(findTestObject(""Object Repository/Page_PLMS Course Categories/button_Add New""))",Chrome 132.0.0.0,,,29-01-2025 14:48:46,29-01-2025 14:48:48,1.546s,PASSED
+"click(findTestObject(""Object Repository/Page_PLMS Course Categories/a_Category""))",Chrome 132.0.0.0,,,29-01-2025 14:48:48,29-01-2025 14:49:25,37.113s,PASSED
+"setText(findTestObject(""Object Repository/Page_PLMS Add New Category/input_Category Name_name""), randomName)",Chrome 132.0.0.0,,,29-01-2025 14:49:25,29-01-2025 14:49:30,4.645s,PASSED
+"click(findTestObject(""Object Repository/Page_PLMS Add New Category/input_Description_submitbutton""))",Chrome 132.0.0.0,,,29-01-2025 14:49:30,29-01-2025 14:49:35,5.108s,PASSED
+"click(findTestObject(""Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses""))",Chrome 132.0.0.0,,,29-01-2025 14:49:35,29-01-2025 14:49:38,2.991s,PASSED
+"click(findTestObject(""Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog""))",Chrome 132.0.0.0,,,29-01-2025 14:49:38,29-01-2025 14:49:40,2.610s,PASSED
+"click(findTestObject(""Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search""))",Chrome 132.0.0.0,,,29-01-2025 14:49:40,29-01-2025 14:50:13,32.413s,PASSED
+"setText(findTestObject(""Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41""), randomName)",Chrome 132.0.0.0,,,29-01-2025 14:50:13,29-01-2025 14:51:16,1m - 3.677s,PASSED
+waitForPageLoad(5),Chrome 132.0.0.0,,,29-01-2025 14:51:16,29-01-2025 14:51:17,0.703s,PASSED
+"click(findTestObject(""Object Repository/Page_Course and Category Management/span_Courses""))",Chrome 132.0.0.0,,,29-01-2025 14:51:17,29-01-2025 14:51:18,0.812s,PASSED
+"click(findTestObject(""Object Repository/Page_PLMS Course Categories/button_Add New""))",Chrome 132.0.0.0,,,29-01-2025 14:51:18,29-01-2025 14:51:19,1.081s,PASSED
+"click(findTestObject(""Object Repository/Page_PLMS Course Categories/a_Course""))",Chrome 132.0.0.0,,,29-01-2025 14:51:19,29-01-2025 14:51:57,37.935s,PASSED
+"click(findTestObject(""Object Repository/Page_PLMS Add a New Course/button_Create""))",Chrome 132.0.0.0,,,29-01-2025 14:51:57,29-01-2025 14:52:29,31.931s,PASSED
+"setText(findTestObject(""Object Repository/Page_PLMS Add a New Course/input_Course Name_fullname""), randomName)",Chrome 132.0.0.0,,,29-01-2025 14:52:29,29-01-2025 14:52:30,0.965s,PASSED
+"click(findTestObject(""Object Repository/Page_PLMS Add a New Course/li_Next""))",Chrome 132.0.0.0,,,29-01-2025 14:52:30,29-01-2025 14:53:02,31.798s,PASSED
+delay(10),Chrome 132.0.0.0,,,29-01-2025 14:53:02,29-01-2025 14:53:12,10.093s,PASSED
+waitForPageLoad(5),Chrome 132.0.0.0,,,29-01-2025 14:53:12,29-01-2025 14:53:12,0.277s,PASSED
+"click(findTestObject(""Object Repository/Page_PLMS Add a New Course/input_Previous_saveanddisplay""))",Chrome 132.0.0.0,,,29-01-2025 14:53:12,29-01-2025 14:53:13,1.298s,PASSED
+"click(findTestObject(""Page_PLMS Add a New Course/Page_Course bottelneck 2026 category new cat 0309/a_Skip to main content_yui_3_17_2_1_1738139221172_99""))",Chrome 132.0.0.0,,,29-01-2025 14:53:13,29-01-2025 14:53:59,46.149s,PASSED
+"navigateToUrl(""https://plms-php81.paradisolms.net/course/"")",Chrome 132.0.0.0,,,29-01-2025 14:54:00,29-01-2025 14:54:07,7.786s,PASSED
+"click(findTestObject(""Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search""))",Chrome 132.0.0.0,,,29-01-2025 14:54:07,29-01-2025 14:54:39,31.704s,PASSED
+"setText(findTestObject(""Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41""), randomName)",Chrome 132.0.0.0,,,29-01-2025 14:54:39,29-01-2025 14:55:43,1m - 3.970s,PASSED
+waitForPageLoad(5),Chrome 132.0.0.0,,,29-01-2025 14:55:43,29-01-2025 14:55:43,0.055s,PASSED
+closeBrowser(),Chrome 132.0.0.0,,,29-01-2025 14:55:43,29-01-2025 14:55:45,2.277s,PASSED

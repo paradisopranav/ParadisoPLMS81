@@ -1,0 +1,154 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Manage People/a_New User",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1737963892265_48\u0027]/div/div[2]/div/div/div[3]/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Entire LMS Peoples\u0027])[2]/following::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_Manage People/a_New User_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Manage People/input_Status_id",
+      "brokenLocator": "//input[@id\u003d\u0027checkboxc25d25def2\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form[@id\u003d\u0027form-bulk-actions\u0027]/div/table/tbody/tr/td/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_Manage People/input_Status_id_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Manage People/input_Status_id_1",
+      "brokenLocator": "//input[@id\u003d\u0027checkbox5a27c63967\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form[@id\u003d\u0027form-bulk-actions\u0027]/div/table/tbody/tr/td/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_Manage People/input_Status_id_1_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Manage People/a_Suspend",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1737964008722_411\u0027]/div/div/div[3]/div/a[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Entire LMS Peoples\u0027])[2]/following::a[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_Manage People/a_Suspend_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/button_Yes",
+      "brokenLocator": "//button[@id\u003d\u0027single_button679739fa0cfa419\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027modal-footer\u0027]/div/div/form/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_/button_Yes_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/button_Continue",
+      "brokenLocator": "//button[@id\u003d\u0027single_button679739fed48fb19\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//section[@id\u003d\u0027region-main\u0027]/div/div/div[2]/form/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_/button_Continue_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Manage People/span_Activate User Account",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1737964054298_402\u0027]/div/a[2]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Login As\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_Manage People/span_Activate User Account_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Manage People/input_Status_id_1_2",
+      "brokenLocator": "//input[@id\u003d\u0027checkbox266a2793c3\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form[@id\u003d\u0027form-bulk-actions\u0027]/div/table/tbody/tr/td/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_Manage People/input_Status_id_1_2_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Manage People/a_Add to Cohort",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1737964091061_411\u0027]/div/div/div[3]/div/a[4]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Entire LMS Peoples\u0027])[2]/following::a[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_Manage People/a_Add to Cohort_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Manage People/span_Email Address_closebutton",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1737964225330_48\u0027]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div[2]/div/span/span/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div[2]/div/span/span/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_Manage People/span_Email Address_closebutton_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Manage People/i_New User_wid wid-dots",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1737968277697_411\u0027]/div/div/div[3]/div/button/i",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/button/i",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_Manage People/i_New User_wid wid-dots_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Manage People/input_Status_id_1_2_3",
+      "brokenLocator": "//input[@id\u003d\u0027checkbox51cc59fbb8\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form[@id\u003d\u0027form-bulk-actions\u0027]/div/table/tbody/tr/td/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_Manage People/input_Status_id_1_2_3_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Manage People/span_Delete",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1737964303513_415\u0027]/span/ul/li[5]/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Enable\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_Manage People/span_Delete_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Yes",
+      "brokenLocator": "//button[@id\u003d\u0027single_button67973b2ccc5b320\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027modal-footer\u0027]/div/div/form/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Yes_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Continue",
+      "brokenLocator": "//button[@id\u003d\u0027single_button67973b309731f20\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027notice\u0027]/div[2]/form/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250129_155521/PLMS81 Test Suite/20250129_155523/Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Continue_idRelative.png"
+    }
+  ]
+}
