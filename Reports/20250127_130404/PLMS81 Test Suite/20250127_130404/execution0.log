@@ -2591,10 +2591,7 @@ PLMS81_AutomationHub.run(PLMS81_AutomationHub:89)
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
-</log>
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE log SYSTEM "logger.dtd">
-<log>
 <record>
   <date>2025-01-29T08:14:48.629163800Z</date>
   <millis>1738138488629</millis>
@@ -2621,3 +2618,4 @@ PLMS81_AutomationHub.run(PLMS81_AutomationHub:89)
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
+</log></log>

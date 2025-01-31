@@ -43,3 +43,14 @@ WebUI.click(findTestObject('Page_PLMS Administration Users Accounts Upload Users
 
 WebUI.click(findTestObject('Page_PLMS Administration Users Accounts Upload Users/input__submitbutton'))
 
+TestObject textElement = findTestObject('Object Repository/Page_PLMS Administration Users Accounts Upload Users/Page_PLMS Administration Users Accounts Upload Users/span_susa2dom.com')
+
+//write a code to print below vaibale value
+String extractedText = WebUI.getText(textElement)
+
+WebUI.navigateToUrl('https://plms-php81.paradisolms.net/local/people/index.php')
+WebUI.setText(findTestObject('Object Repository/Page_Manage People/input_Manage People_txt'), extractedText)
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Manage People/input_Manage People_txt'), Keys.chord(Keys.ENTER))
+
+

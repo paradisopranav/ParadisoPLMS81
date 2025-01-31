@@ -409,6 +409,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_PLMS Add a New Course/Page_Course bottelneck 2026 category new cat 0309/a_Skip to main content_yui_3_17_2_1_1738139221172_99_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Administration Users Accounts Upload Users/Page_PLMS Administration Users Accounts Upload Users/span_susa2dom.com",
+      "brokenLocator": "//td[@id\u003d\u0027yui_3_17_2_1_1738314596394_18\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027j\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_PLMS Administration Users Accounts Upload Users/Page_PLMS Administration Users Accounts Upload Users/span_susa2dom.com_neighbor.png"
     }
   ]
 }
