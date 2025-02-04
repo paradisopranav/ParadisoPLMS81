@@ -34,14 +34,13 @@ WebUI.click(findTestObject('Object Repository/Page_Paradiso LMS Log in to the si
 // Generate a random name with 8 characters
 String randomName = RandomStringUtils.randomAlphabetic(8).toLowerCase()
 
-
 WebUI.click(findTestObject('Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses'))
 
 WebUI.click(findTestObject('Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog'))
 
-WebUI.click(findTestObject('Page_PLMS Course Categories/button_Add New'))
+WebUI.click(findTestObject('Page_PLMS Course Categories/Page_PLMS Course Categories/button_Add New'))
 
-WebUI.click(findTestObject('Object Repository/Page_PLMS Course Categories/a_Category'))
+WebUI.click(findTestObject('Page_PLMS Course Categories/a_Category'))
 
 WebUI.setText(findTestObject('Object Repository/Page_PLMS Add New Category/input_Category Name_name'), randomName)
 
@@ -57,6 +56,8 @@ WebUI.setText(findTestObject('Object Repository/Page_PLMS Course Categories/inpu
     randomName)
 
 WebUI.waitForPageLoad(5)
+
+WebUI.delay(10)
 
 //Course Creation Steps
 /*
@@ -82,8 +83,8 @@ WebUI.waitForPageLoad(5)
 
 WebUI.click(findTestObject('Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload'))
 
-WebUI.uploadFile(findTestObject('Page_PLMS Add a New Course/Page_PLMS Add a New Course/input_Attachment_repo_upload_file'), 
-    image)
+WebUI.uploadFile(findTestObject('Page_PLMS Add a New Course/Page_PLMS Add a New Course/input_Attachment_repo_upload_file'),
+	image)
 
 WebUI.click(findTestObject('Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload'))
 
@@ -97,11 +98,10 @@ WebUI.navigateToUrl('https://plms-php81.paradisolms.net/course/')
 
 WebUI.click(findTestObject('Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search'))
 
-WebUI.setText(findTestObject('Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41'), 
-    randomName)
+WebUI.setText(findTestObject('Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41'),
+	randomName)
 
 WebUI.waitForPageLoad(5)
 */
-
 WebUI.closeBrowser()
 

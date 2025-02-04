@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>PLMS81_Create_Course and Category</name>
+   <name>PLMS81_Create_Category</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

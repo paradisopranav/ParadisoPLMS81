@@ -15,7 +15,7 @@
       <guid>ab00b509-0ae7-4104-b879-caf944564dd4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/PLMS81_Create_Course and Category</testCaseId>
+      <testCaseId>Test Cases/PLMS81_Create_Category</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

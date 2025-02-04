@@ -34,41 +34,16 @@ WebUI.click(findTestObject('Object Repository/Page_Paradiso LMS Log in to the si
 // Generate a random name with 8 characters
 String randomName = RandomStringUtils.randomAlphabetic(8).toLowerCase()
 
-
-WebUI.click(findTestObject('Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses'))
-
-WebUI.click(findTestObject('Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog'))
-
-WebUI.click(findTestObject('Page_PLMS Course Categories/button_Add New'))
-
-WebUI.click(findTestObject('Object Repository/Page_PLMS Course Categories/a_Category'))
-
-WebUI.setText(findTestObject('Object Repository/Page_PLMS Add New Category/input_Category Name_name'), randomName)
-
-WebUI.click(findTestObject('Object Repository/Page_PLMS Add New Category/input_Description_submitbutton'))
-
-WebUI.click(findTestObject('Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses'))
-
-WebUI.click(findTestObject('Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog'))
-
-WebUI.click(findTestObject('Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search'))
-
-WebUI.setText(findTestObject('Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41'), 
-    randomName)
-
-WebUI.waitForPageLoad(5)
-
-//Course Creation Steps
-/*
 WebUI.click(findTestObject('Object Repository/Page_Course and Category Management/span_Courses'))
+
 WebUI.click(findTestObject('Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses'))
 
 WebUI.click(findTestObject('Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog'))
 
 //WebUI.click(findTestObject('Object Repository/Page_Course and Category Management/span_Catalog'))
-WebUI.click(findTestObject('Page_PLMS Course Categories/button_Add New'))
+WebUI.click(findTestObject('Page_PLMS Course Categories/Page_PLMS Course Categories/button_Add New'))
 
-WebUI.click(findTestObject('Object Repository/Page_PLMS Course Categories/a_Course'))
+WebUI.click(findTestObject('Page_PLMS Course Categories/a_Course'))
 
 WebUI.click(findTestObject('Object Repository/Page_PLMS Add a New Course/button_Create'))
 
@@ -101,7 +76,6 @@ WebUI.setText(findTestObject('Object Repository/Page_PLMS Course Categories/inpu
     randomName)
 
 WebUI.waitForPageLoad(5)
-*/
 
-WebUI.closeBrowser()
+//WebUI.closeBrowser()
 

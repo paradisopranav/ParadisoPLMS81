@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Add New</name>
    <tag></tag>
-   <elementGuidId>438f23bf-0952-4dcd-a800-0a5ff5005d53</elementGuidId>
+   <elementGuidId>f3b7986c-892b-4650-b9bf-0e545f83469f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#yui_3_17_2_1_1738665668389_42</value>
+         <value>#yui_3_17_2_1_1738668994150_42</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='yui_3_17_2_1_1738665668389_42']</value>
+         <value>//button[@id='yui_3_17_2_1_1738668994150_42']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a393724d-d8b9-4d4b-85d9-71098d463669</webElementGuid>
+      <webElementGuid>f5d89190-f905-4ca5-a3f1-b7763ff8c2cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4a2a9f43-621c-410e-bcf9-fd7275aee778</webElementGuid>
+      <webElementGuid>f2d982ad-61fe-453f-982f-295a827a469d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary dropdown-toggle m-0</value>
-      <webElementGuid>d842bc8c-82af-471d-8fcf-1c53096bf669</webElementGuid>
+      <webElementGuid>401d19ec-05d8-4d08-9180-7d23ca8f2ff4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>446e4bb9-24f0-40c1-83c0-2b0c5c9b439d</webElementGuid>
+      <webElementGuid>e4f98d16-0fe8-4949-83c0-5f8d50bfa9ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4f123895-0662-413e-a4c6-0519fc743cd5</webElementGuid>
+      <webElementGuid>2d977354-a054-4f61-8876-45f99de2ec8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,15 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4b164400-cb40-4419-ae0c-0340b764b3a7</webElementGuid>
+      <webElementGuid>e729eba0-3c2a-45fb-90c5-96de2487e59f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_3_17_2_1_1738668994150_42</value>
+      <webElementGuid>75ba8084-2b1c-4ad1-8a4d-34a626c50759</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,39 +85,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Add New  + </value>
-      <webElementGuid>fc6d1af7-8a27-47e2-8b40-052848027de9</webElementGuid>
+      <webElementGuid>76be4dc0-c38f-4c03-a82b-945526376ebf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1738665668389_42&quot;)</value>
-      <webElementGuid>a8fa9a3b-2620-4020-bbbd-533bd0676fd5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>yui_3_17_2_1_1738665668389_42</value>
-      <webElementGuid>632549d6-c08a-4fe2-9fa4-b8af660d1da9</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1738668994150_42&quot;)</value>
+      <webElementGuid>94a0ad79-3a10-422c-b872-42c16a91c32a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='yui_3_17_2_1_1738665668389_42']</value>
-      <webElementGuid>766a6614-51d2-4592-8827-9f32a984de5c</webElementGuid>
+      <value>//button[@id='yui_3_17_2_1_1738668994150_42']</value>
+      <webElementGuid>14520b46-0320-4bf9-a213-34b29348a8e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1738665668389_43']/button</value>
-      <webElementGuid>5b1d4aba-581b-4621-b811-48453f39f48d</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1738668994150_43']/button</value>
+      <webElementGuid>5d358089-b494-47e9-b96f-b6941bbb130b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Courses'])[1]/following::button[1]</value>
-      <webElementGuid>5b030bdb-ea84-4540-bfd6-3b6af411df27</webElementGuid>
+      <webElementGuid>22a04ec9-29b6-42a2-9281-a9d7ac026578</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Course catalog'])[1]/following::button[1]</value>
-      <webElementGuid>b84bfbd0-f90e-408e-824a-d3663a44677e</webElementGuid>
+      <webElementGuid>0ac83744-f6c1-415e-849e-460ef6d1a790</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Course'])[3]/preceding::button[1]</value>
-      <webElementGuid>64bc8bdb-46d4-4d4f-8a67-1982230245d8</webElementGuid>
+      <webElementGuid>c2c8fd6a-7735-4bca-a01f-7103968f5eee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add New']/parent::*</value>
-      <webElementGuid>dc0941c4-7026-476f-9cea-086c8f7baf05</webElementGuid>
+      <webElementGuid>aa2ad1d5-8204-4a80-b00e-12bedd5f4f77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,38 +149,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]/div/div/button</value>
-      <webElementGuid>6824a9aa-f36e-46e9-a715-aaed2bcd4dba</webElementGuid>
+      <webElementGuid>4cb9d1c4-ec3f-403f-bec0-52f8a900576d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'yui_3_17_2_1_1738665668389_42' and (text() = 'Add New  + ' or . = 'Add New  + ')]</value>
-      <webElementGuid>c4e9ca64-766d-4d9c-afe7-4b9c8c34a86f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[17]</value>
-      <webElementGuid>ee1680af-7010-4052-95a0-786c1b00350b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='page-header-desc']/div[2]/div/div/button</value>
-      <webElementGuid>cb8ec950-e588-4df3-b173-5adce8dd6764</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Add New  + ' or . = 'Add New  + ')]</value>
-      <webElementGuid>be6d5278-4eea-47c3-93fb-88b1a5c6fcc6</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'yui_3_17_2_1_1738668994150_42' and (text() = 'Add New  + ' or . = 'Add New  + ')]</value>
+      <webElementGuid>e1255fbc-934d-4e3d-88ec-1ec5fb8ea482</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

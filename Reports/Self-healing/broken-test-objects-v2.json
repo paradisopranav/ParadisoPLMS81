@@ -419,6 +419,66 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_PLMS Administration Users Accounts Upload Users/Page_PLMS Administration Users Accounts Upload Users/span_susa2dom.com_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Course Categories/button_Add New",
+      "brokenLocator": "//button[@id\u003d\u0027yui_3_17_2_1_1738665668389_42\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Manage Courses\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_PLMS Course Categories/button_Add New_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1738664160165_860\u0027]/div/div/div/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "internal:role\u003dbutton[name\u003d\"Upload\"i]",
+      "proposedLocatorMethod": "SMART_LOCATOR",
+      "recoveryMethod": "SMART_LOCATOR",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload_SMART_LOCATOR.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Add a New Course/Page_PLMS Add a New Course/input_Attachment_repo_upload_file",
+      "brokenLocator": "//input[@id\u003d\u0027yui_3_17_2_1_1738664160165_1026\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_PLMS Add a New Course/Page_PLMS Add a New Course/input_Attachment_repo_upload_file_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Course Categories/button_Add New",
+      "brokenLocator": "//button[@id\u003d\u0027yui_3_17_2_1_1738665668389_42\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//button[@type\u003d\u0027button\u0027])[17]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1738664160165_860\u0027]/div/div/div/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Choose licence\u0027])[2]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PLMS Course Categories/Page_PLMS Course Categories/button_Add New",
+      "brokenLocator": "//button[@id\u003d\u0027yui_3_17_2_1_1738668994150_42\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Manage Courses\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_PLMS Course Categories/Page_PLMS Course Categories/button_Add New_neighbor.png"
     }
   ]
 }
