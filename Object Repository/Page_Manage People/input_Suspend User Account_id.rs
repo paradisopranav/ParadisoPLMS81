@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='checkbox025643dffb']</value>
+         <value>//form[@id='form-bulk-actions']/div/table/tbody/tr[2]/td/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

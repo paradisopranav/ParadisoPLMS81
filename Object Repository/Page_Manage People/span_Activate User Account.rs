@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='yui_3_17_2_1_1737964054298_402']/div/a[2]/span</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Login As'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

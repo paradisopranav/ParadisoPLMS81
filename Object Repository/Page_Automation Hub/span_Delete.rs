@@ -6,12 +6,12 @@
    <elementGuidId>8787b4be-2f2a-40da-a429-b477a7aa7524</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='yui_3_17_2_1_1737541016373_27']/div[3]/span[2]/div/a[3]/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.add.rules_btn.delete_rule_all > span.text_local_enroll</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Task logs'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

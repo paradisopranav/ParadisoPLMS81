@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='yui_3_17_2_1_1737971659058_661']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose licence'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
          <value>internal:role=button[name=&quot;Upload&quot;i]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

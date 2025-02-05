@@ -6,12 +6,12 @@
    <elementGuidId>2cc25c2d-1493-4e28-82e4-c47852679730</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='yui_3_17_2_1_1737460991038_42']/div/div/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.dropdown-item.course1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Course')])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

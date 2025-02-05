@@ -6,12 +6,12 @@
    <elementGuidId>18e172ae-2519-4e35-b8fa-f1c7855a8290</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//td[@id='yui_3_17_2_1_1738314596394_18']/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#yui_3_17_2_1_1738314596394_18 > span.uunormal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='j'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

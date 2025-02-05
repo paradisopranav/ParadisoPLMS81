@@ -6,12 +6,12 @@
    <elementGuidId>0d75372f-8d50-472a-8af7-c0e8793a4a9f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='yui_3_17_2_1_1737460997816_363']/ul/li</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li.btn.btn-primary.btn-round.next-step</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::li[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

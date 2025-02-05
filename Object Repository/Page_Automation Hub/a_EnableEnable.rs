@@ -6,12 +6,12 @@
    <elementGuidId>69d4f15d-49e7-4a8e-8387-6abf4dc0d5d9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='enable_rule-627']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#enable_rule-627</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[3]/following::a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

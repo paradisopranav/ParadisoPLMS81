@@ -6,12 +6,6 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>ea5943b0-d624-4d16-8459-c0a1c36741b8</testCaseGuid>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>297c810d-a626-4716-af1e-3e1a6066090f</variableId>
-   </variableLinks>
    <variable>
       <defaultValue>'C:\\\\Users\\\\hp\\\\Downloads\\\\MicrosoftTeams.png'</defaultValue>
       <description></description>

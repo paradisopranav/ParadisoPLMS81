@@ -6,12 +6,12 @@
    <elementGuidId>3f4468f3-dc6d-4d6e-a5b4-7fff330bb254</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='yui_3_17_2_1_1737460953445_42']/div/div/a[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.dropdown-item.category1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Category')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>6778d7be-5b95-47e1-801e-7a7eceb28271</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='selectall627']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#selectall627</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='mortalEngines']/tbody/tr/td/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

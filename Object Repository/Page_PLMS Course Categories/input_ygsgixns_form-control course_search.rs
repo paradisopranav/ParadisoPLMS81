@@ -6,12 +6,12 @@
    <elementGuidId>b5cbed75-747d-4075-817a-2ad9ebaef08f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>ottel</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input.form-control.course_search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

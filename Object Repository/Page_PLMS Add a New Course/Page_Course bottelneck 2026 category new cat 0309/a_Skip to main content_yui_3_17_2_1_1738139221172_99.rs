@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='yui_3_17_2_1_1738139221172_99']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/following::a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

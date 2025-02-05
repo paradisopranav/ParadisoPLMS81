@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='yui_3_17_2_1_1737968277697_416']/span/ul/li[3]/a/span</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

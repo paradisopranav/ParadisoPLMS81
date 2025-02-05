@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='form-bulk-actions']/div/table/tbody/tr/td[9]/span[2]/div/a</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Never'])[1]/following::a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

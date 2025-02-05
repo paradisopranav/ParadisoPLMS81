@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='yui_3_17_2_1_1738668994150_42']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Courses'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//p[@id='yui_3_17_2_1_1737968277697_432']</value>
+         <value>//div[@id='id_messagebodyeditable']/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
