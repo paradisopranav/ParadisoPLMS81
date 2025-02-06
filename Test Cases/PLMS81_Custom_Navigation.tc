@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Custom_Navigation</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1835503-d9cd-46d7-bd27-db703b49fc03</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3895ec37-d565-43b4-8334-03d5ef2bf10e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>197d873a-ba33-41b8-8987-6a4e8307eadf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'select2-roles-result-4iph--1'</defaultValue>
+      <description></description>
+      <id>3895ec37-d565-43b4-8334-03d5ef2bf10e</id>
+      <masked>false</masked>
+      <name>Siteadmin</name>
+   </variable>
+   <variable>
+      <defaultValue>'select2-roles-result-iaz9-5'</defaultValue>
+      <description></description>
+      <id>197d873a-ba33-41b8-8987-6a4e8307eadf</id>
+      <masked>false</masked>
+      <name>User</name>
+   </variable>
+</TestCaseEntity>
