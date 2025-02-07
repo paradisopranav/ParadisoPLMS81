@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PLMS81 Test Suite 2,Chrome 133.0.6943.59,,,07-02-2025 10:51:08,07-02-2025 10:52:36,1m - 27.637s,FAILED
+,,,,,,,
+Test Cases/PLMS81_LoginPage Test,Chrome 133.0.6943.59,,,07-02-2025 10:51:10,07-02-2025 10:52:19,1m - 9.166s,PASSED
+"openBrowser("""")",Chrome 133.0.6943.59,,,07-02-2025 10:51:12,07-02-2025 10:51:47,35.220s,PASSED
+maximizeWindow(),Chrome 133.0.6943.59,,,07-02-2025 10:51:47,07-02-2025 10:51:47,0.229s,PASSED
+"navigateToUrl(""https://plms-php81.paradisolms.net/login/index.php"")",Chrome 133.0.6943.59,,,07-02-2025 10:51:47,07-02-2025 10:51:54,6.699s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password""), ""9NLz+4tGZcQ="")",Chrome 133.0.6943.59,,,07-02-2025 10:51:54,07-02-2025 10:51:56,1.739s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username""))",Chrome 133.0.6943.59,,,07-02-2025 10:51:56,07-02-2025 10:51:57,1.264s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b""))",Chrome 133.0.6943.59,,,07-02-2025 10:51:57,07-02-2025 10:51:59,1.923s,PASSED
+"setText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username""), ""admin"")",Chrome 133.0.6943.59,,,07-02-2025 10:51:59,07-02-2025 10:52:02,3.021s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password""), ""ed/1/AZbo1YX04df+rN1oA=="")",Chrome 133.0.6943.59,,,07-02-2025 10:52:02,07-02-2025 10:52:04,1.863s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin""))",Chrome 133.0.6943.59,,,07-02-2025 10:52:04,07-02-2025 10:52:06,1.889s,PASSED
+"click(findTestObject(""Object Repository/Page_Paradiso LMS Log in to the site/button_Log in""))",Chrome 133.0.6943.59,,,07-02-2025 10:52:06,07-02-2025 10:52:19,12.935s,PASSED
+,,,,,,,
+Test Cases/Course Creation with Image,Chrome 133.0.6943.59,,,07-02-2025 10:52:34,07-02-2025 10:52:36,1.570s,FAILED
+"DATA BINDING - {""(Default) image"":""C:\\\\Users\\\\hp\\\\Downloads\\\\MicrosoftTeams.png""}",,,,,,,
+randomName = randomAlphabetic(8).toLowerCase(),Chrome 133.0.6943.59,,,07-02-2025 10:52:34,07-02-2025 10:52:34,0.002s,PASSED
+"click(findTestObject(""Object Repository/Page_Course and Category Management/span_Courses""))",Chrome 133.0.6943.59,,,07-02-2025 10:52:34,07-02-2025 10:52:36,1.416s,FAILED

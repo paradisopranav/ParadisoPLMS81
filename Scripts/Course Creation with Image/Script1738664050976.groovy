@@ -18,6 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import org.apache.commons.lang.RandomStringUtils as RandomStringUtils
 
+/*
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://plms-php81.paradisolms.net/login/index.php')
@@ -30,6 +31,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Paradiso LMS Log i
 WebUI.click(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin'))
 
 WebUI.click(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/button_Log in'))
+*/
 
 // Generate a random name with 8 characters
 String randomName = RandomStringUtils.randomAlphabetic(8).toLowerCase()

@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite Collection" time="269.689" tests="4" failures="0" errors="0">
+   <testsuite name="PLMS81 Test Suite" tests="2" failures="0" errors="0" time="245.689" skipped="0" timestamp="07-02-2025T10:56:53" hostname="hp - DESKTOP-20CTJHV.Optilink" id="Test Suites/PLMS81 Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\hp\\OneDrive - PARADISO\\Documents\\Paradiso Data\\ParadisoPLMS81\\Reports\\20250207_105626\\PLMS81 Test Suite\\20250207_105627"/>
+         <property name="logFiles" value="C:\\Users\\hp\\OneDrive - PARADISO\\Documents\\Paradiso Data\\ParadisoPLMS81\\Reports\\20250207_105626\\PLMS81 Test Suite\\20250207_105627\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hp - DESKTOP-20CTJHV.Optilink"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="browser" value="Edge Chromium 132.0.2957.140"/>
+         <property name="hostAddress" value="192.168.10.8"/>
+         <property name="sessionId" value="4f7efffcb7345ad5ff1faa063a999127"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/PLMS81_LoginPage Test" time="60.873" classname="Test Cases/PLMS81_LoginPage Test" status="PASSED">
+         <system-out><![CDATA[07-02-2025T10:56:55 - [TEST_CASE][PASSED] - Test Cases/PLMS81_LoginPage Test: Test Cases/PLMS81_LoginPage Test
+
+07-02-2025T10:56:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+07-02-2025T10:57:02 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+07-02-2025T10:57:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+07-02-2025T10:57:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+07-02-2025T10:57:26 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+07-02-2025T10:57:26 - [MESSAGE][PASSED] - Current window maximized
+
+07-02-2025T10:57:26 - [TEST_STEP][PASSED] - navigateToUrl("https://plms-php81.paradisolms.net/login/index.php"): Navigate to 'https://plms-php81.paradisolms.net/login/index.php' successfully
+
+07-02-2025T10:57:33 - [MESSAGE][PASSED] - Navigate to 'https://plms-php81.paradisolms.net/login/index.php' successfully
+
+07-02-2025T10:57:33 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password"), "9NLz+4tGZcQ="): Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+07-02-2025T10:57:34 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+07-02-2025T10:57:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username' is clicked on
+
+07-02-2025T10:57:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username' is clicked on
+
+07-02-2025T10:57:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b' is clicked on
+
+07-02-2025T10:57:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b' is clicked on
+
+07-02-2025T10:57:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'
+
+07-02-2025T10:57:40 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'
+
+07-02-2025T10:57:40 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password"), "ed/1/AZbo1YX04df+rN1oA=="): Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+07-02-2025T10:57:40 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+07-02-2025T10:57:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin' is clicked on
+
+07-02-2025T10:57:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin' is clicked on
+
+07-02-2025T10:57:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/button_Log in")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/button_Log in' is clicked on
+
+07-02-2025T10:57:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/button_Log in' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PLMS81_AutomationHub" time="182.813" classname="Test Cases/PLMS81_AutomationHub" status="PASSED">
+         <system-out><![CDATA[07-02-2025T10:57:56 - [TEST_CASE][PASSED] - Test Cases/PLMS81_AutomationHub: Test Cases/PLMS81_AutomationHub
+
+07-02-2025T10:57:58 - [TEST_STEP][PASSED] - navigateToUrl("https://plms-php81.paradisolms.net/local/enroll_by_profile/index.php/"): Navigate to 'https://plms-php81.paradisolms.net/local/enroll_by_profile/index.php/' successfully
+
+07-02-2025T10:58:05 - [MESSAGE][PASSED] - Navigate to 'https://plms-php81.paradisolms.net/local/enroll_by_profile/index.php/' successfully
+
+07-02-2025T10:58:05 - [TEST_STEP][PASSED] - randomName = randomAlphabetic(8).toLowerCase(): null
+
+07-02-2025T10:58:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/span_Add Rule")): Object: 'Object Repository/Page_Automation Hub/span_Add Rule' is clicked on
+
+07-02-2025T10:58:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/span_Add Rule' is clicked on
+
+07-02-2025T10:58:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Automation Hub/input_Name_id_name_field1"), randomName): Text 'hzsqnncb' is set on object 'Object Repository/Page_Automation Hub/input_Name_id_name_field1'
+
+07-02-2025T10:58:09 - [MESSAGE][PASSED] - Text 'hzsqnncb' is set on object 'Object Repository/Page_Automation Hub/input_Name_id_name_field1'
+
+07-02-2025T10:58:09 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Automation Hub/select_-- Select Option --CityTownCountryEm_55ab99"), "firstname", true): All options with value 'firstname' are selected in object 'Object Repository/Page_Automation Hub/select_-- Select Option --CityTownCountryEm_55ab99'  using regular expression
+
+07-02-2025T10:58:15 - [MESSAGE][PASSED] - All options with value 'firstname' are selected in object 'Object Repository/Page_Automation Hub/select_-- Select Option --CityTownCountryEm_55ab99'  using regular expression
+
+07-02-2025T10:58:15 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Automation Hub/select_-- Select Option --Containsmatches e_42dc74"), "exactmatch", true): All options with value 'exactmatch' are selected in object 'Object Repository/Page_Automation Hub/select_-- Select Option --Containsmatches e_42dc74'  using regular expression
+
+07-02-2025T10:58:18 - [MESSAGE][PASSED] - All options with value 'exactmatch' are selected in object 'Object Repository/Page_Automation Hub/select_-- Select Option --Containsmatches e_42dc74'  using regular expression
+
+07-02-2025T10:58:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Automation Hub/input_Value_textmatch1"), randomName): Text 'hzsqnncb' is set on object 'Object Repository/Page_Automation Hub/input_Value_textmatch1'
+
+07-02-2025T10:58:21 - [MESSAGE][PASSED] - Text 'hzsqnncb' is set on object 'Object Repository/Page_Automation Hub/input_Value_textmatch1'
+
+07-02-2025T10:58:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/input_Value_textmatch1")): Object: 'Object Repository/Page_Automation Hub/input_Value_textmatch1' is clicked on
+
+07-02-2025T10:58:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/input_Value_textmatch1' is clicked on
+
+07-02-2025T10:58:22 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Automation Hub/select_-- Select Option --CourseTenantLearn_c75734"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Automation Hub/select_-- Select Option --CourseTenantLearn_c75734'  using regular expression
+
+07-02-2025T10:58:25 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Automation Hub/select_-- Select Option --CourseTenantLearn_c75734'  using regular expression
+
+07-02-2025T10:58:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/input_bottelneck- 2025_elements")): Object: 'Object Repository/Page_Automation Hub/input_bottelneck- 2025_elements' is clicked on
+
+07-02-2025T10:58:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/input_bottelneck- 2025_elements' is clicked on
+
+07-02-2025T10:58:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/button_Save")): Object: 'Object Repository/Page_Automation Hub/button_Save' is clicked on
+
+07-02-2025T10:58:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/button_Save' is clicked on
+
+07-02-2025T10:58:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Automation Hub/input_Automation Hub_search"), randomName): Text 'hzsqnncb' is set on object 'Object Repository/Page_Automation Hub/input_Automation Hub_search'
+
+07-02-2025T10:58:29 - [MESSAGE][PASSED] - Text 'hzsqnncb' is set on object 'Object Repository/Page_Automation Hub/input_Automation Hub_search'
+
+07-02-2025T10:58:29 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Automation Hub/input_Automation Hub_search"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Automation Hub/input_Automation Hub_search'
+
+07-02-2025T10:58:32 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Automation Hub/input_Automation Hub_search'
+
+07-02-2025T10:58:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/input_Keep Enroll_selectall")): Object: 'Object Repository/Page_Automation Hub/input_Keep Enroll_selectall' is clicked on
+
+07-02-2025T10:58:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/input_Keep Enroll_selectall' is clicked on
+
+07-02-2025T10:58:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/span_Disable")): Object: 'Object Repository/Page_Automation Hub/span_Disable' is clicked on
+
+07-02-2025T10:58:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/span_Disable' is clicked on
+
+07-02-2025T10:58:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/button_OK")): Object: 'Object Repository/Page_Automation Hub/button_OK' is clicked on
+
+07-02-2025T10:59:09 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//button[@type='button'])[23]'. Please recheck the objects properties to make sure the desired element is located. 
+
+07-02-2025T10:59:09 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Automation Hub/button_OK'. Try using Self-healing.
+
+07-02-2025T10:59:09 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(//button[@type='button'])[23]'.
+
+07-02-2025T10:59:09 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//body[@id='page-local-enroll_by_profile-index']/div[3]/div/div/div[2]/button[2]'.
+
+07-02-2025T10:59:09 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[4]/following::button[1]'.
+
+07-02-2025T10:59:11 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/hp/OneDrive - PARADISO/Documents/Paradiso Data/ParadisoPLMS81/Reports/Self-healing/Object Repository/Page_Automation Hub/button_OK_neighbor.png
+
+07-02-2025T10:59:11 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Automation Hub/button_OK' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[4]/following::button[1]'.
+
+07-02-2025T10:59:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/button_OK' is clicked on
+
+07-02-2025T10:59:13 - [TEST_STEP][PASSED] - delay(15): Delayed 15 second(s)
+
+07-02-2025T10:59:28 - [MESSAGE][PASSED] - Delayed 15 second(s)
+
+07-02-2025T10:59:28 - [TEST_STEP][PASSED] - waitForPageLoad(5): Wait for page load successfully
+
+07-02-2025T10:59:28 - [MESSAGE][PASSED] - Wait for page load successfully
+
+07-02-2025T10:59:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/i_Disabled_wid wid-dots hideicon")): Object: 'Object Repository/Page_Automation Hub/i_Disabled_wid wid-dots hideicon' is clicked on
+
+07-02-2025T10:59:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/i_Disabled_wid wid-dots hideicon' is clicked on
+
+07-02-2025T10:59:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/a_EnableEnable")): Object: 'Object Repository/Page_Automation Hub/a_EnableEnable' is clicked on
+
+07-02-2025T10:59:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/a_EnableEnable' is clicked on
+
+07-02-2025T10:59:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/button_OK")): Object: 'Object Repository/Page_Automation Hub/button_OK' is clicked on
+
+07-02-2025T11:00:01 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//button[@type='button'])[23]'. Please recheck the objects properties to make sure the desired element is located. 
+
+07-02-2025T11:00:01 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Automation Hub/button_OK'. Try using Self-healing.
+
+07-02-2025T11:00:02 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Automation Hub/button_OK' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[4]/following::button[1]'.
+
+07-02-2025T11:00:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/button_OK' is clicked on
+
+07-02-2025T11:00:02 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+07-02-2025T11:00:12 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+07-02-2025T11:00:12 - [TEST_STEP][PASSED] - waitForPageLoad(5): Wait for page load successfully
+
+07-02-2025T11:00:12 - [MESSAGE][PASSED] - Wait for page load successfully
+
+07-02-2025T11:00:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/input_Keep Enroll_selectall")): Object: 'Object Repository/Page_Automation Hub/input_Keep Enroll_selectall' is clicked on
+
+07-02-2025T11:00:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/input_Keep Enroll_selectall' is clicked on
+
+07-02-2025T11:00:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/span_Delete")): Object: 'Object Repository/Page_Automation Hub/span_Delete' is clicked on
+
+07-02-2025T11:00:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/span_Delete' is clicked on
+
+07-02-2025T11:00:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/button_OK")): Object: 'Object Repository/Page_Automation Hub/button_OK' is clicked on
+
+07-02-2025T11:00:45 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//button[@type='button'])[23]'. Please recheck the objects properties to make sure the desired element is located. 
+
+07-02-2025T11:00:45 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Automation Hub/button_OK'. Try using Self-healing.
+
+07-02-2025T11:00:46 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Automation Hub/button_OK' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[4]/following::button[1]'.
+
+07-02-2025T11:00:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/button_OK' is clicked on
+
+07-02-2025T11:00:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/div_Automation Hub                         _90b4e9")): Object: 'Object Repository/Page_Automation Hub/div_Automation Hub                         _90b4e9' is clicked on
+
+07-02-2025T11:00:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/div_Automation Hub                         _90b4e9' is clicked on
+
+07-02-2025T11:00:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Automation Hub/input_Automation Hub_search"), ""): Text '' is set on object 'Object Repository/Page_Automation Hub/input_Automation Hub_search'
+
+07-02-2025T11:00:49 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Automation Hub/input_Automation Hub_search'
+
+07-02-2025T11:00:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/a_Task logs")): Object: 'Object Repository/Page_Automation Hub/a_Task logs' is clicked on
+
+07-02-2025T11:00:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/a_Task logs' is clicked on
+
+07-02-2025T11:00:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Automation Hub/a_File Uploaded Successfully_back_page mr-2")): Object: 'Object Repository/Page_Automation Hub/a_File Uploaded Successfully_back_page mr-2' is clicked on
+
+07-02-2025T11:00:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Automation Hub/a_File Uploaded Successfully_back_page mr-2' is clicked on
+
+07-02-2025T11:00:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+07-02-2025T11:00:59 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[07-02-2025T10:56:53 - [TEST_SUITE][PASSED] - PLMS81 Test Suite: Test Cases/PLMS81_AutomationHub]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="PLMS81 Test Suite 2" tests="2" failures="0" errors="0" time="129.018" skipped="0" timestamp="07-02-2025T10:56:54" hostname="hp - DESKTOP-20CTJHV.Optilink" id="Test Suites/PLMS81 Test Suite 2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\hp\\OneDrive - PARADISO\\Documents\\Paradiso Data\\ParadisoPLMS81\\Reports\\20250207_105626\\PLMS81 Test Suite 2\\20250207_105629"/>
+         <property name="logFiles" value="C:\\Users\\hp\\OneDrive - PARADISO\\Documents\\Paradiso Data\\ParadisoPLMS81\\Reports\\20250207_105626\\PLMS81 Test Suite 2\\20250207_105629\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hp - DESKTOP-20CTJHV.Optilink"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="browser" value="Chrome 133.0.6943.59"/>
+         <property name="hostAddress" value="192.168.10.8"/>
+         <property name="sessionId" value="e9aebc146c8b3c0b8b26b2208ddc6465"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/PLMS81_LoginPage Test" time="51.924" classname="Test Cases/PLMS81_LoginPage Test" status="PASSED">
+         <system-out><![CDATA[07-02-2025T10:56:56 - [TEST_CASE][PASSED] - Test Cases/PLMS81_LoginPage Test: Test Cases/PLMS81_LoginPage Test
+
+07-02-2025T10:56:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+07-02-2025T10:57:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+07-02-2025T10:57:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+07-02-2025T10:57:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+07-02-2025T10:57:22 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+07-02-2025T10:57:22 - [MESSAGE][PASSED] - Current window maximized
+
+07-02-2025T10:57:22 - [TEST_STEP][PASSED] - navigateToUrl("https://plms-php81.paradisolms.net/login/index.php"): Navigate to 'https://plms-php81.paradisolms.net/login/index.php' successfully
+
+07-02-2025T10:57:22 - [MESSAGE][PASSED] - Navigate to 'https://plms-php81.paradisolms.net/login/index.php' successfully
+
+07-02-2025T10:57:23 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password"), "9NLz+4tGZcQ="): Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+07-02-2025T10:57:33 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+07-02-2025T10:57:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username' is clicked on
+
+07-02-2025T10:57:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username' is clicked on
+
+07-02-2025T10:57:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b' is clicked on
+
+07-02-2025T10:57:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b' is clicked on
+
+07-02-2025T10:57:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'
+
+07-02-2025T10:57:37 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'
+
+07-02-2025T10:57:37 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password"), "ed/1/AZbo1YX04df+rN1oA=="): Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+07-02-2025T10:57:39 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'
+
+07-02-2025T10:57:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin' is clicked on
+
+07-02-2025T10:57:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin' is clicked on
+
+07-02-2025T10:57:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Paradiso LMS Log in to the site/button_Log in")): Object: 'Object Repository/Page_Paradiso LMS Log in to the site/button_Log in' is clicked on
+
+07-02-2025T10:57:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Paradiso LMS Log in to the site/button_Log in' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Course Creation with Image" time="74.723" classname="Test Cases/Course Creation with Image" status="PASSED">
+         <properties>
+            <property name="data_binding"><![CDATA[{"(Default) image":"C:\\\\Users\\\\hp\\\\Downloads\\\\MicrosoftTeams.png"}]]></property>
+         </properties>
+         <system-out><![CDATA[07-02-2025T10:57:48 - [TEST_CASE][PASSED] - Test Cases/Course Creation with Image: Test Cases/Course Creation with Image
+
+07-02-2025T10:57:52 - [TEST_STEP][PASSED] - randomName = randomAlphabetic(8).toLowerCase(): null
+
+07-02-2025T10:57:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Course and Category Management/span_Courses")): Object: 'Object Repository/Page_Course and Category Management/span_Courses' is clicked on
+
+07-02-2025T10:58:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Course and Category Management/span_Courses' is clicked on
+
+07-02-2025T10:58:06 - [TEST_STEP][PASSED] - click(findTestObject("Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses")): Object: 'Object Repository/Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses' is clicked on
+
+07-02-2025T10:58:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses' is clicked on
+
+07-02-2025T10:58:07 - [TEST_STEP][PASSED] - click(findTestObject("Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog")): Object: 'Object Repository/Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog' is clicked on
+
+07-02-2025T10:58:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog' is clicked on
+
+07-02-2025T10:58:14 - [TEST_STEP][PASSED] - click(findTestObject("Page_PLMS Course Categories/Page_PLMS Course Categories/button_Add New")): Object: 'Object Repository/Page_PLMS Course Categories/Page_PLMS Course Categories/button_Add New' is clicked on
+
+07-02-2025T10:58:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Course Categories/Page_PLMS Course Categories/button_Add New' is clicked on
+
+07-02-2025T10:58:15 - [TEST_STEP][PASSED] - click(findTestObject("Page_PLMS Course Categories/a_Course")): Object: 'Object Repository/Page_PLMS Course Categories/a_Course' is clicked on
+
+07-02-2025T10:58:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Course Categories/a_Course' is clicked on
+
+07-02-2025T10:58:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Add a New Course/button_Create")): Object: 'Object Repository/Page_PLMS Add a New Course/button_Create' is clicked on
+
+07-02-2025T10:58:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add a New Course/button_Create' is clicked on
+
+07-02-2025T10:58:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_PLMS Add a New Course/input_Course Name_fullname"), randomName): Text 'aiwangns' is set on object 'Object Repository/Page_PLMS Add a New Course/input_Course Name_fullname'
+
+07-02-2025T10:58:23 - [MESSAGE][PASSED] - Text 'aiwangns' is set on object 'Object Repository/Page_PLMS Add a New Course/input_Course Name_fullname'
+
+07-02-2025T10:58:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Add a New Course/li_Next")): Object: 'Object Repository/Page_PLMS Add a New Course/li_Next' is clicked on
+
+07-02-2025T10:58:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add a New Course/li_Next' is clicked on
+
+07-02-2025T10:58:25 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+07-02-2025T10:58:35 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+07-02-2025T10:58:35 - [TEST_STEP][PASSED] - waitForPageLoad(5): Wait for page load successfully
+
+07-02-2025T10:58:36 - [MESSAGE][PASSED] - Wait for page load successfully
+
+07-02-2025T10:58:36 - [TEST_STEP][PASSED] - click(findTestObject("Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload")): Object: 'Object Repository/Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload' is clicked on
+
+07-02-2025T10:58:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload' is clicked on
+
+07-02-2025T10:58:38 - [TEST_STEP][PASSED] - uploadFile(findTestObject("Page_PLMS Add a New Course/Page_PLMS Add a New Course/input_Attachment_repo_upload_file"), image): File 'C:\\Users\\hp\\Downloads\\MicrosoftTeams.png' sent to object: 'Object Repository/Page_PLMS Add a New Course/Page_PLMS Add a New Course/input_Attachment_repo_upload_file'
+
+07-02-2025T10:58:38 - [MESSAGE][PASSED] - File 'C:\\Users\\hp\\Downloads\\MicrosoftTeams.png' sent to object: 'Object Repository/Page_PLMS Add a New Course/Page_PLMS Add a New Course/input_Attachment_repo_upload_file'
+
+07-02-2025T10:58:38 - [TEST_STEP][PASSED] - click(findTestObject("Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload")): Object: 'Object Repository/Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload' is clicked on
+
+07-02-2025T10:58:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload' is clicked on
+
+07-02-2025T10:58:39 - [TEST_STEP][PASSED] - delay(7): Delayed 7 second(s)
+
+07-02-2025T10:58:46 - [MESSAGE][PASSED] - Delayed 7 second(s)
+
+07-02-2025T10:58:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Add a New Course/input_Previous_saveanddisplay")): Object: 'Object Repository/Page_PLMS Add a New Course/input_Previous_saveanddisplay' is clicked on
+
+07-02-2025T10:58:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add a New Course/input_Previous_saveanddisplay' is clicked on
+
+07-02-2025T10:58:47 - [TEST_STEP][PASSED] - click(findTestObject("Page_PLMS Add a New Course/Page_Course bottelneck 2026 category new cat 0309/a_Skip to main content_yui_3_17_2_1_1738139221172_99")): Object: 'Object Repository/Page_PLMS Add a New Course/Page_Course bottelneck 2026 category new cat 0309/a_Skip to main content_yui_3_17_2_1_1738139221172_99' is clicked on
+
+07-02-2025T10:58:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Add a New Course/Page_Course bottelneck 2026 category new cat 0309/a_Skip to main content_yui_3_17_2_1_1738139221172_99' is clicked on
+
+07-02-2025T10:58:58 - [TEST_STEP][PASSED] - navigateToUrl("https://plms-php81.paradisolms.net/course/"): Navigate to 'https://plms-php81.paradisolms.net/course/' successfully
+
+07-02-2025T10:59:01 - [MESSAGE][PASSED] - Navigate to 'https://plms-php81.paradisolms.net/course/' successfully
+
+07-02-2025T10:59:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search")): Object: 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search' is clicked on
+
+07-02-2025T10:59:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_form-control course_search' is clicked on
+
+07-02-2025T10:59:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41"), randomName): Text 'aiwangns' is set on object 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41'
+
+07-02-2025T10:59:03 - [MESSAGE][PASSED] - Text 'aiwangns' is set on object 'Object Repository/Page_PLMS Course Categories/input_ygsgixns_yui_3_17_2_1_1737526113553_41'
+
+07-02-2025T10:59:03 - [TEST_STEP][PASSED] - waitForPageLoad(5): Wait for page load successfully
+
+07-02-2025T10:59:03 - [MESSAGE][PASSED] - Wait for page load successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[07-02-2025T10:56:54 - [TEST_SUITE][PASSED] - PLMS81 Test Suite 2: Test Cases/Course Creation with Image]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Automation Hub/button_OK",
+      "brokenLocator": "(//button[@type\u003d\u0027button\u0027])[23]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[4]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250207_105626/PLMS81 Test Suite/20250207_105627/Object Repository/Page_Automation Hub/button_OK_neighbor.png"
+    }
+  ]
+}

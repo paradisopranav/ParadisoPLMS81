@@ -152,15 +152,17 @@ WebUI.click(findTestObject('Object Repository/Page_Manage People/svg_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_Manage People/input_Total Record Found 24119_show_tenant'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage People/i_New User_wid wid-dots'))
+//Extra function for three dot click.
+//WebUI.click(findTestObject('Object Repository/Page_Manage People/i_New User_wid wid-dots'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage People/input_Manage People_txt'), randomEmail)
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Manage People/input_Manage People_txt'), Keys.chord(Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/Page_Manage People/input_Status_id_1_2_3'))
+WebUI.click(findTestObject('Object Repository/Page_Manage People/i_New User_wid wid-dots'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage People/button_New User_btn btn_css dropdown dropdo_1428cf'))
+//WebUI.click(findTestObject('Object Repository/Page_Manage People/button_New User_btn btn_css dropdown dropdo_1428cf'))
 
 WebUI.click(findTestObject('Object Repository/Page_Manage People/span_Delete'))
 
