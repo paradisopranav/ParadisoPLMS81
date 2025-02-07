@@ -20,6 +20,8 @@ import org.apache.commons.lang.RandomStringUtils as RandomStringUtils
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://plms-php81.paradisolms.net/login/index.php')
 
 WebUI.setText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'), 'admin')
