@@ -91,7 +91,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Navigation structure/input_
 
 WebUI.click(findTestObject('Object Repository/Page_Navigation structure/input_Menu hide from selected companies_item_add'))
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/Page_Navigation structure/button_Link_menuOptionsmenuItem_267'))
 
