@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_(ja)_keepmeloggedin</name>
+   <name>input_Menu hide from selected companies_item_add</name>
    <tag></tag>
-   <elementGuidId>382ad494-b60b-4411-82d2-f8c9805a487f</elementGuidId>
+   <elementGuidId>e3366207-65ee-443f-96cf-8109e2c2680a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#keepmeloggedin</value>
+         <value>#item_add</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='keepmeloggedin']</value>
+         <value>//input[@id='item_add']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Keep me logged in&quot;i</value>
+         <value>internal:role=button[name=&quot;Add&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,78 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>12c97a95-68b8-4e5d-b5cd-be59be9e7d1e</webElementGuid>
+      <webElementGuid>92d77b17-8cd4-467f-96a1-3a65a50a6f61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>be13fc86-e027-4d98-86b7-9f2c6f641341</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>keepmeloggedin</value>
-      <webElementGuid>50947b24-0589-4a47-afc8-1a584983a97b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>keepmeloggedin</value>
-      <webElementGuid>815c780f-58c2-4289-90fe-b1086fe2887c</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>af711f16-67d6-4b30-b257-186a624e66f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>d9e431b7-1c28-4df7-87f7-53c4b3e935bc</webElementGuid>
+      <value>Add</value>
+      <webElementGuid>507e4ef5-4080-44b3-9fb8-5195f6eae310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>item_add</value>
+      <webElementGuid>d02a8f06-12e1-44d8-9f9f-88f0d1782374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-round</value>
+      <webElementGuid>9dc19e6a-b5ad-4dc8-ade4-ab1e4a91ee11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;keepmeloggedin&quot;)</value>
-      <webElementGuid>7c2f9ac0-aeb8-43c5-b6b7-d296b936f1cd</webElementGuid>
+      <value>id(&quot;item_add&quot;)</value>
+      <webElementGuid>df54ba4f-7a29-47eb-a521-e412dd34aee6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='keepmeloggedin']</value>
-      <webElementGuid>9583b1df-5dd1-4130-8a4c-6f83b1b6d34c</webElementGuid>
+      <value>//input[@id='item_add']</value>
+      <webElementGuid>e4df8fea-9e1c-44e6-b33e-3b0b54a87c54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[4]/input</value>
-      <webElementGuid>9b988acf-a585-4567-9d8a-629fd2542647</webElementGuid>
+      <value>//form[@id='yui_3_17_2_1_1739163566904_24']/div[11]/input</value>
+      <webElementGuid>6b9652ce-b174-4989-bb8b-b1f005ee4236</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/input</value>
-      <webElementGuid>bb55883f-f1e5-4784-9db2-98c2292048ae</webElementGuid>
+      <value>//div[11]/input</value>
+      <webElementGuid>50100544-132d-4672-8a9e-3f570dda83bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @name = 'keepmeloggedin' and @id = 'keepmeloggedin']</value>
-      <webElementGuid>0fa84b42-9e1a-45b8-8522-cae4c055bc95</webElementGuid>
+      <value>//input[@type = 'submit' and @id = 'item_add']</value>
+      <webElementGuid>d8ff9b31-8e6d-4ed2-8710-13b80a423dad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

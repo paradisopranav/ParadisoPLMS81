@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_(ja)_keepmeloggedin</name>
+   <name>input_Container_href</name>
    <tag></tag>
-   <elementGuidId>382ad494-b60b-4411-82d2-f8c9805a487f</elementGuidId>
+   <elementGuidId>7f8ada6f-d762-4ca1-a40d-b3605257d0df</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#keepmeloggedin</value>
+         <value>input[name=&quot;href&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='keepmeloggedin']</value>
+         <value>//input[@name='href']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Keep me logged in&quot;i</value>
+         <value>internal:attr=[placeholder=&quot;Url&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,78 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>12c97a95-68b8-4e5d-b5cd-be59be9e7d1e</webElementGuid>
+      <webElementGuid>f2d0e24c-b07b-415f-9f09-f3ee3da8dc8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Url</value>
+      <webElementGuid>523a8b6a-e5b8-4b5b-b676-799f75a9db5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>be13fc86-e027-4d98-86b7-9f2c6f641341</webElementGuid>
+      <value>text</value>
+      <webElementGuid>b4cc801d-e895-4485-8a68-42434410c07b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>keepmeloggedin</value>
-      <webElementGuid>50947b24-0589-4a47-afc8-1a584983a97b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>keepmeloggedin</value>
-      <webElementGuid>815c780f-58c2-4289-90fe-b1086fe2887c</webElementGuid>
+      <value>href</value>
+      <webElementGuid>9dead99d-b5b0-4adc-abd6-5cc838be5838</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>class</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>d9e431b7-1c28-4df7-87f7-53c4b3e935bc</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>042903c1-c21f-4bc7-a0f2-60b436f6d5b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;keepmeloggedin&quot;)</value>
-      <webElementGuid>7c2f9ac0-aeb8-43c5-b6b7-d296b936f1cd</webElementGuid>
+      <value>id(&quot;tr_href&quot;)/div[@class=&quot;form-group bmd-form-group&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>20e5be13-e845-4d28-9683-9c1e04ca2fb0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='keepmeloggedin']</value>
-      <webElementGuid>9583b1df-5dd1-4130-8a4c-6f83b1b6d34c</webElementGuid>
+      <value>//input[@name='href']</value>
+      <webElementGuid>a09bfc5e-fc6c-49cf-b4fe-0e12a268cdee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[4]/input</value>
-      <webElementGuid>9b988acf-a585-4567-9d8a-629fd2542647</webElementGuid>
+      <value>//div[@id='tr_href']/div/input</value>
+      <webElementGuid>300e3462-936f-4b46-bb25-4be70220616f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/input</value>
-      <webElementGuid>bb55883f-f1e5-4784-9db2-98c2292048ae</webElementGuid>
+      <value>//form/div[3]/div/input</value>
+      <webElementGuid>3cf8738e-1be0-4f42-b9e1-c71999234b79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @name = 'keepmeloggedin' and @id = 'keepmeloggedin']</value>
-      <webElementGuid>0fa84b42-9e1a-45b8-8522-cae4c055bc95</webElementGuid>
+      <value>//input[@placeholder = 'Url' and @type = 'text' and @name = 'href']</value>
+      <webElementGuid>0761acc1-eeb6-4e56-a25d-743b84d35128</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,55 @@
    <elementGuidId>d517ba42-cb11-4980-be60-d8d9cd939a15</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//li[@id='menuItem_257']/div)[2]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[(text() = '
+        
+            
+            Katalon Container
+        
+        
+            
+                
+                
+                
+                
+                
+            
+            
+                
+                      Edit  
+                
+                
+                      Delete  
+                
+            
+        
+    ' or . = '
+        
+            
+            Katalon Container
+        
+        
+            
+                
+                
+                
+                
+                
+            
+            
+                
+                      Edit  
+                
+                
+                      Delete  
+                
+            
+        
+    ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

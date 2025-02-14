@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log in</name>
+   <name>button_Link_menuOptionsmenuItem_267</name>
    <tag></tag>
-   <elementGuidId>e5b333a8-4617-42ff-91b9-073c9caf5018</elementGuidId>
+   <elementGuidId>c9f95802-d600-46fb-877d-c72961cdfe59</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#loginbtn</value>
+         <value>#menuOptionsmenuItem_267</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginbtn']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Link'])[2]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Log in&quot;i]</value>
+         <value>#menuOptionsmenuItem_267</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,110 +29,126 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e00ab775-5fb9-4357-b801-3f7a4521d3f6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>93b89601-16f8-4276-8849-f050b54a2dc4</webElementGuid>
+      <webElementGuid>579fa0f8-dd7f-44a8-9d6b-434573e0a292</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-block btn-round</value>
-      <webElementGuid>03c84f61-687a-453d-9a41-5ec38150dd3f</webElementGuid>
+      <value>btn btn-link dropdown-toggle</value>
+      <webElementGuid>dcf772f3-abaa-4b23-a7ef-b065bcac3bf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e0aa89d3-5334-4b90-8087-c05ca5184e1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginbtn</value>
-      <webElementGuid>12b16e34-abca-49b4-8124-4ad6121a1028</webElementGuid>
+      <value>menuOptionsmenuItem_267</value>
+      <webElementGuid>951246e3-dd80-445d-8452-dcd2b27cb3cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>data-toggle</name>
       <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>dcc5d5c9-1550-45c0-b191-ea6dcfacc499</webElementGuid>
+      <value>dropdown</value>
+      <webElementGuid>8e9f6a86-a4d5-4cee-a2e5-c6509436bcfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>508dff5d-375e-471f-8e0d-4cf56004686d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e9fc8e54-cc44-4a5c-be77-a1656d916eba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginbtn&quot;)</value>
-      <webElementGuid>07fd3082-8218-4f38-ae8f-52aa6c19bdd4</webElementGuid>
+      <value>id(&quot;menuOptionsmenuItem_267&quot;)</value>
+      <webElementGuid>b5417f62-288e-47c6-ab24-a227de92d324</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='loginbtn']</value>
-      <webElementGuid>1d0fa5f2-e5cd-43a8-b8ea-21ee0530ee3c</webElementGuid>
+      <value>//button[@id='menuOptionsmenuItem_267']</value>
+      <webElementGuid>f5fb7dcb-9590-437b-93f1-3871dd81b290</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[5]/div/button</value>
-      <webElementGuid>569224e3-1e27-4c31-8c92-4895633c07aa</webElementGuid>
+      <value>//li[@id='menuItem_267']/div/div[2]/button</value>
+      <webElementGuid>7ed13363-d1fd-4355-a99f-1f4d2b1d0441</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::button[1]</value>
-      <webElementGuid>e8cbcd48-3a41-4ffd-bbf0-e92b1fe0eff9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link'])[2]/following::button[1]</value>
+      <webElementGuid>b3479a98-ea05-45d3-9c24-4cc2c9a266fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='日本語 ‎(ja)‎'])[1]/following::button[1]</value>
-      <webElementGuid>9d945a26-b902-4c78-b9b6-745e8e0524de</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::button[1]</value>
+      <webElementGuid>d7a759fe-29ca-43c8-ab9f-bbcc9652976f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or you can join with'])[1]/preceding::button[1]</value>
-      <webElementGuid>feb12e03-a11f-4fa3-bcec-82a7b6998878</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/preceding::button[1]</value>
+      <webElementGuid>914338b0-71e0-485b-a763-6abaa617d864</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>af901d16-61f2-4e60-a67d-94f4d4ab5fb7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/preceding::button[1]</value>
+      <webElementGuid>a667b4e5-53fd-41bc-a30b-d1cfb545842d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>081ae779-b314-4683-b0d5-97536ad85a79</webElementGuid>
+      <value>//li[2]/div/div[2]/button</value>
+      <webElementGuid>bb595d48-fea0-4c45-abae-8c958a6a83eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'loginbtn' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>42c64349-f712-4ff1-97d4-ebf6cc3ca6c8</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'menuOptionsmenuItem_267']</value>
+      <webElementGuid>9a219de9-6f85-4b6e-97b4-02096edf7629</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

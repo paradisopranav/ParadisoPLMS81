@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log in</name>
+   <name>a_Delete</name>
    <tag></tag>
-   <elementGuidId>e5b333a8-4617-42ff-91b9-073c9caf5018</elementGuidId>
+   <elementGuidId>51217a5c-c909-4e2c-9991-e862497b6461</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#loginbtn</value>
+         <key>XPATH</key>
+         <value>//div[@id='yui_3_17_2_1_1739528954348_22']/div/a[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='loginbtn']</value>
+         <key>CSS</key>
+         <value>a.dropdown-item.deleteMenu.Katalon.Container</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Log in&quot;i]</value>
+         <value>internal:role=link[name=&quot;Delete&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,111 +28,101 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e00ab775-5fb9-4357-b801-3f7a4521d3f6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>93b89601-16f8-4276-8849-f050b54a2dc4</webElementGuid>
+      <value>a</value>
+      <webElementGuid>df722688-cdc1-4bcb-b04b-c211ac3a51b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-block btn-round</value>
-      <webElementGuid>03c84f61-687a-453d-9a41-5ec38150dd3f</webElementGuid>
+      <value>dropdown-item deleteMenu Katalon Container</value>
+      <webElementGuid>cf8f24ef-0e4d-4349-a75a-769a9da016c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>href</name>
       <type>Main</type>
-      <value>loginbtn</value>
-      <webElementGuid>12b16e34-abca-49b4-8124-4ad6121a1028</webElementGuid>
+      <value>#</value>
+      <webElementGuid>6ed7cfef-4605-4d52-8088-35f1f36f6bad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>dcc5d5c9-1550-45c0-b191-ea6dcfacc499</webElementGuid>
+      <value>
+                      Delete  
+                </value>
+      <webElementGuid>e413cb71-7181-4e7d-8647-c59e646775db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginbtn&quot;)</value>
-      <webElementGuid>07fd3082-8218-4f38-ae8f-52aa6c19bdd4</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1739528954348_22&quot;)/div[@class=&quot;dropdown-menu ui-sortable-handle show&quot;]/a[@class=&quot;dropdown-item deleteMenu Katalon Container&quot;]</value>
+      <webElementGuid>c2d6830a-0ac6-487e-af79-dfd47f518076</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='loginbtn']</value>
-      <webElementGuid>1d0fa5f2-e5cd-43a8-b8ea-21ee0530ee3c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[5]/div/button</value>
-      <webElementGuid>569224e3-1e27-4c31-8c92-4895633c07aa</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1739528954348_22']/div/a[2]</value>
+      <webElementGuid>2e908a6e-bbd1-4aa5-955c-81b5ba735d47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::button[1]</value>
-      <webElementGuid>e8cbcd48-3a41-4ffd-bbf0-e92b1fe0eff9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::a[1]</value>
+      <webElementGuid>8a2eff4a-a53b-428d-a2fe-f2f2a2a10149</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='日本語 ‎(ja)‎'])[1]/following::button[1]</value>
-      <webElementGuid>9d945a26-b902-4c78-b9b6-745e8e0524de</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Container'])[1]/following::a[2]</value>
+      <webElementGuid>210661a0-8b16-44b4-97f0-beeaf58fa61a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or you can join with'])[1]/preceding::button[1]</value>
-      <webElementGuid>feb12e03-a11f-4fa3-bcec-82a7b6998878</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Dashboard'])[1]/preceding::a[1]</value>
+      <webElementGuid>75503d2c-7d71-4ebb-ab0b-19628a07eeb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>af901d16-61f2-4e60-a67d-94f4d4ab5fb7</webElementGuid>
+      <value>(//a[contains(@href, '#')])[9]</value>
+      <webElementGuid>481e03c0-0a6f-4d86-bd31-46a4f35134a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>081ae779-b314-4683-b0d5-97536ad85a79</webElementGuid>
+      <value>//li[2]/div/div[2]/div/a[2]</value>
+      <webElementGuid>2cd641ed-1e47-4ede-bd33-0fc5a306bf98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'loginbtn' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>42c64349-f712-4ff1-97d4-ebf6cc3ca6c8</webElementGuid>
+      <value>//a[@href = '#' and (text() = '
+                      Delete  
+                ' or . = '
+                      Delete  
+                ')]</value>
+      <webElementGuid>dccea770-3d14-4730-a554-537a2f6f4f5b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

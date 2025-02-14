@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log in</name>
+   <name>button_Ok</name>
    <tag></tag>
-   <elementGuidId>e5b333a8-4617-42ff-91b9-073c9caf5018</elementGuidId>
+   <elementGuidId>6c28aef6-c432-494b-9f62-0297f3cda7fb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#loginbtn</value>
+         <value>#modal-btn-delete</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginbtn']</value>
+         <value>//button[@id='modal-btn-delete']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Log in&quot;i]</value>
+         <value>internal:role=button[name=&quot;Ok&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,110 +29,118 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e00ab775-5fb9-4357-b801-3f7a4521d3f6</webElementGuid>
+      <webElementGuid>9296f94f-f2a8-4218-a196-799908c99cb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>93b89601-16f8-4276-8849-f050b54a2dc4</webElementGuid>
+      <value>button</value>
+      <webElementGuid>1bcc917f-2fed-4f22-9b68-e477d261c94d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-block btn-round</value>
-      <webElementGuid>03c84f61-687a-453d-9a41-5ec38150dd3f</webElementGuid>
+      <value>btn btn-primary</value>
+      <webElementGuid>17e37d21-9367-4665-b899-62c430c81ffc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginbtn</value>
-      <webElementGuid>12b16e34-abca-49b4-8124-4ad6121a1028</webElementGuid>
+      <value>modal-btn-delete</value>
+      <webElementGuid>47be6dc7-486b-49b9-b389-b1bb00e15285</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>dcc5d5c9-1550-45c0-b191-ea6dcfacc499</webElementGuid>
+      <value>Ok</value>
+      <webElementGuid>7870ce32-89ca-4f62-8a52-c8f2787b68c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginbtn&quot;)</value>
-      <webElementGuid>07fd3082-8218-4f38-ae8f-52aa6c19bdd4</webElementGuid>
+      <value>id(&quot;modal-btn-delete&quot;)</value>
+      <webElementGuid>1e52c126-b119-4141-a3f6-d1f66eb22703</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='loginbtn']</value>
-      <webElementGuid>1d0fa5f2-e5cd-43a8-b8ea-21ee0530ee3c</webElementGuid>
+      <value>//button[@id='modal-btn-delete']</value>
+      <webElementGuid>28bb6e99-fd9b-4917-b0c2-bcb0958aebd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[5]/div/button</value>
-      <webElementGuid>569224e3-1e27-4c31-8c92-4895633c07aa</webElementGuid>
+      <value>//div[@id='exampleModal']/div/div/div[2]/button[2]</value>
+      <webElementGuid>723279bb-789b-4b5d-a9e8-d0f2293dd173</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::button[1]</value>
-      <webElementGuid>e8cbcd48-3a41-4ffd-bbf0-e92b1fe0eff9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::button[1]</value>
+      <webElementGuid>ecee490b-a452-4d95-bd41-d8d9d662f17e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='日本語 ‎(ja)‎'])[1]/following::button[1]</value>
-      <webElementGuid>9d945a26-b902-4c78-b9b6-745e8e0524de</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete this menu Item?'])[1]/following::button[3]</value>
+      <webElementGuid>a5031f1d-b6c1-462f-8d3c-933aca03beec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or you can join with'])[1]/preceding::button[1]</value>
-      <webElementGuid>feb12e03-a11f-4fa3-bcec-82a7b6998878</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::button[1]</value>
+      <webElementGuid>98756d36-7661-46da-8dbd-b99fe2a65e49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>af901d16-61f2-4e60-a67d-94f4d4ab5fb7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::button[2]</value>
+      <webElementGuid>0c58e474-2031-44bf-bbad-106ad4833558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ok']/parent::*</value>
+      <webElementGuid>49439a83-869e-4380-97e0-54da4569b978</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>081ae779-b314-4683-b0d5-97536ad85a79</webElementGuid>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>402d01c7-9425-4ff9-9cc8-8bc80ec75cf6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'loginbtn' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>42c64349-f712-4ff1-97d4-ebf6cc3ca6c8</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'modal-btn-delete' and (text() = 'Ok' or . = 'Ok')]</value>
+      <webElementGuid>0396c6d7-81e9-4e0d-b7c6-58146a092a7c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

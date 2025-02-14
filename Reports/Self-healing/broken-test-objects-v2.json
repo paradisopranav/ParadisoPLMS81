@@ -1,3 +1,74 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Navigation structure/svg_Link_menu-dots-vertical_1_",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Link\u0027])[2]/following::*[name()\u003d\u0027svg\u0027][1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Delete\u0027])[1]/following::*[name()\u003d\u0027svg\u0027][1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Navigation structure/svg_Link_menu-dots-vertical_1__neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Learning Paths/input_Learning Path Image_learningpath_imagechoose",
+      "brokenLocator": "//input[@id\u003d\u0027filepicker-button-67ade0b8bd787\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//fieldset/div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Learning Paths/input_Learning Path Image_learningpath_imagechoose_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Learning Paths/input_Attachment_repo_upload_file",
+      "brokenLocator": "//input[@id\u003d\u0027yui_3_17_2_1_1739449241110_1105\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div/form/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Learning Paths/input_Attachment_repo_upload_file_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Learning Paths/button_Upload",
+      "brokenLocator": "//button[@id\u003d\u0027yui_3_17_2_1_1739448505045_1601\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Choose licence\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Learning Paths/button_Upload_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Navigation structure/a_Edit",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Link\u0027])[2]/following::a[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Delete\u0027])[1]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Navigation structure/a_Edit_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Navigation structure/button_Link_menuOptionsmenuItem_267",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Link\u0027])[2]/following::button[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Delete\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Navigation structure/button_Link_menuOptionsmenuItem_267_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Custom_Navigation/LeftNav_container object/a_Delete",
+      "brokenLocator": "//div[@id\u003d\u0027yui_3_17_2_1_1739528954348_22\u0027]/div/a[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Edit\u0027])[2]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Custom_Navigation/LeftNav_container object/a_Delete_neighbor.png"
+    }
+  ]
 }

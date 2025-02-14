@@ -16,7 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.testobject.ConditionType
+import com.kms.katalon.core.testobject.ConditionType as ConditionType
 
 WebUI.openBrowser('')
 
@@ -42,33 +42,41 @@ WebUI.click(findTestObject('Object Repository/Custom_Navigation/Page_Navigation 
 WebUI.click(findTestObject('Object Repository/Custom_Navigation/Page_Navigation structure/i_Menu hide from selected companies_fa fa-eye'))
 
 //WebUI.click(findTestObject('Page_Navigation structure/input_Assign Roles_yui_3_17_2_1_1738837364837_27'))
-
 List<String> optionsToSelect = ['Site Admin', 'No Roles', 'student', 'guest', 'user']
 
 for (String optionText : optionsToSelect) {
-	WebUI.click(findTestObject('Page_Navigation structure/input_Assign Roles_yui_3_17_2_1_1738837364837_27'))
-	TestObject listOption = new TestObject('OptionToSelect')
-	listOption.addProperty('xpath', ConditionType.EQUALS, "//li[text()='" + optionText + "']")
-	
-	if (WebUI.verifyElementPresent(listOption, 5, FailureHandling.OPTIONAL)) {
-		WebUI.click(listOption)
-		WebUI.delay(2)
-	} else {
-		println("Option '" + optionText + "' not found.")
-	}
+    WebUI.click(findTestObject('Page_Navigation structure/input_Assign Roles_yui_3_17_2_1_1738837364837_27'))
+
+    TestObject listOption = new TestObject('OptionToSelect')
+
+    listOption.addProperty('xpath', ConditionType.EQUALS, ('//li[text()=\'' + optionText) + '\']')
+
+    if (WebUI.verifyElementPresent(listOption, 5, FailureHandling.OPTIONAL)) {
+        WebUI.click(listOption)
+
+        WebUI.delay(2)
+    } else {
+        println(('Option \'' + optionText) + '\' not found.')
+    }
 }
 
 WebUI.click(findTestObject('Object Repository/Custom_Navigation/Page_Navigation structure/input_Menu hide from selected companies_item_add'))
 
 WebUI.click(findTestObject('Object Repository/Custom_Navigation/Page_Navigation structure/div_Katalon Container                      _c003c2'))
 
-String textToVerify = "Katalon Container"
+String textToVerify = 'Katalon Container'
 
 if (WebUI.verifyTextPresent(textToVerify, false)) {
-    println("Text found on the page: " + textToVerify)
-
-       
+    println('Text found on the page: ' + textToVerify)
 } else {
-    println("Text not found on the page: " + textToVerify)
-}	
+    println('Text not found on the page: ' + textToVerify)
+}
+
+WebUI.click(findTestObject('Custom_Navigation/LeftNav_container object/svg_Katalon Container_menu-dots-vertical_1_'))
+
+WebUI.click(findTestObject('Custom_Navigation/LeftNav_container object/a_Delete'))
+
+WebUI.click(findTestObject('Object Repository/Page_Navigation structure/button_Ok'))
+
+WebUI.click(findTestObject('Object Repository/Page_Navigation structure/input_Custom Navigation_save_menu'))
 
