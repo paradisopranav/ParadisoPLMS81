@@ -35,11 +35,9 @@ WebUI.navigateToUrl('https://plms-php81.paradisolms.net/')
 
 WebUI.click(findTestObject('Object Repository/Page_Paradiso LMS/svg_Multi Tenant_left-footer'))
 
-
-
 WebUI.click(findTestObject('Object Repository/Page_Navigation structure/input_Type_type'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Navigation structure/input_Container_label'), 'Link')
+WebUI.setText(findTestObject('Object Repository/Page_Navigation structure/input_Container_label'), 'Katalon menu')
 
 WebUI.click(findTestObject('Object Repository/Page_Navigation structure/input_Container_href'))
 
@@ -53,7 +51,6 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Navigation stru
     '_self', true)
 
 //WebUI.click(findTestObject('Object Repository/Page_Navigation structure/input_Container_fa-type'))
-
 WebUI.click(findTestObject('Object Repository/Page_Navigation structure/input_Container_fa-type'))
 
 WebUI.click(findTestObject('Object Repository/Page_Navigation structure/svg'))
@@ -64,19 +61,19 @@ WebUI.click(findTestObject('Object Repository/Page_Navigation structure/i_Menu h
 List<String> optionsToSelect = ['Site Admin', 'No Roles', 'student', 'guest', 'user']
 
 for (String optionText : optionsToSelect) {
-	WebUI.click(findTestObject('Page_Navigation structure/input_Assign Roles_yui_3_17_2_1_1738837364837_27'))
+    WebUI.click(findTestObject('Page_Navigation structure/input_Assign Roles_yui_3_17_2_1_1738837364837_27'))
 
-	TestObject listOption = new TestObject('OptionToSelect')
+    TestObject listOption = new TestObject('OptionToSelect')
 
-	listOption.addProperty('xpath', ConditionType.EQUALS, ('//li[text()=\'' + optionText) + '\']')
+    listOption.addProperty('xpath', ConditionType.EQUALS, ('//li[text()=\'' + optionText) + '\']')
 
-	if (WebUI.verifyElementPresent(listOption, 5, FailureHandling.OPTIONAL)) {
-		WebUI.click(listOption)
+    if (WebUI.verifyElementPresent(listOption, 5, FailureHandling.OPTIONAL)) {
+        WebUI.click(listOption)
 
-		WebUI.delay(2)
-	} else {
-		println(('Option \'' + optionText) + '\' not found.')
-	}
+        WebUI.delay(2)
+    } else {
+        println(('Option \'' + optionText) + '\' not found.')
+    }
 }
 
 WebUI.click(findTestObject('Object Repository/Page_Navigation structure/input_Menu hide from selected companies_item_add'))
@@ -87,16 +84,17 @@ WebUI.click(findTestObject('Object Repository/Page_Navigation structure/a_Edit')
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/Page_Navigation structure/input_Container_label'), 'Link Update')
+WebUI.setText(findTestObject('Object Repository/Page_Navigation structure/input_Container_label'), 'katalon update')
 
 WebUI.click(findTestObject('Object Repository/Page_Navigation structure/input_Menu hide from selected companies_item_add'))
 
 WebUI.delay(10)
 
-WebUI.click(findTestObject('Object Repository/Page_Navigation structure/button_Link_menuOptionsmenuItem_267'))
+WebUI.click(findTestObject('Page_Navigation structure/svg_Link_menu-dots-vertical_1_'))
 
 WebUI.click(findTestObject('Object Repository/Page_Navigation structure/a_Delete'))
 
 WebUI.click(findTestObject('Object Repository/Page_Navigation structure/button_Ok'))
 
 WebUI.click(findTestObject('Object Repository/Page_Navigation structure/input_Custom Navigation_save_menu'))
+

@@ -6,12 +6,12 @@
    <elementGuidId>231f8246-8a00-48d0-9786-92f16c1dd56a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.dropdown-item.editMenu.Link</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::a[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Link'])[2]/following::a[1]</value>
+         <key>CSS</key>
+         <value>a.dropdown-item.editMenu.Link</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ce5e9a9d-e17c-45db-96dd-2a86574d07b4</webElementGuid>
+      <webElementGuid>363009d8-788a-487d-86ed-99458b214c9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item editMenu Link</value>
-      <webElementGuid>0f3dcbb5-3d46-4015-bd1b-6b4c40d4e6a8</webElementGuid>
+      <webElementGuid>08d814f9-7bd0-4a72-87b9-1c75db1fb85e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>7d2fe932-6c81-4ebd-aa08-b03612ac3e8c</webElementGuid>
+      <webElementGuid>d0011bba-c4d3-452b-841b-10f0c86ea1f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <value>
                       Edit  
                 </value>
-      <webElementGuid>cda180e2-e642-433c-947b-dfbdb2b68f1b</webElementGuid>
+      <webElementGuid>c085cdc9-46b6-483f-92b0-c903c307cd14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1739163614155_22&quot;)/div[@class=&quot;dropdown-menu ui-sortable-handle show&quot;]/a[@class=&quot;dropdown-item editMenu Link&quot;]</value>
-      <webElementGuid>28fbd1d5-8854-48e6-ab3e-a2780cd35763</webElementGuid>
+      <webElementGuid>cb9b4a77-29b6-46c6-820f-1f4bf3614a6f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1739163614155_22']/div/a</value>
-      <webElementGuid>a1371ce8-4ce2-4ae0-9890-3a0ae15faf68</webElementGuid>
+      <webElementGuid>dbac5c04-242a-4f80-be40-4c994195346f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Link'])[2]/following::a[1]</value>
-      <webElementGuid>9b2f5945-53e3-47b7-81b2-3efde66e09b3</webElementGuid>
+      <webElementGuid>611460d6-1451-4cbd-b476-f76cf5e8d4b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::a[1]</value>
-      <webElementGuid>dd37d5bf-eccb-4f60-a5af-33d0a11086ca</webElementGuid>
+      <webElementGuid>fe69e0d9-be85-48cb-bdf6-7e60fcda2723</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/preceding::a[1]</value>
-      <webElementGuid>3a725c6b-19f6-4f1c-8b48-fc5522da5a21</webElementGuid>
+      <webElementGuid>5bb125d2-6bd7-43ae-b900-543fbc7c1ace</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[8]</value>
-      <webElementGuid>558a4861-f2e0-4e1c-b454-82a5e5124d35</webElementGuid>
+      <webElementGuid>ff198f10-4889-4714-9334-e66bf3b1babc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div/div[2]/div/a</value>
-      <webElementGuid>ce3bda32-499a-4ff9-8bcc-23aca360fbb5</webElementGuid>
+      <webElementGuid>a2b4cd16-1de9-4dc9-a4a8-6973e632c28b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,6 +123,6 @@
                 ' or . = '
                       Edit  
                 ')]</value>
-      <webElementGuid>32fa2f24-a727-489c-9ee0-f70b5cb59f57</webElementGuid>
+      <webElementGuid>c0bff52d-2b00-4b99-9fa0-36a17941158f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
