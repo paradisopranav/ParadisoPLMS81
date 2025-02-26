@@ -3,11 +3,11 @@
    <description></description>
    <name>button_Upload</name>
    <tag></tag>
-   <elementGuidId>4de66c14-73ad-4187-a91d-3ad2b58f6619</elementGuidId>
+   <elementGuidId>49be7fee-92fe-41e6-85de-ea0259893e76</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose licence'])[2]/following::button[1]</value>
+         <value>/html/body/div[1]/div[7]/div/div[2]/div/section/div/div/div[2]/div[1]/form/div[2]/div[3]/div[1]/div[2]/div[1]/div/button[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,13 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>/html[1]/body[1]/div[9]/div[3]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]</value>
-      </entry>
-   </smartLocatorCollection>
-   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>84fd66dc-eff4-4a41-b74b-be6659ccb9fd</webElementGuid>
+      <webElementGuid>2ab70125-959f-4a2d-b972-0adbbc1f5f3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fp-upload-btn btn-primary btn btn-round</value>
-      <webElementGuid>38774ad0-7f7a-4bb2-886a-90c7569c11e6</webElementGuid>
+      <webElementGuid>1e9c3806-6b8d-4b4d-8fea-b36ef3bc64db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,23 +39,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Upload</value>
-      <webElementGuid>e9a68e70-277b-452c-92a6-4aee3db8b92b</webElementGuid>
+      <webElementGuid>5aa83155-1b34-4005-acc9-1c2fe9e846a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1738664160165_860&quot;)/div[@class=&quot;fp-upload-form&quot;]/div[@class=&quot;fp-content-center&quot;]/div[@class=&quot;mdl-align&quot;]/button[@class=&quot;fp-upload-btn btn-primary btn btn-round&quot;]</value>
-      <webElementGuid>50031727-4b49-4430-8a8e-56001f2a57f8</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1740478163454_861&quot;)/div[@class=&quot;fp-upload-form&quot;]/div[@class=&quot;fp-content-center&quot;]/div[@class=&quot;mdl-align&quot;]/button[@class=&quot;fp-upload-btn btn-primary btn btn-round&quot;]</value>
+      <webElementGuid>5562f855-95dc-4db0-8943-04eb35dd11f3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1738664160165_860']/div/div/div/button</value>
-      <webElementGuid>7711d8f9-21d6-4fba-8a58-ea07d31bf6d7</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1740478163454_861']/div/div/div/button</value>
+      <webElementGuid>67008f28-74f2-4066-b9a2-6c2605559d5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose licence'])[2]/following::button[1]</value>
-      <webElementGuid>4285a02e-f1bb-44a7-a259-deb4c490fb4f</webElementGuid>
+      <webElementGuid>547dc072-1b0e-40dc-83a9-44bbd80cdf8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Author'])[2]/following::button[1]</value>
-      <webElementGuid>1d1752e3-ea8e-42d6-b359-eb3d6e60b41b</webElementGuid>
+      <webElementGuid>a52f4b27-ab01-4347-88a7-050199f721fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[1]/preceding::button[1]</value>
-      <webElementGuid>70c73426-f485-47b4-b6cc-7c541d38f5b4</webElementGuid>
+      <webElementGuid>13c8d847-71dc-4ed1-85dc-4553640bc076</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[7]/preceding::button[2]</value>
-      <webElementGuid>eea9a3e3-4394-49e1-85d1-65222ae8ee39</webElementGuid>
+      <webElementGuid>df94651a-1f01-4884-b3d9-f4c7f4813e5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div/div/button</value>
-      <webElementGuid>d6cbe0ec-f6e7-4499-a461-5e6b12394c83</webElementGuid>
+      <webElementGuid>8a543108-db84-41a0-b90e-f69258c1f574</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Upload' or . = 'Upload')]</value>
-      <webElementGuid>823c0c7d-473b-40b1-996c-cacf84a2c7c6</webElementGuid>
+      <webElementGuid>61c216b0-3baa-415f-a4a2-871fe6b30b13</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

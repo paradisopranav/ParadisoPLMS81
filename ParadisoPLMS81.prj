@@ -6,12 +6,12 @@
    <UUID>eda80e38-0c2f-41c5-aca4-0917805b4966</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>10.0.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.1.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\hp\OneDrive - PARADISO\Documents\Paradiso Data\ParadisoPLMS81\ParadisoPLMS81.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\hp\OneDrive - PARADISO\Documents\Katalon_Free\ParadisoPLMS81\ParadisoPLMS81.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

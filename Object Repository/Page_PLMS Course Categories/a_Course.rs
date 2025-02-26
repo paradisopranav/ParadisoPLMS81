@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(text(),'Course')])[2]</value>
+         <value>//div[2]/div/div/div[2]/div/div/div/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9142deef-fee9-4d74-b56f-f741c385d828</webElementGuid>
+      <webElementGuid>74b1975a-f5f1-49d2-ae63-f02b21f308b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item course1</value>
-      <webElementGuid>7870a976-f031-46aa-b725-24cc44f4862e</webElementGuid>
+      <webElementGuid>06985cd4-e890-4af8-94f4-80dbff8321c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/local/coursewizard/createcourse.php?cid=1</value>
-      <webElementGuid>92c9fee3-8a35-496d-843c-db2122d43ed1</webElementGuid>
+      <webElementGuid>6c38ada9-2ec9-4ce8-a788-d4b2ec1308ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Course</value>
-      <webElementGuid>3d9fad67-5b87-4874-9eef-791f7bebbc1d</webElementGuid>
+      <webElementGuid>47254a34-ea97-4aef-b93a-ea467a299dd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1737460991038_42&quot;)/div[@class=&quot;dropdown-menu dropdown-menu-right show&quot;]/div[@class=&quot;create-buttons&quot;]/a[@class=&quot;dropdown-item course1&quot;]</value>
-      <webElementGuid>b67f9b25-9a3b-43fa-a8ef-7b1c4cf8ca94</webElementGuid>
+      <webElementGuid>3fba7ddb-e8f2-46fb-9527-d1d463e82869</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1737460991038_42']/div/div/a</value>
-      <webElementGuid>806a51a2-317b-4ed7-9dc7-f9032443bfd0</webElementGuid>
+      <webElementGuid>29d91bc2-7341-4e6b-bd49-4ad100ffb3f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Course')])[2]</value>
-      <webElementGuid>62ef5005-2cd1-40c5-8682-1bdb04f08e38</webElementGuid>
+      <webElementGuid>492e0fb4-c0b4-4501-99f5-598139bea999</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::a[1]</value>
-      <webElementGuid>e805e193-f2cf-4f1c-867b-1b457c138de3</webElementGuid>
+      <webElementGuid>316cd7c0-ae9b-4a24-af3e-ce528b2bc681</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/preceding::a[1]</value>
-      <webElementGuid>1ac33d8d-b4a1-46e5-b7b4-0a3b2683322d</webElementGuid>
+      <webElementGuid>efd6e1a8-f46b-4358-a12e-4b364bb84947</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Grid View'])[1]/preceding::a[3]</value>
-      <webElementGuid>4e7ec8c0-dc31-49ea-bdd0-634616d49308</webElementGuid>
+      <webElementGuid>235a1aa5-63e4-4612-aace-5d43af6e599c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://plms-php81.paradisolms.net/local/coursewizard/createcourse.php?cid=1')])[3]</value>
-      <webElementGuid>bb420eaa-d84b-49d2-807a-2caf7db1a36f</webElementGuid>
+      <webElementGuid>a96c2a12-8148-47ce-aaeb-c9a013fb9ff1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/div/div/div/a</value>
-      <webElementGuid>8b9f8a55-d1c8-4f89-886c-96db719610de</webElementGuid>
+      <webElementGuid>1e4163d3-3f46-49a1-a0f3-c815d56b58a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://plms-php81.paradisolms.net/local/coursewizard/createcourse.php?cid=1' and (text() = 'Course' or . = 'Course')]</value>
-      <webElementGuid>4b1cb342-a9c2-4a50-9005-753d31129b3d</webElementGuid>
+      <webElementGuid>0b5cd8eb-d7f5-4a40-a956-9e10b53b83a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1737460456834_42']/div/div/a</value>
-      <webElementGuid>73e9743f-f11c-4fbe-8aa4-5141108fe504</webElementGuid>
+      <webElementGuid>8ccbb005-3411-4d00-8813-9a96ea547315</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

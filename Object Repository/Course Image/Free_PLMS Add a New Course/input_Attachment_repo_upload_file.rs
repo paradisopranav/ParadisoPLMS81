@@ -3,24 +3,18 @@
    <description></description>
    <name>input_Attachment_repo_upload_file</name>
    <tag></tag>
-   <elementGuidId>e27174da-c36a-418a-b6a5-efe28c3b0d2c</elementGuidId>
+   <elementGuidId>970fdcae-8c81-4652-8b19-ce125b4f58f6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#yui_3_17_2_1_1738664160165_1026</value>
+         <key>XPATH</key>
+         <value>/html/body/div[7]/div[3]/div/div[2]/div/div/div[2]/div/div[2]/div/div/form/div/div[1]/div/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose licence'])[2]/following::button[1]</value>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1740478163454_913</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Attachment&quot;i</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -29,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0b3231b6-6d76-42a1-b58f-a7a0e4c12acd</webElementGuid>
+      <webElementGuid>7a0c4ef4-5368-4d67-a26b-6cc9e7f31dbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +31,15 @@
       <name>type</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>3a362908-1020-48ab-975d-b00aee478c2b</webElementGuid>
+      <webElementGuid>cc9f35f9-70cf-404d-8c12-53bd7dea7e33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>yui_3_17_2_1_1738664160165_1026</value>
-      <webElementGuid>5f3c1a27-ae5e-4010-811c-0544e7c4b30f</webElementGuid>
+      <value>yui_3_17_2_1_1740478163454_913</value>
+      <webElementGuid>8a42f45c-f60c-4534-8abf-4a24bc3aea9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>repo_upload_file</value>
-      <webElementGuid>0ccee34f-0798-4c45-bff5-a0529a4d691e</webElementGuid>
+      <webElementGuid>048d942c-aec7-4df7-81ba-9b6e0542750a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,31 +55,31 @@
       <name>accept</name>
       <type>Main</type>
       <value>.jpg,.png,.gif,.jpeg</value>
-      <webElementGuid>1ed1a6eb-22a1-4667-9b40-c694863f4d60</webElementGuid>
+      <webElementGuid>86a27ca3-3619-4871-8f94-a6e25716ec19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1738664160165_1026&quot;)</value>
-      <webElementGuid>9311bafc-380f-46b3-b5e3-0458a96232d7</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1740478163454_913&quot;)</value>
+      <webElementGuid>9e6fff95-b60b-4dcb-a5b2-0d1a92846f6c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='yui_3_17_2_1_1738664160165_1026']</value>
-      <webElementGuid>e9f9e9c4-0018-495c-824e-19a9f936c11b</webElementGuid>
+      <value>//input[@id='yui_3_17_2_1_1740478163454_913']</value>
+      <webElementGuid>8615cdc8-28b6-46b5-ab72-7f16d91759a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1738664160165_1068']/input</value>
-      <webElementGuid>6bc405d6-e92c-4541-8463-a501b2839e72</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1740478163454_912']/div/input</value>
+      <webElementGuid>6f2b23ca-2d03-43d7-8a9a-06ac8bb4af40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,14 +87,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/div/input</value>
-      <webElementGuid>22d396ef-e206-4c09-8489-604abe7cc4cb</webElementGuid>
+      <webElementGuid>0b7dc064-6683-4a53-812d-3fd43f10dfeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'file' and @id = 'yui_3_17_2_1_1738664160165_1026' and @name = 'repo_upload_file']</value>
-      <webElementGuid>a8111e1e-305f-41f0-9557-22950da94997</webElementGuid>
+      <value>//input[@type = 'file' and @id = 'yui_3_17_2_1_1740478163454_913' and @name = 'repo_upload_file']</value>
+      <webElementGuid>44370756-b520-46f9-99a6-d18c4af8eedd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

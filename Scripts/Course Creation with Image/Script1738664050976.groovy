@@ -18,20 +18,18 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import org.apache.commons.lang.RandomStringUtils as RandomStringUtils
 
-/*
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://plms-php81.paradisolms.net/login/index.php')
+WebUI.navigateToUrl(GlobalVariable.URL)
 
-WebUI.setText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'), 'admin')
+WebUI.setText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'), GlobalVariable.Username)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'), 
-    'ed/1/AZbo1YX04df+rN1oA==')
+    GlobalVariable.Password)
 
 WebUI.click(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin'))
 
 WebUI.click(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/button_Log in'))
-*/
 
 // Generate a random name with 8 characters
 String randomName = RandomStringUtils.randomAlphabetic(8).toLowerCase()
@@ -40,10 +38,16 @@ WebUI.click(findTestObject('Object Repository/Page_Course and Category Managemen
 
 WebUI.click(findTestObject('Page_PLMS Add New Category/i_SOCIAL WALL_fa men men-plms-courses'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Page_PLMS Add New Category/Page_PLMS Course Categories/a_Catalog'))
+
+WebUI.delay(5)
 
 //WebUI.click(findTestObject('Object Repository/Page_Course and Category Management/span_Catalog'))
 WebUI.click(findTestObject('Page_PLMS Course Categories/Page_PLMS Course Categories/button_Add New'))
+
+WebUI.waitForElementClickable(findTestObject('Page_PLMS Course Categories/a_Course'), 10)
 
 WebUI.click(findTestObject('Page_PLMS Course Categories/a_Course'))
 
@@ -57,10 +61,9 @@ WebUI.delay(10)
 
 WebUI.waitForPageLoad(5)
 
-WebUI.click(findTestObject('Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload'))
+WebUI.click(findTestObject('Course Image/Free_PLMS Add a New Course/button_Upload'))
 
-WebUI.uploadFile(findTestObject('Page_PLMS Add a New Course/Page_PLMS Add a New Course/input_Attachment_repo_upload_file'), 
-    image)
+WebUI.uploadFile(findTestObject('Course Image/Free_PLMS Add a New Course/input_Attachment_repo_upload_file'), image)
 
 WebUI.click(findTestObject('Page_PLMS Add a New Course/Page_PLMS Add a New Course/button_Upload'))
 
@@ -78,6 +81,4 @@ WebUI.setText(findTestObject('Object Repository/Page_PLMS Course Categories/inpu
     randomName)
 
 WebUI.waitForPageLoad(5)
-
-//WebUI.closeBrowser()
 
