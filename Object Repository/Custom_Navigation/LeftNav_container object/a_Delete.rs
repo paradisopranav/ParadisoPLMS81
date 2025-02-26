@@ -7,14 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='yui_3_17_2_1_1739528954348_22']/div/a[2]</value>
+         <value>/html/body/div[1]/div[7]/div/div[2]/div/section/div/div/div[3]/div[2]/div[1]/div/div/ol/li[2]/div/div[2]/div/a[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.dropdown-item.deleteMenu.Katalon.Container</value>
+         <value>.dropdown-item.deleteMenu.Katalon.Container</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>df722688-cdc1-4bcb-b04b-c211ac3a51b1</webElementGuid>
+      <webElementGuid>0d120b22-be6f-416f-bb8e-7716a1cfe276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item deleteMenu Katalon Container</value>
-      <webElementGuid>cf8f24ef-0e4d-4349-a75a-769a9da016c8</webElementGuid>
+      <webElementGuid>8c204f16-2f0d-4827-a329-84fe23e7a1f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>6ed7cfef-4605-4d52-8088-35f1f36f6bad</webElementGuid>
+      <webElementGuid>3608abac-21df-4bd4-8178-84217dcffac4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <value>
                       Delete  
                 </value>
-      <webElementGuid>e413cb71-7181-4e7d-8647-c59e646775db</webElementGuid>
+      <webElementGuid>517f9b59-93c4-4044-8442-d78eee29bb3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1739528954348_22&quot;)/div[@class=&quot;dropdown-menu ui-sortable-handle show&quot;]/a[@class=&quot;dropdown-item deleteMenu Katalon Container&quot;]</value>
-      <webElementGuid>c2d6830a-0ac6-487e-af79-dfd47f518076</webElementGuid>
+      <webElementGuid>80d4c673-7b15-48bd-b358-3e07a6da8694</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1739528954348_22']/div/a[2]</value>
-      <webElementGuid>2e908a6e-bbd1-4aa5-955c-81b5ba735d47</webElementGuid>
+      <webElementGuid>f33595b2-bada-4501-8b81-3eca9419db34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::a[1]</value>
-      <webElementGuid>8a2eff4a-a53b-428d-a2fe-f2f2a2a10149</webElementGuid>
+      <webElementGuid>ce29b6ac-a491-4b43-963a-9c7ffab607c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Container'])[1]/following::a[2]</value>
-      <webElementGuid>210661a0-8b16-44b4-97f0-beeaf58fa61a</webElementGuid>
+      <webElementGuid>c77ffc47-7fff-4cce-b782-f009f87c7c6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Dashboard'])[1]/preceding::a[1]</value>
-      <webElementGuid>75503d2c-7d71-4ebb-ab0b-19628a07eeb4</webElementGuid>
+      <webElementGuid>0f13f4ed-f78f-4e6a-a9d5-0fd97e11eb24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[9]</value>
-      <webElementGuid>481e03c0-0a6f-4d86-bd31-46a4f35134a6</webElementGuid>
+      <webElementGuid>5327e7f3-da53-4a27-a29e-c7773f94007d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div/div[2]/div/a[2]</value>
-      <webElementGuid>2cd641ed-1e47-4ede-bd33-0fc5a306bf98</webElementGuid>
+      <webElementGuid>64e8f2e2-7a06-4460-b39a-c9b023a73773</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,6 +123,6 @@
                 ' or . = '
                       Delete  
                 ')]</value>
-      <webElementGuid>dccea770-3d14-4730-a554-537a2f6f4f5b</webElementGuid>
+      <webElementGuid>688cf5a5-479c-42d5-a414-3bcf7883bfad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
