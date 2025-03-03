@@ -17,19 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl(GlobalVariable.URL)
-
-WebUI.setText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'), GlobalVariable.Username)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'),
-	GlobalVariable.Password)
-
-WebUI.click(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin'))
-
-WebUI.click(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/button_Log in'))
-
-//WebUI.closeBrowser()
-

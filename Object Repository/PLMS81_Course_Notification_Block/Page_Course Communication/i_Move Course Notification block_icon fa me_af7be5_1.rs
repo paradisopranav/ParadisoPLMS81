@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Move Course Notification block_icon fa me_af7be5_1</name>
+   <tag></tag>
+   <elementGuidId>6d0d00fa-30e9-4811-9d09-2505bcab9f34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='action-menu-toggle-21']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#action-menu-toggle-21 > i.icon.fa.men.men-plms-setting-dot-icon.fa-fw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a479fd00-32da-46cf-ac4c-81680d318061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa men men-plms-setting-dot-icon fa-fw </value>
+      <webElementGuid>fdd41887-a1ae-4ce2-8b19-340320ac3efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Actions menu</value>
+      <webElementGuid>1c324f3c-1bef-4304-9927-2371bbb7b6ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Actions menu</value>
+      <webElementGuid>95bf10e6-1d1e-4539-b3b6-cd6d67caeb01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5f8f5779-4894-4bec-9fd6-d20207a9ea1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action-menu-toggle-21&quot;)/i[@class=&quot;icon fa men men-plms-setting-dot-icon fa-fw&quot;]</value>
+      <webElementGuid>d88dc374-2255-48c8-bb75-8e8af92285d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='action-menu-toggle-21']/i</value>
+      <webElementGuid>4bbb577d-e56e-4ff1-bb66-4209b3ed651e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/div/div/div[2]/div/a/i</value>
+      <webElementGuid>de5bea55-296e-4891-b21e-89b948f1e1d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Actions menu']</value>
+      <webElementGuid>afc6c896-40fc-41f7-b73e-90017ea07fa3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

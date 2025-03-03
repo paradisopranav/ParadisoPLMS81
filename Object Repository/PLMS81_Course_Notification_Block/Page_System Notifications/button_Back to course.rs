@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Back to course</name>
+   <tag></tag>
+   <elementGuidId>acb76613-3a5d-4f99-a666-460c81c5658a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='id_cancelbutton']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id_cancelbutton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6ac14bb5-9466-48dc-8238-304c301f3b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary btn-round</value>
+      <webElementGuid>2744c297-f48c-4bad-99ee-63313093b06c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>cancelbutton</value>
+      <webElementGuid>dd9deb8f-6284-4b09-a7fb-8ac38e2b322b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_cancelbutton</value>
+      <webElementGuid>64f048b5-190c-484f-8c1e-229ab1192355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f08fd2b1-7dba-4f34-8e3a-62dabd53b19a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>location.href='https://plms-php81.paradisolms.net/course/view.php?id=1008'</value>
+      <webElementGuid>b61c5798-f2e3-43e3-9898-cb730a766a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Back to course
+            </value>
+      <webElementGuid>10c8777c-a603-4c45-89ae-9c30a3188662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id_cancelbutton&quot;)</value>
+      <webElementGuid>ce0c57dc-cc13-4f34-b8fe-73ddf20c74b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='id_cancelbutton']</value>
+      <webElementGuid>7c991e40-187a-4091-a297-8715eb98f8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='yui_3_17_2_1_1740983479500_3250']/button</value>
+      <webElementGuid>13c43988-3bf7-4205-b05b-289401c1bc24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{link}'])[4]/following::button[1]</value>
+      <webElementGuid>7974f7cb-b645-4ccf-bda5-8c168ac7ad41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{coursename}'])[4]/following::button[1]</value>
+      <webElementGuid>1af01bfa-669d-4b61-9a08-17e91a780fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::button[1]</value>
+      <webElementGuid>06044858-772d-4bbb-a4d6-ff26c2bb3a35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::button[2]</value>
+      <webElementGuid>2a09c2f6-994b-4ea3-a1f9-9bb855fd1753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back to course']/parent::*</value>
+      <webElementGuid>bad55154-c780-4be6-9406-286ecc1e819e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/button</value>
+      <webElementGuid>e7853540-7d37-4e87-8639-63961537d821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'cancelbutton' and @id = 'id_cancelbutton' and @type = 'button' and (text() = '
+                Back to course
+            ' or . = '
+                Back to course
+            ')]</value>
+      <webElementGuid>1eda9259-4f13-46e2-b15a-51d316b69e68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

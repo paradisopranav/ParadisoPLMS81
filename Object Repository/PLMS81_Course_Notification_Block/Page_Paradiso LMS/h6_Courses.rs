@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Courses</name>
+   <tag></tag>
+   <elementGuidId>e5e1260d-299f-4c5d-9177-7d142cd8aee6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='itemid_61']/a/div/span/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#itemid_61 > a.accordion-toggle.collapsed.list-group-item.list-group-item-action > div.col-md-12.text-center.icon_text_nav > span.media-left > h6.icon_text_left_nav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>e5d525a6-2e8d-41bd-9c42-243aa28d1ff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon_text_left_nav</value>
+      <webElementGuid>bf632e2c-c2f7-44ce-928f-64a87ce4fe49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Courses</value>
+      <webElementGuid>6be7897e-7373-424d-a461-be056e2b53b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-drawer&quot;)/div[@class=&quot;wrapper w-navigation&quot;]/nav[@id=&quot;sidebar&quot;]/ul[@class=&quot;list-unstyled components&quot;]/li[@id=&quot;itemid_61&quot;]/a[@class=&quot;accordion-toggle collapsed list-group-item list-group-item-action&quot;]/div[@class=&quot;col-md-12 text-center icon_text_nav&quot;]/span[@class=&quot;media-left&quot;]/h6[@class=&quot;icon_text_left_nav&quot;]</value>
+      <webElementGuid>0b6bdd06-8dc1-460c-a93d-84670a9a45c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='itemid_61']/a/div/span/h6</value>
+      <webElementGuid>c9247d3c-2bb5-41d8-9562-f8840db9a514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skill Advisor'])[1]/following::h6[1]</value>
+      <webElementGuid>399bca71-993e-4d29-b700-5bb3f12326d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skill advisor'])[1]/following::h6[1]</value>
+      <webElementGuid>03d325d4-ea0c-4337-bb55-43d850c5bc1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses'])[2]/preceding::h6[1]</value>
+      <webElementGuid>af5bf4d4-5e78-47da-847b-311969f35f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catalog'])[2]/preceding::h6[1]</value>
+      <webElementGuid>1594f95f-b03f-4d72-a75e-122490d06a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Courses']/parent::*</value>
+      <webElementGuid>c7439e18-26b6-4054-b4f8-6d9593321fb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div/span/h6</value>
+      <webElementGuid>d2829395-60b6-465b-ae68-d3e3755fb0dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Courses' or . = 'Courses')]</value>
+      <webElementGuid>7a9f3c11-ffa0-4ee1-9811-7770705d8d53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -20,12 +20,12 @@ import com.kms.katalon.core.testobject.ConditionType as ConditionType
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://plms-php81.paradisolms.net/login/index.php')
+WebUI.navigateToUrl(GlobalVariable.URL)
 
-WebUI.setText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'), 'admin')
+WebUI.setText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'), GlobalVariable.Username)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'), 
-    'ed/1/AZbo1YX04df+rN1oA==')
+    GlobalVariable.Password)
 
 WebUI.click(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin'))
 

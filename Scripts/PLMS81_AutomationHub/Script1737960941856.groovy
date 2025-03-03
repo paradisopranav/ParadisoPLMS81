@@ -25,6 +25,7 @@ import org.openqa.selenium.Cookie
 
 
 WebUI.openBrowser('')
+WebUI.maximizeWindow()
 
 WebUI.navigateToUrl(GlobalVariable.URL)
 

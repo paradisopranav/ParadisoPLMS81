@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Course Notification</name>
+   <tag></tag>
+   <elementGuidId>0d0abf63-0db9-4884-9c64-cd55121c588f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = '#linkblock_notifications' and (text() = 'Course Notification' or . = 'Course Notification')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3996b748-c3ad-4b97-963b-326c437f82a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#linkblock_notifications</value>
+      <webElementGuid>5b7c5af9-6d70-4a33-b1fa-ecdbf481ed42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav_link_redirect</value>
+      <webElementGuid>bc7df34a-41b0-4b0c-ae33-4f4dbed15290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>4907595c-4d94-4096-a678-27dfe27008e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>da4c35ac-06d9-40a4-86df-e5b6ea914bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>0a33480f-e734-43a8-8124-159629f2ccea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Course Notification</value>
+      <webElementGuid>d9f18a34-0942-462f-b257-1a68d5fe4905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1740983406543_1019&quot;)/div[@class=&quot;dropdown-menu dropdown-menu-right show&quot;]/span[@class=&quot;dropdown-item&quot;]/a[@class=&quot;nav-link nav_link_redirect&quot;]</value>
+      <webElementGuid>3b19ecbb-bf47-4cbc-a38f-a88d2eec7e9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1740983406543_1019']/div/span[5]/a</value>
+      <webElementGuid>2410d977-7b49-47d1-ad2f-17cb46a25214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Course Notification')]</value>
+      <webElementGuid>5e4b42dd-b8ea-48d6-a56e-510adb04a362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Level up Block'])[1]/following::a[1]</value>
+      <webElementGuid>cd65a3fa-b23f-4614-8582-19d1b5efd3fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Permissions'])[1]/following::a[2]</value>
+      <webElementGuid>1c48c5c7-2e8b-4e65-a42f-6223e6676bc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Course Notification block'])[1]/preceding::a[1]</value>
+      <webElementGuid>f3ba184b-b87a-4a77-bb00-7dacf8edd4f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions menu'])[2]/preceding::a[2]</value>
+      <webElementGuid>ef5d1567-b856-41d3-a255-c79b41a107c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Course Notification']/parent::*</value>
+      <webElementGuid>5ad9bbce-f5bc-4ed1-a6a6-614331c444ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#linkblock_notifications')]</value>
+      <webElementGuid>3b12a800-582f-4695-9076-92b672a53322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/a</value>
+      <webElementGuid>9503a624-981c-423d-a53d-823c68e1e485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#linkblock_notifications' and (text() = 'Course Notification' or . = 'Course Notification')]</value>
+      <webElementGuid>bba82397-d0f9-4b3a-bb35-4fac903e63b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
