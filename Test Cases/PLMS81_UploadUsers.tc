@@ -6,12 +6,6 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>396a3f03-7415-4a4f-a180-50ed41ac5ce9</testCaseGuid>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>debd4122-360e-48ee-82ad-4585d2d38832</variableId>
-   </variableLinks>
    <variable>
       <defaultValue>'C:\\\\Users\\\\hp\\\\Downloads\\\\Katalonupload.csv'</defaultValue>
       <description></description>
