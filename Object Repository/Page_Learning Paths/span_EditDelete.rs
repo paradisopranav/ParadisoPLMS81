@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_EditDelete</name>
+   <tag></tag>
+   <elementGuidId>2e9a17c9-2d7f-4646-882e-e1ecfccde3ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.action-box</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='list-course']/tr/td[5]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a0ad06c6-60f5-4669-a21b-ee17bb310d78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action-box</value>
+      <webElementGuid>d71dd835-285c-476e-899d-df82a6ffb14d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        EditDelete
+                      
+                    </value>
+      <webElementGuid>087078cc-ba15-45e0-82a6-27c8bbbe9b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-course&quot;)/tr[@class=&quot;course-description plms-learningpath ui-sortable-handle&quot;]/td[@class=&quot;actions learningpaths-actions&quot;]/span[@class=&quot;action-box&quot;]</value>
+      <webElementGuid>ef53c7a8-6d2e-41d1-86c2-482f8633dc59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='list-course']/tr/td[5]/span</value>
+      <webElementGuid>037eed67-66a8-433b-a420-e7a7c85ade24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='audio visual course_1802'])[2]/following::span[2]</value>
+      <webElementGuid>01a0af04-ad0f-455f-bad1-3566ab6a4d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::span[3]</value>
+      <webElementGuid>1c36f2db-f278-4bd4-89a6-2d8584433e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[5]/span</value>
+      <webElementGuid>78af51e4-5c32-4a0f-a127-2c745bd09a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                        EditDelete
+                      
+                    ' or . = '
+                        EditDelete
+                      
+                    ')]</value>
+      <webElementGuid>c0952f2b-5d8c-40a9-8f62-678c4d3ed0f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Learning paths</name>
+   <tag></tag>
+   <elementGuidId>fc7aedb4-8460-487a-b293-4463cbcf6cdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sidemenu-closed.menu-exp.47.n2.showthis.87.selected > a.list-group-item.list-group-item-action > div.col-md-12.text-center.icon_text_nav > span.media-left > h6.icon_text_left_nav</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='sidebar']/ul/li[6]/a/div/span/h6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>d157712a-912c-4fd1-b558-b9caa5bdb9cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon_text_left_nav</value>
+      <webElementGuid>aa6b616b-113d-48b8-b238-0598c4558937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learning paths</value>
+      <webElementGuid>10e9d376-5070-4c56-9ff6-f3e4af3bccc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-drawer&quot;)/div[@class=&quot;wrapper w-navigation&quot;]/nav[@id=&quot;sidebar&quot;]/ul[@class=&quot;list-unstyled components&quot;]/li[@class=&quot;sidemenu-closed menu-exp 47 n2 showthis 87 selected&quot;]/a[@class=&quot;list-group-item list-group-item-action&quot;]/div[@class=&quot;col-md-12 text-center icon_text_nav&quot;]/span[@class=&quot;media-left&quot;]/h6[@class=&quot;icon_text_left_nav&quot;]</value>
+      <webElementGuid>e4a34389-7db5-4c3f-b3a0-b66d1f94ce4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='sidebar']/ul/li[6]/a/div/span/h6</value>
+      <webElementGuid>f6f12181-c2e1-42d6-81ba-b0a77834604c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a Course'])[1]/following::h6[1]</value>
+      <webElementGuid>fdbc8751-6352-4182-9d4f-071c7cf9100a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a Category'])[1]/following::h6[1]</value>
+      <webElementGuid>48c53e6c-0bf6-45b4-af6d-3ca621130604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learning Paths'])[1]/preceding::h6[1]</value>
+      <webElementGuid>75e1fe2e-7cdc-4ed2-93fb-5b138ee269b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation hub'])[1]/preceding::h6[1]</value>
+      <webElementGuid>e30437b0-b9f3-4914-9f87-bfb306531381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Learning paths']/parent::*</value>
+      <webElementGuid>47ff890a-1aad-42ff-83ba-232cb6cd2891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/div/span/h6</value>
+      <webElementGuid>f06a8eaf-079e-423a-82bd-96de9d0b2adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Learning paths' or . = 'Learning paths')]</value>
+      <webElementGuid>fd636096-e097-4b3d-a0ab-9224f91c3ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='sidebar']/ul/li[5]/a/div/span/h6</value>
+      <webElementGuid>8e86798a-7d2c-4c53-ac45-54f0ee654189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/div/span/h6</value>
+      <webElementGuid>22839692-a07a-4992-b139-86f81397b39c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

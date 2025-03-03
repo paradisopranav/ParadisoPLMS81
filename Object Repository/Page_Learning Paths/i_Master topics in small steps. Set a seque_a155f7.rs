@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Master topics in small steps. Set a seque_a155f7</name>
+   <tag></tag>
+   <elementGuidId>4fd84191-a66c-444d-94d1-28537719f951</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-close.close_icon_search.header-txt.i-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='clear_button']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a03b0d7a-3381-4e2e-bd81-72ecbb690ad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-close close_icon_search header-txt i-close</value>
+      <webElementGuid>7f67370a-707f-40b5-ac73-4be0f7f63732</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bcc213e2-80b5-4893-b1da-c9f747531b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;clear_button&quot;)/i[@class=&quot;fa fa-close close_icon_search header-txt i-close&quot;]</value>
+      <webElementGuid>87412044-1d95-4756-80cd-16bc5a8aac34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='clear_button']/i</value>
+      <webElementGuid>c0597111-51b9-4e58-ae65-b9ada81f3735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/button[2]/i</value>
+      <webElementGuid>0dc6ae23-79bc-470c-a122-6771e5de727d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

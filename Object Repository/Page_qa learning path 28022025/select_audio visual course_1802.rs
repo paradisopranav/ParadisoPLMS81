@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_audio visual course_1802</name>
+   <tag></tag>
+   <elementGuidId>31aff172-f546-40c6-871f-58e3b1f2bf01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#potentialcourses</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='potentialcourses']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a615d382-2704-407b-a2a5-55136a8cbed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>potentialcourses[]</value>
+      <webElementGuid>46e8d841-92b5-410c-a678-b402ebde00ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>potentialcourses</value>
+      <webElementGuid>c7e4c731-fd92-467c-819a-4d6178f0c0b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>f13de6c7-7695-46d4-9f21-cd22a1488b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>9058abb1-0675-433e-9bfb-c433f62f60d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control no-overflow</value>
+      <webElementGuid>a0ab3a90-4c96-491e-87aa-8b212db60b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  
+audio visual course_1802
+  
+</value>
+      <webElementGuid>5c2fc99d-2bfc-41e8-b977-883c48a396a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;potentialcourses&quot;)</value>
+      <webElementGuid>35bb50ae-036c-4579-b663-77504b808494</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='potentialcourses']</value>
+      <webElementGuid>09ada0d1-d0d2-4f83-873c-a0e67b872872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='potentialcourses_wrapper']/div/select</value>
+      <webElementGuid>d381739f-ed01-4a6b-873a-d69fc079820e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential courses to add'])[1]/following::select[1]</value>
+      <webElementGuid>f5fa76f4-511d-484f-90f0-b5855080e54d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If only one record matches the search, select them automatically'])[1]/following::select[1]</value>
+      <webElementGuid>c9c50695-b43c-4fc4-9f0a-009b9c37a6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::select[1]</value>
+      <webElementGuid>728ae99e-a4f0-49f2-a5c1-488498320d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::select[1]</value>
+      <webElementGuid>97705b81-5ba8-4fa6-9b70-21fd8caf5a7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/div/select</value>
+      <webElementGuid>a511b2e3-0606-4ab7-82f0-54052bfeaecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'potentialcourses[]' and @id = 'potentialcourses' and (text() = '  
+audio visual course_1802
+  
+' or . = '  
+audio visual course_1802
+  
+')]</value>
+      <webElementGuid>fb67c1f2-f6a1-4c1c-98db-a39351d92a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1740739715243_43']/select</value>
+      <webElementGuid>f0a2f413-59a1-4348-b8a5-faec2d0b9992</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
