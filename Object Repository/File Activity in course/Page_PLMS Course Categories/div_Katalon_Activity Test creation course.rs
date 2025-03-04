@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Katalon_Activity Test creation course</name>
+   <tag></tag>
+   <elementGuidId>cd467465-7066-4686-b4a1-3202e31c2582</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Katalon_Activity Test creation course' or . = 'Katalon_Activity Test creation course')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.search_course_name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8d5bc4f-4f53-4a8e-a374-288a58aa6161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search_course_name </value>
+      <webElementGuid>7bbfdb78-9a12-4fd3-bb59-7285d037f8c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>0954097f-6d31-4a54-8e58-11ddfe35f193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>c60edae8-0734-430a-b3ab-0aa6a9e56c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-original-title</name>
+      <type>Main</type>
+      <value>Katalon_Activity Test creation course</value>
+      <webElementGuid>04406a9a-78f1-4482-a53d-cfac73bd0db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip504306</value>
+      <webElementGuid>fdeec0e7-a933-4722-80ea-df92da0a00eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon_Activity Test creation course</value>
+      <webElementGuid>c9dfc73b-b09b-4f9d-a6e4-e6a0d863b526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1741071533091_43&quot;)/div[@class=&quot;course_search_popup_data&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 course_search_div p-0&quot;]/div[@class=&quot;row course-list&quot;]/div[@class=&quot;row card-box&quot;]/div[@class=&quot;texts-wrap&quot;]/a[1]/div[@class=&quot;search_course_name&quot;]</value>
+      <webElementGuid>b7d272bc-b05d-4532-a855-275efa23f28f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1741071533091_43']/div[2]/div/div[2]/div/div/div[2]/a/div</value>
+      <webElementGuid>48ae979b-1b93-423c-b173-8c6c236d0a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon_Activity'])[1]/following::div[2]</value>
+      <webElementGuid>8016cf73-511e-42fc-a1ec-feed565506a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA'])[2]/preceding::div[1]</value>
+      <webElementGuid>d68c6189-5be1-4fd6-bcad-974aea880832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::div[1]</value>
+      <webElementGuid>20caaafe-00ac-40e1-bac4-4a7c20a99448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Katalon_Activity Test creation course']/parent::*</value>
+      <webElementGuid>b2be510c-0395-47c9-ba01-6cab22b15ec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/a/div</value>
+      <webElementGuid>026104c1-dca8-4605-9181-4c24a83116b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Katalon_Activity Test creation course' or . = 'Katalon_Activity Test creation course')]</value>
+      <webElementGuid>d79d946a-b0c9-4186-af76-7a677ecc9ada</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

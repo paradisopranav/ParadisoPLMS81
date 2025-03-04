@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Create_File_Activity_in_Course</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>195b1f6f-2b0b-4910-8f04-6ba45c5b49a5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de900177-ca75-4af8-9a51-34280c0c2691</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\hp\\\\OneDrive - PARADISO\\\\Documents\\Paradiso Data\\\\KatalonFile.pdf'</defaultValue>
+      <description></description>
+      <id>de900177-ca75-4af8-9a51-34280c0c2691</id>
+      <masked>false</masked>
+      <name>FileUpload</name>
+   </variable>
+</TestCaseEntity>

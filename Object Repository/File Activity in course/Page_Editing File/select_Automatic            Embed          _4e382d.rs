@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Automatic            Embed          _4e382d</name>
+   <tag></tag>
+   <elementGuidId>5e5efadc-48c7-4832-a386-6388aa6cadf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='id_display']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id_display</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2be4f43c-5835-4494-a2cc-d253ec54a53e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>1ad92f39-9d2c-4e28-b749-9d00a65be9c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>display</value>
+      <webElementGuid>c8df4476-abe1-46d5-9ca0-470bd7a5d87c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_display</value>
+      <webElementGuid>2e085350-63e4-4f1f-b0cc-e99b1a2b3d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Automatic
+            Embed
+            Force download
+            Open
+            In pop-up
+        </value>
+      <webElementGuid>56c6e239-bb80-4e1e-8c66-78d80422ab34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id_display&quot;)</value>
+      <webElementGuid>29bd0983-1f0e-40c0-bf35-6cf311d5e9b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='id_display']</value>
+      <webElementGuid>d08b3ebc-e753-4ec4-b2f6-ebef4850c5e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1741071670500_1942']/select</value>
+      <webElementGuid>45c12262-3ea5-4a29-913c-12d921bfe152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display'])[1]/following::select[1]</value>
+      <webElementGuid>800266b5-7cf6-4705-b388-c07c23107b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[4]/following::select[1]</value>
+      <webElementGuid>96b52cf8-ce12-44f4-abc2-2762b3a633d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show size'])[1]/preceding::select[1]</value>
+      <webElementGuid>87f5d821-a74b-4a32-9132-493d2004d71d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show type'])[1]/preceding::select[1]</value>
+      <webElementGuid>95afdeb1-fb29-4407-8aaa-1ede4eac6622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>31c5674f-641e-426c-991e-f38d46c9632b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'display' and @id = 'id_display' and (text() = '
+            Automatic
+            Embed
+            Force download
+            Open
+            In pop-up
+        ' or . = '
+            Automatic
+            Embed
+            Force download
+            Open
+            In pop-up
+        ')]</value>
+      <webElementGuid>fdd392ac-4f75-4649-969a-2ee07c106072</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

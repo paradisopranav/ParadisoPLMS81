@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>circle_Delete Topic_Ellipse_455</name>
+   <tag></tag>
+   <elementGuidId>a73c4d9e-c04c-4559-85f0-d2102c595fd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//circle[@id = 'Ellipse_455']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#action-menu-toggle-5 > #menu-dots-vertical_1_ > #Ellipse_455</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+      <webElementGuid>f1ee85ef-6c36-4fb0-b91f-c8e6fc824f63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Ellipse_455</value>
+      <webElementGuid>02520fb7-269f-47d8-a503-53190ed5ac22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Ellipse 455</value>
+      <webElementGuid>282d8e99-1bc6-4bb6-a2b9-0adb4c42eed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cx</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>6db44a29-0f3b-4c9d-9863-2567d7717663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cy</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>38634e42-ccca-4199-aba6-5a70193d254e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>r</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>155cf504-f610-4f14-b420-9a5e8904959a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(0 16)</value>
+      <webElementGuid>7f241928-056c-4465-a292-299714c721b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#334155</value>
+      <webElementGuid>de03bcd0-1390-43fc-8e64-037d63c567e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action-menu-toggle-5&quot;)/svg[@id=&quot;menu-dots-vertical_1_&quot;]/circle[@id=&quot;Ellipse_455&quot;]</value>
+      <webElementGuid>9b553ace-b576-4d05-8cda-65241dda7e67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//circle[@id = 'Ellipse_455']</value>
+      <webElementGuid>ddd6d972-141e-44cd-a16c-fd7de5a944bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
