@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_dqksywlv_form-control course_search</name>
+   <tag></tag>
+   <elementGuidId>1417f5fa-524c-44be-bed4-f861d33aedbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.course_search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7d7298cc-06fe-4b72-ae45-b026af35885b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>50355bbc-0ebd-4b58-b8a2-a3d1658d93ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control course_search</value>
+      <webElementGuid>5951a07b-ade0-4e48-8a87-da819ace0f70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search Course &amp; Category</value>
+      <webElementGuid>6547ab7c-d78c-4eb9-b26a-0f3e470d5f90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1741088465850_39&quot;)/div[@id=&quot;page-content&quot;]/div[@class=&quot;pr-0 pl-0 all-card-view&quot;]/div[@class=&quot;row pt-3 px-3 position-relative&quot;]/div[@class=&quot;item position-relative mr-3&quot;]/input[@class=&quot;form-control course_search&quot;]</value>
+      <webElementGuid>00d56f96-1444-4d7b-b5b1-0d2e0468fccb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[4]</value>
+      <webElementGuid>676194b3-a46d-404b-92ef-231ac3f5b059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content']/div[3]/div/div/input</value>
+      <webElementGuid>2d21d5b9-6bdf-47a4-a9b7-d69b9d8f48d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/input</value>
+      <webElementGuid>cf55006c-9af6-427b-b801-0a6015e25586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search Course &amp; Category']</value>
+      <webElementGuid>6107ca2e-aee1-4df5-8a70-20a531727fde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
