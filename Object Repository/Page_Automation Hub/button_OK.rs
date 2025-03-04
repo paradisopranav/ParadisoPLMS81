@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[23]</value>
+         <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9b6998a8-b77f-44a2-9cb5-cac935629507</webElementGuid>
+      <webElementGuid>34b6ad87-9048-4f5b-8a8a-fa594cf96120</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>data-bb-handler</name>
       <type>Main</type>
       <value>confirm</value>
-      <webElementGuid>2b01ad50-927e-4f8b-a1b9-50e88faa4ae8</webElementGuid>
+      <webElementGuid>d10226d7-85a9-4410-9cd7-9df9f72fdda9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f86689b3-d5eb-4a6a-aef4-3610d22e3948</webElementGuid>
+      <webElementGuid>f5df5e3c-98a6-4882-b87c-b41453b216fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>db311445-e044-4d07-bd71-7a130d6a4290</webElementGuid>
+      <webElementGuid>42d53542-9e12-440a-87e2-9c3463635ff3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OK</value>
-      <webElementGuid>81a10f35-684c-4993-a4f2-a95c62ecf584</webElementGuid>
+      <webElementGuid>c8d592f5-11f4-46ef-8b7c-13ace3763c08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;page-local-enroll_by_profile-index&quot;)/div[@class=&quot;bootbox modal fade bootbox-confirm show&quot;]/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>bcce227b-2a7d-4ff3-84c9-bf662be16ac5</webElementGuid>
+      <webElementGuid>2de46070-2359-4bd5-964e-58f2cec3f574</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[23]</value>
-      <webElementGuid>0c04ca23-6b3a-4049-a15c-4746a25c98fd</webElementGuid>
+      <webElementGuid>073ab3ed-d0d8-4b67-a7ce-402bcfc7f0b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='page-local-enroll_by_profile-index']/div[3]/div/div/div[2]/button[2]</value>
-      <webElementGuid>6f97fb42-13cd-42b7-b781-b5daf3ee471e</webElementGuid>
+      <webElementGuid>465bc4f9-a605-4adc-92b8-6ee4883cb744</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[4]/following::button[1]</value>
-      <webElementGuid>8fdc6610-a9ec-4796-8909-dbde777f6ca2</webElementGuid>
+      <webElementGuid>2152716c-8323-4358-b195-fddf7d3cb5be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure, you want to disable selected rules ?'])[1]/following::button[2]</value>
-      <webElementGuid>dd2d5979-6548-4ff2-abdb-0a83cca92c46</webElementGuid>
+      <webElementGuid>e0e444bc-325c-4255-a50a-b5d89feb5669</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
-      <webElementGuid>15159500-d381-41ba-87ab-e10bed59dec8</webElementGuid>
+      <webElementGuid>26cb6035-2def-410b-bd4b-6a07dcad7e6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button[2]</value>
-      <webElementGuid>a475bd9b-0947-4616-973f-8134324ba9fe</webElementGuid>
+      <webElementGuid>3d014a99-7f78-430e-92ee-91e9ed9b329b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>298b6e40-27cb-46a8-9428-4ebc13914d05</webElementGuid>
+      <webElementGuid>7a77b1a6-889e-44da-a66b-8a0c8a3a58a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete this rule ?'])[1]/following::button[2]</value>
-      <webElementGuid>8727bac7-0e49-4eed-baf6-fcf6917182de</webElementGuid>
+      <webElementGuid>20f13244-7ded-4cf1-a7a6-4e0fef1a0d61</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
