@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Create_Video_Activity_in_Course</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9414b921-7f38-4272-a828-8cd018d77de4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2bbc3ff6-6eff-4096-b2de-e383ed7d6894</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\hp\\\\OneDrive - PARADISO\\\\Documents\\\\Paradiso Data\\\\KatalonVideo.mp4'</defaultValue>
+      <description></description>
+      <id>2bbc3ff6-6eff-4096-b2de-e383ed7d6894</id>
+      <masked>false</masked>
+      <name>VideoFile</name>
+   </variable>
+</TestCaseEntity>
