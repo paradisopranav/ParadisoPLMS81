@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Preview_men men-menu-dots</name>
+   <tag></tag>
+   <elementGuidId>14f6b088-88aa-414c-af88-2e25e662fd1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btn_teacherdash']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.men.men-menu-dots</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>aab65577-29d1-464d-88d5-11666cde5170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>men men-menu-dots</value>
+      <webElementGuid>f2f0a719-8ad4-46e7-9811-b598e90402ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>59bbede9-6bd5-4b85-8098-9e55c51f547b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn_teacherdash&quot;)/i[@class=&quot;men men-menu-dots&quot;]</value>
+      <webElementGuid>c694a590-a71c-4184-98e6-c8fcfd5225bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='btn_teacherdash']/i</value>
+      <webElementGuid>646f7f36-79df-4299-9167-9b06cf7fcf08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>e557ef50-6665-4b79-94f5-efa869438c11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

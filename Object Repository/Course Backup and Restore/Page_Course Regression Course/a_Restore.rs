@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Restore</name>
+   <tag></tag>
+   <elementGuidId>29bc68dc-2a1b-482a-b0a2-550102df480a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Restore')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.cell.c4.lastcol > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>51fedfec-ea4b-422a-a24a-5991cdf30ada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://plms-php81.paradisolms.net/backup/restorefile.php?action=choosebackupfile&amp;filename=KatalonBackup.mbz&amp;filepath=%2F&amp;component=user&amp;filearea=backup&amp;filecontextid=5&amp;contextid=49457&amp;itemid=0</value>
+      <webElementGuid>471b91fe-4243-4389-8da3-084536aa70b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Restore</value>
+      <webElementGuid>ede3d238-7795-4ea4-aa3a-7ec5d17b73ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1741164586514_79&quot;)/td[@class=&quot;cell c4 lastcol&quot;]/a[1]</value>
+      <webElementGuid>383ae518-b80c-42e9-9288-70e0ff30ec3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='yui_3_17_2_1_1741164586514_79']/td[5]/a</value>
+      <webElementGuid>9619a5be-dad1-40e3-bf41-3d327b7d7f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Restore')]</value>
+      <webElementGuid>103b8aea-882e-495c-b644-b9046eaf790e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[3]/following::a[1]</value>
+      <webElementGuid>4adb99d0-f365-4503-af30-bac791cd3a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wednesday, 5 March 2025, 2:19 PM'])[1]/following::a[2]</value>
+      <webElementGuid>008dcb01-39e6-4168-a9d1-4fb1a737c957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='backup-course-985-regression_course-20250108-1031-nu.mbz'])[1]/preceding::a[1]</value>
+      <webElementGuid>832ccca7-6ece-4adf-860f-95482ad0ac17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wednesday, 8 January 2025, 10:31 AM'])[1]/preceding::a[1]</value>
+      <webElementGuid>ee1c766a-deaf-4c11-950d-966a674843ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/backup/restorefile.php?action=choosebackupfile&amp;filename=KatalonBackup.mbz&amp;filepath=%2F&amp;component=user&amp;filearea=backup&amp;filecontextid=5&amp;contextid=49457&amp;itemid=0')]</value>
+      <webElementGuid>5b915269-90bb-4bbb-9488-2413fa570911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>d28aed66-87c2-4e65-af67-06a914054739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://plms-php81.paradisolms.net/backup/restorefile.php?action=choosebackupfile&amp;filename=KatalonBackup.mbz&amp;filepath=%2F&amp;component=user&amp;filearea=backup&amp;filecontextid=5&amp;contextid=49457&amp;itemid=0' and (text() = 'Restore' or . = 'Restore')]</value>
+      <webElementGuid>802685f3-1f76-49c5-9fb7-7cfc3fea1668</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

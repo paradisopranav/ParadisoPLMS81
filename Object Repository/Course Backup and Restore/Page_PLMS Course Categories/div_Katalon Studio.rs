@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Katalon Studio</name>
+   <tag></tag>
+   <elementGuidId>2ef977bd-b538-4af9-96ea-8e71756c89f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yui_3_17_2_1_1741164799939_43']/div[2]/div/div/div/ul/li/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.closepop_modal.explore-course-category</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4ba2f28b-2650-4e01-95b1-1870bc0dec8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>closepop_modal explore-course-category</value>
+      <webElementGuid>2c8ceae8-1b1e-4bb2-877c-70840e8e2ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>242</value>
+      <webElementGuid>ce4f6e78-5d7b-438b-88ba-aa0827b6755c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parentindex</name>
+      <type>Main</type>
+      <value>242</value>
+      <webElementGuid>3e546e83-1925-45f0-ad73-4ae07521eb90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon Studio</value>
+      <webElementGuid>d32d097a-1332-4ece-9a3a-8eb4128aaed4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1741164799939_43&quot;)/div[@class=&quot;course_search_popup_data&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 category-box p-0&quot;]/div[@class=&quot;coursecataloglist&quot;]/ul[@class=&quot;accordion&quot;]/li[1]/div[@class=&quot;parent parentindex242&quot;]/div[@class=&quot;closepop_modal explore-course-category&quot;]</value>
+      <webElementGuid>e0330875-9d30-47d0-b01c-e5f70cd0a5bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1741164799939_43']/div[2]/div/div/div/ul/li/div/div</value>
+      <webElementGuid>b94239a0-1039-43e5-b38b-6a9f8c6b71aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses Categories'])[1]/following::div[3]</value>
+      <webElementGuid>57d727c7-c628-422e-a638-167c8da35e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Studio'])[1]/following::div[9]</value>
+      <webElementGuid>0357dbab-3cd2-4249-85c1-ca7e21a5a20a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li/div/div</value>
+      <webElementGuid>08333d6a-c815-4516-bada-4b7cae24d6e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Katalon Studio' or . = 'Katalon Studio')]</value>
+      <webElementGuid>6d5dea5d-aee5-4f02-b517-cf681b8a49e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

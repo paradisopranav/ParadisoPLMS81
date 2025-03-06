@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Skip to main content_back_page</name>
+   <tag></tag>
+   <elementGuidId>877cf8ef-a6f1-4fee-9ac1-2353aed7c25a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='navbar-paradiso']/div/div/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.back_page</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dff3110a-4e1a-4f40-875f-fa126194d1c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>back_page</value>
+      <webElementGuid>1ffe101d-f677-448d-ba1a-407c3c79bf76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://plms-php81.paradisolms.net/course/</value>
+      <webElementGuid>25376435-4b1d-4bd2-a560-e1e661b778a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Back to Course Catalog</value>
+      <webElementGuid>26f78745-1e54-48f4-a2fc-ebbc53cecec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-paradiso&quot;)/div[@class=&quot;row navbar-nav&quot;]/div[@class=&quot;content-button left-side-content&quot;]/span[@class=&quot;back_page_button&quot;]/a[@class=&quot;back_page&quot;]</value>
+      <webElementGuid>a100e8f0-0565-4284-9ae2-481fc28173b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='navbar-paradiso']/div/div/span/a</value>
+      <webElementGuid>0e37e339-d6ac-4d8c-89af-726a76ce1a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/following::a[1]</value>
+      <webElementGuid>0f44b479-cb23-4c6e-a15a-e53e4592d91b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Tabs'])[1]/preceding::a[1]</value>
+      <webElementGuid>9e97dba8-0916-4397-a66c-472db6561ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course content'])[1]/preceding::a[1]</value>
+      <webElementGuid>14eba4ca-2501-4b56-9f82-a8c0733b4d87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/course/')]</value>
+      <webElementGuid>6a1bd224-d634-4ae0-b9d9-2293c0be767b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>2b144e6e-e3a5-4d38-9a1d-7a57fd252ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://plms-php81.paradisolms.net/course/' and @title = 'Back to Course Catalog']</value>
+      <webElementGuid>f0ad887a-93f7-46ba-93d6-ca775eb4a52e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

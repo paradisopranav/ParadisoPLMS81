@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Download</name>
+   <tag></tag>
+   <elementGuidId>d948ded7-6387-4b6f-ad35-ccd2e2091d99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='linkmaincontent']/div/div[3]/table/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.cell.c3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>109ddd43-c0d2-478f-b169-caa688808536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell c3</value>
+      <webElementGuid>44a98706-d392-45ef-bd31-bcd9a936c3e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download</value>
+      <webElementGuid>7aea196d-0129-4760-83c9-6e187655bace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;linkmaincontent&quot;)/div[1]/div[3]/table[@class=&quot;backup-files-table generaltable&quot;]/tbody[1]/tr[1]/td[@class=&quot;cell c3&quot;]</value>
+      <webElementGuid>37a4e38c-bc31-4bf0-a29b-12cad98d1e73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='linkmaincontent']/div/div[3]/table/tbody/tr/td[4]</value>
+      <webElementGuid>b65ea8f6-bc1b-4bdd-9043-84c58e9f8567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wednesday, 5 March 2025, 2:19 PM'])[1]/following::td[2]</value>
+      <webElementGuid>08f702be-0750-44c8-952b-5caafb60a6a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KatalonBackup.mbz'])[1]/following::td[3]</value>
+      <webElementGuid>4b3412bb-46ff-4dcc-b5d4-71b3683c7bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restore'])[3]/preceding::td[1]</value>
+      <webElementGuid>c4c433d4-9455-4b6c-bfa6-cf04b4f90a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>6ed562bb-33a3-4c94-9818-c2f7f83a1910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Download' or . = 'Download')]</value>
+      <webElementGuid>28694b3d-3dcd-430b-8e3e-eea15e072ded</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
