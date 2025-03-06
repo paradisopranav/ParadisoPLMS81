@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='yui_3_17_2_1_1741164769599_815']</value>
+         <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a86ff3c1-a5bb-4748-8616-00155569d55e</webElementGuid>
+      <webElementGuid>7d2b9480-e102-4579-9427-5b02215441c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fp-file-delete btn btn-secondary</value>
-      <webElementGuid>1042d8b5-13a3-4b4b-b976-28897b550ec7</webElementGuid>
+      <webElementGuid>d6710f37-67b6-461e-ad9e-2e9b49ab7b7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>yui_3_17_2_1_1741164769599_815</value>
-      <webElementGuid>5922d993-0813-449d-ae9f-5eaf341d33cb</webElementGuid>
+      <webElementGuid>b0c3a73e-bc26-463a-98d2-0cdd560990e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>216b1e83-0372-4e7e-82ca-4acaefaab052</webElementGuid>
+      <webElementGuid>483fbf40-4b7b-4c84-8e4a-ec94e6ba33e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1741164769599_815&quot;)</value>
-      <webElementGuid>2fd97bb4-70bf-496d-b333-b211d60ebbc5</webElementGuid>
+      <webElementGuid>abb61d86-f9e7-4678-b69b-6d8206afef77</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='yui_3_17_2_1_1741164769599_815']</value>
-      <webElementGuid>9a93351f-7190-4f4d-bf68-34330dfbedff</webElementGuid>
+      <webElementGuid>9916450b-19d7-44c7-a88a-4140c85b035c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1741164769599_816']/button[2]</value>
-      <webElementGuid>3557a136-3329-409d-9890-9c29a47f3a90</webElementGuid>
+      <webElementGuid>6b57db47-6ca4-40f9-8255-475ffe64c1ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::button[1]</value>
-      <webElementGuid>af014b42-8b65-4ad1-9f3c-a4dc6ff2349b</webElementGuid>
+      <webElementGuid>6057058f-9372-4d14-a529-ba1c8c8fdf5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit KatalonBackup.mbz'])[1]/following::button[3]</value>
-      <webElementGuid>77b54e1d-25e7-40ed-bab2-41cbc60a3b5c</webElementGuid>
+      <webElementGuid>9c337619-5adf-47b1-9726-7cfa166a79ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Set main file'])[1]/preceding::button[1]</value>
-      <webElementGuid>0dc881c2-45e3-4912-a94a-30fca2d0a003</webElementGuid>
+      <webElementGuid>2f743894-4e89-4965-8172-7036868b434a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip'])[1]/preceding::button[2]</value>
-      <webElementGuid>69d82511-8e4a-4140-ad19-0c858dab2db6</webElementGuid>
+      <webElementGuid>ce9aefa1-c164-4dd7-85c6-f9fe7202a92b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
-      <webElementGuid>419acdf0-a914-4ded-a84f-837dd4dee853</webElementGuid>
+      <webElementGuid>92debeb2-d623-435d-983d-36d94e5200da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>27039841-3b1b-44ff-936b-c7d572c5af4b</webElementGuid>
+      <webElementGuid>b053988f-0435-457e-8338-adb7a9f83fff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'yui_3_17_2_1_1741164769599_815' and (text() = 'Delete' or . = 'Delete')]</value>
-      <webElementGuid>476a0229-8be2-481c-8183-84ab82dd6efe</webElementGuid>
+      <webElementGuid>053d7de5-ac1b-4c26-9b73-9eb946f23cd1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

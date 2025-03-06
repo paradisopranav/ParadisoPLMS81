@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='yui_3_17_2_1_1741164769599_705']/span[4]</value>
+         <value>//span[(text() = 'KatalonBackup.mbz' or . = 'KatalonBackup.mbz')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>88a20918-90fb-4a38-a79d-dd72d3afa0fd</webElementGuid>
+      <webElementGuid>1f5d21db-8d12-4cee-9d9a-ba3228045983</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fp-filename</value>
-      <webElementGuid>58f2658b-115c-4886-b560-cd3bc974f5b9</webElementGuid>
+      <webElementGuid>8ca92adb-c3d7-42f6-b142-41e7891e993c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>KatalonBackup.mbz</value>
-      <webElementGuid>d24d45e1-1968-472f-82ed-5d28be4f2ea6</webElementGuid>
+      <webElementGuid>0f599711-6fd8-4c69-9589-9f81dd6a2f1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1741164769599_705&quot;)/span[@class=&quot;fp-filename&quot;]</value>
-      <webElementGuid>b2465744-4b75-43bf-8470-971ee7a3c74a</webElementGuid>
+      <webElementGuid>1613f4a4-1f9a-4f6c-86b3-a9b2c491f074</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='yui_3_17_2_1_1741164769599_705']/span[4]</value>
-      <webElementGuid>1a508c89-8468-48b3-8c8f-846a46154f76</webElementGuid>
+      <webElementGuid>2f95ec07-df59-40e8-b6b5-ac419239a7d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PLMS backup'])[17]/following::span[5]</value>
-      <webElementGuid>2250543f-5177-49e7-b2ff-cde58c87d7b0</webElementGuid>
+      <webElementGuid>ad7aadc5-0578-4a5d-855c-f22ca0565925</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='backup-moodle2-course-45-sales_training_2-20190118-0849-nu.mbz'])[1]/following::span[5]</value>
-      <webElementGuid>e0afaeae-4507-413e-a8c1-c4a9ff5a2c4f</webElementGuid>
+      <webElementGuid>b195a0d6-df18-40f2-b0a4-a33b52c088c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PLMS backup'])[18]/preceding::span[1]</value>
-      <webElementGuid>0db7fd85-08f3-409f-b98f-c07099dd3f30</webElementGuid>
+      <webElementGuid>99c1cae1-0e86-4390-bff9-1b4246dec555</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='KatalonBackup.mbz']/parent::*</value>
-      <webElementGuid>c62f88a0-54a6-41f9-806c-5786cf2bd5a8</webElementGuid>
+      <webElementGuid>51a0b3fa-4d15-4900-8faf-ffa1a507c599</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[18]/td/span/a/span[4]</value>
-      <webElementGuid>913494b5-d87c-4b99-8e10-fb81b9d8f1d8</webElementGuid>
+      <webElementGuid>4dce8d2c-0c75-48f7-aaf8-e38a3c5ac647</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'KatalonBackup.mbz' or . = 'KatalonBackup.mbz')]</value>
-      <webElementGuid>94993faf-bc91-45b5-9ea8-c69b90fec6dd</webElementGuid>
+      <webElementGuid>ffaf4e01-9924-4bdf-9529-b1479ef7883b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

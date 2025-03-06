@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='single_button67c810d86f9b46']</value>
+         <value>//div[@id='linkmaincontent']/div/div[3]/div/form/button</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6f6fe3ee-5df2-4585-8c9b-1e59163632c8</webElementGuid>
+      <webElementGuid>4053922d-9c70-4fed-816d-44d92f770d29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>a839a8a3-bd20-452e-893d-367959d1a076</webElementGuid>
+      <webElementGuid>e8b5ce5b-7465-465d-83a0-27a9b7f9c08e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-round btn-secondary</value>
-      <webElementGuid>8ff6fdaa-210b-454a-8585-96d171d88c3e</webElementGuid>
+      <webElementGuid>5fe17585-63b4-4f31-9828-fe04e26f22d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>single_button67c810d86f9b46</value>
-      <webElementGuid>4c1d443b-75ec-42af-b36e-fc96c93502df</webElementGuid>
+      <webElementGuid>61ec1692-36d4-4c8b-9578-8e7e3984f16c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage backup files</value>
-      <webElementGuid>90add6e9-7c6c-4632-a127-c8adaa42123e</webElementGuid>
+      <webElementGuid>66d32dc8-33cc-4ca9-92cc-f0b18c1533a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;single_button67c810d86f9b46&quot;)</value>
-      <webElementGuid>acc3f446-ab71-44a6-8142-e119335d28e1</webElementGuid>
+      <webElementGuid>cf55f001-5969-4cf1-a7c0-9bd509905929</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='single_button67c810d86f9b46']</value>
-      <webElementGuid>bcfaa1c2-ebf7-4145-9385-bd917b8354a6</webElementGuid>
+      <webElementGuid>5f487dee-1032-4b56-85f0-74622bc81b6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='linkmaincontent']/div/div[3]/div/form/button</value>
-      <webElementGuid>3ddcd980-3ffb-441a-86f9-5d27464e96bc</webElementGuid>
+      <webElementGuid>96a69eea-248c-40a7-aa10-e684a9bbc3e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Restore'])[20]/following::button[1]</value>
-      <webElementGuid>71b317e2-35e5-4cab-8511-564fa468dff4</webElementGuid>
+      <webElementGuid>c4af726d-200a-42aa-ab08-84134154a758</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[20]/following::button[1]</value>
-      <webElementGuid>b3baaddd-5722-48c4-b86b-dffe81e9f792</webElementGuid>
+      <webElementGuid>1c253d66-9a4c-4427-bf58-ac255fbbc543</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automated backups'])[1]/preceding::button[1]</value>
-      <webElementGuid>b05f291e-c80f-4574-924c-d6fec221c17e</webElementGuid>
+      <webElementGuid>adc2d5c2-b726-484c-bcdd-0c2ccb30f478</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filename'])[3]/preceding::button[1]</value>
-      <webElementGuid>3c1834c5-8da1-4e61-a900-f3ded55beb4e</webElementGuid>
+      <webElementGuid>089208c5-b34a-44de-b19a-19b629ec283a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/form/button</value>
-      <webElementGuid>3bf3df5e-9a06-4316-8ab7-8c85094731bd</webElementGuid>
+      <webElementGuid>7cc83e3a-398b-455f-b7c4-ce0f4441ff79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @id = 'single_button67c810d86f9b46' and (text() = 'Manage backup files' or . = 'Manage backup files')]</value>
-      <webElementGuid>a787924e-4b43-4269-a0e3-bdbfa656770b</webElementGuid>
+      <webElementGuid>22c9f401-cf68-4014-a79e-9e1eb236f78a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

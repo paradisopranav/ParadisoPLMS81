@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='yui_3_17_2_1_1741164769599_954']</value>
+         <value>//div[2]/div/button</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>81c35e9a-658c-434b-993e-ba246561f41c</webElementGuid>
+      <webElementGuid>b84558a6-4184-4175-925b-48d0c3e6380e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fp-dlg-butconfirm btn-primary btn btn-round</value>
-      <webElementGuid>e6bf1f10-f8db-4af9-b5b0-589afa97f607</webElementGuid>
+      <webElementGuid>3c1e6ab0-804c-453b-b43d-76a194fd2d82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>yui_3_17_2_1_1741164769599_954</value>
-      <webElementGuid>6dd4ccb1-45fe-4c9a-8597-61e783685340</webElementGuid>
+      <webElementGuid>ec86fe35-12d4-410a-8b26-4a7835910396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OK</value>
-      <webElementGuid>8c660ea6-ed5f-4f93-b93e-732e6c121344</webElementGuid>
+      <webElementGuid>667c45dd-60b3-43af-a1c3-36cf4000fedb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1741164769599_954&quot;)</value>
-      <webElementGuid>79daa862-f0d9-43d0-aea3-b19a4bb9597d</webElementGuid>
+      <webElementGuid>1dd5ee32-f365-4557-b356-ed703ef2951d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='yui_3_17_2_1_1741164769599_954']</value>
-      <webElementGuid>a223b28f-ad9b-43d4-9666-e59fde6cad5c</webElementGuid>
+      <webElementGuid>3ad19b69-3ae2-4a1b-8324-cd76bcfc24e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1741164769599_822']/button</value>
-      <webElementGuid>1dae19cd-6947-4029-9d69-718c099fb911</webElementGuid>
+      <webElementGuid>cf100e49-68e6-471f-b435-eed742c7415f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dimensions'])[1]/following::button[2]</value>
-      <webElementGuid>3228159a-d1d7-4130-aec6-7aecb11f5e37</webElementGuid>
+      <webElementGuid>bd55c0ba-08de-4f18-b647-f1d45ab93b99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/preceding::button[1]</value>
-      <webElementGuid>510dba2e-7919-40c1-99eb-d79b3a2e21f9</webElementGuid>
+      <webElementGuid>26afc865-ddb0-4014-aa13-3504d44fa50c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
-      <webElementGuid>612be975-281f-4b99-a765-525e29ebc92b</webElementGuid>
+      <webElementGuid>739ff486-5306-476d-aea1-2e2b19235631</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>8c82b8ba-fce0-45c1-a7ab-3992e3ca337a</webElementGuid>
+      <webElementGuid>bda7491a-d0d5-425c-9f35-75d2d8eba45b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'yui_3_17_2_1_1741164769599_954' and (text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>cf0e3e07-93a9-4ddd-86b7-06c8c07622d9</webElementGuid>
+      <webElementGuid>c583cf62-c09e-47ed-8745-8f1b00ea434b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

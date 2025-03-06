@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='yui_3_17_2_1_1741164799939_43']/div[2]/div/div/div/ul/li/div/div</value>
+         <value>//div[2]/div/div/div/ul/li/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>4ba2f28b-2650-4e01-95b1-1870bc0dec8f</webElementGuid>
+      <webElementGuid>bda53418-32e8-4ec7-8ccf-465bf243929e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>closepop_modal explore-course-category</value>
-      <webElementGuid>2c8ceae8-1b1e-4bb2-877c-70840e8e2ae1</webElementGuid>
+      <webElementGuid>3ee7c68b-bb86-4405-8db0-9d552c612e41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>242</value>
-      <webElementGuid>ce4f6e78-5d7b-438b-88ba-aa0827b6755c</webElementGuid>
+      <webElementGuid>a75179cf-3da7-4ff1-b74d-b6247ec11525</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>parentindex</name>
       <type>Main</type>
       <value>242</value>
-      <webElementGuid>3e546e83-1925-45f0-ad73-4ae07521eb90</webElementGuid>
+      <webElementGuid>c66e929c-8e38-466b-99a8-1dd24fa27f23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Katalon Studio</value>
-      <webElementGuid>d32d097a-1332-4ece-9a3a-8eb4128aaed4</webElementGuid>
+      <webElementGuid>d56595dc-0f28-4846-920c-3a6fb6f7fdb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1741164799939_43&quot;)/div[@class=&quot;course_search_popup_data&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 category-box p-0&quot;]/div[@class=&quot;coursecataloglist&quot;]/ul[@class=&quot;accordion&quot;]/li[1]/div[@class=&quot;parent parentindex242&quot;]/div[@class=&quot;closepop_modal explore-course-category&quot;]</value>
-      <webElementGuid>e0330875-9d30-47d0-b01c-e5f70cd0a5bf</webElementGuid>
+      <webElementGuid>e8b130fa-1b4c-4567-9648-7532734d7c7e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1741164799939_43']/div[2]/div/div/div/ul/li/div/div</value>
-      <webElementGuid>b94239a0-1039-43e5-b38b-6a9f8c6b71aa</webElementGuid>
+      <webElementGuid>b3f2a311-61f2-453d-aa35-28310cca7b43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses Categories'])[1]/following::div[3]</value>
-      <webElementGuid>57d727c7-c628-422e-a638-167c8da35e9b</webElementGuid>
+      <webElementGuid>3b46ae2d-1fd8-4080-8fd7-40af314bf88c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Studio'])[1]/following::div[9]</value>
-      <webElementGuid>0357dbab-3cd2-4249-85c1-ca7e21a5a20a</webElementGuid>
+      <webElementGuid>8386a152-7b2a-4c2d-b18d-3bb4710688f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/ul/li/div/div</value>
-      <webElementGuid>08333d6a-c815-4516-bada-4b7cae24d6e5</webElementGuid>
+      <webElementGuid>ada6b5a7-e74d-46d6-9783-5cab6c76e185</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Katalon Studio' or . = 'Katalon Studio')]</value>
-      <webElementGuid>6d5dea5d-aee5-4f02-b517-cf681b8a49e3</webElementGuid>
+      <webElementGuid>f1fd0997-2a04-4c25-9820-8bfc3dc8058f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
