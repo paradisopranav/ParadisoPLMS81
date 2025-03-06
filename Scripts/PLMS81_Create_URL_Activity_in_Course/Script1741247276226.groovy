@@ -48,35 +48,45 @@ WebUI.click(findTestObject('Object Repository/File Activity in course/Page_Cours
 WebUI.click(findTestObject('Object Repository/File Activity in course/Page_Course Katalon_Activity Test creation course/span_Add Activity'))
 
 WebUI.setText(findTestObject('Object Repository/File Activity in course/Page_Course Katalon_Activity Test creation course/input_Add Content_search'), 
-    'page')
+    'URL')
 
-WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Course Katalon_Activity Test creation course/span_Page'))
+WebUI.click(findTestObject('Object Repository/URL Activity in course/Page_Course Katalon_Activity Test creation course/span_URL'))
 
-WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Course Katalon_Activity Test creation course/button_Add Content'))
+WebUI.click(findTestObject('Object Repository/URL Activity in course/Page_Course Katalon_Activity Test creation course/button_Add Content'))
 
-WebUI.setText(findTestObject('Object Repository/Page Activity In course/Page_Editing Page/input_Name_name'), 'Katalon Page activity')
+WebUI.setText(findTestObject('Object Repository/URL Activity in course/Page_Editing URL/input_Name_name'), 'Katalon URL Activity')
 
-WebUI.setText(findTestObject('Object Repository/Page Activity In course/Page_Editing Page/p_Katalon'), 'Katalon Page text message')
+WebUI.setText(findTestObject('Object Repository/URL Activity in course/Page_Editing URL/input_External URL_externalurl'), 
+    'https://www.geeksforgeeks.org/what-is-automation/')
 
-WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Editing Page/a_Activity Completion'))
+WebUI.click(findTestObject('Object Repository/URL Activity in course/Page_Editing URL/a_Appearance'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page Activity In course/Page_Editing Page/select_Do not indicate activity completion _1406bf'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/URL Activity in course/Page_Editing URL/select_Automatic            Embed          _3fa1fd'), 
+    '1', true)
+
+WebUI.click(findTestObject('Object Repository/URL Activity in course/Page_Editing URL/a_Activity Completion'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/URL Activity in course/Page_Editing URL/select_Do not indicate activity completion _1406bf'), 
     '2', true)
 
-WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Editing Page/input_Course completion_mustbecompleted'))
+WebUI.click(findTestObject('Object Repository/URL Activity in course/Page_Editing URL/input_Course completion_mustbecompleted'))
 
-WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Editing Page/input_Upon Activity Completion_submitbutton'))
+WebUI.click(findTestObject('Object Repository/URL Activity in course/Page_Editing URL/input_Upon Activity Completion_submitbutton'))
 
-WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Katalon_Activity Test creation course _cfcc5d/svg_Delete Topic_menu-dots-vertical_1_'))
+WebUI.click(findTestObject('Object Repository/URL Activity in course/Page_Katalon_Activity Test creation course _3ac471/svg_Delete Topic_menu-dots-vertical_1_'))
 
-WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Katalon_Activity Test creation course _cfcc5d/a_Edit Settings'))
+WebUI.click(findTestObject('Object Repository/URL Activity in course/Page_Katalon_Activity Test creation course _3ac471/span_Edit Settings'))
 
-WebUI.setText(findTestObject('Object Repository/Page Activity In course/Page_Editing Page/input_Name_name'), 'Katalon Page activity updfate')
+WebUI.setText(findTestObject('Object Repository/URL Activity in course/Page_Editing URL/input_Name_name'), 'Katalon URL Activity update')
 
-WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Editing Page/input_Upon Activity Completion_submitbutton'))
+WebUI.setText(findTestObject('Object Repository/URL Activity in course/Page_Editing URL/input_External URL_externalurl'), 
+    'https://www.geeksforgeeks.org/software-testing-manual-testing/')
 
-WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Katalon_Activity Test creation course _3abafb/circle_Delete Topic_Ellipse_454'))
+WebUI.click(findTestObject('Object Repository/URL Activity in course/Page_Editing URL/input_Upon Activity Completion_submitbutton'))
 
-WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Katalon_Activity Test creation course _3abafb/span_Delete'))
+WebUI.click(findTestObject('Object Repository/URL Activity in course/Page_Katalon_Activity Test creation course _78de0c/a_Delete Topic_action-menu-toggle-4'))
 
-WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Delete Page/button_Yes'))
+WebUI.click(findTestObject('Object Repository/URL Activity in course/Page_Katalon_Activity Test creation course _78de0c/a_Delete'))
+
+WebUI.click(findTestObject('Object Repository/URL Activity in course/Page_Delete URL/button_Yes'))
+
