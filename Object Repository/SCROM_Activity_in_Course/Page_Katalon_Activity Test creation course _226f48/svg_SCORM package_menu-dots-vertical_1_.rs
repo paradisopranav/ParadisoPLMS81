@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_SCORM package_menu-dots-vertical_1_</name>
+   <tag></tag>
+   <elementGuidId>b5ca6bc9-01a9-467d-abd7-21c3cd1b81c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#action-menu-toggle-4 > #menu-dots-vertical_1_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='SCORM package'])[3]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>a61c94f7-9aef-459f-bdc0-9ddad83a61be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu-dots-vertical_1_</value>
+      <webElementGuid>70449f2e-60c2-4b0b-804d-8f521046f2a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>menu-dots-vertical (1)</value>
+      <webElementGuid>330b141f-ec50-4fe2-bd31-1f78764f90ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>fce7a320-037a-4d93-92ac-b4c14a035f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>776ed34f-b803-4fc0-803a-0f82a7278449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>77df93eb-93d0-4a2d-bdee-8fb7e0c22dca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 4 20</value>
+      <webElementGuid>7915b5bc-672d-4dbd-b122-ca9a84bf84e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action-menu-toggle-4&quot;)/svg[@id=&quot;menu-dots-vertical_1_&quot;]</value>
+      <webElementGuid>fb454baa-0227-44f9-b3ba-f081457691f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SCORM package'])[3]/following::*[name()='svg'][1]</value>
+      <webElementGuid>e380241d-a813-48db-8ab4-ab005ac5c855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Topic'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>7cf946a2-a2d8-40ba-b8c1-35aaf97bbd7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Settings'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ace4f38c-4c70-420c-9e31-2f4b3a4f8adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Right'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>089cc59b-29f7-446b-82ed-edd237836758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@id = 'menu-dots-vertical_1_']</value>
+      <webElementGuid>774e2ca2-215c-4236-a794-722ff924274e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

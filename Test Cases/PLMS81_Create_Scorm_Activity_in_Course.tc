@@ -6,4 +6,17 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>aae0c7e3-74b1-4061-b1b3-065a2fd24f59</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6a19d1c5-b9d8-4a56-9895-d64bd312efb9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\hp\\\\OneDrive - PARADISO\\\\Documents\\\\Paradiso Data\\\\Katalonscrom.zip'</defaultValue>
+      <description></description>
+      <id>6a19d1c5-b9d8-4a56-9895-d64bd312efb9</id>
+      <masked>false</masked>
+      <name>Scromfile</name>
+   </variable>
 </TestCaseEntity>
