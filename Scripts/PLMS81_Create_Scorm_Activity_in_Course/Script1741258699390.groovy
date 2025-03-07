@@ -89,28 +89,6 @@ WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Kata
 
 WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/path_Sample SCORM 1 - Complete  Incomplete__74b33d'))
 
-WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/image_Sample SCORM 1 - Complete  Incomplete_acad50'))
-
-WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/image_Sample SCORM 1 - Complete  Incomplete_10c168'))
-
-WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/image_Sample SCORM 1 - Complete  Incomplete_a47e9f'))
-
-WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/image_Sample SCORM 1 - Complete  Incomplete_d8f33c'))
-
-WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/image_Sample SCORM 1 - Complete  Incomplete_65d9ba'))
-
-WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/image_Sample SCORM 1 - Complete  Incomplete_9b7daa'))
-
-WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/image_Sample SCORM 1 - Complete  Incomplete_15277d'))
-
-WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/image_Sample SCORM 1 - Complete  Incomplete_9ad8e2'))
-
-WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/image_Sample SCORM 1 - Complete  Incomplete_900d69'))
-
-WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/image_Sample SCORM 1 - Complete  Incomplete_f1836d'))
-
-WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/image_Sample SCORM 1 - Complete  Incomplete_1a00d0'))
-
 WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/a_Exit'))
 
 WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/button_OK'))
@@ -119,9 +97,31 @@ WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Kata
 
 WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/span_Edit Settings'))
 
-WebUI.setText(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Editing SCORM package/input_Name_name'), 'Scrom upsdate')
+WebUI.setText(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Editing SCORM package/input_Name_name'), 'Scrom update')
 
 WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Editing SCORM package/input_Upon Activity Completion_submitbutton'))
+
+WebUI.click(findTestObject('SCROM_Activity_in_Course/Page_Delete SCORM package/Report Tab'))
+
+WebUI.click(findTestObject('SCROM_Activity_in_Course/Page_Delete SCORM package/Select all attempt'))
+
+WebUI.click(findTestObject('SCROM_Activity_in_Course/Page_Delete SCORM package/Export scorm attempt'))
+
+WebUI.click(findTestObject('SCROM_Activity_in_Course/Page_Delete SCORM package/ODS format report'))
+
+WebUI.click(findTestObject('SCROM_Activity_in_Course/Page_Delete SCORM package/Export scorm attempt'))
+
+WebUI.click(findTestObject('SCROM_Activity_in_Course/Page_Delete SCORM package/Excel format report'))
+
+WebUI.click(findTestObject('SCROM_Activity_in_Course/Page_Delete SCORM package/Export scorm attempt'))
+
+WebUI.click(findTestObject('SCROM_Activity_in_Course/Page_Delete SCORM package/Text format report'))
+
+WebUI.click(findTestObject('SCROM_Activity_in_Course/Page_Delete SCORM package/Delete All Attempt'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(5)
+
+WebUI.acceptAlert(FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course _226f48/svg_SCORM package_menu-dots-vertical_1_'))
 

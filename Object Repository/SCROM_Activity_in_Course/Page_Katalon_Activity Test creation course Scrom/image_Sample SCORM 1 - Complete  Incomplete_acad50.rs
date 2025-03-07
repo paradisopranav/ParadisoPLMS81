@@ -6,15 +6,15 @@
    <elementGuidId>a8852cd4-6a64-42f0-8f99-38b84b719e20</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>#uniqueDomId-1483</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#uniqueDomId-1778</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;uniqueDomId-2298&quot;]</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>image</value>
-      <webElementGuid>279cacfd-adea-4061-83ee-e0f22efd6ede</webElementGuid>
+      <webElementGuid>64385dad-c65a-4f8d-a075-98404bb28876</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>transform</name>
       <type>Main</type>
       <value>scale(1, 1)</value>
-      <webElementGuid>7a8cb8fc-95ab-4003-a1de-92afb949325d</webElementGuid>
+      <webElementGuid>74b00a9e-4f19-408b-80d6-4c0e0de31287</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>uniqueDomId-1778</value>
-      <webElementGuid>71cf8693-9cf5-4aa2-8605-0d6f49a98d5b</webElementGuid>
+      <webElementGuid>38b1f495-08a3-47e6-a7dc-987ea2a791b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>data-original-image</name>
       <type>Main</type>
       <value>01</value>
-      <webElementGuid>7d2c1b62-6a01-438e-a088-3075d452dc24</webElementGuid>
+      <webElementGuid>ded4f4f8-ca19-40e5-80cb-0e791ddf2743</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>x</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>2d2bd9f8-3818-4b3c-b1bb-f793afcb0ba8</webElementGuid>
+      <webElementGuid>532d01ab-1072-4430-9ffa-7d9fcac0d31b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>y</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>9f129ad7-5c8e-402c-b480-cee222c7e4c0</webElementGuid>
+      <webElementGuid>c7920fa0-f35a-489b-ae57-aaf8edc1e6cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>opacity</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>4ce2fcfe-cb46-470a-ae08-51e1fb86625e</webElementGuid>
+      <webElementGuid>bde495f7-eac2-4ff8-8dff-2d2eb41d42e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xlink:href</name>
       <type>Main</type>
       <value>/pluginfile.php/53540/mod_scorm/content/1/mobile/5tCfCcnFdFo_80_DX130_DY130_CX65_CY64.png</value>
-      <webElementGuid>17fa7cf6-cfd3-4c34-bb33-eabe40f7c3a9</webElementGuid>
+      <webElementGuid>f061ae9b-68fe-4a97-b414-7abdb82b0fa5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>height</name>
       <type>Main</type>
       <value>64</value>
-      <webElementGuid>03a9a26f-4d81-4482-921c-8394e7bb15e9</webElementGuid>
+      <webElementGuid>5b0d7e38-b840-4370-81c6-b786c9e4779b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>width</name>
       <type>Main</type>
       <value>65</value>
-      <webElementGuid>369220bc-b669-4886-8d8f-a5362b8be250</webElementGuid>
+      <webElementGuid>c09d1402-dd42-42ac-a616-747f3b8c1e8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>preserveAspectRatio</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>8e488554-e59b-458c-9aa7-01882534970b</webElementGuid>
+      <webElementGuid>d9444024-4504-47d1-8d1c-19e6c6f5e294</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>data-accepts</name>
       <type>Main</type>
       <value>events</value>
-      <webElementGuid>2aebc7e9-ecfa-4aed-b057-4b06f9fee0f9</webElementGuid>
+      <webElementGuid>9bbef186-b874-47d5-8e67-f399c9a564cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>data-reactid</name>
       <type>Main</type>
       <value>.0.0.5.4.0.1.0:$_player=163DDkbgYYTK=16ekEWzDHn6r.0.3:$c601.1:$c988.$slideobject1747.0:$4.$slideobject1775.$0.$0.$1</value>
-      <webElementGuid>08ae0c7a-abc4-4dd3-a7c9-848224942a1f</webElementGuid>
+      <webElementGuid>5bf1404f-3a39-4ca9-b4e2-76a90a488dbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;uniqueDomId-1778&quot;)</value>
-      <webElementGuid>2ddf6835-0c50-4e21-9c5e-c9ce29a1eff6</webElementGuid>
+      <webElementGuid>e879cf93-f56f-4209-be7f-c0a5a91b50df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -135,7 +135,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/iframe_Sample SCORM 1 - Complete  Incomplet_d080b2</value>
-      <webElementGuid>c6096e5e-73f5-4cb5-b618-7db96d9639ab</webElementGuid>
+      <webElementGuid>e3230ded-3500-45e7-88cd-8993c6a00c3f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -143,6 +143,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//image[@id = 'uniqueDomId-1778']</value>
-      <webElementGuid>7f2720c8-49d4-4818-ab01-0ca93c2e5eea</webElementGuid>
+      <webElementGuid>bf3235a1-e8e1-4582-89b5-f744d7d42a32</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
