@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_LearningPath_Creation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>439a8e08-e019-4ecd-bc3e-3e7cd210662a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e177629-fc98-4383-b7cc-3fa400e315b5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\S\\\\Desktop\\\\Paradiso\\\\Google_Download\\\\th.jpg'</defaultValue>
+      <description></description>
+      <id>1e177629-fc98-4383-b7cc-3fa400e315b5</id>
+      <masked>false</masked>
+      <name>qalpimage</name>
+   </variable>
+</TestCaseEntity>
