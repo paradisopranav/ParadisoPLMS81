@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Guest access_icon fa fa-eye fa-fw iconsmall</name>
+   <tag></tag>
+   <elementGuidId>b39546e4-eeac-4a5e-b5cd-830dc40add15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='action_link67ceb6c5635088']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i[title='Disable']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e869a760-35fa-4ebc-9557-55ecf61e5bf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-eye fa-fw iconsmall</value>
+      <webElementGuid>8f2da6aa-4e53-441f-b401-e4ea2bdbe6e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Disable</value>
+      <webElementGuid>6a7de1ac-9bc3-463f-981e-5079d31d019d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Disable</value>
+      <webElementGuid>6401e854-f3b9-4ec6-b900-3831476ba518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action_link67ceb6c5635088&quot;)/i[@class=&quot;icon fa fa-eye fa-fw iconsmall&quot;]</value>
+      <webElementGuid>910dc99c-7764-452d-b2dc-53f909f038d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='action_link67ceb6c5635088']/i</value>
+      <webElementGuid>28ebbd73-1d98-40c9-a9fe-649c37bc6378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]/a[2]/i</value>
+      <webElementGuid>df93c130-e458-43d9-8b25-27f510e23f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Disable']</value>
+      <webElementGuid>cd1948f3-16db-41f4-9778-eba0e85a9ea2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

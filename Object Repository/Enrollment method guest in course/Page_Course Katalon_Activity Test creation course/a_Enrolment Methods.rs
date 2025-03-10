@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Enrolment Methods</name>
+   <tag></tag>
+   <elementGuidId>e5e6046c-6131-464d-91e7-e34cb25fdf0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='teacherdashslider']/div/div/div/div[2]/div/div[2]/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d478348c-6e37-4a39-ace8-43cfe4d22e6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://plms-php81.paradisolms.net/enrol/instances.php?id=1159</value>
+      <webElementGuid>7baab538-9fd2-41de-b7a0-52fcae733314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>ff4d4b61-fb92-41f4-8da3-6e90b1806ce6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enrolment Methods</value>
+      <webElementGuid>18b9b21e-9ea7-40aa-979f-d446bdff1a1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;teacherdashslider&quot;)/div[@class=&quot;teacherdashboard&quot;]/div[@class=&quot;container-fluid pr-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;border-group userlinks&quot;]/div[@class=&quot;list-group&quot;]/a[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>997a4216-2f3a-4ea3-bbd6-3504378abe76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='teacherdashslider']/div/div/div/div[2]/div/div[2]/a[3]</value>
+      <webElementGuid>eac55eaa-6a88-4cb0-ae8a-52653fb514ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Enrolment Methods')]</value>
+      <webElementGuid>8c841635-9792-497a-9711-495035319517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Groups'])[1]/following::a[1]</value>
+      <webElementGuid>7a59ff12-c3d7-486a-ac26-85c8e054711c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course participants'])[1]/following::a[2]</value>
+      <webElementGuid>2f160905-59a4-4761-b58e-1df4e5b41e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Published as LTI tools'])[1]/preceding::a[1]</value>
+      <webElementGuid>94d1ae7c-b743-4c5e-b86c-576b022dc280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Users'])[1]/preceding::a[2]</value>
+      <webElementGuid>b1f80d1e-a524-4a8e-8fec-0cd767662eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enrolment Methods']/parent::*</value>
+      <webElementGuid>8b094f75-71c0-411a-b2b2-e4577efc19db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/enrol/instances.php?id=1159')]</value>
+      <webElementGuid>887d2cb1-a97f-491d-9c0e-84d5119294ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/a[3]</value>
+      <webElementGuid>5ac33c04-08bb-483d-9a01-28578c035b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://plms-php81.paradisolms.net/enrol/instances.php?id=1159' and (text() = 'Enrolment Methods' or . = 'Enrolment Methods')]</value>
+      <webElementGuid>f58aebaf-b1d0-4dc6-83d2-793cd0b405af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

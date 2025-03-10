@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Guest access_icon fa fa-trash fa-fw iconsmall</name>
+   <tag></tag>
+   <elementGuidId>3324b92e-8e09-4e9b-b558-2f4c2c0ca856</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='action_link67ceb6cedc6c17']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i[title='Delete']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1bb334b1-3366-4454-adb8-95ac37b2b72d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-trash fa-fw iconsmall</value>
+      <webElementGuid>a034517b-d71a-4cf3-9e40-fcab356a5738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>5fc65854-1c55-4c1b-8a09-be9972e01c57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>1fae4123-2bbb-4f0b-a370-a0fee92c4d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action_link67ceb6cedc6c17&quot;)/i[@class=&quot;icon fa fa-trash fa-fw iconsmall&quot;]</value>
+      <webElementGuid>a3d59d16-17c2-4051-8300-39907d2a9ccf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='action_link67ceb6cedc6c17']/i</value>
+      <webElementGuid>6de67cbe-4401-4203-aad0-fd55e8346c06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]/a/i</value>
+      <webElementGuid>5eca488d-7e5d-4072-9304-0a0f4194284e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Delete']</value>
+      <webElementGuid>b6e1e12d-134d-4a71-bd45-06bcc4388430</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
