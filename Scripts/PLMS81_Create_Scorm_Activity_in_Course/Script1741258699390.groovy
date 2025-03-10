@@ -117,9 +117,9 @@ WebUI.click(findTestObject('SCROM_Activity_in_Course/Page_Delete SCORM package/E
 
 WebUI.click(findTestObject('SCROM_Activity_in_Course/Page_Delete SCORM package/Text format report'))
 
-WebUI.click(findTestObject('SCROM_Activity_in_Course/Page_Delete SCORM package/Delete All Attempt'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('SCROM_Activity_in_Course/Page_Delete SCORM package/Delete All Attempt'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(5)
+WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.acceptAlert(FailureHandling.CONTINUE_ON_FAILURE)
 
