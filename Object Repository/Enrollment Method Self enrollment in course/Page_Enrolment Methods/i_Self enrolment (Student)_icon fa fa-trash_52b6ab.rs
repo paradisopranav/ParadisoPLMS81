@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Self enrolment (Student)_icon fa fa-trash_52b6ab</name>
+   <tag></tag>
+   <elementGuidId>1ab277de-01e1-47c6-b94c-6767262a6b5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>i[class='icon fa fa-trash fa-fw iconsmall']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i[class='icon fa fa-trash fa-fw iconsmall']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a98ee01e-e887-41ce-a31b-27630b0ca761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-trash fa-fw iconsmall</value>
+      <webElementGuid>1d32bc86-28c3-4f6f-94f7-6c7e5113137d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>30b99a4a-c871-4f63-890b-203073b93a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>a7a654d9-ccbb-4366-8807-bef5ad736438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action_link67cff54139dab7&quot;)/i[@class=&quot;icon fa fa-trash fa-fw iconsmall&quot;]</value>
+      <webElementGuid>84ea6733-2206-4346-a3bc-eb579eddf900</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='action_link67cff54139dab7']/i</value>
+      <webElementGuid>d6d8e6a3-88d8-4f24-ae8e-824528897625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]/a/i</value>
+      <webElementGuid>c9238f6f-7d13-47ce-b480-11b35d85161d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Delete']</value>
+      <webElementGuid>721defdc-c2ad-4f23-9139-3c619efad457</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
