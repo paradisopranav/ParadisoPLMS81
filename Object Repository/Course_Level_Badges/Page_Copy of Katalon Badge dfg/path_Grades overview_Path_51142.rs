@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Grades overview_Path_51142</name>
+   <tag></tag>
+   <elementGuidId>72386b72-f9a8-4863-8068-5be60f761b80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'Path_51142']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Component_188_3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>a0aea40c-2464-405c-b7e9-c7de90e09a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Path_51142</value>
+      <webElementGuid>f12bb412-cf9e-4b73-b0f6-1526edb4a7a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Path 51142</value>
+      <webElementGuid>9e34aa29-bee1-4b43-8ff6-7d5c2b3304a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M6.838,0A2.032,2.032,0,0,0,5.4.6L0,5.994,1.442,7.436l5.4-5.4,5.4,5.4,1.442-1.442L8.28.6A2.032,2.032,0,0,0,6.838,0Z</value>
+      <webElementGuid>11762d37-3f9f-4d2b-bfb2-7b2c6e780332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(14.871) rotate(90)</value>
+      <webElementGuid>eb6e875b-1739-4eba-a066-1cdabdbe5d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#6768eb</value>
+      <webElementGuid>5d851a46-254b-4d53-9ce5-fd6858083be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Path_51142&quot;)</value>
+      <webElementGuid>da3a7d4d-3b79-47d5-948e-97f13e4a947e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'Path_51142']</value>
+      <webElementGuid>4d484865-02f9-43c3-8ca6-22d643feb6a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

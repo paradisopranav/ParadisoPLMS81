@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Katalon badge course_403</name>
+   <tag></tag>
+   <elementGuidId>49874109-843e-4ac5-a883-48abaf10f3b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yui_3_17_2_1_1741683628097_43']/div[2]/div/div[2]/div/div/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.search_course_name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b0606c9-ed4a-4d09-8477-4df8bd7d3f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search_course_name </value>
+      <webElementGuid>ae3f31dc-8380-4328-8cc6-70629e2c83b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>5e4e3c14-169c-4b48-bae3-b40e8d9fdb18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>dc2a062b-4fd6-46e9-b36e-87bae1e72ef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-original-title</name>
+      <type>Main</type>
+      <value>Katalon badge course_403</value>
+      <webElementGuid>0f7d6ad2-f0b5-4720-84ac-955585a03dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip95228</value>
+      <webElementGuid>436eb114-b2f2-447c-8d04-a78a2ce024f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon badge course_403</value>
+      <webElementGuid>571aa402-b8aa-41ee-a092-f7014dd3b924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1741683628097_43&quot;)/div[@class=&quot;course_search_popup_data&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 course_search_div p-0&quot;]/div[@class=&quot;row course-list&quot;]/div[@class=&quot;row card-box&quot;]/div[@class=&quot;texts-wrap&quot;]/a[1]/div[@class=&quot;search_course_name&quot;]</value>
+      <webElementGuid>68644cec-8214-4297-96b1-7930dbf2f676</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1741683628097_43']/div[2]/div/div[2]/div/div/div[2]/a/div</value>
+      <webElementGuid>6a609c7c-eafd-40bf-bde4-0a50d208defc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon'])[1]/following::div[2]</value>
+      <webElementGuid>b47f44e1-8ca8-4035-a98b-e81948288210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA'])[2]/preceding::div[1]</value>
+      <webElementGuid>d68257c1-8391-41ea-a29b-8b3fd11cc80a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::div[1]</value>
+      <webElementGuid>0f23ed1f-ed10-436f-9d4b-44429f522d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Katalon badge course_403']/parent::*</value>
+      <webElementGuid>82156ded-7bc5-4b62-a6c9-8898ac8a7f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/a/div</value>
+      <webElementGuid>c51e6a07-7fe3-4a0a-8561-13945f3156ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Katalon badge course_403' or . = 'Katalon badge course_403')]</value>
+      <webElementGuid>8d67773f-bdf4-4390-a4aa-ac9c6ad94707</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
