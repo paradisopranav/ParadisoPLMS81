@@ -6,4 +6,17 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>7aa09a39-c5a8-4c80-a3e3-b41928062b87</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>06c80197-6788-432f-b4c9-cf0e777650fe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\hp\\\\OneDrive - PARADISO\\\\Documents\\\\Paradiso Data\\\\badge (10)\\\\Katalonbadge.png'</defaultValue>
+      <description></description>
+      <id>06c80197-6788-432f-b4c9-cf0e777650fe</id>
+      <masked>false</masked>
+      <name>BadgeImage</name>
+   </variable>
 </TestCaseEntity>
