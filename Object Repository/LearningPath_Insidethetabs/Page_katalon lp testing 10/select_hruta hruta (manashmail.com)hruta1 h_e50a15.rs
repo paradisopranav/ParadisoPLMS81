@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_hruta hruta (manashmail.com)hruta1 h_e50a15</name>
+   <tag></tag>
+   <elementGuidId>b3252f29-c40f-4367-b201-e7356ea5f3e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#potentialusers</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential users to add'])[1]/following::select[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e0d0d495-d872-4016-a63b-46d5fb8ab9b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>potentialusers[]</value>
+      <webElementGuid>982b6bda-c250-495f-8a49-68d64246a05a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>potentialusers</value>
+      <webElementGuid>71d1b417-e2a6-4b40-bf91-85bb2cc02462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>730fd7f6-3358-4562-81e2-0235d18ecd62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>9de97458-d1eb-4012-bf23-a77eeaf2fd60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control no-overflow</value>
+      <webElementGuid>67333644-8ac6-4d80-9de3-0dbb9e1c07c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  
+  
+hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hruta2326@mail.com)hruta1601 hruta1601 (hruta1601@mail.com)hruta1701 hruta1701 (hruta1701@mail.com)hruta2 hruta2 (hruta2@mail.com)hruta200 hruta200 (hruta200@mail.com)hruta201 hruta201 (hruta201@mail.com)hruta202 hruta202 (hruta2022@mail.com)hruta203 hruta203 (hruta203@mail.com)hruta204 hruta204 (hruta204@mail.com)hruta205 hruta205 (hruta205@mail.com)hruta3 hruta3 (hruta3@mail.com)hruta4 hruta4 (hruta4@mail.com)hruta5 hruta5 (hruta5@mail.com)hruta6 hruta6 (hruta6@mail.com)hruta7 hruta7 (hruta7@mail.com)hrutamobile hrutamobile (hrutamobile@mail.com) </value>
+      <webElementGuid>9351321f-8dfe-4ff5-aeec-49c4171ba6e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;potentialusers&quot;)</value>
+      <webElementGuid>cffdd336-ece0-4cb1-947f-3064e5475541</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='potentialusers']</value>
+      <webElementGuid>68e65765-2f73-4585-817f-827363014aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='potentialusers_wrapper']/select</value>
+      <webElementGuid>66935d90-f90d-4087-9a8a-7aaa70a26c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential users to add'])[1]/following::select[1]</value>
+      <webElementGuid>aa5a10ca-3a52-452c-9f0d-ea72e8c80c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Match the search text anywhere in the displayed fields'])[1]/following::select[1]</value>
+      <webElementGuid>66d61436-a71d-4b3e-b932-0365fc519a28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::select[1]</value>
+      <webElementGuid>fe2cdc19-a978-4c81-986f-c88f9b72b736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::select[1]</value>
+      <webElementGuid>02a57fe5-9544-46ac-99e7-d82a35775f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/select</value>
+      <webElementGuid>eee791d5-fe6b-44d8-9cad-cc06c1636d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'potentialusers[]' and @id = 'potentialusers' and (text() = '&#xd;
+  &#xd;
+  &#xd;
+hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hruta2326@mail.com)hruta1601 hruta1601 (hruta1601@mail.com)hruta1701 hruta1701 (hruta1701@mail.com)hruta2 hruta2 (hruta2@mail.com)hruta200 hruta200 (hruta200@mail.com)hruta201 hruta201 (hruta201@mail.com)hruta202 hruta202 (hruta2022@mail.com)hruta203 hruta203 (hruta203@mail.com)hruta204 hruta204 (hruta204@mail.com)hruta205 hruta205 (hruta205@mail.com)hruta3 hruta3 (hruta3@mail.com)hruta4 hruta4 (hruta4@mail.com)hruta5 hruta5 (hruta5@mail.com)hruta6 hruta6 (hruta6@mail.com)hruta7 hruta7 (hruta7@mail.com)hrutamobile hrutamobile (hrutamobile@mail.com) ' or . = '&#xd;
+  &#xd;
+  &#xd;
+hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hruta2326@mail.com)hruta1601 hruta1601 (hruta1601@mail.com)hruta1701 hruta1701 (hruta1701@mail.com)hruta2 hruta2 (hruta2@mail.com)hruta200 hruta200 (hruta200@mail.com)hruta201 hruta201 (hruta201@mail.com)hruta202 hruta202 (hruta2022@mail.com)hruta203 hruta203 (hruta203@mail.com)hruta204 hruta204 (hruta204@mail.com)hruta205 hruta205 (hruta205@mail.com)hruta3 hruta3 (hruta3@mail.com)hruta4 hruta4 (hruta4@mail.com)hruta5 hruta5 (hruta5@mail.com)hruta6 hruta6 (hruta6@mail.com)hruta7 hruta7 (hruta7@mail.com)hrutamobile hrutamobile (hrutamobile@mail.com) ')]</value>
+      <webElementGuid>4141a144-12bd-46eb-95ea-2e8d57915b46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
