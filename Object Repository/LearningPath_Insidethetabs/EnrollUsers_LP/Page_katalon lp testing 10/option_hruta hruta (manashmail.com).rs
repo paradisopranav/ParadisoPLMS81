@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_hruta hruta (manashmail.com)</name>
+   <tag></tag>
+   <elementGuidId>ee0e6acb-909e-414c-a243-ca022b708c67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1741761919916_190</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential users to add'])[1]/following::option[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>b6baa301-59c3-48ed-b257-48c671ded9bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>24315</value>
+      <webElementGuid>467dbb20-3c08-414f-982f-9e03b7d2f537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_3_17_2_1_1741761919916_190</value>
+      <webElementGuid>517eb5f5-4658-4596-a965-cd810ddf9249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>hruta hruta (manash@mail.com)</value>
+      <webElementGuid>df9dab48-f5d4-4642-81e1-3fd2343dd277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1741761919916_190&quot;)</value>
+      <webElementGuid>c885b157-1511-4362-acae-7e4b744f3cb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//option[@id='yui_3_17_2_1_1741761919916_190']</value>
+      <webElementGuid>00fe7225-5a73-40c6-9497-cd45dfd3c621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//optgroup[@id='yui_3_17_2_1_1741761919916_191']/option</value>
+      <webElementGuid>cbaca140-e7d2-4ac1-8fc4-7f5809a85973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential users to add'])[1]/following::option[1]</value>
+      <webElementGuid>0614e957-368d-447a-98ce-0c36fe3b42da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Match the search text anywhere in the displayed fields'])[1]/following::option[1]</value>
+      <webElementGuid>23e2a31e-f81c-4e1a-b8cc-aaf6d262d2a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::option[19]</value>
+      <webElementGuid>ed118704-60e8-4da7-b5d8-b88d01123063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::option[19]</value>
+      <webElementGuid>4b1ba852-426d-49f1-9b76-4b41e1444b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='hruta hruta (manash@mail.com)']/parent::*</value>
+      <webElementGuid>62da4e1b-d672-4c15-8c4b-ca71594bfa35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/select/optgroup/option</value>
+      <webElementGuid>45b9f859-d676-44a4-9102-1195fde4a89d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//option[@id = 'yui_3_17_2_1_1741761919916_190' and (text() = 'hruta hruta (manash@mail.com)' or . = 'hruta hruta (manash@mail.com)')]</value>
+      <webElementGuid>de8f5793-6041-4f3b-a0e7-f03a4a9682c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

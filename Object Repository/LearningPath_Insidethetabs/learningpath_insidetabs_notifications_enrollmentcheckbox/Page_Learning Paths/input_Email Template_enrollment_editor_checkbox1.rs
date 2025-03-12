@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_(ja)_keepmeloggedin</name>
+   <name>input_Email Template_enrollment_editor_checkbox1</name>
    <tag></tag>
-   <elementGuidId>27f18fdb-b6ea-4bd6-908e-73d38789168a</elementGuidId>
+   <elementGuidId>41470eaa-b7ae-4392-a180-37039649b275</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='keepmeloggedin']</value>
+         <value>//input[@id='id_enrollment_editor_checkbox1']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#keepmeloggedin</value>
+         <value>#id_enrollment_editor_checkbox1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8895410f-9014-4d08-b79e-a1bb60c4a50f</webElementGuid>
+      <webElementGuid>b0e670ba-bdb1-49e2-8d1c-ba8f839a2ffb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,23 +31,15 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>80ed7a33-af9b-4cc1-88fa-973e4eda5ad9</webElementGuid>
+      <webElementGuid>0397190f-d73e-4451-8eaa-fe085c57d7f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>keepmeloggedin</value>
-      <webElementGuid>844aa0e7-702a-484d-9201-d4bad33dd443</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>keepmeloggedin</value>
-      <webElementGuid>76e9f108-64a8-4f16-af40-09b646f391b6</webElementGuid>
+      <value>enrollment_editor_checkbox1</value>
+      <webElementGuid>bf8f8e08-6952-48be-8a31-c04c0b2544b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,46 +47,54 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>7ca9fdba-f5f1-4fb1-bf5d-8d67eb2caf81</webElementGuid>
+      <webElementGuid>2e67f0da-a886-4079-9cf6-d565f6be8c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_enrollment_editor_checkbox1</value>
+      <webElementGuid>2cc7a17f-3426-4010-b8a1-431c088d4389</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;keepmeloggedin&quot;)</value>
-      <webElementGuid>2f37606d-1cd9-4cef-8486-720194a5c27a</webElementGuid>
+      <value>id(&quot;id_enrollment_editor_checkbox1&quot;)</value>
+      <webElementGuid>8b54b7b9-412b-4fc9-aba5-1be69c4aff1f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='keepmeloggedin']</value>
-      <webElementGuid>3efddefd-5b2e-469c-80e1-00e5acecd986</webElementGuid>
+      <value>//input[@id='id_enrollment_editor_checkbox1']</value>
+      <webElementGuid>1542b887-2a3a-400f-9e11-95a96f70f719</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[4]/input</value>
-      <webElementGuid>7be124ba-3590-46c8-b623-58cddcbe0b17</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1741789844779_1980']/input</value>
+      <webElementGuid>33fa3f2f-5401-4501-b965-b5fa46ab96ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/input</value>
-      <webElementGuid>5ac1cbea-0ad0-4597-a37b-5c7230a016d4</webElementGuid>
+      <value>//div[4]/div/div[2]/input</value>
+      <webElementGuid>b826d65d-f635-4431-931d-67970fb02c81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @name = 'keepmeloggedin' and @id = 'keepmeloggedin']</value>
-      <webElementGuid>a174569d-f0ab-4298-a67a-da2ef89b3cb6</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'enrollment_editor_checkbox1' and @id = 'id_enrollment_editor_checkbox1']</value>
+      <webElementGuid>45a33cc3-154f-4c06-bdfe-5d79965fd834</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

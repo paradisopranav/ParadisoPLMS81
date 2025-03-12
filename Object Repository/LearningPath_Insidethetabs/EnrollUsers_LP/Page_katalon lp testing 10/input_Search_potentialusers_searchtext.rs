@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_(ja)_keepmeloggedin</name>
+   <name>input_Search_potentialusers_searchtext</name>
    <tag></tag>
-   <elementGuidId>27f18fdb-b6ea-4bd6-908e-73d38789168a</elementGuidId>
+   <elementGuidId>f7fdacde-37f0-44d2-9963-f3c4bae582fd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='keepmeloggedin']</value>
+         <key>CSS</key>
+         <value>#potentialusers_searchtext</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#keepmeloggedin</value>
+         <key>XPATH</key>
+         <value>//input[@id='potentialusers_searchtext']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,78 +23,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8895410f-9014-4d08-b79e-a1bb60c4a50f</webElementGuid>
+      <webElementGuid>02e9ae6f-532a-4d78-95d7-cd1b2e4362fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>80ed7a33-af9b-4cc1-88fa-973e4eda5ad9</webElementGuid>
+      <value>text</value>
+      <webElementGuid>a5df9cc8-9f73-41be-8cb9-2c78ba0a0ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>f3a20e21-0740-48f5-ae55-6f0ca1f441ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>keepmeloggedin</value>
-      <webElementGuid>844aa0e7-702a-484d-9201-d4bad33dd443</webElementGuid>
+      <value>potentialusers_searchtext</value>
+      <webElementGuid>cdae19d6-31d7-4763-8729-0db34b4436b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>keepmeloggedin</value>
-      <webElementGuid>76e9f108-64a8-4f16-af40-09b646f391b6</webElementGuid>
+      <value>potentialusers_searchtext</value>
+      <webElementGuid>2a6af091-3300-4f13-959d-b417d8b6da25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>size</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>7ca9fdba-f5f1-4fb1-bf5d-8d67eb2caf81</webElementGuid>
+      <value>15</value>
+      <webElementGuid>446f1484-899c-4309-ad82-2c846d7196be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>39a40349-1c98-4d2d-b330-09590fd24f5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;keepmeloggedin&quot;)</value>
-      <webElementGuid>2f37606d-1cd9-4cef-8486-720194a5c27a</webElementGuid>
+      <value>id(&quot;potentialusers_searchtext&quot;)</value>
+      <webElementGuid>9f1d6220-273e-447d-aa43-7a6630531f78</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='keepmeloggedin']</value>
-      <webElementGuid>3efddefd-5b2e-469c-80e1-00e5acecd986</webElementGuid>
+      <value>//input[@id='potentialusers_searchtext']</value>
+      <webElementGuid>ac57095c-325f-440c-b4a2-d90d2398f33c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[4]/input</value>
-      <webElementGuid>7be124ba-3590-46c8-b623-58cddcbe0b17</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1741761919916_85']/input</value>
+      <webElementGuid>1448a059-5d4a-43b5-8469-60a5845bfd53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/input</value>
-      <webElementGuid>5ac1cbea-0ad0-4597-a37b-5c7230a016d4</webElementGuid>
+      <value>//td[3]/div/div/input</value>
+      <webElementGuid>4d803cae-8391-4de5-b831-154a7d80f53c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @name = 'keepmeloggedin' and @id = 'keepmeloggedin']</value>
-      <webElementGuid>a174569d-f0ab-4298-a67a-da2ef89b3cb6</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Search' and @name = 'potentialusers_searchtext' and @id = 'potentialusers_searchtext']</value>
+      <webElementGuid>ec388b25-a591-4c5a-a8ef-4cc7ea01de17</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
