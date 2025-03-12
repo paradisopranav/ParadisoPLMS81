@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Course_Enrollment_Auto_Enrollment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b222fb60-5401-4272-a51a-68ce0f26cd86</testCaseGuid>
+</TestCaseEntity>
