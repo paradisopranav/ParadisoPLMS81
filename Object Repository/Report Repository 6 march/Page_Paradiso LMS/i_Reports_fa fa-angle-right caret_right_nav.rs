@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Reports_fa fa-angle-right caret_right_nav</name>
+   <tag></tag>
+   <elementGuidId>26d9c97f-b619-44bf-b84d-85540415cd80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1741272139187_21 > i.fa.fa-angle-right.caret_right_nav</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='yui_3_17_2_1_1741272139187_21']/i[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4d2d90be-25a6-4756-b4c8-e0cf8c4c4c38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-angle-right caret_right_nav</value>
+      <webElementGuid>215959ed-5189-4bbd-b0e8-6d0760ae0cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1741272139187_21&quot;)/i[@class=&quot;fa fa-angle-right caret_right_nav&quot;]</value>
+      <webElementGuid>927c2651-93af-4d7b-98c7-5ecf22ffc752</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1741272139187_21']/i[2]</value>
+      <webElementGuid>22764256-2159-4e3f-937c-7745346efb06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a/i[2]</value>
+      <webElementGuid>9be5d0cf-0087-45a9-b2d2-3342ec9e58ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Katalon 6th march 1_p-0 fa favorite fa-star-o</name>
+   <tag></tag>
+   <elementGuidId>8ccba7c8-b5e1-44b9-96cd-83784ffbf246</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.p-0.fa.favorite.fa-star-o</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='region-main']/div/div/div/div/div/h3/span[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6d70933c-aeab-4ee6-8570-429529121bb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-0 fa favorite fa-star-o</value>
+      <webElementGuid>395e24ea-b053-48a9-9f44-6310103e83a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/div[@class=&quot;row no-padding inner-report&quot;]/div[@class=&quot;col-md-4 p-0&quot;]/div[@class=&quot;content-title&quot;]/h3[@class=&quot;title-reports d-inline-block panel-settings&quot;]/span[@class=&quot;pl-2&quot;]/a[@class=&quot;star&quot;]/i[@class=&quot;p-0 fa favorite fa-star-o&quot;]</value>
+      <webElementGuid>d5b06a8e-e817-4e01-8cb4-47db15f30604</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='region-main']/div/div/div/div/div/h3/span[2]/a/i</value>
+      <webElementGuid>7762d171-0bba-428b-857d-3bb82f5128b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/a/i</value>
+      <webElementGuid>e7bc3ee8-f77f-4bf9-8134-af4bfd9efe01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

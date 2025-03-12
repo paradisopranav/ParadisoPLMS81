@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Courses_wid wid-dots</name>
+   <tag></tag>
+   <elementGuidId>a2c1278d-12ed-4fa3-86a3-b9fea8ea4dc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.even > td:nth-of-type(6) > div.dropdown.report_cate_elli_icon > #dropdownMenuButton > i.wid.wid-dots</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@id='dropdownMenuButton']/i)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7a83e891-5700-4627-a733-fc5551e4b6e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wid wid-dots</value>
+      <webElementGuid>a25c4861-cc64-42c6-af34-4e3bb184b94d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7fd1e086-68c0-4cc9-9148-63fa890ec389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[@class=&quot;&quot;]/div[@class=&quot;dropdown report_cate_elli_icon&quot;]/span[@id=&quot;dropdownMenuButton&quot;]/i[@class=&quot;wid wid-dots&quot;]</value>
+      <webElementGuid>bdee554b-2a30-4c15-941b-cd2c728df2a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//span[@id='dropdownMenuButton']/i)[2]</value>
+      <webElementGuid>bad932a8-16ea-4a33-86c8-3762e41980e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[6]/div/span/i</value>
+      <webElementGuid>ad7202fa-da9e-42a3-96c7-42fc099a4c15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
