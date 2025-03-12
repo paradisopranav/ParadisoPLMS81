@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Course_Enrollment_CohortSync_Enrollment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a9059c65-b3a0-45be-8839-723880bf1486</testCaseGuid>
+</TestCaseEntity>
