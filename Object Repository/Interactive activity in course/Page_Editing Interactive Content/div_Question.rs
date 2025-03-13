@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Question</name>
+   <tag></tag>
+   <elementGuidId>4993a90d-06eb-45fc-a1d1-dfb53a80f6ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.field.field-name-question.text.importance-high.html</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Disable image zooming'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5923346-ec68-4c0b-9adb-0dce3f8dbba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field field-name-question text importance-high html</value>
+      <webElementGuid>84d79a54-734a-4915-8473-b696bbd22532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Question</value>
+      <webElementGuid>829d45c7-a0cc-4017-a8fe-b2b6c688ba8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;h5peditor h5p-interactivevideo-editor&quot;]/div[@class=&quot;h5peditor-form form-manager&quot;]/div[@class=&quot;form-manager-form h5p-interactivevideo-editor form-manager-slidein&quot;]/div[@class=&quot;h5p-dialog-inner-semantics&quot;]/div[@class=&quot;field library h5p-truefalse-library&quot;]/div[@class=&quot;libwrap h5p-truefalse-editor no-margin&quot;]/div[@class=&quot;field field-name-question text importance-high html&quot;]</value>
+      <webElementGuid>ec53f74e-6fee-4563-84d8-995fb2fa77fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Interactive activity in course/Page_Editing Interactive Content/iframe_Editor_h5p-editor-iframe</value>
+      <webElementGuid>b7b8c153-ff70-4168-a7c3-42539244f1c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disable image zooming'])[1]/following::div[2]</value>
+      <webElementGuid>74e9868a-9e65-42f5-8bea-bc26ad28eccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paste'])[3]/following::div[6]</value>
+      <webElementGuid>41959df5-57ba-42bd-b366-c1394e9eba85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Correct answer'])[1]/preceding::div[3]</value>
+      <webElementGuid>33b711ec-13fc-40d3-96b8-97c62ecb9f35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[3]/div[2]</value>
+      <webElementGuid>13063ce4-2508-4c5c-8403-7b544e4c21b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Question' or . = 'Question')]</value>
+      <webElementGuid>61ab5a36-358b-4717-aef8-36099c417ab8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

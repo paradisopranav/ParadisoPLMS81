@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Interactive Content</name>
+   <tag></tag>
+   <elementGuidId>1ef4ff5b-05da-4c8d-b342-0ce095ca7faa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'option') and @data-id='hvp']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1741852798071_1095</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0a46fad9-6313-4e1d-a4d3-a868201ca667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>typename</value>
+      <webElementGuid>6ce5d352-8480-4652-986e-42e1a0dc4e29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_3_17_2_1_1741852798071_1095</value>
+      <webElementGuid>1df5e2df-a647-4e10-913c-a107b3c85321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Interactive Content</value>
+      <webElementGuid>ed14af94-b4e1-41eb-8c11-c773e062e030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1741852798071_1095&quot;)</value>
+      <webElementGuid>bd2ca3cb-dac0-43a0-a41a-1a0611bbd846</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='yui_3_17_2_1_1741852798071_1095']</value>
+      <webElementGuid>7f4468d5-406b-43e7-b3f2-b98a08ddc062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='yui_3_17_2_1_1741852798071_1096']/span[2]</value>
+      <webElementGuid>bf3bf5ca-9d65-4527-9724-80388e940d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A help centre where tutors and students can give advice'])[1]/following::span[2]</value>
+      <webElementGuid>d75efa37-e315-4cad-91c8-b6841f8465fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For teacher-only discussions (using a hidden forum)'])[1]/following::span[2]</value>
+      <webElementGuid>f2cba43d-3370-461a-aa42-6052480fd433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Content'])[3]/preceding::span[1]</value>
+      <webElementGuid>74200978-eebc-4f15-b4ee-166d92996d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/span[2]</value>
+      <webElementGuid>68b191dd-07c4-454b-b665-057265855840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'yui_3_17_2_1_1741852798071_1095' and (text() = 'Interactive Content' or . = 'Interactive Content')]</value>
+      <webElementGuid>caf2dba8-4376-42b6-80f0-472170470976</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

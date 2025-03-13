@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Interactive Video_h5p-splash-play-icon</name>
+   <tag></tag>
+   <elementGuidId>8366c47a-e1f9-42a8-9f3e-92fbc87bb48c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.h5p-splash-play-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc53a059-b421-4a7b-915b-69e10a8ed21c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h5p-splash-play-icon</value>
+      <webElementGuid>cf52f8a7-2be4-4063-99cf-16ed4ee402f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Play (k)</value>
+      <webElementGuid>d92b484c-b24b-4ab0-8550-1f205e3e92f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;h5p-iframe&quot;]/body[1]/div[@class=&quot;h5p-content h5p-initialized h5p-frame using-mouse&quot;]/div[@class=&quot;h5p-container h5p-standalone h5p-interactive-video&quot;]/div[@class=&quot;h5p-video-wrapper h5p-video hardware-accelerated&quot;]/div[@class=&quot;h5p-overlay h5p-ie-transparent-background&quot;]/div[@class=&quot;h5p-splash-wrapper no-description&quot;]/div[@class=&quot;h5p-splash-outer&quot;]/div[@class=&quot;h5p-splash&quot;]/div[@class=&quot;h5p-splash-main&quot;]/div[@class=&quot;h5p-splash-main-outer&quot;]/div[@class=&quot;h5p-splash-main-inner&quot;]/div[@class=&quot;h5p-splash-play-icon&quot;]</value>
+      <webElementGuid>dfa17f70-a21c-4352-b6b0-e51bef859f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Interactive activity in course/Page_Katalon Title/iframe_Restore_h5p-iframe-147</value>
+      <webElementGuid>ed614c66-54d0-4fe8-96c1-93e33402d23b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>d4d29d76-a71a-4283-8c4f-dd8071dad681</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

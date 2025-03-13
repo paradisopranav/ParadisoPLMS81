@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Course Notification_toggle</name>
+   <tag></tag>
+   <elementGuidId>8d0f6e1b-0e78-40a7-bd2f-c6251155c44a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frm_enable_edition']/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1e4956b8-4626-4278-a345-6d50d8bf7de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toggle</value>
+      <webElementGuid>624f2c12-67ea-4565-8d7d-c41b37399680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frm_enable_edition&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;checkbox checbox-switch switch-primary&quot;]/label[1]/span[@class=&quot;toggle&quot;]</value>
+      <webElementGuid>91ac9647-b93f-48b9-9150-1a27b0d1a08b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frm_enable_edition']/div/div/label/span</value>
+      <webElementGuid>f7ed563d-2f41-4ddb-8e6b-9ac65a4c32c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>593e4bb1-512b-4fda-b331-0ec767048381</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

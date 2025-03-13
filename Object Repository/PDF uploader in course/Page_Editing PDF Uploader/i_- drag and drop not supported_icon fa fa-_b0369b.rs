@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_- drag and drop not supported_icon fa fa-_b0369b</name>
+   <tag></tag>
+   <elementGuidId>e7d28966-e2d0-488f-9882-89c921f02afc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='yui_3_17_2_1_1741854543610_1205']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title='Add...']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>601f638a-5118-4c42-a2f2-674e43912e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-file-o fa-fw </value>
+      <webElementGuid>2f89bbf3-d856-4526-be76-0bd224b0e255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f5dcbc21-a6a8-4933-be83-633cd0539e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1741854543610_1205&quot;)/i[@class=&quot;icon fa fa-file-o fa-fw&quot;]</value>
+      <webElementGuid>f52727da-5da7-4d69-bd5e-452dea7a50b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1741854543610_1205']/i</value>
+      <webElementGuid>8f003cc5-e0d1-40fe-b193-3d7443fb8faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div[2]/div/div/div/a/i</value>
+      <webElementGuid>9a3d6898-5dd9-409e-87fe-b9a6ccd6ade4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

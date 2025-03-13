@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Interactive_Activity_In_Courses</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a5589d5-abd0-4deb-9306-63d4d39674f6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Paste_h5p-touch-area</name>
+   <tag></tag>
+   <elementGuidId>00adc9c2-0fef-4c23-9523-62bd538d4835</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.h5p-touch-area</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div[2]/div/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9162b90b-dc61-4a7c-888f-bc871c63c586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h5p-touch-area</value>
+      <webElementGuid>ac67c780-1d30-4cf4-a6be-65e6b810e8bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;h5peditor h5p-interactivevideo-editor&quot;]/div[@class=&quot;h5peditor-form form-manager&quot;]/div[@class=&quot;tree&quot;]/div[@class=&quot;field field-name-interactiveVideo group importance-high wizard&quot;]/div[@class=&quot;h5peditor-panes&quot;]/div[@class=&quot;field interactiveVideo&quot;]/div[@class=&quot;h5peditor-interactions h5p-interactive-video&quot;]/div[@class=&quot;h5p-video-wrapper h5p-video hardware-accelerated&quot;]/div[@class=&quot;h5p-overlay h5p-ie-transparent-background h5p-visible&quot;]/div[@class=&quot;h5p-interaction h5p-truefalse-interaction h5p-dragnbar-element&quot;]/div[@class=&quot;h5p-touch-area&quot;]</value>
+      <webElementGuid>15badfc7-148c-405c-9de1-1c1840cf1a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Interactive activity in course/Page_Editing Interactive Content/iframe_Editor_h5p-editor-iframe</value>
+      <webElementGuid>092ef979-e140-44bb-9d68-e5cacb64020a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>b8641eb9-58b5-45fd-b195-17be467f9d41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

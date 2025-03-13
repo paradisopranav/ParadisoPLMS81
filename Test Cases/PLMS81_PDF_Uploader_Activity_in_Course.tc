@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_PDF_Uploader_Activity_in_Course</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ac1b4610-5032-4b0a-9dde-d34f33e1b6ce</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8c85a6d-6500-4d27-aeab-87af7507a895</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\hp\\\\OneDrive - PARADISO\\\\Documents\\\\katalonpdf1.pdf'</defaultValue>
+      <description></description>
+      <id>e8c85a6d-6500-4d27-aeab-87af7507a895</id>
+      <masked>false</masked>
+      <name>PDF1</name>
+   </variable>
+</TestCaseEntity>

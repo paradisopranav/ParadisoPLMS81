@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>circle_Delete Topic_Ellipse_455</name>
+   <tag></tag>
+   <elementGuidId>b2394f9e-85d1-4606-a5b8-6c1d592b4e7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Topic'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#action-menu-toggle-4 > #menu-dots-vertical_1_ > #Ellipse_455</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+      <webElementGuid>783e3ce7-a348-4311-bef0-d8fbf3f98995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Ellipse_455</value>
+      <webElementGuid>057bfdb5-25b7-4c8d-b69b-a01336049163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Ellipse 455</value>
+      <webElementGuid>fc6ab545-c752-4679-8121-15f846597b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cx</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>34253497-e92b-4784-818a-b025f3dad63e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cy</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>11f7a877-8f57-498b-ba42-d96cdf8eaab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>r</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>0fffab29-09bb-433e-8d52-6560417ee131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(0 16)</value>
+      <webElementGuid>aab9fe02-e477-484a-b144-265d2b3c54e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#334155</value>
+      <webElementGuid>58a38de8-e58c-4e07-ad60-20bb88b1eccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action-menu-toggle-4&quot;)/svg[@id=&quot;menu-dots-vertical_1_&quot;]/circle[@id=&quot;Ellipse_455&quot;]</value>
+      <webElementGuid>f435377f-a263-43f5-ae32-672cbb9eb26a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//circle[@id = 'Ellipse_455']</value>
+      <webElementGuid>63b32a02-816a-427d-bfd6-d11c0a599398</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
