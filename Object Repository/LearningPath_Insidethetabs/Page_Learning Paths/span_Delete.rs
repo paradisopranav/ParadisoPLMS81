@@ -6,12 +6,12 @@
    <elementGuidId>751b27ae-9ae9-43d2-a8c7-f1bb73a93814</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#learningpath-remove-cohorts > span</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='learningpath-remove-cohorts']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#learningpath-remove-cohorts > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>633011aa-2ab3-4649-9f0a-610c386f23c3</webElementGuid>
+      <webElementGuid>cbae8d15-924d-4fbc-a6cc-dd62fe7220a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>1bb681ea-2871-4ff5-befc-b5e261842782</webElementGuid>
+      <webElementGuid>05846b98-621a-491f-9625-3bd5984e8dd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;learningpath-remove-cohorts&quot;)/span[1]</value>
-      <webElementGuid>3733533a-589b-490f-aad6-aeb51928b12c</webElementGuid>
+      <webElementGuid>52f9c828-3f80-43df-ba04-c928234ead68</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='learningpath-remove-cohorts']/span</value>
-      <webElementGuid>675256dc-8b67-4bd2-97e2-b771568fc842</webElementGuid>
+      <webElementGuid>8e80e609-d160-4a68-9486-0b68df090af7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Records Found.'])[2]/following::span[3]</value>
-      <webElementGuid>dd46aa3c-41f6-4959-9848-a15076564a94</webElementGuid>
+      <webElementGuid>19ebf3fe-1e1f-46d4-af49-6f12cceb9307</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrol Users'])[1]/following::span[3]</value>
-      <webElementGuid>cb8fc94f-3313-475d-873a-a17a7a571b7f</webElementGuid>
+      <webElementGuid>4cf800a8-a0c7-4fc1-8da8-70cf92250b5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Cohorts'])[1]/preceding::span[1]</value>
-      <webElementGuid>0953023c-6875-4a2d-aa36-d723ca05b3d3</webElementGuid>
+      <webElementGuid>1bd8eb07-0e71-4c42-984b-2258e84a21e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cohort Name'])[1]/preceding::span[5]</value>
-      <webElementGuid>5b42bc49-1a4c-441e-927d-8dfbb2f62dfd</webElementGuid>
+      <webElementGuid>90713bf8-0d06-4163-8703-7f7d099c7fc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
-      <webElementGuid>77c56736-3ffb-4b9b-9064-55ddbf5e7846</webElementGuid>
+      <webElementGuid>b03ec210-168b-48d6-80c4-1c332d017f5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/span/a/span</value>
-      <webElementGuid>da8e301a-ab42-4a17-ba2f-e9ea7290321a</webElementGuid>
+      <webElementGuid>9b653399-0bab-4ef3-a513-1fff836edbc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Delete' or . = 'Delete')]</value>
-      <webElementGuid>39b14376-7a7b-4a4c-b71e-ca9873a41f91</webElementGuid>
+      <webElementGuid>dff58497-6887-443f-8816-3ada03a80c0e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

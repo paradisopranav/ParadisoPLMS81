@@ -6,12 +6,12 @@
    <elementGuidId>b3252f29-c40f-4367-b201-e7356ea5f3e5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#potentialusers</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='potentialusers']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#potentialusers</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>b4a4140c-7afa-42e2-87a5-17b14ac9e243</webElementGuid>
+      <webElementGuid>e1b5a5fb-9a0e-4ea4-bcfd-243f82e4bc4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>name</name>
       <type>Main</type>
       <value>potentialusers[]</value>
-      <webElementGuid>03595494-ce66-4a3f-b6a4-6d727f1451b9</webElementGuid>
+      <webElementGuid>9f3494e1-7bb5-47f1-a837-41ccf6d2e806</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>potentialusers</value>
-      <webElementGuid>dc4d2d03-7bc1-4bfa-b53f-4385773bad20</webElementGuid>
+      <webElementGuid>b2ea65c7-e630-4c6b-b8f4-65573cbb0c5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>multiple</name>
       <type>Main</type>
       <value>multiple</value>
-      <webElementGuid>0a83424c-b605-4f3d-9b56-0b0145177fe3</webElementGuid>
+      <webElementGuid>8ceabd70-3f87-4728-a56f-232d0430134c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>size</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>9ccbb5cb-ddf3-4192-bcd1-78f7d54ec6bc</webElementGuid>
+      <webElementGuid>e7416b11-3f73-4653-bc99-9c58ec49b90e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control no-overflow</value>
-      <webElementGuid>54dc0bb4-f6cf-4f33-a016-c174e4685a9c</webElementGuid>
+      <webElementGuid>6bb5ee01-8822-4b47-8b55-252689db4e0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
   
   
 hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hruta2326@mail.com)hruta1601 hruta1601 (hruta1601@mail.com)hruta1701 hruta1701 (hruta1701@mail.com)hruta2 hruta2 (hruta2@mail.com)hruta200 hruta200 (hruta200@mail.com)hruta201 hruta201 (hruta201@mail.com)hruta202 hruta202 (hruta2022@mail.com)hruta203 hruta203 (hruta203@mail.com)hruta204 hruta204 (hruta204@mail.com)hruta205 hruta205 (hruta205@mail.com)hruta3 hruta3 (hruta3@mail.com)hruta4 hruta4 (hruta4@mail.com)hruta5 hruta5 (hruta5@mail.com)hruta6 hruta6 (hruta6@mail.com)hruta7 hruta7 (hruta7@mail.com)hrutamobile hrutamobile (hrutamobile@mail.com) </value>
-      <webElementGuid>fce43939-cd04-446d-afe0-1b29808688fb</webElementGuid>
+      <webElementGuid>8b9e72af-1ec2-4e83-afaa-014573b43b42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;potentialusers&quot;)</value>
-      <webElementGuid>cdce5b0f-70cc-4e4f-a1de-00a592ed1f10</webElementGuid>
+      <webElementGuid>0c4da374-dbe4-4215-83b6-e9e8b08461cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -90,7 +90,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='potentialusers']</value>
-      <webElementGuid>23186ded-4de7-4273-b396-13dbfc2ef77a</webElementGuid>
+      <webElementGuid>f3f108f5-8efe-46b8-bfbf-688599f5477c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='potentialusers_wrapper']/select</value>
-      <webElementGuid>6e4a6080-8038-41d9-81e9-1a158e66aed0</webElementGuid>
+      <webElementGuid>9c3b1df6-8725-4ad8-8adf-9f1d01e619a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential users to add'])[1]/following::select[1]</value>
-      <webElementGuid>fe885096-80ec-4c92-a24b-c2a40e859f87</webElementGuid>
+      <webElementGuid>f0551d81-7096-4c7f-9dfd-611b120b851c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Match the search text anywhere in the displayed fields'])[1]/following::select[1]</value>
-      <webElementGuid>60112cf5-9276-4d93-ad15-ee1bd81c743d</webElementGuid>
+      <webElementGuid>521ddf7b-55f5-49bd-a853-0e2be078ff99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::select[1]</value>
-      <webElementGuid>1ee1cbe9-93fa-48df-bc7f-7d2d07de1b75</webElementGuid>
+      <webElementGuid>aa9a2d89-4afc-4f7a-b215-5595af919ebb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::select[1]</value>
-      <webElementGuid>611db8b4-e314-4b9a-9897-3f3dfc70692b</webElementGuid>
+      <webElementGuid>46506c2a-1c47-4824-b186-478d91d3ee7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/div/select</value>
-      <webElementGuid>c326d341-2e25-41c7-a00c-38cc4c22e036</webElementGuid>
+      <webElementGuid>76e4626c-67dc-48cd-8e66-f2f280e2450b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -152,6 +152,6 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
   &#xd;
   &#xd;
 hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hruta2326@mail.com)hruta1601 hruta1601 (hruta1601@mail.com)hruta1701 hruta1701 (hruta1701@mail.com)hruta2 hruta2 (hruta2@mail.com)hruta200 hruta200 (hruta200@mail.com)hruta201 hruta201 (hruta201@mail.com)hruta202 hruta202 (hruta2022@mail.com)hruta203 hruta203 (hruta203@mail.com)hruta204 hruta204 (hruta204@mail.com)hruta205 hruta205 (hruta205@mail.com)hruta3 hruta3 (hruta3@mail.com)hruta4 hruta4 (hruta4@mail.com)hruta5 hruta5 (hruta5@mail.com)hruta6 hruta6 (hruta6@mail.com)hruta7 hruta7 (hruta7@mail.com)hrutamobile hrutamobile (hrutamobile@mail.com) ')]</value>
-      <webElementGuid>9b345373-23ee-40bf-8265-a7f20497ef31</webElementGuid>
+      <webElementGuid>d6cca6ea-4154-44f0-8a62-08c40bb9ab51</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

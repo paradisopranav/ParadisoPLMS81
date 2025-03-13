@@ -6,12 +6,12 @@
    <elementGuidId>e6c8468a-98cf-477f-8f3f-339f5a42fb05</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#add-cohorts-lp > span</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='add-cohorts-lp']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#add-cohorts-lp > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8c33fcda-1fca-4cd0-b18f-2367b5bd60bd</webElementGuid>
+      <webElementGuid>bdd2e6a3-e8e3-45d6-809f-d199e8616512</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add Cohorts</value>
-      <webElementGuid>ffcaacfa-4a8c-4ff6-b265-2c789be88f5f</webElementGuid>
+      <webElementGuid>48526bbc-9447-4b42-99db-34f486703925</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;add-cohorts-lp&quot;)/span[1]</value>
-      <webElementGuid>02a54ad5-cd5d-4ecf-94e8-2c5c42000d97</webElementGuid>
+      <webElementGuid>59a10f53-3811-44ad-9389-5c802018006c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='add-cohorts-lp']/span</value>
-      <webElementGuid>a104424e-3aa1-4b0a-8194-70686234273f</webElementGuid>
+      <webElementGuid>337b6b20-a2ac-4015-a1b7-8a89ab0c231b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='March 11, 2025'])[1]/following::span[3]</value>
-      <webElementGuid>29c1e86a-63b4-4221-9223-746910d058f3</webElementGuid>
+      <webElementGuid>36b03ffd-e048-46b6-b2d4-53739bac976e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='hruta'])[2]/following::span[4]</value>
-      <webElementGuid>4688ec96-2e1f-477b-a91b-e0bdc6623fc3</webElementGuid>
+      <webElementGuid>f53f33b4-7d1b-48ca-9c29-f67ff3cf674f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Records Found.'])[1]/preceding::span[1]</value>
-      <webElementGuid>84da8db0-645a-4b22-82b6-4564d06e0cbd</webElementGuid>
+      <webElementGuid>4fadaf5b-aaf3-4393-9762-01b463c6178b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrollment'])[1]/preceding::span[1]</value>
-      <webElementGuid>0ed1655b-06c8-46f2-878d-6b54e81d3c64</webElementGuid>
+      <webElementGuid>a49162c1-547f-4dd5-80aa-aaff3cd7635f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add Cohorts']/parent::*</value>
-      <webElementGuid>03fc4a4f-8437-4ec5-918c-0c433e756ee5</webElementGuid>
+      <webElementGuid>030a3c27-c14d-4da3-816f-2df21751ef46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/span/a/span</value>
-      <webElementGuid>383d957e-5c03-4b90-a604-8ec39989fe18</webElementGuid>
+      <webElementGuid>781265ed-f46d-4969-8ef2-4f793ecc66a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Add Cohorts' or . = 'Add Cohorts')]</value>
-      <webElementGuid>f14293f4-727e-4e7b-827b-3026e0c030f3</webElementGuid>
+      <webElementGuid>64e4aadf-8dc0-4e81-830f-6e9e3bd28218</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

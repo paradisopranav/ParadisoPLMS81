@@ -6,12 +6,12 @@
    <elementGuidId>a03e2e1a-51ed-490f-948e-5f238658a61b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#potentialcourses</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='potentialcourses']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#potentialcourses</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>b4662a9e-fd80-4556-9e33-a5316f952973</webElementGuid>
+      <webElementGuid>e1b3ea11-11f4-4b1e-8c57-839d5184dada</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>name</name>
       <type>Main</type>
       <value>potentialcourses[]</value>
-      <webElementGuid>3f501886-c62f-4766-a8f5-b3602a367ab9</webElementGuid>
+      <webElementGuid>9579322e-9678-47c1-9b08-80887a537d8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>potentialcourses</value>
-      <webElementGuid>2bab1867-7d07-4264-8976-7cc0286f56da</webElementGuid>
+      <webElementGuid>b84b7d6e-5984-4d8c-b2a3-43e4f18fc3bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>multiple</name>
       <type>Main</type>
       <value>multiple</value>
-      <webElementGuid>6b841167-44db-4ba5-ad46-f1e804883cac</webElementGuid>
+      <webElementGuid>3246d8f3-fc63-41d4-910b-584830de071b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>size</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>c3994542-e8ca-479f-b367-2e9a6fa39cb4</webElementGuid>
+      <webElementGuid>1f628955-de37-41a6-9c76-888bbf4925e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control no-overflow</value>
-      <webElementGuid>b2c57a1b-a963-4bce-8e21-235885b37b84</webElementGuid>
+      <webElementGuid>848d06a1-abcc-43db-850e-4e286e1527f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -75,7 +75,7 @@ Katalon_Activity Test creation course
 Katalon_Learning path Course
   
 </value>
-      <webElementGuid>385e1546-3563-480b-976c-d146da9a68ca</webElementGuid>
+      <webElementGuid>5e5c9744-3fb6-4f09-9fd3-fc6f6300943f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@ Katalon_Learning path Course
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;potentialcourses&quot;)</value>
-      <webElementGuid>f17c5604-1411-4558-83ba-94573bae28c9</webElementGuid>
+      <webElementGuid>0c196f78-84af-4955-b06e-85f4f9cf4d06</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -91,7 +91,7 @@ Katalon_Learning path Course
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='potentialcourses']</value>
-      <webElementGuid>83250f41-2b25-478a-b0cd-41ec1901d164</webElementGuid>
+      <webElementGuid>d80b3400-0a5c-4c42-9cdb-1091e96d4707</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@ Katalon_Learning path Course
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='potentialcourses_wrapper']/div/select</value>
-      <webElementGuid>f4d99604-416a-450d-959f-902fca7101f1</webElementGuid>
+      <webElementGuid>e930df84-57e7-442e-b4ae-b5ecdbc3720e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@ Katalon_Learning path Course
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential courses to add'])[1]/following::select[1]</value>
-      <webElementGuid>ab7824c4-4f79-4576-b650-42eb3344a286</webElementGuid>
+      <webElementGuid>e90d27da-c35d-41e0-b69e-90df0fd5aee7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@ Katalon_Learning path Course
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='If only one record matches the search, select them automatically'])[1]/following::select[1]</value>
-      <webElementGuid>16edec86-1f34-4e6a-9e5b-b8ef8421565e</webElementGuid>
+      <webElementGuid>ba80e02c-0af4-472b-ad7f-97f82a5cbc97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,7 +123,7 @@ Katalon_Learning path Course
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::select[1]</value>
-      <webElementGuid>240aea58-2d83-4746-b509-24b749ad1996</webElementGuid>
+      <webElementGuid>05cd66df-c734-4492-a441-21ce957a7f2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +131,7 @@ Katalon_Learning path Course
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::select[1]</value>
-      <webElementGuid>2e964761-adad-450e-938e-ff75ffa71dfc</webElementGuid>
+      <webElementGuid>9c2c5b8a-f803-43a8-94eb-61ada6fdb909</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,7 +139,7 @@ Katalon_Learning path Course
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/div/div/select</value>
-      <webElementGuid>6b2bbb26-48c4-4c07-b6c7-6f5703da6559</webElementGuid>
+      <webElementGuid>3e280e2b-2666-40dd-8761-d1fb358ff818</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -155,6 +155,6 @@ Katalon_Activity Test creation course
 Katalon_Learning path Course
   
 ')]</value>
-      <webElementGuid>f3227e36-813f-4b65-ac97-40cdc3af52f2</webElementGuid>
+      <webElementGuid>9115c136-01e8-49bb-a485-0e5e332dcebf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

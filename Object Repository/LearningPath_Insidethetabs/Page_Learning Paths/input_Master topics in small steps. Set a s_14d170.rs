@@ -6,12 +6,12 @@
    <elementGuidId>b7feec4f-ea86-475a-8c27-97a51da530e4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#id_search</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='id_search']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id_search</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>564a65d2-5999-4585-8d69-3b170c3f394a</webElementGuid>
+      <webElementGuid>00b16768-3197-4ead-8fa8-869e3d8ce17a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>fcb7116b-41b4-4e2c-a19f-36942f31afe4</webElementGuid>
+      <webElementGuid>f224e015-1dba-471d-bfa0-bb4dc598a134</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d70e5f29-193c-4324-b00c-d2f521c7a172</webElementGuid>
+      <webElementGuid>75174c44-aa60-45d6-9074-9cb7f90c1831</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Find Learning Paths</value>
-      <webElementGuid>4e5902f9-f15d-4ba7-bbc2-b593793d9065</webElementGuid>
+      <webElementGuid>81dc7cc0-4526-4a83-82b0-4f69bf7f3aee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>id_search</value>
-      <webElementGuid>b366aa96-ed0e-4dc7-942d-0dcf8fa61507</webElementGuid>
+      <webElementGuid>99299feb-5e99-480c-a95c-721f5e47ce15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>name</name>
       <type>Main</type>
       <value>search_lp</value>
-      <webElementGuid>0e1d52fb-8ad3-4feb-b9a9-2044adbbdd86</webElementGuid>
+      <webElementGuid>12fb8b1b-8f96-495d-9f9b-5511b0bf990c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>for</name>
       <type>Main</type>
       <value>id_search</value>
-      <webElementGuid>5b4658af-0c0c-471e-b2a4-6fefab4e83b2</webElementGuid>
+      <webElementGuid>8d9f61af-e48e-439d-ac86-576b0ef5dfab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;id_search&quot;)</value>
-      <webElementGuid>95eace1d-20c5-4fe4-8fa6-2522371643c9</webElementGuid>
+      <webElementGuid>1ea188f8-a1d0-448c-a60a-be7c512df14b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='id_search']</value>
-      <webElementGuid>e17fff36-2243-4992-9c8a-591ab9c7ab03</webElementGuid>
+      <webElementGuid>bf8c1ee1-e786-4b9f-9a73-ebdad08e65e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='searchbox']/div/input</value>
-      <webElementGuid>05271e12-4b83-412c-bd98-b9982b973245</webElementGuid>
+      <webElementGuid>830b1b9a-f6bd-4c2a-94ac-6e0745644d78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/input</value>
-      <webElementGuid>06d602bf-d58c-4273-8bbc-dae606b7654e</webElementGuid>
+      <webElementGuid>ab08e41d-e67f-43fc-9e95-913fbcb52681</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Find Learning Paths' and @id = 'id_search' and @name = 'search_lp']</value>
-      <webElementGuid>b1500312-82b5-4e79-9d52-85f781c02327</webElementGuid>
+      <webElementGuid>f9a0045a-1ecb-4417-a1b2-49534fd46f12</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -50,28 +50,39 @@ WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Le
 WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/input_Search_potentialcourses_searchtext'), 
     'katalon')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/select_Katalon_Activity Test creation cours_7448db'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/select_katalon testing- lp coursekatalon ol_190238'), 
+    '253,katalon testing- lp course', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/select_katalon testing- lp coursekatalon ol_190238'), 
+    '299,katalon old course', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/select_katalon testing- lp coursekatalon ol_190238'), 
     '1160,Katalon badge course_403', true)
 
-WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/input_If only one record matches the search_8b291f'))
-
-WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/input_Search_potentialcourses_searchtext'), 
-    'katalon')
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/select_Katalon_Activity Test creation cours_ff90c2'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/select_katalon testing- lp coursekatalon ol_190238'), 
     '1178,Katalon_Learning path Course', true)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/input_If only one record matches the search_8b291f'))
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/i_File Uploaded Successfully_men men-plms-a_14dec7'))
 
+WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/span_katalon testing- lp course_slider round'))
+
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/span_Edit'))
 
-WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/p_Katalon badge course_403'))
+WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/p_katalon old course'))
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/button_Add'))
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Remove_submitbutton'))
+
+WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Searchbox_LPCourses tab'), 'badge course')
+
+WebUI.sendKeys(findTestObject('Object Repository/LearningPath_Insidethetabs/Searchbox_LPCourses tab'), Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Searchbox_LPCourses tab'), '')
+
+WebUI.sendKeys(findTestObject('Object Repository/LearningPath_Insidethetabs/Searchbox_LPCourses tab'), Keys.chord(Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/a_Overview'))
 
@@ -90,16 +101,27 @@ WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_
 WebUI.sendKeys(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/input_Search_potentialusers_searchtext'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/select_hruta hruta (manashmail.com)hruta1 h_e50a15'), 
-    24315)
-
-//WebUI.click(findTestObject('LearningPath_Insidethetabs/Page_katalon lp testing 10/select_hruta hruta (manashmail.com)hruta1 h_e50a15'))
 WebUI.selectOptionByValue(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/select_hruta hruta (manashmail.com)hruta1 h_e50a15'), 
     '24315', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/select_hruta hruta (manashmail.com)hruta1 h_e50a15'), 
+    '4898', true)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/input_If only one record matches the search_8b291f'))
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/i_File Uploaded Successfully_men men-plms-a_14dec7'))
+
+WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/Searchbox_LPUsers tab'), 
+    'hruta1')
+
+WebUI.sendKeys(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/Searchbox_LPUsers tab'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/Searchbox_LPUsers tab'), 
+    '')
+
+WebUI.sendKeys(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/Searchbox_LPUsers tab'), 
+    Keys.chord(Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/a_Cohorts'))
 
@@ -111,55 +133,84 @@ WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_
 WebUI.selectOptionByValue(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/select_QAqa cohort_2106qa cohort_2806qa my _0d47a3'), 
     '180,katalon cohort', true)
 
+WebUI.selectOptionByValue(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/select_katalon cohortkatalon cohort 2'), 
+    '181,katalon cohort 2', true)
+
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/input_If only one record matches the search_8b291f'))
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_katalon lp testing 10/i_File Uploaded Successfully_men men-plms-a_14dec7'))
 
+WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Searchbox_LPCohort tab'), 'cohort 2')
+
+WebUI.sendKeys(findTestObject('Object Repository/LearningPath_Insidethetabs/Searchbox_LPCohort tab'), Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Searchbox_LPCohort tab'), '')
+
+WebUI.sendKeys(findTestObject('Object Repository/LearningPath_Insidethetabs/Searchbox_LPCohort tab'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/a_2'))
+
+WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_/i_File Uploaded Successfully_men men-plms-a_14dec7'))
+
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/a_Notifications'))
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Email Template_enrollment_editor_checkbox1'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Email Template_expiration_editor_checkbox1'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Days After Enrollment_enreminder_edit_da6ddb'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Days After Enrollment_enreminder_editor_text'), 
     '1')
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Days Before Expiration_exreminder_edi_05c6ca'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Days Before Expiration_exreminder_edi_e98544'), 
     '1')
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Day Frequency_completion_reminder_edi_823da3'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Days Before Expiration_completion_rem_db03ac'), 
     '1')
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Email Template_notifications_editor_c_8df1d6'))
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Enable_submitbutton'))
 
-//WebUI.waitForElementClickable(findTestObject('LearningPath_Insidethetabs/learningpath_insidetabs_notification_publishbutton/Page_Learning Paths/input_Enable_submitbutton'), 
+//WebUI.waitForElementClickable(findTestObject('LearningPath_Insidethetabs/learningpath_insidetabs_notification_publishbutton/Page_Learning Paths/input_Enable_submitbutton'),
 //  10)
 //WebUI.click(findTestObject('LearningPath_Insidethetabs/learningpath_insidetabs_notification_publishbutton/Page_Learning Paths/input_Enable_submitbutton'))
 //WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Enable_submitbutton_1'))
+WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/a_Courses'))
+
+WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/i_Edit_men men-close-circle-outline'))
+
+WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/button_OK_1_2_3'))
+
+WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/a_Courses'))
+
+WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/i_Edit_men men-close-circle-outline'))
+
+WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/button_OK_1_2_3_4'))
+
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/a_Courses'))
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/i_Edit_men men-close-circle-outline'))
@@ -174,7 +225,7 @@ WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Le
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/a_Users'))
 
-WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Progress_learningpath-user form-check-input'))
+WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Enrol Users_all_users'))
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/span_Delete Users'))
 
@@ -182,58 +233,62 @@ WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Le
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/a_Cohorts'))
 
-WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Progress_learningpath-user form-check-input'))
+WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Add Cohorts_all_cohorts'))
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/span_Delete'))
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/button_OK_1_2'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/a_Notifications'))
 
-//WebUI.click(findTestObject('LearningPath_Insidethetabs/Page_Learning Paths/input_Email Template_enrollment_editor_checkbox1'))
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Email Template_enrollment_editor_checkbox1'))
 
-
-WebUI.delay(5)
+//WebUI.click(findTestObject('LearningPath_Insidethetabs/LP_Notification_Enrollmentchechbox_disable'))
+//WebUI.click(findTestObject('LearningPath_Insidethetabs/Page_Learning Paths/input_Email Template_enrollment_editor_checkbox1'))
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Email Template_expiration_editor_checkbox1'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Days After Enrollment_enreminder_edit_da6ddb'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Days After Enrollment_enreminder_editor_text'), 
     '')
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Days Before Expiration_exreminder_edi_05c6ca'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Days Before Expiration_exreminder_edi_e98544'), 
     '')
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Day Frequency_completion_reminder_edi_823da3'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Days Before Expiration_completion_rem_db03ac'), 
     '')
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Email Template_notifications_editor_c_8df1d6'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Enable_submitbutton_1'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/a_Overview'))
 

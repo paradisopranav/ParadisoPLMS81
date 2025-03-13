@@ -6,12 +6,12 @@
    <elementGuidId>70592917-cd33-461c-acf0-38b8aed9b1f7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#learningpath-remove-users > span</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='learningpath-remove-users']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#learningpath-remove-users > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>dd379857-819a-4520-9ae3-2222e0453b1e</webElementGuid>
+      <webElementGuid>b9e86d5e-7017-44fb-b4b6-720199d2b6a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete Users</value>
-      <webElementGuid>3ebbc03b-9ea2-4b50-b025-f1f461d3e5d3</webElementGuid>
+      <webElementGuid>e9303e08-fc58-49f3-8721-6f32f2ff551d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;learningpath-remove-users&quot;)/span[1]</value>
-      <webElementGuid>2bb598d6-b8f5-4470-a8eb-d2b213181e75</webElementGuid>
+      <webElementGuid>58337b68-94dd-4748-a2e4-268a697c6718</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='learningpath-remove-users']/span</value>
-      <webElementGuid>1f207334-1ef0-49f1-a558-c23b7b105237</webElementGuid>
+      <webElementGuid>7107e831-c184-42a6-9b75-678579cf47c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Records Found.'])[1]/following::span[3]</value>
-      <webElementGuid>f101fc52-fc7e-414b-ad68-c0d8c21b2e5e</webElementGuid>
+      <webElementGuid>684aec22-a7b5-4906-bd44-bf13c7715a6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Courses'])[1]/following::span[3]</value>
-      <webElementGuid>cc5ea4a6-e5f8-4320-8a62-17b3afb7bb91</webElementGuid>
+      <webElementGuid>be5c4213-2bc7-465b-9eaa-bf4fd61a5c93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrol Users'])[1]/preceding::span[1]</value>
-      <webElementGuid>ed5de51b-c629-468e-be0e-d9627e2723db</webElementGuid>
+      <webElementGuid>55c635e7-4ee7-47f3-9128-9a24d1f9ef23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/preceding::span[5]</value>
-      <webElementGuid>e6b1e53b-1d13-4ba4-9afb-ef65a3c69af8</webElementGuid>
+      <webElementGuid>207ffae9-4252-48a8-acc0-d43c7997d3ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Delete Users']/parent::*</value>
-      <webElementGuid>2e8a575f-70f6-4888-b75f-44b2746a9322</webElementGuid>
+      <webElementGuid>cdb06c6a-5075-4241-90b6-5048514539c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/span/a/span</value>
-      <webElementGuid>167487e0-a32b-4021-b2b9-532a9073f883</webElementGuid>
+      <webElementGuid>56c9f7a4-3d1e-4993-92f3-b09afe365c9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Delete Users' or . = 'Delete Users')]</value>
-      <webElementGuid>98497db2-a32f-4df1-bcd4-904951f27a3e</webElementGuid>
+      <webElementGuid>46067ea5-48ef-43f4-832b-2c739ae5bb0e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>61157b96-73a4-4e5e-9803-4c5539c4b219</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#view-button > a.nav-link</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//li[@id='view-button']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#view-button > a.nav-link</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d68fcba9-7456-4482-8aac-a2ba2f7d2aac</webElementGuid>
+      <webElementGuid>936b820c-6b76-4a1c-92a8-f74ef7d25115</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>232f3cec-a79f-4a63-87d9-c0cce77c13c0</webElementGuid>
+      <webElementGuid>a2260f6d-959b-46ee-b7c1-56f2a172bc98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link </value>
-      <webElementGuid>439d3361-db9c-4aa9-af90-9b2f956cc64c</webElementGuid>
+      <webElementGuid>e7933ece-c27a-4d26-84a1-7b58630703e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#learningpath-view-tab</value>
-      <webElementGuid>34944c5b-04f8-4cd6-a030-5454b1b32800</webElementGuid>
+      <webElementGuid>c2e4bca6-a824-46ff-b3bb-41f0cca233fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Overview</value>
-      <webElementGuid>82b7932e-7d72-4034-b832-b12a427b6bdf</webElementGuid>
+      <webElementGuid>9a7d2bbd-0722-401d-9807-bb8ccf32d271</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;view-button&quot;)/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>a20fda32-2b9d-4dda-b38b-1fb21d3905e7</webElementGuid>
+      <webElementGuid>1adc9ae8-9d92-42e3-9599-667030a792d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='view-button']/a</value>
-      <webElementGuid>678e4728-f0ee-4fb1-aa86-377ea9e6b90d</webElementGuid>
+      <webElementGuid>378fb00e-a78a-4ba3-9f3d-4d63fb510ff3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Overview')]</value>
-      <webElementGuid>49fa874b-ed7f-4313-a81c-2ead5d26b1d4</webElementGuid>
+      <webElementGuid>fd1e81a3-06d2-431d-b157-3ce79000e9e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Learning Path'])[1]/following::a[1]</value>
-      <webElementGuid>3016c0ff-6a1b-44b9-86d9-4bba99a98b76</webElementGuid>
+      <webElementGuid>84ec1443-9a7f-4ab7-bff1-69749e1d444e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='katalon lp testing 1...'])[1]/following::a[1]</value>
-      <webElementGuid>ce0c35fe-c849-4ef4-bc09-88741cfdd052</webElementGuid>
+      <webElementGuid>2d7aa2d0-e243-49a6-a0c8-a94f505f6b0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses'])[1]/preceding::a[1]</value>
-      <webElementGuid>9d6b4723-1783-4e33-97be-22c76f58a07a</webElementGuid>
+      <webElementGuid>28908d57-469e-4677-8b31-d873856c8bd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/preceding::a[2]</value>
-      <webElementGuid>da78cbeb-5f1b-4bf3-877a-0eedd546ecf6</webElementGuid>
+      <webElementGuid>75dbec98-c82c-40ab-8fd8-02d049dd5826</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Overview']/parent::*</value>
-      <webElementGuid>da9562bd-c25e-44d2-bed1-6b19abf255d2</webElementGuid>
+      <webElementGuid>2380d4b6-f3a8-4752-84ee-d45dd942f2b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#learningpath-view-tab')]</value>
-      <webElementGuid>76f35b97-ec5a-4f48-95d7-c4da0ca5b133</webElementGuid>
+      <webElementGuid>d971cdb3-5d15-49a5-8526-7fbe65923229</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/ul/li/a</value>
-      <webElementGuid>8ffea2e3-4072-49f6-97b8-f90ac3bf21d3</webElementGuid>
+      <webElementGuid>043c236b-591a-4484-8971-cbc21e78bda5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +143,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#learningpath-view-tab' and (text() = 'Overview' or . = 'Overview')]</value>
-      <webElementGuid>372df983-bbfc-4e8a-9d69-0096c3447513</webElementGuid>
+      <webElementGuid>47b86824-3953-4dea-8ac6-9e9bc6f95adc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

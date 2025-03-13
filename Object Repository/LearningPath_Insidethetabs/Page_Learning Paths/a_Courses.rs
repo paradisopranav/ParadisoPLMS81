@@ -6,12 +6,12 @@
    <elementGuidId>474b8338-4e80-43de-bad4-7447c9667175</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#courses-button > a.nav-link</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//li[@id='courses-button']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#courses-button > a.nav-link</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f04482f0-f4cc-45bf-9959-7aca6e913da6</webElementGuid>
+      <webElementGuid>47dde823-cc33-4cb5-a116-1e613917e8ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>cbbad82c-8361-43cb-a8c8-6b82f6570428</webElementGuid>
+      <webElementGuid>84e45240-a76c-40ad-8fa3-1d55a5ef89b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link </value>
-      <webElementGuid>02d37a0f-91f3-425f-aeaa-3dba2916cd81</webElementGuid>
+      <webElementGuid>367b2572-b711-4377-a1e1-237556bb947d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#learningpath-courses-tab</value>
-      <webElementGuid>79cfe27c-d69a-43dc-8c0b-217ad497c103</webElementGuid>
+      <webElementGuid>bbaa4204-0250-45f7-8772-6719061ba9c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Courses</value>
-      <webElementGuid>298e2ba9-9e74-4d9c-9cf6-fde18b4e0ed8</webElementGuid>
+      <webElementGuid>d34b56f7-4f06-4617-8aa0-de7a91af7e45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;courses-button&quot;)/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>bef5d49b-a90d-44b7-b4f1-11e805e503ad</webElementGuid>
+      <webElementGuid>f8155b3d-90a4-4061-ad97-46c80afee077</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='courses-button']/a</value>
-      <webElementGuid>62e9f9a3-d419-4ad8-8552-fefdcfd0ac1c</webElementGuid>
+      <webElementGuid>b10abc56-bb5f-4c53-aff4-5e8bc8420085</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Courses')]</value>
-      <webElementGuid>f02494d1-418c-43f7-8aa4-cf82ec445125</webElementGuid>
+      <webElementGuid>8c061d63-6510-4564-af0a-430205a9fe31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::a[1]</value>
-      <webElementGuid>47d8d2f5-ce91-4ee0-b29b-d18eaa309f68</webElementGuid>
+      <webElementGuid>eef0f7aa-b77e-4c34-a06f-98f02d49c188</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Learning Path'])[1]/following::a[2]</value>
-      <webElementGuid>5791b7f7-03fb-4073-9cc5-db2377a88829</webElementGuid>
+      <webElementGuid>deec42fc-15dd-4340-b86c-607758eb3498</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/preceding::a[1]</value>
-      <webElementGuid>8f9b6744-dc58-444d-b6ec-13fca7be00a0</webElementGuid>
+      <webElementGuid>db072d9d-9230-4bf4-8e65-3a7c0f89c725</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cohorts'])[1]/preceding::a[2]</value>
-      <webElementGuid>f6f8fbc9-fefa-4c72-a03e-4214860f1c61</webElementGuid>
+      <webElementGuid>f7979701-c2b3-420e-94e1-7e327cbeb8d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Courses']/parent::*</value>
-      <webElementGuid>e5480e6d-f0d0-4bab-b18b-aae23cd52ef0</webElementGuid>
+      <webElementGuid>92e35cb5-e76e-43a6-be6b-792e10f4351e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#learningpath-courses-tab')]</value>
-      <webElementGuid>6f3951c9-aebf-4be0-b8ea-2e1601f90587</webElementGuid>
+      <webElementGuid>7395388d-0cb7-4fa8-a9f6-4a6c2e061b2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/ul/li[2]/a</value>
-      <webElementGuid>08ee96e6-ae61-4151-ad36-dfd27a36e3ce</webElementGuid>
+      <webElementGuid>a044245f-a6be-4822-9dda-f6a96441c2da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +143,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#learningpath-courses-tab' and (text() = 'Courses' or . = 'Courses')]</value>
-      <webElementGuid>68924146-d308-45de-9c41-545f7de6d226</webElementGuid>
+      <webElementGuid>97bf2d60-aaf7-44ef-8ecb-b0c284d30650</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

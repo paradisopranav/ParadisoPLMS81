@@ -6,12 +6,12 @@
    <elementGuidId>ff8c2077-2eee-41bd-9d6e-3b1474d7429a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#id_enreminder_editor_checkbox1</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='id_enreminder_editor_checkbox1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id_enreminder_editor_checkbox1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>42b31e80-4669-4b93-bdde-145c8536a936</webElementGuid>
+      <webElementGuid>8a2330a5-7f7e-4df6-b1c5-5846cfee7c43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>b8fd012b-b870-4766-b783-60ef2ab4edb0</webElementGuid>
+      <webElementGuid>db6b3b3f-b8bc-4f3f-ba74-e291ad81fada</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>enreminder_editor_checkbox1</value>
-      <webElementGuid>45374e35-98ac-4c16-9701-6d071e7587c7</webElementGuid>
+      <webElementGuid>f1b84344-b84a-453f-9fc5-07962b4c01e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>b07415ca-255e-4b33-9362-cd2a8a5824ba</webElementGuid>
+      <webElementGuid>2bdfc0b3-069d-4a47-93e6-bf4024937f22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>id_enreminder_editor_checkbox1</value>
-      <webElementGuid>013c2203-1ed7-4ec4-baea-edd923c97d63</webElementGuid>
+      <webElementGuid>857d853f-ecc8-423b-898a-88136595c028</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;id_enreminder_editor_checkbox1&quot;)</value>
-      <webElementGuid>037d5ee1-9cec-4332-aefb-654aea655704</webElementGuid>
+      <webElementGuid>d49badb5-7a42-4dd9-a46b-e5d6c363262b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='id_enreminder_editor_checkbox1']</value>
-      <webElementGuid>3806112e-b4a5-40d9-9352-5f6913a758f2</webElementGuid>
+      <webElementGuid>65ab124a-02f5-43d7-9567-5f39ad8e2cbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='form_id']/div[3]/div[2]/div/div[2]/input</value>
-      <webElementGuid>dea13a79-ebaf-498d-919b-5a2f195bd41f</webElementGuid>
+      <webElementGuid>3d3cf7d5-860a-41b8-8dd5-64901ae8a735</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div[2]/input</value>
-      <webElementGuid>6f5fc84f-d4b3-4cf8-96b8-ece9f7fbee13</webElementGuid>
+      <webElementGuid>eeb5bd2d-3fdf-4ba9-8d1c-23d5020b713a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'enreminder_editor_checkbox1' and @id = 'id_enreminder_editor_checkbox1']</value>
-      <webElementGuid>d162b15b-4429-45b2-a33b-af7aa200575d</webElementGuid>
+      <webElementGuid>739ca024-ff07-4a04-bc0b-e2f532bfc3ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

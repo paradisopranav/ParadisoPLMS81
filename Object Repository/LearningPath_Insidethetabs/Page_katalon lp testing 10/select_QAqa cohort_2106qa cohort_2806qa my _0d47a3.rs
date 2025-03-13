@@ -6,12 +6,12 @@
    <elementGuidId>fc07e9a0-e784-46d2-9e96-1843fa4adef0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#potentialcohorts</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='potentialcohorts']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#potentialcohorts</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>acd9b9d4-5a5b-4775-aa63-1c167971f2e2</webElementGuid>
+      <webElementGuid>1209f0a5-27ba-4368-b210-b7db1988928f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>name</name>
       <type>Main</type>
       <value>potentialcohorts[]</value>
-      <webElementGuid>48f14fad-c2c9-42a3-b260-e6aa4185ab32</webElementGuid>
+      <webElementGuid>b6758253-6077-4f97-8b94-0d0c89ebe8de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>potentialcohorts</value>
-      <webElementGuid>c42a4f93-78dd-4cb4-a2c3-e88c222b7684</webElementGuid>
+      <webElementGuid>c5653264-65ef-4e8f-a301-fcce95e246a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>multiple</name>
       <type>Main</type>
       <value>multiple</value>
-      <webElementGuid>6c9576b9-2be4-436f-9f76-ff7ad0de7106</webElementGuid>
+      <webElementGuid>b6f76456-6153-43d8-a5d5-bd6792d7cc47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>size</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>518e57e1-f27a-4f89-9720-08524b036784</webElementGuid>
+      <webElementGuid>dfd6ed94-655d-4e68-903a-5458a3cfb604</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control no-overflow</value>
-      <webElementGuid>6c97846e-c09d-4082-a511-880d75d99a8a</webElementGuid>
+      <webElementGuid>0cc51448-3f6f-491b-a5e4-ff9d28412c36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -81,7 +81,7 @@ QA COHORT 1601
 QA COHORT 2901
   
 </value>
-      <webElementGuid>ff64dd2f-26c2-415e-917a-13c78fd6a315</webElementGuid>
+      <webElementGuid>095550c1-92f2-4479-88f9-4b3c0840352b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@ QA COHORT 2901
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;potentialcohorts&quot;)</value>
-      <webElementGuid>87c85bc8-2592-4639-874f-96b53969e979</webElementGuid>
+      <webElementGuid>6f99d52e-58c7-4ec7-a42b-1ba787d11c35</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -97,7 +97,7 @@ QA COHORT 2901
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='potentialcohorts']</value>
-      <webElementGuid>4f770bef-fb75-44c6-89d7-6681b6c2120e</webElementGuid>
+      <webElementGuid>430a4f8b-4dab-414b-9de6-b8216e6f7bb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@ QA COHORT 2901
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='potentialcohorts_wrapper']/div/select</value>
-      <webElementGuid>eb98cba0-aa2a-4bdb-ac08-34c0ed7f1354</webElementGuid>
+      <webElementGuid>fc1fdac0-473c-4f8c-a1a6-e1ea866b699b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@ QA COHORT 2901
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Available cohorts'])[1]/following::select[1]</value>
-      <webElementGuid>ac2d1045-ec0b-4245-8b9e-adad69633226</webElementGuid>
+      <webElementGuid>d5fe6925-a2cf-4c3e-b129-34a990b35a23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@ QA COHORT 2901
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='If only one record matches the search, select them automatically'])[1]/following::select[1]</value>
-      <webElementGuid>eaef8919-289d-4dd3-b7ab-f079c03276aa</webElementGuid>
+      <webElementGuid>9875290b-3501-4539-8c37-c9a18357125d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@ QA COHORT 2901
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::select[1]</value>
-      <webElementGuid>f54c82be-036d-4b46-a75d-ed43020a697b</webElementGuid>
+      <webElementGuid>a61664e7-40c9-49ad-814b-f963d728b427</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,7 +137,7 @@ QA COHORT 2901
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::select[1]</value>
-      <webElementGuid>05daad97-58da-42fc-b08a-929f801dfe57</webElementGuid>
+      <webElementGuid>066406aa-ff72-4ca9-8cb4-1a7057c7e83d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -145,7 +145,7 @@ QA COHORT 2901
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/div/div/select</value>
-      <webElementGuid>94075a30-0eda-4c0a-893b-4cffb2f689a1</webElementGuid>
+      <webElementGuid>2b71a34b-33a7-4093-bcc3-ae1eb4a01351</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@ QA COHORT 1601
 QA COHORT 2901
   
 ')]</value>
-      <webElementGuid>24c2ce3a-22e6-4f32-b01f-c219e24f2e12</webElementGuid>
+      <webElementGuid>9ca6642b-6ca6-4b21-aedd-78b180aac88c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

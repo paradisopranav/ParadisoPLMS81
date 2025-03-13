@@ -6,12 +6,12 @@
    <elementGuidId>5379c5f2-549e-4218-8ab5-9cb706250676</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#potentialcohorts_searchtext</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='potentialcohorts_searchtext']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#potentialcohorts_searchtext</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d2738741-fb32-4c7c-978d-a9c9f1509147</webElementGuid>
+      <webElementGuid>52436f3e-c34a-4211-b552-c8bcf76566ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d83471ec-e1d0-4d9a-84e6-522ae461f685</webElementGuid>
+      <webElementGuid>42cc45e3-4fa5-4048-a4c2-e12351e0ad90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>79210969-f161-49eb-b7ac-f0341c47e24a</webElementGuid>
+      <webElementGuid>3bde22d2-f53f-4117-b402-1ea51a4fccde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>potentialcohorts_searchtext</value>
-      <webElementGuid>05d34e91-767f-4b12-9616-54965722dffe</webElementGuid>
+      <webElementGuid>80a32f82-a58b-46b1-85d6-08b70784570b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>potentialcohorts_searchtext</value>
-      <webElementGuid>30cbb522-638f-4705-a1af-328a3394b6d7</webElementGuid>
+      <webElementGuid>2adf50be-1525-416f-a90c-1c02d87e39d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>size</name>
       <type>Main</type>
       <value>15</value>
-      <webElementGuid>fd3817ee-9ab2-4277-b39e-440907ace499</webElementGuid>
+      <webElementGuid>aaab7d0f-7199-4655-a6ae-1c9144a2535b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>936a5d6b-e50e-478a-83d0-c4c5d1dd3609</webElementGuid>
+      <webElementGuid>a430ff08-6642-4686-aa13-6e76cd3c761d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;potentialcohorts_searchtext&quot;)</value>
-      <webElementGuid>74d24c95-8ca1-4ac0-a9fc-7fcb42d76935</webElementGuid>
+      <webElementGuid>b20b286f-2d51-400d-9736-30ea7fd1cbb6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='potentialcohorts_searchtext']</value>
-      <webElementGuid>51403363-39a3-42d1-81b8-2f468881dd49</webElementGuid>
+      <webElementGuid>99892e8e-9493-48b4-8443-7caa50a9ea78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1741700520686_33']/input</value>
-      <webElementGuid>ab893cb1-4349-40e8-866f-d5b212d583dc</webElementGuid>
+      <webElementGuid>f4abb380-f4f7-449f-8003-dc3195938d3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/div/div[2]/input</value>
-      <webElementGuid>15ea7c87-3734-4b73-af37-ec37be65d60d</webElementGuid>
+      <webElementGuid>d41bbae9-146c-40b2-ae06-8243d411cfc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Search' and @name = 'potentialcohorts_searchtext' and @id = 'potentialcohorts_searchtext']</value>
-      <webElementGuid>7a6298f5-017b-4020-b08a-e0cf745181c4</webElementGuid>
+      <webElementGuid>39f8d953-199c-4b99-91a8-00c902c16cf4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

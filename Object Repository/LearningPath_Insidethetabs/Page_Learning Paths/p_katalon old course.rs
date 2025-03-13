@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_katalon old course</name>
+   <tag></tag>
+   <elementGuidId>0c6aa6fc-83b5-4385-89d0-3e4fb1cf57a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul[@id='available-prerequisites']/li[2]/span/p)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8689591a-4f09-4ed6-9692-199baa22250e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>katalon old course</value>
+      <webElementGuid>57f7d45f-f475-4b95-aca1-d0ec38f2c0cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mform3_3IdcUpi0Ir4y1V9&quot;)/div[@class=&quot;lp-course-prerequisites&quot;]/div[@class=&quot;prerequisites-drag-and-drop&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-5&quot;]/div[@class=&quot;pad-all card-box&quot;]/div[1]/div[1]/ul[@id=&quot;available-prerequisites&quot;]/li[@class=&quot;name ui-sortable-handle&quot;]/span[@class=&quot;name-course&quot;]/p[1]</value>
+      <webElementGuid>86777ced-5ff3-429c-9ed6-7ca3c2a85886</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='available-prerequisites']/li[2]/span/p)[3]</value>
+      <webElementGuid>76b882e5-0c27-4fd2-b77e-e4cc00da7806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Prerequisites'])[3]/following::p[2]</value>
+      <webElementGuid>50385327-2fda-4a26-81c4-bf100831e703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[2]/following::p[2]</value>
+      <webElementGuid>7cc721f6-f9bc-44b8-83ff-2b9daa8361b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[3]/preceding::p[2]</value>
+      <webElementGuid>aa62fe19-0d17-4fb2-b807-1f6079519610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[3]/preceding::p[2]</value>
+      <webElementGuid>fe96c3c1-3f40-4a74-af3c-f368947fc99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/form/div[2]/div/div[3]/div/div/div/div/ul/li[2]/span/p</value>
+      <webElementGuid>4aa05ad1-8489-46d3-aa49-23cf0159f64f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'katalon old course' or . = 'katalon old course')]</value>
+      <webElementGuid>e2b896e6-e603-4073-a406-f94e36277944</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

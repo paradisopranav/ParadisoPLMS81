@@ -6,12 +6,12 @@
    <elementGuidId>11e5d42f-8c83-4b8b-83fb-23e3b94a38e9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#id_exreminder_editor_text</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='id_exreminder_editor_text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id_exreminder_editor_text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fc326221-8b69-4b40-b6e7-c2215088f2a7</webElementGuid>
+      <webElementGuid>417c3ee0-d535-498a-8f25-bc339de3a5c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>05555352-f1de-4ed5-8a5a-bd627015e753</webElementGuid>
+      <webElementGuid>ec4a6dda-8933-4f76-a2f7-ddc539622ea4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control </value>
-      <webElementGuid>a6a08b0e-d605-4f78-8775-88703f21e7af</webElementGuid>
+      <webElementGuid>c6032e3e-26a0-4b6a-920c-d9a73a4caa34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>exreminder_editor_text</value>
-      <webElementGuid>e7a0dfa3-13c5-4c49-966b-c995ec297688</webElementGuid>
+      <webElementGuid>7e6cb049-ebec-4565-969a-1bf74004ed7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>id_exreminder_editor_text</value>
-      <webElementGuid>57ab0ee1-3711-420a-8d89-1cb7867bb9c0</webElementGuid>
+      <webElementGuid>e7848715-b897-48be-8e64-f971ff018ddb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;id_exreminder_editor_text&quot;)</value>
-      <webElementGuid>e9db8581-4f78-49e9-965f-a421a5eb33fc</webElementGuid>
+      <webElementGuid>b79962b9-c2f7-4a3c-8024-e34811495182</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='id_exreminder_editor_text']</value>
-      <webElementGuid>d941c52c-c98e-4c50-84f6-c56e6f5e664c</webElementGuid>
+      <webElementGuid>92e9e432-9be5-4b83-a589-6875f607e9cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1741700533701_2048']/div[2]/div[2]/input</value>
-      <webElementGuid>d1f8e7b0-2242-48eb-bb0d-aed28bbc7c83</webElementGuid>
+      <webElementGuid>73eb7f69-b4bd-4f57-ba51-7d1625e1e289</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[3]/div[2]/div[2]/div[2]/input</value>
-      <webElementGuid>e1a99025-01f2-44c3-9e7b-167738c63ca7</webElementGuid>
+      <webElementGuid>9a046988-9b84-4bd9-a0fb-221c3d6aaa8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'exreminder_editor_text' and @id = 'id_exreminder_editor_text']</value>
-      <webElementGuid>2cc4501d-0f4e-4705-87e7-6e85c4e74dfe</webElementGuid>
+      <webElementGuid>92f6c318-dc7c-4e16-9eec-5a171a72310d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

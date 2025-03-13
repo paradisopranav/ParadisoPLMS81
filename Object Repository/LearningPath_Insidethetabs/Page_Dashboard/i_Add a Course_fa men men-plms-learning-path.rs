@@ -6,12 +6,12 @@
    <elementGuidId>4bb4b9e8-0629-4477-972e-148d2cd9f0ea</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.fa.men.men-plms-learning-path</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//nav[@id='sidebar']/ul/li[5]/a/div/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.men.men-plms-learning-path</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>2f2effb7-14d4-4027-97b7-bc592791c26d</webElementGuid>
+      <webElementGuid>72ecbf74-2319-44f6-98cf-ab3715fac1e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa men men-plms-learning-path</value>
-      <webElementGuid>9fe21b05-710f-4411-9c17-cdb086e2b7f3</webElementGuid>
+      <webElementGuid>554dac2c-78c6-4080-98f2-31ca2f1e8b2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a004f54a-f0e9-4684-816d-b35416c545e2</webElementGuid>
+      <webElementGuid>16363ce5-2b44-44a8-8c57-a9c7a9d3ab35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;nav-drawer&quot;)/div[@class=&quot;wrapper w-navigation&quot;]/nav[@id=&quot;sidebar&quot;]/ul[@class=&quot;list-unstyled components&quot;]/li[@class=&quot;sidemenu-closed menu-exp 47 n2 showthis 87 selected&quot;]/a[@class=&quot;list-group-item list-group-item-action&quot;]/div[@class=&quot;col-md-12 text-center icon_text_nav&quot;]/span[@class=&quot;media-left&quot;]/i[@class=&quot;fa men men-plms-learning-path&quot;]</value>
-      <webElementGuid>aeda05cb-a04b-466f-9656-ac940e71a6d1</webElementGuid>
+      <webElementGuid>afcac403-864e-4104-8e5f-804866578475</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='sidebar']/ul/li[5]/a/div/span/i</value>
-      <webElementGuid>d3b29f88-3473-4056-ad50-57e43c8727b1</webElementGuid>
+      <webElementGuid>6152059c-d8f6-4348-a6b0-1c9df8b60a87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,6 +63,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/a/div/span/i</value>
-      <webElementGuid>bffcb683-7673-4c16-8a1c-f021ab15f4cd</webElementGuid>
+      <webElementGuid>5188b0ca-d705-4072-934d-3fb29cddc57a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

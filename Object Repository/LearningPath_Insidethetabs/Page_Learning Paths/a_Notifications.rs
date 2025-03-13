@@ -6,12 +6,12 @@
    <elementGuidId>9db4b4b7-2a9a-47ee-a3a3-328966f1630f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#notifications-button > a.nav-link</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//li[@id='notifications-button']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#notifications-button > a.nav-link</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fe0ea58e-cb80-40b7-93ab-6085d0a7a609</webElementGuid>
+      <webElementGuid>bdebabae-b00f-4b45-86f4-61e8edb28417</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>b7c8b5d9-4e7a-40d6-83d0-7ef1e6507156</webElementGuid>
+      <webElementGuid>046379a3-82a1-46fb-a452-1555b2cfb6dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link </value>
-      <webElementGuid>3fd4aa07-26c1-42a6-8655-051a22eb60ae</webElementGuid>
+      <webElementGuid>6a0eae2c-0a1b-4712-9496-f67e4d9b98f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#learningpath-notifications-tab</value>
-      <webElementGuid>c2ecc534-a0d0-46bd-bc51-39dcf119ed49</webElementGuid>
+      <webElementGuid>aaaec82a-0992-4745-afcd-39a622507b94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Notifications</value>
-      <webElementGuid>02f3cc2e-0468-49a4-8e30-a6cf2de31f11</webElementGuid>
+      <webElementGuid>4ad6af4d-52f2-4d6a-b285-7a4d27b16fad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;notifications-button&quot;)/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>737e8e76-72aa-4364-83b1-6c2abc4d3054</webElementGuid>
+      <webElementGuid>9fc7241b-d572-4c27-9e27-93df2991892a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='notifications-button']/a</value>
-      <webElementGuid>f1559caf-3484-4f96-aa28-e6f1e3aba8a4</webElementGuid>
+      <webElementGuid>0681f0d2-cdfe-44d7-8abd-4b119b67a70c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Notifications')]</value>
-      <webElementGuid>91959a01-81cf-485c-b50c-1c867e255f8c</webElementGuid>
+      <webElementGuid>1f00dc42-6700-4183-9c3f-422b91e00905</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cohorts'])[1]/following::a[1]</value>
-      <webElementGuid>b87e7b0a-e16c-4cb7-9983-7745be99059b</webElementGuid>
+      <webElementGuid>7d3e6e70-235d-4582-8cae-b628a0279f9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::a[2]</value>
-      <webElementGuid>1ca9eb2d-408e-404f-8099-06952ac45ca3</webElementGuid>
+      <webElementGuid>b6cf6886-ecb5-49ed-b032-ef330885f964</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(Not Set)'])[1]/preceding::a[1]</value>
-      <webElementGuid>c1a95d14-0251-45f5-b5a9-bf18ad6579e0</webElementGuid>
+      <webElementGuid>88692d6c-b583-4749-b00d-9da321baac40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(Not Set)'])[2]/preceding::a[1]</value>
-      <webElementGuid>b8e86c05-04a6-460e-a26a-231de5dcca1a</webElementGuid>
+      <webElementGuid>6e08db82-44a6-4847-94c6-441e20668a80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#learningpath-notifications-tab')]</value>
-      <webElementGuid>4a134c81-68fc-4c7f-8a15-d2c6b01daaa8</webElementGuid>
+      <webElementGuid>e1605b28-23a8-4f74-9b01-9984e92d809a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/ul/li[5]/a</value>
-      <webElementGuid>889e2048-b586-41e0-870b-f7c13508ca73</webElementGuid>
+      <webElementGuid>b7b49e93-9584-4fff-9340-8fe84a21ccb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#learningpath-notifications-tab' and (text() = 'Notifications' or . = 'Notifications')]</value>
-      <webElementGuid>898291f4-4f90-4522-a26a-00fb6ff62353</webElementGuid>
+      <webElementGuid>97e90d0f-743e-4f28-9af8-ed8358e35f36</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

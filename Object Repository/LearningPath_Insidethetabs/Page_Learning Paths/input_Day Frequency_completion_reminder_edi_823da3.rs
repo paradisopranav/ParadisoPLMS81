@@ -6,12 +6,12 @@
    <elementGuidId>4ab462d9-e5e6-4a8a-a092-6b0db9cbaa00</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#id_completion_reminder_editor_checkbox</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='id_completion_reminder_editor_checkbox']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id_completion_reminder_editor_checkbox</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>026d6774-2e1d-4677-8476-d165d594c683</webElementGuid>
+      <webElementGuid>69e5c94e-e054-4f17-876f-d9ddc5311ea1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>9f6345ec-0913-40a8-b21b-29bc1186b742</webElementGuid>
+      <webElementGuid>986f83db-f8c0-4d93-b82b-562eb9d6e8db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>completion_reminder_editor_checkbox</value>
-      <webElementGuid>a1300d1f-cb74-47a3-99be-0c37ccbea138</webElementGuid>
+      <webElementGuid>520daffb-0610-465e-82ca-592c4943ff9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>ec638cd7-a022-48cf-adfb-b2543e20f994</webElementGuid>
+      <webElementGuid>547857af-bdea-46d9-bf66-b73cfd1f4688</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>id_completion_reminder_editor_checkbox</value>
-      <webElementGuid>927fb1d8-6d0e-40ea-82ab-54771a68f3d8</webElementGuid>
+      <webElementGuid>a7c46b07-3495-4181-aa90-f43048da49a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;id_completion_reminder_editor_checkbox&quot;)</value>
-      <webElementGuid>857657fe-c7ff-44c8-9e9c-bb65a76f8f23</webElementGuid>
+      <webElementGuid>70e064e3-0d30-4a11-8b5a-5582afcd918d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='id_completion_reminder_editor_checkbox']</value>
-      <webElementGuid>943f1471-cea9-455f-a2c1-40d60f98a823</webElementGuid>
+      <webElementGuid>f03daa0a-4858-46fc-a90c-52f0d49909ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='completion_reminder_form']/div[3]/div[2]/div/div[2]/input</value>
-      <webElementGuid>1c533885-2453-4e48-beef-a19315aa2bad</webElementGuid>
+      <webElementGuid>539cf3c7-c1ac-4886-8f5b-6bb9ed3a4f6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[3]/div[2]/div/div[2]/input</value>
-      <webElementGuid>a1e30c0d-8e6a-4a66-8f7a-3b359ff60250</webElementGuid>
+      <webElementGuid>b57c8db6-bc81-4b79-b4cf-189796591dd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'completion_reminder_editor_checkbox' and @id = 'id_completion_reminder_editor_checkbox']</value>
-      <webElementGuid>58b6d426-d3df-4c69-99c0-1fe3e3b97466</webElementGuid>
+      <webElementGuid>ee37ccb7-b08e-4f17-a6f2-cb0e35ad48aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

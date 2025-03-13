@@ -6,12 +6,12 @@
    <elementGuidId>1301bc1d-c54e-498b-b94f-0714eec4ecc1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#add-users-lp > span</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='add-users-lp']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#add-users-lp > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1044fe79-2602-4730-88da-89c566d73e0c</webElementGuid>
+      <webElementGuid>c3cb10a9-d5f4-48f2-90da-64d207b02d27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Enrol Users</value>
-      <webElementGuid>3d115e12-8d34-44fc-988b-ca9a506e5b19</webElementGuid>
+      <webElementGuid>2a421810-c88f-4e0e-b042-93812ed3c082</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;add-users-lp&quot;)/span[1]</value>
-      <webElementGuid>41f7fdc9-8030-48f5-b0b7-83bb7c8a01c7</webElementGuid>
+      <webElementGuid>7f331394-d062-4adc-814a-a64f7e3c0081</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='add-users-lp']/span</value>
-      <webElementGuid>57d030e7-8481-4c19-84b2-5ec7ef6b326a</webElementGuid>
+      <webElementGuid>ef71b711-4d8f-4e47-b3a0-4676a441df72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon badge course_403'])[3]/following::span[5]</value>
-      <webElementGuid>923cfa8b-cac0-455d-93b4-1bd577704e02</webElementGuid>
+      <webElementGuid>8ea19c95-1994-4462-af3c-8624a94eb6f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[2]/following::span[7]</value>
-      <webElementGuid>52367479-a946-442f-9cbd-a00ce81e8d33</webElementGuid>
+      <webElementGuid>2156c11d-ae31-46a6-9452-af91718dcd69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Records Found.'])[1]/preceding::span[1]</value>
-      <webElementGuid>6fcca718-179d-453c-b4bf-0050eb78cbb7</webElementGuid>
+      <webElementGuid>6153d148-93c7-43dd-8107-700f3650f059</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Cohorts'])[1]/preceding::span[2]</value>
-      <webElementGuid>a5fe1f4e-e9eb-4684-91d8-a26d00d5dcae</webElementGuid>
+      <webElementGuid>f3f36c76-0e14-42ee-8558-e218c69f93fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Enrol Users']/parent::*</value>
-      <webElementGuid>7b659cac-1df6-44a8-94c8-a6965e6bca79</webElementGuid>
+      <webElementGuid>a13ac97a-41d2-4237-891f-623b424efa4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/span/a/span</value>
-      <webElementGuid>76a2e25b-8234-4caa-82f1-362c97a26860</webElementGuid>
+      <webElementGuid>448fee97-b986-41b6-bfb6-1d2460a2a0aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Enrol Users' or . = 'Enrol Users')]</value>
-      <webElementGuid>10d644c9-c21c-4c83-93ce-de5a6cbf9e84</webElementGuid>
+      <webElementGuid>fa54a883-12b7-4d56-9ddc-0b988f3cac7a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

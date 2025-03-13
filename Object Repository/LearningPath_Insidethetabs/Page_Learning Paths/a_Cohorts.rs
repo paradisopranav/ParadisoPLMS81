@@ -6,12 +6,12 @@
    <elementGuidId>8d5ecf11-2d4e-4128-a5f0-7d2e7780eae6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#cohorts-button > a.nav-link</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//li[@id='cohorts-button']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cohorts-button > a.nav-link</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>61ae48b4-d0d5-4fb0-8e21-6047863e9cfb</webElementGuid>
+      <webElementGuid>a682c11d-b3ea-49bf-96fd-0f78a81ab32f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>55b45954-bc3a-4622-8f08-0418751d5ca6</webElementGuid>
+      <webElementGuid>8b8cd51b-7061-4a00-8cd9-3619952c32a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link </value>
-      <webElementGuid>2eea3b93-8406-49cf-b0af-92b904714b71</webElementGuid>
+      <webElementGuid>a3b98ab6-bc45-4fd2-8c09-2644877e7371</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#learningpath-cohorts-tab</value>
-      <webElementGuid>0fa6b6b0-161a-4d5c-8453-2e35cc486fb9</webElementGuid>
+      <webElementGuid>2dab0b0b-ab7d-422b-bf45-46482e0f5a53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cohorts</value>
-      <webElementGuid>1c789dd4-a39f-4664-a0e3-6745f004a72f</webElementGuid>
+      <webElementGuid>e0c59c35-f5b2-4bee-addd-46d2a6424527</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cohorts-button&quot;)/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>c0dcdee1-e231-4d5f-8ea6-749a1e6ce722</webElementGuid>
+      <webElementGuid>6e8efa48-1766-4745-8367-e3b9369f853c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='cohorts-button']/a</value>
-      <webElementGuid>c5e5bafe-33d7-4368-8a88-946642f50b27</webElementGuid>
+      <webElementGuid>b8dcc599-8453-4824-9f6f-70c0c15165ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Cohorts')]</value>
-      <webElementGuid>e3e2810d-03bf-4b96-8ad6-62c5a0250807</webElementGuid>
+      <webElementGuid>3880d39b-7d45-4f1d-8152-f6c4267b31a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::a[1]</value>
-      <webElementGuid>6a4fc0db-645a-474a-924d-0cdb625b74b0</webElementGuid>
+      <webElementGuid>0ab79c80-9d53-48b2-84f6-85ade3c64c38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses'])[1]/following::a[2]</value>
-      <webElementGuid>95d75581-d5b3-42c2-b861-9703f27dc8cf</webElementGuid>
+      <webElementGuid>87cd0d30-6384-4e33-b4d8-80873a0b1b75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[4]/preceding::a[1]</value>
-      <webElementGuid>aafe6038-a6d0-4092-94de-ae9892174488</webElementGuid>
+      <webElementGuid>1dfedd01-4409-47a9-975f-ef9babcd3e91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(Not Set)'])[1]/preceding::a[2]</value>
-      <webElementGuid>354819d8-1f01-4ecf-b216-265dce045502</webElementGuid>
+      <webElementGuid>c3e257f5-a485-4e8e-8a3b-7394ab728228</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cohorts']/parent::*</value>
-      <webElementGuid>2565f064-b812-4bcf-8999-e037aa77e88a</webElementGuid>
+      <webElementGuid>c69458f9-d1e8-4b80-9464-bb056545514a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#learningpath-cohorts-tab')]</value>
-      <webElementGuid>67ecfad9-9d45-4cc3-8c63-85f87aa6e183</webElementGuid>
+      <webElementGuid>62f1de1d-5b6f-499a-b76b-3ac96e136d98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/ul/li[4]/a</value>
-      <webElementGuid>47d58f95-e86f-468e-b422-9eeed9e02139</webElementGuid>
+      <webElementGuid>f78350fc-238e-4c7e-b346-9a3acf66a047</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +143,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#learningpath-cohorts-tab' and (text() = 'Cohorts' or . = 'Cohorts')]</value>
-      <webElementGuid>f7cc3f66-0f0e-4950-9136-15f05aadc40e</webElementGuid>
+      <webElementGuid>42181f09-7c7a-4974-a0a2-527c67cb43ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

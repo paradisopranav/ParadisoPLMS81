@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//tbody[@id='list-course']/tr[2]/td[5]/span/a/span</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon badge course_403'])[2]/following::span[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>aece780b-8a81-40bb-bf0f-934035d8a211</webElementGuid>
+      <webElementGuid>0d3aaa1b-bf3c-47d9-ba8e-19cb47faadab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>edit</value>
-      <webElementGuid>ae86ff33-f6eb-4943-abc5-015b05f39fa9</webElementGuid>
+      <webElementGuid>bf4aef29-5c92-4c39-833f-1850ae47cc96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Edit</value>
-      <webElementGuid>f3a309ac-0356-4ee8-a9fd-d81f7bb3ac0d</webElementGuid>
+      <webElementGuid>0841547c-bc8e-489d-a73e-12560031f3d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,55 +47,55 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;list-course&quot;)/tr[@class=&quot;course-description plms-learningpath ui-sortable-handle&quot;]/td[@class=&quot;actions learningpaths-actions&quot;]/span[@class=&quot;action-box&quot;]/a[@class=&quot;edit-course&quot;]/span[@class=&quot;edit&quot;]</value>
-      <webElementGuid>5c4e8e5d-3d11-4350-ab06-e1abe826c54e</webElementGuid>
+      <webElementGuid>643c3fc6-9f22-4fb5-a1d7-1f4db669edd5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//tbody[@id='list-course']/tr[2]/td[5]/span/a/span</value>
-      <webElementGuid>9102bf18-3bfc-4b23-858f-a2c715e40f23</webElementGuid>
+      <value>//tbody[@id='list-course']/tr[3]/td[5]/span/a/span</value>
+      <webElementGuid>4661dc62-44e3-479c-bc10-e5472557393d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon_Learning path Course'])[2]/following::span[3]</value>
-      <webElementGuid>d1355ab2-3734-49e1-8a87-10d092f3b9c0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon badge course_403'])[2]/following::span[3]</value>
+      <webElementGuid>40e48365-a178-4568-8243-cbd6587c1a01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::span[4]</value>
-      <webElementGuid>ebc52d5e-b4b4-4675-afa7-9840b44ea501</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/following::span[4]</value>
+      <webElementGuid>5233b450-cd5a-4f65-a801-e4947d7c6f1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/preceding::span[1]</value>
-      <webElementGuid>e89b9e6a-25ba-4a24-a747-0efc724ee5d2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[3]/preceding::span[1]</value>
+      <webElementGuid>e4219d69-5e81-44f2-a69b-9b8026f611c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Prerequisites'])[1]/preceding::span[2]</value>
-      <webElementGuid>14bbdb0e-1ac7-4e64-b2b3-c73bad828a01</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon_Learning path Course'])[2]/preceding::span[2]</value>
+      <webElementGuid>97063507-d9a3-4917-925b-237574fdc203</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[2]/td[5]/span/a/span</value>
-      <webElementGuid>1295eaab-7439-4586-82ab-9cecdd6fd69c</webElementGuid>
+      <value>//tr[3]/td[5]/span/a/span</value>
+      <webElementGuid>02cd6419-6228-4d14-996b-1223a0d6f446</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,54 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Edit' or . = 'Edit')]</value>
-      <webElementGuid>f7806f09-1e4d-48a6-9e1f-b8ea4f1f9198</webElementGuid>
+      <webElementGuid>79f6bf94-7097-43d3-83ca-1974e3017fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='list-course']/tr[2]/td[5]/span/a/span</value>
+      <webElementGuid>ee3d05a0-52f7-466a-b72c-da1d0cde84b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon_Learning path Course'])[2]/following::span[3]</value>
+      <webElementGuid>23f0b763-4e94-428b-86b7-291edd6b65a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::span[4]</value>
+      <webElementGuid>c21c0c38-b184-45f7-940a-b6c232c96bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/preceding::span[1]</value>
+      <webElementGuid>410e4880-f183-430a-9c8c-b3f069a63901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Prerequisites'])[1]/preceding::span[2]</value>
+      <webElementGuid>f7e306e5-2778-4a24-8ed6-57d9584d99ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]/span/a/span</value>
+      <webElementGuid>b0e7afc3-ccd8-440e-8ca6-9e1ffeec4886</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

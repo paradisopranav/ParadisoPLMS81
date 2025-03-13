@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#yui_3_17_2_1_1741700425033_2046</value>
+         <value>#yui_3_17_2_1_1741846654721_2104</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Prerequisites'])[2]/following::button[3]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Prerequisites'])[3]/following::button[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b398f886-5f67-4269-a180-00881c2717ee</webElementGuid>
+      <webElementGuid>69cd4041-bc57-48d2-aa8f-0955a999075d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,23 +31,23 @@
       <name>class</name>
       <type>Main</type>
       <value>add-prerequisites btn btn-primary btn-round</value>
-      <webElementGuid>0d09d374-fe39-4857-9c5a-32685f78d4df</webElementGuid>
+      <webElementGuid>da88f850-dae5-4e22-ab70-f972482d4376</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-courseid</name>
       <type>Main</type>
-      <value>3115</value>
-      <webElementGuid>cc55afa6-56d0-4171-abae-6949689dd4cd</webElementGuid>
+      <value>3259</value>
+      <webElementGuid>0449a98b-3bed-46a8-a140-828fd22f1a4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>yui_3_17_2_1_1741700425033_2046</value>
-      <webElementGuid>636ab88c-1be4-4697-8eac-a2f3beb09f48</webElementGuid>
+      <value>yui_3_17_2_1_1741846654721_2104</value>
+      <webElementGuid>aa746667-5f87-4ecf-a2c3-21ac399d237b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,23 +55,87 @@
       <name>text</name>
       <type>Main</type>
       <value>Add</value>
-      <webElementGuid>fb0add32-6be2-4e30-9a18-8a2d97d69c55</webElementGuid>
+      <webElementGuid>9fb0fec4-20b7-4cd5-b55c-85b23266364b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1741700425033_2046&quot;)</value>
-      <webElementGuid>7493df32-79bb-4a37-8ef2-71ce0ee7a6d6</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1741846654721_2104&quot;)</value>
+      <webElementGuid>5dde7d2b-b286-4a5c-9554-39ca7dc6ff96</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
+      <value>//button[@id='yui_3_17_2_1_1741846654721_2104']</value>
+      <webElementGuid>b1615149-e6fc-49cf-affd-d2864b802a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1741846654721_2105']/button</value>
+      <webElementGuid>b7f8a352-368b-40c9-b3a4-7e67aa240b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Prerequisites'])[3]/following::button[3]</value>
+      <webElementGuid>ad22caf8-8b54-4eb0-8621-be90f8927b13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[2]/following::button[3]</value>
+      <webElementGuid>a3fe4241-85ac-4198-a692-631527ae3f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[3]/preceding::button[1]</value>
+      <webElementGuid>ff4cbebe-3070-46c9-a97a-0b871ea593a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Prerequisites'])[4]/preceding::button[2]</value>
+      <webElementGuid>630b1c8e-9949-4376-ada3-df4ae3f43b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/form/div[2]/div/div[3]/div[2]/button</value>
+      <webElementGuid>e943c17d-bd2a-4503-8287-9bf49b2feabe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'yui_3_17_2_1_1741846654721_2104' and (text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>e5d7af71-b864-4468-90de-d8efee97904e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
       <value>//button[@id='yui_3_17_2_1_1741700425033_2046']</value>
-      <webElementGuid>e111ab0f-d700-4981-904b-b3249cdfcd04</webElementGuid>
+      <webElementGuid>36d7ad6a-ebc7-4334-868d-65d23c23358e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +143,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1741700425033_2047']/button</value>
-      <webElementGuid>34af9880-70b2-46df-9a5f-056c7ecf19af</webElementGuid>
+      <webElementGuid>1412f635-8797-494b-9ea9-0b9ddbf5f791</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +151,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Prerequisites'])[2]/following::button[3]</value>
-      <webElementGuid>2738fee0-6cf0-4395-ad21-34bb8a735520</webElementGuid>
+      <webElementGuid>45882c1d-00c0-47a8-b7d8-c2559f8d46c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +159,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/following::button[3]</value>
-      <webElementGuid>e8030b23-f2dc-4966-a30a-f68ad15f5e0f</webElementGuid>
+      <webElementGuid>ca3f34cd-719e-4b91-901b-1e60a8dd7b44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +167,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[2]/preceding::button[1]</value>
-      <webElementGuid>0ca2c85b-a237-4d0f-8e0a-2b11210295d1</webElementGuid>
+      <webElementGuid>aa782073-86ec-4419-adfa-350ccb02ada0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +175,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrol Users'])[1]/preceding::button[3]</value>
-      <webElementGuid>8fd16616-ec49-4cf7-a78d-3aab4abadd6e</webElementGuid>
+      <webElementGuid>776e3842-9f93-4102-ac44-24a87cc52072</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +183,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/div/form/div[2]/div/div[3]/div[2]/button</value>
-      <webElementGuid>ab75d6d6-46d9-49d4-93af-ff692c281b06</webElementGuid>
+      <webElementGuid>f914b07f-4ffb-4b83-9ee7-dd164190c8ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +191,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'yui_3_17_2_1_1741700425033_2046' and (text() = 'Add' or . = 'Add')]</value>
-      <webElementGuid>9ddab5c4-7579-4d6d-ab16-783dc96e744d</webElementGuid>
+      <webElementGuid>d38f3d5b-d4d2-4226-b21d-6c654f4ce092</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

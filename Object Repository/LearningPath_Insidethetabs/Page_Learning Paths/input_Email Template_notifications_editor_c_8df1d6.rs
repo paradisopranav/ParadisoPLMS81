@@ -6,12 +6,12 @@
    <elementGuidId>0c1afb9f-9684-43d3-8ebd-625cf5288009</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#id_notifications_editor_checkbox1</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='id_notifications_editor_checkbox1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id_notifications_editor_checkbox1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0248f63d-648c-440f-966d-f457e1c6f629</webElementGuid>
+      <webElementGuid>b551dbbc-77ef-4b87-aa10-adb4269247f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>466062c6-b425-44d3-b0ee-c9b082304f4b</webElementGuid>
+      <webElementGuid>a1c6b9f1-2b25-48d3-9280-968530235466</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>notifications_editor_checkbox1</value>
-      <webElementGuid>fc32d50f-a4dc-40c4-89a8-56c470a24f4b</webElementGuid>
+      <webElementGuid>ef87a98e-ca75-4c82-86fe-02c707e7f124</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>995db2c9-2983-4715-bc9c-9cd259da4b0b</webElementGuid>
+      <webElementGuid>1dfada0e-e139-4aa7-a632-a7c08ecd37a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>id_notifications_editor_checkbox1</value>
-      <webElementGuid>6e206f7a-f39e-4162-84c2-34da62a5c9bc</webElementGuid>
+      <webElementGuid>f28e0368-ff64-4986-9b61-dba53344eebd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;id_notifications_editor_checkbox1&quot;)</value>
-      <webElementGuid>67f75d25-07d0-46ac-b23f-a478d3c34183</webElementGuid>
+      <webElementGuid>e0329441-9a8c-4c99-a538-749c2731a2f5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='id_notifications_editor_checkbox1']</value>
-      <webElementGuid>55c16866-17e7-4e63-9e7e-7b577f3e2b38</webElementGuid>
+      <webElementGuid>09f6a65e-6575-437c-8c2c-5ddcf93ea1d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1741700533701_1876']/div/div[2]/input</value>
-      <webElementGuid>41a60cf9-66a9-4b45-93ee-ef8f62252689</webElementGuid>
+      <webElementGuid>ca996a72-9205-4f5d-b023-aea38a535711</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/input</value>
-      <webElementGuid>d5cd308a-2938-42f7-945f-8846d53a1815</webElementGuid>
+      <webElementGuid>5ceab042-915d-4811-acc5-f7c279a0e006</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'notifications_editor_checkbox1' and @id = 'id_notifications_editor_checkbox1']</value>
-      <webElementGuid>8c240417-f5ad-4145-a933-e81ec97c5333</webElementGuid>
+      <webElementGuid>3ce51fd7-ba5c-4f97-8550-ad94995bf71d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

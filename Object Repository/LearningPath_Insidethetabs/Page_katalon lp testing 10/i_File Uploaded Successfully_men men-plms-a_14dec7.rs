@@ -6,12 +6,12 @@
    <elementGuidId>e4fd397c-1696-4066-be85-3af8d9c69617</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.men.men-plms-arrow-small-left</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//section[@id='region-main']/div/div/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.men.men-plms-arrow-small-left</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>dfa78022-f6f9-4e36-af0e-68d165b73c79</webElementGuid>
+      <webElementGuid>4a53dc12-4216-4f59-95fc-473f4d8f1aab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>men men-plms-arrow-small-left</value>
-      <webElementGuid>87c4878a-3e0c-4b37-b2db-1356b39502fb</webElementGuid>
+      <webElementGuid>203dfd97-a294-490f-b05f-bf82a9aa8e55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>81dda963-f422-4298-adcb-58f4b6b9d468</webElementGuid>
+      <webElementGuid>fb88d4cb-0e04-478e-a232-c861c7ee8127</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Go Back</value>
-      <webElementGuid>2ed8ef20-8486-454d-96dd-5c434f59c9a2</webElementGuid>
+      <webElementGuid>11e7dd24-7983-4f48-80e2-d8f113a9b65a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/div[@class=&quot;box py-3 generalbox&quot;]/div[1]/a[@class=&quot;back_page&quot;]/i[@class=&quot;men men-plms-arrow-small-left&quot;]</value>
-      <webElementGuid>d1f5d66b-1912-498c-a1a7-7b9d886f28d2</webElementGuid>
+      <webElementGuid>b2efd2cd-16aa-4e95-b4d2-c9bde31c6d39</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='region-main']/div/div/div/div/a/i</value>
-      <webElementGuid>3d2bdc3e-cf2a-4df0-b6c0-f3f6b85f1308</webElementGuid>
+      <webElementGuid>59cea73e-0acb-4092-b730-2fcd508c74ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div/div/div/div/a/i</value>
-      <webElementGuid>21605a07-9cd3-42f6-ac29-6567f1877303</webElementGuid>
+      <webElementGuid>2c903d4a-ec63-4ed0-9828-1dc27f6104d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[@title = 'Go Back']</value>
-      <webElementGuid>fa73bfb8-1335-4f32-80ca-637727cf3be7</webElementGuid>
+      <webElementGuid>e60dac02-ceee-41b8-a98f-67ae051a1bfc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

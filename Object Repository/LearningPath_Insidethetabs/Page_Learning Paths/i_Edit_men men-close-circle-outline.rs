@@ -6,12 +6,12 @@
    <elementGuidId>414c77d7-79d5-4d56-9e82-e2680e4a119e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.men.men-close-circle-outline</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//tbody[@id='list-course']/tr/td[5]/span/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.men.men-close-circle-outline</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>6ee8cf6f-3abf-4aa9-9676-a50f051dacf5</webElementGuid>
+      <webElementGuid>c5b67094-70c8-4c9c-ac55-6ae44c6982e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>men men-close-circle-outline</value>
-      <webElementGuid>aac78e5b-3089-48d3-a429-80491b63dd4a</webElementGuid>
+      <webElementGuid>7b63f24d-96a4-4d7d-9068-58164bbcc65d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>data-placement</name>
       <type>Main</type>
       <value>bottom</value>
-      <webElementGuid>e7dc776f-3a86-49ed-81ca-e56de3871095</webElementGuid>
+      <webElementGuid>9255ebf2-1e5e-42d4-85ac-47b6dd34dc74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>056c56df-3de3-4a85-bf61-cae0df808717</webElementGuid>
+      <webElementGuid>d78f6cba-110b-47aa-93d0-7ac0ec1f4511</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ab5bdcb1-1fbd-4750-8d15-13fc3c839ef3</webElementGuid>
+      <webElementGuid>49e18817-4dfa-4555-b6f1-71233848848b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>data-item</name>
       <type>Main</type>
       <value>363</value>
-      <webElementGuid>0c50e7be-6303-43e6-992e-9a4ac0d8b6dc</webElementGuid>
+      <webElementGuid>e0287f51-5ac9-4840-8c01-656beb7a4e58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;list-course&quot;)/tr[@class=&quot;course-description plms-learningpath ui-sortable-handle&quot;]/td[@class=&quot;actions learningpaths-actions&quot;]/span[@class=&quot;action-box&quot;]/a[@class=&quot;delete-course-learning-path&quot;]/i[@class=&quot;men men-close-circle-outline&quot;]</value>
-      <webElementGuid>8c1e3ea4-21e9-4558-ae2e-c03def70309b</webElementGuid>
+      <webElementGuid>1fa2a881-5951-4184-b5f9-e2ba119fd731</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tbody[@id='list-course']/tr/td[5]/span/a[2]/i</value>
-      <webElementGuid>1095d346-584d-4b54-9ef6-4ea978c435d3</webElementGuid>
+      <webElementGuid>cd2ef340-5c5e-4b0e-b5ce-a10eca8030b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/a[2]/i</value>
-      <webElementGuid>7e7cd059-d870-493d-9edb-0618b28b2aee</webElementGuid>
+      <webElementGuid>12ff004c-b498-4484-b96c-19c90eb3bcde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[@title = 'Delete']</value>
-      <webElementGuid>a8d552c1-0dc1-41c4-a3d7-262c5b2e7c1d</webElementGuid>
+      <webElementGuid>13cb57dd-3e4a-4eb2-8d59-3f5a46dcf029</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

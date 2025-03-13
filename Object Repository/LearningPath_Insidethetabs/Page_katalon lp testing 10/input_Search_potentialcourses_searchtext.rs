@@ -6,12 +6,12 @@
    <elementGuidId>699e3f1a-551c-4ff0-9424-23f603032eaf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#potentialcourses_searchtext</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='potentialcourses_searchtext']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#potentialcourses_searchtext</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>685bc14a-462b-437a-8b13-eed094fee707</webElementGuid>
+      <webElementGuid>273526ae-52e2-43ec-854f-79c312ac58c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bb3564a9-a9f8-403e-94c0-b44dea6bbaab</webElementGuid>
+      <webElementGuid>af9112f0-f312-4aad-ac61-f578e163c5d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>2036a6db-814c-44e2-85fc-0b9bec7c6b64</webElementGuid>
+      <webElementGuid>a70d7c7d-0d5e-4ca4-a7e2-fb24b9cdb5f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>potentialcourses_searchtext</value>
-      <webElementGuid>18af196e-e5f2-4e84-8b28-60d559027e1f</webElementGuid>
+      <webElementGuid>5efea3e0-a8cd-4dd6-9166-7bcfd68cf655</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>potentialcourses_searchtext</value>
-      <webElementGuid>0a9a9337-f2c2-4121-840a-d9dbbe650827</webElementGuid>
+      <webElementGuid>77a1f9dc-843a-404c-a00a-0bc4365e4f65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>size</name>
       <type>Main</type>
       <value>15</value>
-      <webElementGuid>ebaacc6c-2a6d-40da-b75f-72c7da12026c</webElementGuid>
+      <webElementGuid>9c85e964-2b4d-4d84-9340-a451cfbf48e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>426d8709-d6bb-4565-b259-64d571c30454</webElementGuid>
+      <webElementGuid>205fbc6a-273c-4d9b-8059-a85b6243c519</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;potentialcourses_searchtext&quot;)</value>
-      <webElementGuid>91ad16cc-4ad2-4f86-82e5-9a9022cca287</webElementGuid>
+      <webElementGuid>549ff83a-9396-4b34-8e3e-bfe19858f115</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='potentialcourses_searchtext']</value>
-      <webElementGuid>d4197c44-5cb9-41c1-bf1d-716db4ecbb44</webElementGuid>
+      <webElementGuid>1a709a93-beb1-4191-aadd-b089ee9e7f77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='potentialcourses_wrapper']/div[2]/input</value>
-      <webElementGuid>268854f0-467c-45e3-a667-6ff0e20f6ce4</webElementGuid>
+      <webElementGuid>8556b7a4-e7bd-42c7-bd05-b4725faf2deb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/div/div[2]/input</value>
-      <webElementGuid>dce25b43-054a-411e-8447-f2dcc1c3573f</webElementGuid>
+      <webElementGuid>cacb4b4d-4f15-4688-bbf1-92368bfea2bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Search' and @name = 'potentialcourses_searchtext' and @id = 'potentialcourses_searchtext']</value>
-      <webElementGuid>c666bebd-927b-435b-b516-e0e8a0117dd9</webElementGuid>
+      <webElementGuid>4271787e-20e1-42df-9df7-0d3ea2956851</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

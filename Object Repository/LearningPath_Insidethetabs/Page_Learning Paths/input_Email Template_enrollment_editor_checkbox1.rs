@@ -6,12 +6,12 @@
    <elementGuidId>c43252f1-31a9-485d-932b-ced642f4ca96</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='id_enrollment_editor_checkbox1']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#id_enrollment_editor_checkbox1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='id_enrollment_editor_checkbox1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f54f0705-a4af-443c-a840-29f96cca3647</webElementGuid>
+      <webElementGuid>e7313936-fcc5-4533-9385-0e286a331b16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>1d48efba-5b9e-4e05-bb25-4512d0c6e68c</webElementGuid>
+      <webElementGuid>0f515f97-e047-422f-8685-c20d56690945</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>enrollment_editor_checkbox1</value>
-      <webElementGuid>ee6c2da2-8561-479a-9da7-80a50af0c748</webElementGuid>
+      <webElementGuid>b2e291ef-b0da-4246-8ca0-0becc144e086</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>2346e2f7-f711-4ea1-b204-20aaac7baf5a</webElementGuid>
+      <webElementGuid>a2ce2239-187f-47b7-af9b-f32c0ff2ba17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>id_enrollment_editor_checkbox1</value>
-      <webElementGuid>b4bc606d-4e29-46f5-9d4e-14ffc407d8af</webElementGuid>
+      <webElementGuid>93ee1226-7da8-485a-b429-08aeba93e964</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;id_enrollment_editor_checkbox1&quot;)</value>
-      <webElementGuid>5a7484a2-c758-4c4b-9665-3984b59d24f8</webElementGuid>
+      <webElementGuid>96ed275a-0401-43f7-8093-1cfe2daec79a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='id_enrollment_editor_checkbox1']</value>
-      <webElementGuid>c9d57dfb-cabc-460b-a843-281e58bb0720</webElementGuid>
+      <webElementGuid>5a5755c8-9559-4858-8adf-ebed0d60ee89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1741700533701_2020']/input</value>
-      <webElementGuid>3710a874-d8f6-4afd-8ac0-62d9de5f0fcc</webElementGuid>
+      <webElementGuid>783b32ba-932e-4fc4-a6be-1d4158f6cd8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div[2]/input</value>
-      <webElementGuid>778983ba-a1b1-47fa-b907-73570bec996c</webElementGuid>
+      <webElementGuid>de2d4541-1bf0-448c-bfda-41f5c6ed1763</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'enrollment_editor_checkbox1' and @id = 'id_enrollment_editor_checkbox1']</value>
-      <webElementGuid>961347f9-0c47-4b87-9af8-9376c72b47d1</webElementGuid>
+      <webElementGuid>39d75807-f537-49aa-ace8-c336eb2fb6c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1741789844779_1980']/input</value>
-      <webElementGuid>695cef41-ebd5-4da0-8c85-9104f255e566</webElementGuid>
+      <webElementGuid>b21f2cef-751e-495b-bc61-78ce6621c8e4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

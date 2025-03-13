@@ -6,12 +6,12 @@
    <elementGuidId>2b90936a-384c-45ac-9685-835ad025db1c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#btn-lp_publish</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='btn-lp_publish']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-lp_publish</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b47e20bd-a26b-48dd-9159-2397269053a1</webElementGuid>
+      <webElementGuid>4b1682c8-a937-4185-be28-5fcc81be66d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>a1331605-de5e-4c6a-aa66-d886f4be5f0a</webElementGuid>
+      <webElementGuid>59327ed1-8fbf-4b9a-a9f2-60966838e57b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-round btn-primary</value>
-      <webElementGuid>1c59fd04-9878-47c6-84f1-ce89f77528b8</webElementGuid>
+      <webElementGuid>b3003ea2-3066-4ed6-9fdc-f9c291e24f73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-lp_publish</value>
-      <webElementGuid>82147318-9e55-4880-b23e-76c9fe8e69b6</webElementGuid>
+      <webElementGuid>18342a94-bae6-45fd-9e9c-045e78c6324d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Click to Publish the Learningpath</value>
-      <webElementGuid>6af15615-4de8-4d6c-b1c9-ab6d8c9c5448</webElementGuid>
+      <webElementGuid>35fdf101-7b85-4ca0-98a7-7f343550a88c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Publish</value>
-      <webElementGuid>807b1df4-3411-4315-be13-50e54c31e1a6</webElementGuid>
+      <webElementGuid>e467a10f-d0d3-489e-a608-7832d9a4cae0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-lp_publish&quot;)</value>
-      <webElementGuid>156acc7b-caef-4810-8d65-808dea930e20</webElementGuid>
+      <webElementGuid>eef6bc54-eaf2-4614-993e-1881a0331dd4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='btn-lp_publish']</value>
-      <webElementGuid>95a2524b-9106-45f1-83f2-c3c16bc3ba78</webElementGuid>
+      <webElementGuid>c23293e5-fe9c-4783-b982-15a764ee27ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='learningpath-view-tab']/div/div/div[2]/span/input</value>
-      <webElementGuid>9103fd89-69a8-427b-97b7-b3eeaa7fe097</webElementGuid>
+      <webElementGuid>a3065839-23f5-4d01-bfe2-505a5eb254a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>747dbde2-13b4-4b29-ba25-fb3fab154786</webElementGuid>
+      <webElementGuid>88d85eb4-be9d-4b97-b337-ae7aabee6c59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @id = 'btn-lp_publish' and @title = 'Click to Publish the Learningpath']</value>
-      <webElementGuid>4daf57cd-6876-44d6-b913-a97022714b69</webElementGuid>
+      <webElementGuid>db0ef248-1e9c-4eda-b4e9-0091e2db4bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='yui_3_17_2_1_1741702082272_2012']/input</value>
+      <webElementGuid>c5e52cb0-8ff3-41f0-b73e-37223898c34c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
