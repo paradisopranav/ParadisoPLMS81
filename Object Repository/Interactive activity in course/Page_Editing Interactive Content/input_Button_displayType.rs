@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ef46b6ac-60fb-46fb-bc1a-a0274205fb49</webElementGuid>
+      <webElementGuid>7282eb58-48c0-4dd8-9ec7-b6c588951655</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>f98ff9b2-fb14-4416-8906-8c4b29d00184</webElementGuid>
+      <webElementGuid>36e0bc8f-b070-4b39-97da-8ef52b25a1ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>displayType</value>
-      <webElementGuid>75c285b5-4c6a-41fe-b66b-1e735bd78101</webElementGuid>
+      <webElementGuid>424df7c6-26a1-4f20-9112-06e2f3761e53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>value</name>
       <type>Main</type>
       <value>poster</value>
-      <webElementGuid>17c474c2-79cb-4da2-a555-4eee6d146eac</webElementGuid>
+      <webElementGuid>14efc42d-7a49-483d-90d1-b9e66c9ce71e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>h5p-image-radio-button-1</value>
-      <webElementGuid>47713267-0781-4e3c-b4be-dbea8ff782ac</webElementGuid>
+      <webElementGuid>8a37cb97-fbea-4899-8ad3-2acbf1361d41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,15 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;h5p-image-radio-button-1&quot;)</value>
-      <webElementGuid>e3d09a18-5546-4c11-a9d3-15c291766c46</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Interactive activity in course/Page_Editing Interactive Content/iframe_Editor_h5p-editor-iframe</value>
-      <webElementGuid>3a01ea0c-2e7c-4037-93ff-90b7279e44f4</webElementGuid>
+      <webElementGuid>4c0f7629-263a-4f86-a85d-d793714da83f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='h5p-image-radio-button-1']</value>
-      <webElementGuid>e5c492cf-87e8-44cc-8c38-6256f58a3a9b</webElementGuid>
+      <webElementGuid>ddd4f103-f562-4f3a-ba7a-307857fb8bad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div[2]/input</value>
-      <webElementGuid>e40f03dd-4ed1-4be9-8c58-bb2ede3794c6</webElementGuid>
+      <webElementGuid>f01217e1-6079-46ad-a063-d3c5f6ae8a40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'displayType' and @id = 'h5p-image-radio-button-1']</value>
-      <webElementGuid>5a08b600-113b-4a78-9e90-b6a2ae44f2c4</webElementGuid>
+      <webElementGuid>de5377b5-9f07-453f-b37a-197afd206f73</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

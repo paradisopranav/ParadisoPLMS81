@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[(text() = 'Katalon_Activity Test creation course' or . = 'Katalon_Activity Test creation course')]</value>
+         <value>//div[@class='search_course_name ']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c8d5bc4f-4f53-4a8e-a374-288a58aa6161</webElementGuid>
+      <webElementGuid>565de35d-fa44-424c-a2ab-a068a7373dd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>search_course_name </value>
-      <webElementGuid>7bbfdb78-9a12-4fd3-bb59-7285d037f8c4</webElementGuid>
+      <webElementGuid>663f9bc5-659c-4f25-9f75-7fa2162c1b40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>tooltip</value>
-      <webElementGuid>0954097f-6d31-4a54-8e58-11ddfe35f193</webElementGuid>
+      <webElementGuid>d9091d33-d66a-4c22-9b30-6844e902f34c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>data-placement</name>
       <type>Main</type>
       <value>top</value>
-      <webElementGuid>c60edae8-0734-430a-b3ab-0aa6a9e56c9a</webElementGuid>
+      <webElementGuid>2ac8d4b5-5041-4755-a824-01394e1e704d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>data-original-title</name>
       <type>Main</type>
       <value>Katalon_Activity Test creation course</value>
-      <webElementGuid>04406a9a-78f1-4482-a53d-cfac73bd0db6</webElementGuid>
+      <webElementGuid>bbf83d95-457d-4f68-8591-68b093ff687b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>tooltip504306</value>
-      <webElementGuid>fdeec0e7-a933-4722-80ea-df92da0a00eb</webElementGuid>
+      <webElementGuid>99817fbc-c740-495e-a1e8-361b151de27c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Katalon_Activity Test creation course</value>
-      <webElementGuid>c9dfc73b-b09b-4f9d-a6e4-e6a0d863b526</webElementGuid>
+      <webElementGuid>7ef1bd0c-18bf-4908-9de0-a1a0e9e255be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1741071533091_43&quot;)/div[@class=&quot;course_search_popup_data&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 course_search_div p-0&quot;]/div[@class=&quot;row course-list&quot;]/div[@class=&quot;row card-box&quot;]/div[@class=&quot;texts-wrap&quot;]/a[1]/div[@class=&quot;search_course_name&quot;]</value>
-      <webElementGuid>b7d272bc-b05d-4532-a855-275efa23f28f</webElementGuid>
+      <webElementGuid>e0aa1b06-703f-41cd-9f00-1b3616c88a9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1741071533091_43']/div[2]/div/div[2]/div/div/div[2]/a/div</value>
-      <webElementGuid>48ae979b-1b93-423c-b173-8c6c236d0a5e</webElementGuid>
+      <webElementGuid>18b96249-7911-469c-81c6-a212a5ced24a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon_Activity'])[1]/following::div[2]</value>
-      <webElementGuid>8016cf73-511e-42fc-a1ec-feed565506a2</webElementGuid>
+      <webElementGuid>a947f0b1-aaa6-4600-b253-8dcbc08a8c00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='QA'])[2]/preceding::div[1]</value>
-      <webElementGuid>d68c6189-5be1-4fd6-bcad-974aea880832</webElementGuid>
+      <webElementGuid>576646f0-b709-4cea-82e3-1c1b94117d8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::div[1]</value>
-      <webElementGuid>20caaafe-00ac-40e1-bac4-4a7c20a99448</webElementGuid>
+      <webElementGuid>e9f18f9c-8576-48e0-ab0f-292eef90596c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Katalon_Activity Test creation course']/parent::*</value>
-      <webElementGuid>b2be510c-0395-47c9-ba01-6cab22b15ec7</webElementGuid>
+      <webElementGuid>9843ce18-5274-4955-8e71-0c4fb89a4c4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div/div[2]/a/div</value>
-      <webElementGuid>026104c1-dca8-4605-9181-4c24a83116b0</webElementGuid>
+      <webElementGuid>eb68631a-f2b8-44cb-a352-7754e389949e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Katalon_Activity Test creation course' or . = 'Katalon_Activity Test creation course')]</value>
-      <webElementGuid>d79d946a-b0c9-4186-af76-7a677ecc9ada</webElementGuid>
+      <webElementGuid>786c24fc-0ced-40ab-aa5e-ec8e55e37f37</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

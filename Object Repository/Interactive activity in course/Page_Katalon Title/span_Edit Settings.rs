@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='actionmenuaction-14']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Interactive Content'])[3]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f94be4c5-7318-46d7-9984-708839d96cdb</webElementGuid>
+      <webElementGuid>0ef57ea7-efa9-44ee-a6fe-9b633a530e44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-action-text</value>
-      <webElementGuid>eb7e27d3-ace9-4d07-95e8-f77788c99e8d</webElementGuid>
+      <webElementGuid>121c6253-e99a-4e6d-bcca-422e95dbe2d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>actionmenuaction-14</value>
-      <webElementGuid>b2d2beae-1b2e-40dc-b750-1f3778420f32</webElementGuid>
+      <webElementGuid>a514e7f3-9884-455e-ad99-074bf0a34995</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Edit Settings</value>
-      <webElementGuid>5d019e7a-d67f-4b27-81d7-458687aa87a7</webElementGuid>
+      <webElementGuid>85520632-3d00-4a83-b8f5-7105a4af42d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;actionmenuaction-14&quot;)</value>
-      <webElementGuid>0e0e94ce-262a-4fbb-932b-5b87c5d2e35a</webElementGuid>
+      <webElementGuid>5e4edf20-1711-4d62-a4b4-b173d934b33f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='actionmenuaction-14']</value>
-      <webElementGuid>6c89ac22-51cc-42e8-b9b3-962ccb78b597</webElementGuid>
+      <webElementGuid>7f46f11c-ec90-405f-9286-29157eca8dd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='yui_3_17_2_1_1741853086310_635']/span</value>
-      <webElementGuid>a37bf278-7618-424c-bad4-e4a816526446</webElementGuid>
+      <webElementGuid>be33cbdb-4403-4d7a-8a10-062bea2ed809</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Interactive Content'])[3]/following::span[2]</value>
-      <webElementGuid>3e540a01-94cc-47c9-9498-d2ba30fa41f5</webElementGuid>
+      <webElementGuid>2a1a18f6-f579-42b0-9c87-2b46bf81f013</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Topic'])[1]/following::span[5]</value>
-      <webElementGuid>8b77ec7a-28a0-4250-bebf-36108e15bc39</webElementGuid>
+      <webElementGuid>b1c23a2b-a7d9-498e-ba3f-2ab3698a5f5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Right'])[2]/preceding::span[1]</value>
-      <webElementGuid>9d3216fd-ab8a-4170-8e45-d42a2a57d139</webElementGuid>
+      <webElementGuid>db4cb260-3214-4adc-ba62-8bc5d6bbf1d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Left'])[2]/preceding::span[2]</value>
-      <webElementGuid>cbe21ddd-4520-40af-8a7d-670e7f10783c</webElementGuid>
+      <webElementGuid>04caefd7-88f4-46d7-9035-77dc0bd1225a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div/ul/li/div/div/div[2]/span/div/div/div/div/a/span</value>
-      <webElementGuid>f16ecdc4-2af5-4723-861a-11237ae33b24</webElementGuid>
+      <webElementGuid>aef4d8f5-68a3-4f88-bf9c-0918ff7edaaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'actionmenuaction-14' and (text() = 'Edit Settings' or . = 'Edit Settings')]</value>
-      <webElementGuid>9b3af13b-1f21-4472-ac70-618bf25dcb83</webElementGuid>
+      <webElementGuid>572bf39f-f457-4bad-a0a9-3c23f2cde9a7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='yui_3_17_2_1_1741853187465_642']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Roles'])[2]/following::a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fcbdb0bf-9a5b-42f1-89fc-8bf74a7b14bf</webElementGuid>
+      <webElementGuid>a6333d00-417d-482a-8793-e908522c4da2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/course/mod.php?sesskey=ztuSA3R6Et&amp;sr=0&amp;delete=9704</value>
-      <webElementGuid>57ee348a-d40f-42ee-b81b-664149ba7661</webElementGuid>
+      <webElementGuid>1e01f77d-ab42-435a-a040-53d186a0bd4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item editing_delete menu-action</value>
-      <webElementGuid>52dcb516-56ee-4028-a208-e9d7ae86ded0</webElementGuid>
+      <webElementGuid>22370bf3-4e61-4fe4-a4c5-c764263ee5e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>data-action</name>
       <type>Main</type>
       <value>delete</value>
-      <webElementGuid>b74506c7-7243-434a-aea8-c7c87c8e43f2</webElementGuid>
+      <webElementGuid>c9dab2fe-ac05-4ac4-8449-d6a8735ebdcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>data-sectionreturn</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>2d53202e-09d5-4e86-8bce-34ebd6f5c3ef</webElementGuid>
+      <webElementGuid>1ef1e0d7-3057-4f28-bf77-a6c10591ef0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>1f458e9f-c7cc-44da-8ca5-580355129e65</webElementGuid>
+      <webElementGuid>fb41ecd3-31d3-4abd-8fed-b865ad23c051</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>actionmenuaction-21</value>
-      <webElementGuid>9b4f796a-d5dd-4d5b-ba1b-163d0fa1aedd</webElementGuid>
+      <webElementGuid>7a90ebb7-9621-432b-b72f-9efebfd4467c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>id</name>
       <type>Main</type>
       <value>yui_3_17_2_1_1741853187465_642</value>
-      <webElementGuid>d2d9c504-82b0-4571-8714-8bbd25ed0dff</webElementGuid>
+      <webElementGuid>86e3a1a6-be04-41b1-ba23-5635d9ac98a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -90,7 +90,7 @@
             
             Delete
     </value>
-      <webElementGuid>1888ca0e-9ed2-4116-9e7d-f76b52a81322</webElementGuid>
+      <webElementGuid>7779ce23-d39e-4819-855e-e7770e7ef9d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1741853187465_642&quot;)</value>
-      <webElementGuid>a2fd149b-9daf-44d1-a26b-54a0eefb155a</webElementGuid>
+      <webElementGuid>9c7bce32-e928-4d83-873f-34cdafd032ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='yui_3_17_2_1_1741853187465_642']</value>
-      <webElementGuid>2f52a1ed-a2cf-4d47-bf77-83efcba70f14</webElementGuid>
+      <webElementGuid>9fef170e-5902-4fdb-8e8a-03410ff81cab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='action-menu-4-menu']/a[8]</value>
-      <webElementGuid>c827ea56-08d1-437f-a982-68cf3fb49fbf</webElementGuid>
+      <webElementGuid>d40a8e2e-1d10-4647-9d5a-bd2e30d39d2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Roles'])[2]/following::a[1]</value>
-      <webElementGuid>55ac51ca-a183-4fd1-9fad-42570adba0e8</webElementGuid>
+      <webElementGuid>688e40e6-6880-4468-8941-08b4acbbf152</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Groups (Click To Change)'])[2]/following::a[2]</value>
-      <webElementGuid>2695679b-b642-45dc-b961-de81792db1c4</webElementGuid>
+      <webElementGuid>2d59e351-f2de-4ec8-bf3f-de193a216774</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Students can manually mark this item complete: Katalon Title update'])[1]/preceding::a[1]</value>
-      <webElementGuid>60ecdada-9a94-424b-ae5f-57d0a1e43c00</webElementGuid>
+      <webElementGuid>a494e965-404e-42af-9414-73d08d6e9f00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,7 +146,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/course/mod.php?sesskey=ztuSA3R6Et&amp;sr=0&amp;delete=9704')]</value>
-      <webElementGuid>8ca8e7d1-1427-419a-8a57-8295ca8f1283</webElementGuid>
+      <webElementGuid>fb07f4cb-a1d8-4c52-8996-9a28d92589cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -154,7 +154,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div/ul/li/div/div/div[2]/span/div/div/div/div/a[8]</value>
-      <webElementGuid>fcf466aa-7d5a-426d-86e0-dbc0a2ba40bd</webElementGuid>
+      <webElementGuid>6ed5a1a4-5b9a-4822-b82e-e0751f9456c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -168,6 +168,6 @@
             
             Delete
     ')]</value>
-      <webElementGuid>8d73595d-b833-433f-8aa5-5bf3ff60cc4f</webElementGuid>
+      <webElementGuid>89eb62e3-0348-4a24-a3b7-929a1288d3fa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

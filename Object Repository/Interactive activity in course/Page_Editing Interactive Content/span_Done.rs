@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>acab441e-491e-4cd4-ae16-a94c43f8401e</webElementGuid>
+      <webElementGuid>0630a45b-164f-41f8-98b5-c5bcc2d4715e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-manager-button-inner</value>
-      <webElementGuid>102f76cd-2e32-45d8-8c21-75a84123a4c5</webElementGuid>
+      <webElementGuid>d02dae00-1473-497d-9557-cbbd6188ffba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>2347f5cd-f4a1-417b-a3ab-7252e2f6f89d</webElementGuid>
+      <webElementGuid>2a4fe42e-79be-452d-ab83-5adcef58d511</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Done</value>
-      <webElementGuid>a5c704d3-3c71-4b79-998b-30cad8df9665</webElementGuid>
+      <webElementGuid>2c2b2f64-528e-492d-8942-95fbd9e5380e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,15 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;h5peditor h5p-interactivevideo-editor&quot;]/div[@class=&quot;h5peditor-form form-manager&quot;]/div[@class=&quot;form-manager-head form-manager-footer&quot;]/div[@class=&quot;form-manager-buttons form-manager-comein&quot;]/button[@class=&quot;form-manager-button form-manager-done&quot;]/span[@class=&quot;form-manager-button-inner&quot;]</value>
-      <webElementGuid>5b9180b1-4e50-453f-bbb2-ab62ecefec85</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Interactive activity in course/Page_Editing Interactive Content/iframe_Editor_h5p-editor-iframe</value>
-      <webElementGuid>e2ac42a5-03fb-4763-9a9a-51ae4bbf68bd</webElementGuid>
+      <webElementGuid>a40912df-31d9-4360-9dc0-e651a7eb4fa7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Require full score for task before proceeding'])[1]/following::span[1]</value>
-      <webElementGuid>230561b3-70f4-42b9-b1e3-d2ad202443ae</webElementGuid>
+      <webElementGuid>4799f3ee-98cb-4b0c-abc7-ef1af50f1984</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Label for seek button'])[2]/following::span[1]</value>
-      <webElementGuid>9b8e023f-53c1-4e0d-a0a9-a34b3a5fd8a5</webElementGuid>
+      <webElementGuid>dc3c93b7-34b2-44e2-b9a7-8d28bc03711b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/preceding::span[1]</value>
-      <webElementGuid>96ce6fd4-74e8-49cd-ba8d-5f91cd561375</webElementGuid>
+      <webElementGuid>9ee3f2a7-f9e7-4e88-9dea-af0cc1d09118</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/button/span</value>
-      <webElementGuid>3d523cfd-4d08-42b4-8c8b-9d777f6c8514</webElementGuid>
+      <webElementGuid>f5f7583f-1caf-4cc4-b976-eb378e56d3c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Done' or . = 'Done')]</value>
-      <webElementGuid>dfc03bf3-709e-40a5-980c-3f9536735ab8</webElementGuid>
+      <webElementGuid>7230ab06-ee12-4423-aeab-b4343abbe7e7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>606d3ca8-2a72-433e-b3b0-5add752fac72</webElementGuid>
+      <webElementGuid>946be0d6-663e-4047-a16a-ccbcff994570</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c230fcd9-3030-4aeb-9a75-3abaff6ee769</webElementGuid>
+      <webElementGuid>2debd735-eb48-4aa3-a1e0-a6cded5a0992</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>d0674667-8e2b-4741-a3d3-b61c797f257e</webElementGuid>
+      <webElementGuid>fccab548-56df-456f-9525-180e99810d21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>field-files-13</value>
-      <webElementGuid>14ca6148-4dda-4286-a740-c59c0810c447</webElementGuid>
+      <webElementGuid>4f3a7964-29d4-4a18-8f78-a068709b44cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>field-files-13-description</value>
-      <webElementGuid>13d2926d-389d-466d-ba17-fe69b773f08f</webElementGuid>
+      <webElementGuid>94f2d34e-d59a-4fd3-8fd1-7e68af575c98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>h5p-add-file</value>
-      <webElementGuid>65b347bf-d2f5-41bd-9d67-3d43d9670361</webElementGuid>
+      <webElementGuid>556aea23-6739-42a5-be3f-192ec6b53a8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Add file</value>
-      <webElementGuid>ea915778-8ef1-4f69-abec-25f108ad9f7c</webElementGuid>
+      <webElementGuid>355dfcc7-674d-495c-8f75-bc3c793b9194</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,15 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;field-files-13&quot;)</value>
-      <webElementGuid>3f36d01c-47e8-401f-8662-6db45a64caf1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Interactive activity in course/Page_Editing Interactive Content/iframe_Editor_h5p-editor-iframe</value>
-      <webElementGuid>06ad869c-55b3-414f-9226-164013d8b412</webElementGuid>
+      <webElementGuid>1c08a1a0-72a8-46a9-af73-8acd595c0292</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='field-files-13']</value>
-      <webElementGuid>328e2948-a2b4-49ab-b0cf-266c044e489f</webElementGuid>
+      <webElementGuid>f11b6793-31a5-4c0f-9da8-ce6b25f9751d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fieldset/div[2]/div/div[2]</value>
-      <webElementGuid>8173b6da-7bd1-48bb-aa67-6f49bfb91799</webElementGuid>
+      <webElementGuid>28983161-2cbf-41ed-87ba-a2bf2e399117</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'field-files-13' and @title = 'Add file']</value>
-      <webElementGuid>de55c7c3-5cd3-41b0-9ad3-a78478430bc0</webElementGuid>
+      <webElementGuid>77c228da-8daf-4b88-934b-70fafb235910</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

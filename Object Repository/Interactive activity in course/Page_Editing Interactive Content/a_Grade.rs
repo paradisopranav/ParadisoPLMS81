@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='yui_3_17_2_1_1741852823499_1093']</value>
+         <value>(//a[contains(text(),'Grade')])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>24f5813f-d14a-4026-877d-e30f971186d0</webElementGuid>
+      <webElementGuid>a4af4201-671a-4567-be75-bded07137db3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>abf3f726-cbfa-47e4-92a8-15af06591919</webElementGuid>
+      <webElementGuid>9a4200b3-b7cc-43cd-883d-e1364175aaee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fheader</value>
-      <webElementGuid>91f261d0-0b3a-4161-9e34-b3f6f61bd424</webElementGuid>
+      <webElementGuid>40409e76-3f62-48d6-8404-2742f45d84f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6bfad046-c2bf-4182-bd3a-12c3d2cd1b41</webElementGuid>
+      <webElementGuid>a5262954-3f64-4b2f-a9b3-1aee6cf9c0c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>id_modstandardgrade</value>
-      <webElementGuid>0c19b305-d7d8-49ee-92b6-3e8b75b982c6</webElementGuid>
+      <webElementGuid>b2613850-c8b7-4d0e-8b09-02e77a53e63d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5e4d0c5d-1037-4765-bcf3-6e23105ccc5d</webElementGuid>
+      <webElementGuid>4fa27aea-0f44-476c-95ae-ae34215fc6a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>id</name>
       <type>Main</type>
       <value>yui_3_17_2_1_1741852823499_1093</value>
-      <webElementGuid>35d9eb78-6974-40ff-b913-cbbe425be8d5</webElementGuid>
+      <webElementGuid>bc2d55e5-fcbf-4d20-b198-0174c0a9619d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Grade</value>
-      <webElementGuid>1d5651df-ecb2-46ce-814e-64bbe0dca25b</webElementGuid>
+      <webElementGuid>18083d8e-21b6-4cc6-b37b-8ba9c5cc5668</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1741852823499_1093&quot;)</value>
-      <webElementGuid>2749916b-1d82-4664-bde4-f748989011f5</webElementGuid>
+      <webElementGuid>fd4c67ca-2bfd-4efd-8327-1d24e5b43c61</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='yui_3_17_2_1_1741852823499_1093']</value>
-      <webElementGuid>fbc22c30-2b6a-4e8c-a836-368b75ae1c03</webElementGuid>
+      <webElementGuid>79983b55-1097-49b2-85ad-da3bcba685f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//legend[@id='yui_3_17_2_1_1741852823499_1094']/a</value>
-      <webElementGuid>642ae1e7-eaca-4509-946e-ba84f8eb375c</webElementGuid>
+      <webElementGuid>3566d004-aafa-42e2-a7d1-697fc811fdb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Grade')])[2]</value>
-      <webElementGuid>d71f4e97-7fea-4ac8-8cd2-c2d55493c3d6</webElementGuid>
+      <webElementGuid>cccac96a-d262-4d57-85a7-3361fabfa15c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Display action bar and frame'])[1]/following::a[1]</value>
-      <webElementGuid>1fe519a9-790d-4ad9-b7fe-a6b469063c93</webElementGuid>
+      <webElementGuid>1b28490a-0ba8-4724-bd6d-92bac6a1afaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Editor'])[2]/following::a[2]</value>
-      <webElementGuid>61fe84ec-5b1b-47b0-951c-d24b9df25849</webElementGuid>
+      <webElementGuid>f65244cf-f83f-42b9-ba36-c1c3c82f52fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Grade category'])[1]/preceding::a[1]</value>
-      <webElementGuid>9012c61b-9d5b-4e9b-a83a-add4b923fce6</webElementGuid>
+      <webElementGuid>fe918cc3-3ce2-4c97-ab75-49dccfad6d21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Grade to pass'])[1]/preceding::a[1]</value>
-      <webElementGuid>4da1028b-5d11-467b-99af-0e173aaafb7f</webElementGuid>
+      <webElementGuid>22b3e129-93f5-4233-b22f-49f118ef612b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +151,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Grade']/parent::*</value>
-      <webElementGuid>d23536e2-8fcd-4a76-b598-24d052f9f211</webElementGuid>
+      <webElementGuid>417eedde-2d45-4032-b5a4-9a235c8d5bd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +159,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[13]</value>
-      <webElementGuid>0202c3fc-a9e5-4a5c-832a-76eacef3bce1</webElementGuid>
+      <webElementGuid>3921f6ca-d4e6-437d-83cf-04fdf243eb5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,7 +167,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fieldset[2]/legend/a</value>
-      <webElementGuid>7b3bf333-4900-436a-8432-6051a50def22</webElementGuid>
+      <webElementGuid>5feb69af-3428-4e18-b81f-3d8aea218b84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -175,6 +175,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and @id = 'yui_3_17_2_1_1741852823499_1093' and (text() = 'Grade' or . = 'Grade')]</value>
-      <webElementGuid>2c921a5f-2307-402a-a553-876c4e9c54a8</webElementGuid>
+      <webElementGuid>a0df211c-aa26-4063-ac65-513425d90653</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

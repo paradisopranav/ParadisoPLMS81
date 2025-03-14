@@ -83,6 +83,8 @@ WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Edit
 
 WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/input_Normal_btn btn-primary'))
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/path_Sample SCORM 1 - Complete  Incomplete_uniqueDomId-380'))
 
 WebUI.click(findTestObject('Object Repository/SCROM_Activity_in_Course/Page_Katalon_Activity Test creation course Scrom/path_Sample SCORM 1 - Complete  Incomplete__317b20'))

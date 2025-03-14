@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[3]/div[2]/div/div/div/div[2]/div/div/div</value>
+         <value>//a[contains(@class, 'h5p-dragnbar-a') and contains(@class, 'h5p-dragnbar-truefalse-button') and @aria-label='True/False Question']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9162b90b-dc61-4a7c-888f-bc871c63c586</webElementGuid>
+      <webElementGuid>46e85aaa-3db6-43f4-9ff8-c5eb24a2bec9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>h5p-touch-area</value>
-      <webElementGuid>ac67c780-1d30-4cf4-a6be-65e6b810e8bb</webElementGuid>
+      <webElementGuid>e592fd0b-3419-4588-893c-fd9521f08ab7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,15 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;h5peditor h5p-interactivevideo-editor&quot;]/div[@class=&quot;h5peditor-form form-manager&quot;]/div[@class=&quot;tree&quot;]/div[@class=&quot;field field-name-interactiveVideo group importance-high wizard&quot;]/div[@class=&quot;h5peditor-panes&quot;]/div[@class=&quot;field interactiveVideo&quot;]/div[@class=&quot;h5peditor-interactions h5p-interactive-video&quot;]/div[@class=&quot;h5p-video-wrapper h5p-video hardware-accelerated&quot;]/div[@class=&quot;h5p-overlay h5p-ie-transparent-background h5p-visible&quot;]/div[@class=&quot;h5p-interaction h5p-truefalse-interaction h5p-dragnbar-element&quot;]/div[@class=&quot;h5p-touch-area&quot;]</value>
-      <webElementGuid>15badfc7-148c-405c-9de1-1c1840cf1a3e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Interactive activity in course/Page_Editing Interactive Content/iframe_Editor_h5p-editor-iframe</value>
-      <webElementGuid>092ef979-e140-44bb-9d68-e5cacb64020a</webElementGuid>
+      <webElementGuid>77265008-fab5-489a-b7b6-994ea7214893</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,6 +47,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div/div/div[2]/div/div/div</value>
-      <webElementGuid>b8641eb9-58b5-45fd-b195-17be467f9d41</webElementGuid>
+      <webElementGuid>56cb5e61-caa2-46bb-a912-282d24701478</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

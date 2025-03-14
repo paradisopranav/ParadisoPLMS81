@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9d9a7cda-2dde-4f09-9590-de844322c23e</webElementGuid>
+      <webElementGuid>31aac4e8-9d5c-43b0-909a-763b258ac0d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>h5peditor-text</value>
-      <webElementGuid>d34a4208-21bd-4807-aa8b-079bf7433419</webElementGuid>
+      <webElementGuid>03866315-4038-4c60-a521-cde6c99b987d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d50ebb4b-72d6-495e-a645-cd57cd12dd10</webElementGuid>
+      <webElementGuid>0e290e0f-c959-4f95-a4e1-07965aac6f13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>field-extratitle--1</value>
-      <webElementGuid>2e5dbf83-03b2-4880-a3b1-e9f7654d3367</webElementGuid>
+      <webElementGuid>944bb7b0-3609-40ef-be28-787da8dc9c59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>field-extratitle--1-description</value>
-      <webElementGuid>73cab812-9b4a-4fab-aa59-34e7380e7ba7</webElementGuid>
+      <webElementGuid>b50b160c-aa03-4b5e-867e-f7cb454c9394</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>3ef503b1-6360-456d-a999-23e26d44d3f4</webElementGuid>
+      <webElementGuid>ba5cd3b5-126d-4bfc-99b1-777b70498599</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,15 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;field-extratitle--1&quot;)</value>
-      <webElementGuid>51da8511-e00f-4fbb-8955-c0efa1e4af42</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Interactive activity in course/Page_Editing Interactive Content/iframe_Editor_h5p-editor-iframe</value>
-      <webElementGuid>bc4cf9a2-becf-402f-865f-70ba0e776e62</webElementGuid>
+      <webElementGuid>516cb70e-90f5-4ca6-b1b0-76502b5219a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='field-extratitle--1']</value>
-      <webElementGuid>e907f063-0d08-45ac-b965-a5d4212e0d3f</webElementGuid>
+      <webElementGuid>5af0553a-aec2-44c1-a0d8-179c1b38ac3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/input</value>
-      <webElementGuid>1048196a-ecbf-4666-a799-cc41f59ab5e5</webElementGuid>
+      <webElementGuid>aa6bc2f0-e5c3-400d-aafc-7da359a302a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'field-extratitle--1']</value>
-      <webElementGuid>4695597f-d76e-4deb-873f-0209e434c6fe</webElementGuid>
+      <webElementGuid>53975c8f-068d-42a5-853e-eca2a1f41a19</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

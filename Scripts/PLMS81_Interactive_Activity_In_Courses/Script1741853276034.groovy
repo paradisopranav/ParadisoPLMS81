@@ -16,6 +16,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+import org.openqa.selenium.WebDriver as WebDriver
+import org.openqa.selenium.JavascriptExecutor as JavascriptExecutor
 
 WebUI.openBrowser('')
 
@@ -54,18 +57,25 @@ WebUI.click(findTestObject('Object Repository/Interactive activity in course/Pag
 WebUI.setText(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/p_Interactive'), 
     'Katalon Interactive Activity')
 
+WebUI.switchToFrame(findTestObject('Interactive activity in course/Page_Katalon Title/iframe_object'), 2)
+
 WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/button_Details'))
 
 WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/button_Use'))
 
-WebUI.delay(3)
+WebUI.delay(30)
 
 WebUI.setText(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/input_Used for searching, reports and copyr_af320a'), 
     'Katalon Interactive video Title')
 
 WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/div_Add a video_field-files-13'))
 
-WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/div_Upload video file_h5p-file-drop-upload-_957f09'))
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/div_Upload video file_h5p-file-drop-upload-_957f09'), 
+    'https://www.youtube.com/watch?v=d95PPykB2vE')
+
+WebUI.click(findTestObject('Interactive activity in course/Page_Katalon Title/Insert video'))
 
 WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/span_Add interactions'))
 
@@ -78,36 +88,60 @@ WebUI.setText(findTestObject('Object Repository/Interactive activity in course/P
 
 WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/div_Question'))
 
-WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/html_Rich Text Editor, field-question-189htmlcursortextcursorautoimg,input,textareacursordefault.cke_editablecursortext.cke_editable img,.cke_editable input,.cke_editable textareacursordefault.cke_contents_ltr a.cke_anch'))
+WebUI.delay(3)
+
+WebUI.switchToFrame(findTestObject('Interactive activity in course/Page_Katalon Title/Question text box frame'), 2)
+
+WebUI.setText(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/html_Rich Text Editor, field-question-189htmlcursortextcursorautoimg,input,textareacursordefault.cke_editablecursortext.cke_editable img,.cke_editable input,.cke_editable textareacursordefault.cke_contents_ltr a.cke_anch'), 
+    'Raining?')
+
+WebDriver driver = DriverFactory.getWebDriver()
+
+// Execute JavaScript to focus on the parent window
+//((JavascriptExecutor) driver).executeScript("window.parent.focus();")
+    	
+	((JavascriptExecutor) driver).executeScript("window.parent.focus();")
+
+// Switch to the parent frame
+driver.switchTo().parentFrame()
 
 WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/span_Done'))
+
+WebUI.switchToDefaultContent()
 
 WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/a_Grade'))
 
 WebUI.setText(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/input_Grade to pass_gradepass'), 
     '1')
 
+WebUI.click(findTestObject('Interactive activity in course/Page_Course Katalon_Activity Test creation course/Activity completion'))
+
+WebUI.selectOptionByValue(findTestObject('Interactive activity in course/Page_Course Katalon_Activity Test creation course/Select option'), 
+    '2', true)
+
+WebUI.click(findTestObject('Interactive activity in course/Page_Course Katalon_Activity Test creation course/Uncheck first condition'))
+
+WebUI.click(findTestObject('Interactive activity in course/Page_Course Katalon_Activity Test creation course/Select 1st condition'))
+
+WebUI.click(findTestObject('Interactive activity in course/Page_Course Katalon_Activity Test creation course/Received grade'))
+
+WebUI.click(findTestObject('Interactive activity in course/Page_Course Katalon_Activity Test creation course/Passing grade'))
+
 WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/input_Upon Activity Completion_submitbutton'))
 
-WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Katalon Title/div_Interactive Video_h5p-splash-play-icon'))
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Katalon Title/div_True'))
 
-WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Katalon Title/button_Check'))
-
-WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Katalon Title/button_Continue'))
-
-WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Katalon Title/a_Interactive Content_action-menu-toggle-4'))
+WebUI.click(findTestObject('Interactive activity in course/Page_Delete Interactive Content/Click dots'))
 
 WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Katalon Title/span_Edit Settings'))
 
 WebUI.setText(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/input_Used for searching, reports and copyright information_field-extratitle--1'), 
-    'Katalon Title up')
+    'Katalon Title update')
+
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/input_Upon Activity Completion_submitbutton'))
-
-WebUI.setText(findTestObject('Object Repository/Interactive activity in course/Page_Editing Interactive Content/input_Used for searching, reports and copyright information_field-extratitle--1'), 
-    'Katalon Title update')
 
 WebUI.click(findTestObject('Object Repository/Interactive activity in course/Page_Katalon Title update/svg_Interactive Content_menu-dots-vertical_1_'))
 

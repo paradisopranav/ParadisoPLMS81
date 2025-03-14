@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='field-extratitle--1']</value>
+         <value>//div[@id='id_introeditoreditable']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d978b4c2-9b01-4ecd-8c01-f5ca31b1f613</webElementGuid>
+      <webElementGuid>0184b8a8-0435-4d29-9bcf-55bafd72c7f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>h5peditor-text</value>
-      <webElementGuid>6b1b7dc6-6d0f-41d5-b206-7f0e5a8b7b23</webElementGuid>
+      <webElementGuid>9f83617f-df4d-4f29-8e5a-ce906365af19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a16646a8-c2c7-4a23-88e7-8912f04b5110</webElementGuid>
+      <webElementGuid>f97e44ea-fddb-4c5c-b99b-906e6089195f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>field-extratitle--1</value>
-      <webElementGuid>564bb925-e1da-4039-a590-d6fa33c8ceb8</webElementGuid>
+      <webElementGuid>8b1ee206-96b1-4348-a4d1-8a4fae706edb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>field-extratitle--1-description</value>
-      <webElementGuid>2f68cf22-0fee-45b2-b130-68e055b8e3fb</webElementGuid>
+      <webElementGuid>c656c2ff-1fcf-49fb-8397-35b3bd23c4cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>253190f3-b791-4e4a-9738-69dd386b3000</webElementGuid>
+      <webElementGuid>f51f5395-ffcc-4bb8-acb1-b9e1ddfbc1e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,15 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;field-extratitle--1&quot;)</value>
-      <webElementGuid>919146fb-5d33-4c1d-bdbc-76de9ca2584e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Interactive activity in course/Page_Editing Interactive Content/iframe_Editor_h5p-editor-iframe_1</value>
-      <webElementGuid>55263e61-3293-436e-ae2b-96f8b6e0953d</webElementGuid>
+      <webElementGuid>c3fbddcc-4843-4ca4-a4cf-88a9a909aa67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='field-extratitle--1']</value>
-      <webElementGuid>e5184a05-9126-49b4-9bd1-2e4af035a50d</webElementGuid>
+      <webElementGuid>57889ff4-f359-4244-907b-7bbac859bd15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/input</value>
-      <webElementGuid>59109bca-5a30-4243-a2b5-6bcd1d3a3562</webElementGuid>
+      <webElementGuid>d9b1af10-dc6b-46a8-9f6d-8ba6c2990fae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'field-extratitle--1']</value>
-      <webElementGuid>778aff5c-7098-4623-b185-65bd4abbceb9</webElementGuid>
+      <webElementGuid>969daf37-df6c-477e-ba35-ada5b127d7d7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

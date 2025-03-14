@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e5923346-ec68-4c0b-9adb-0dce3f8dbba6</webElementGuid>
+      <webElementGuid>6bd7a1da-a139-4a4b-a9bc-2310ef6aba76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>field field-name-question text importance-high html</value>
-      <webElementGuid>84d79a54-734a-4915-8473-b696bbd22532</webElementGuid>
+      <webElementGuid>9f7e322e-fe08-490b-9fc2-508704c23804</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Question</value>
-      <webElementGuid>829d45c7-a0cc-4017-a8fe-b2b6c688ba8a</webElementGuid>
+      <webElementGuid>6f0780b1-84a9-42e4-a98f-5be4498f0ebd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;h5peditor h5p-interactivevideo-editor&quot;]/div[@class=&quot;h5peditor-form form-manager&quot;]/div[@class=&quot;form-manager-form h5p-interactivevideo-editor form-manager-slidein&quot;]/div[@class=&quot;h5p-dialog-inner-semantics&quot;]/div[@class=&quot;field library h5p-truefalse-library&quot;]/div[@class=&quot;libwrap h5p-truefalse-editor no-margin&quot;]/div[@class=&quot;field field-name-question text importance-high html&quot;]</value>
-      <webElementGuid>ec53f74e-6fee-4563-84d8-995fb2fa77fc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Interactive activity in course/Page_Editing Interactive Content/iframe_Editor_h5p-editor-iframe</value>
-      <webElementGuid>b7b8c153-ff70-4168-a7c3-42539244f1c0</webElementGuid>
+      <webElementGuid>46fc4450-25d3-4684-833f-4a4e6e6471e0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Disable image zooming'])[1]/following::div[2]</value>
-      <webElementGuid>74e9868a-9e65-42f5-8bea-bc26ad28eccd</webElementGuid>
+      <webElementGuid>14e0020f-a546-4355-8251-2e8d7dde32e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Paste'])[3]/following::div[6]</value>
-      <webElementGuid>41959df5-57ba-42bd-b366-c1394e9eba85</webElementGuid>
+      <webElementGuid>e5382e97-3e44-4276-ac5b-0eb783f7db57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Correct answer'])[1]/preceding::div[3]</value>
-      <webElementGuid>33b711ec-13fc-40d3-96b8-97c62ecb9f35</webElementGuid>
+      <webElementGuid>e4cf9826-572d-4822-854c-1ab667193723</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div[3]/div[2]</value>
-      <webElementGuid>13063ce4-2508-4c5c-8403-7b544e4c21b7</webElementGuid>
+      <webElementGuid>7124306b-c0d1-4eb4-8a08-9696b7e7f41b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Question' or . = 'Question')]</value>
-      <webElementGuid>61ab5a36-358b-4717-aef8-36099c417ab8</webElementGuid>
+      <webElementGuid>33cc45a3-893f-4d5f-85b1-21881f68b666</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

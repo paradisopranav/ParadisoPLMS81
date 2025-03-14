@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>812aea3b-f75f-4cf6-835e-42e9d8c1acc0</webElementGuid>
+      <webElementGuid>477eb955-99e3-493a-9fe1-e1dce038f22c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4849b01f-161b-4084-9b42-3cc3124dc55e</webElementGuid>
+      <webElementGuid>75c8a1ce-33f3-468c-8c3d-e118836b9ea4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button button-primary button-use</value>
-      <webElementGuid>dd8d8e52-7c5f-4a44-bd63-1ebac87275ab</webElementGuid>
+      <webElementGuid>ecd812a4-7184-4629-b11a-65eae6fac74e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Use</value>
-      <webElementGuid>bc1ab79d-08b2-4396-b8cf-19b571614397</webElementGuid>
+      <webElementGuid>22b7ec0e-9447-4967-8e12-9ed9f920cce5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,15 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content-type-detail&quot;)/div[@class=&quot;h5p-hub-content-type-detail-button-bar&quot;]/button[@class=&quot;button button-primary button-use&quot;]</value>
-      <webElementGuid>cfff3212-5286-4fcd-9342-490edff4c84b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Interactive activity in course/Page_Editing Interactive Content/iframe_Editor_h5p-editor-iframe</value>
-      <webElementGuid>d58187ca-03a5-4d1d-9b04-b7c1b0a0fed8</webElementGuid>
+      <webElementGuid>19c9298f-defc-4266-8b07-ba2c5ae24767</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[54]</value>
-      <webElementGuid>31a64e5e-011f-4829-882e-7ba3dad8b117</webElementGuid>
+      <webElementGuid>c748111f-2cf6-42ff-819e-9c5716afd580</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content-type-detail']/div[3]/button</value>
-      <webElementGuid>2669f09b-5257-4677-8bcc-6da965e9f6ff</webElementGuid>
+      <webElementGuid>45c79c55-1391-4c65-932c-4c0ecc344d9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Content Demo'])[1]/following::button[3]</value>
-      <webElementGuid>0036e73f-4c17-4a96-aa60-1425a8e4baab</webElementGuid>
+      <webElementGuid>c1835a19-0334-4429-b909-05aaba04abe5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='H5P Group'])[1]/following::button[3]</value>
-      <webElementGuid>80c2b3b3-0874-4fa1-8cfc-af9dc63bfc1d</webElementGuid>
+      <webElementGuid>7baf1815-1272-42a1-b2c7-6a72a331020f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='License'])[1]/preceding::button[1]</value>
-      <webElementGuid>ad509bff-8fd3-4851-b270-35c430020688</webElementGuid>
+      <webElementGuid>5fbba535-a64b-466b-b5ba-cd97414c36c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MIT'])[1]/preceding::button[1]</value>
-      <webElementGuid>b37e896c-7af9-44b9-bba0-b4253e295ad2</webElementGuid>
+      <webElementGuid>73e92fd3-394b-4b98-98f6-21d3ab02906a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Use']/parent::*</value>
-      <webElementGuid>27faa8b0-b8a7-4ccb-ad8f-270e5741371b</webElementGuid>
+      <webElementGuid>05cee5a0-9efa-446b-9635-ed48e0a912d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>5175fcb4-6806-401e-a2e4-f820b4bd2116</webElementGuid>
+      <webElementGuid>1fe39e0f-fe7f-42df-9ac1-86c398b012e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Use' or . = 'Use')]</value>
-      <webElementGuid>c5d638e7-a704-4b8a-9d62-5ba1200aea34</webElementGuid>
+      <webElementGuid>2dd4b13b-e054-478a-bfd2-c1c951eec153</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
