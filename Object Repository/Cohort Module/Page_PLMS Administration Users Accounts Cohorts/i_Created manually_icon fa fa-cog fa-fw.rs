@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Created manually_icon fa fa-cog fa-fw</name>
+   <tag></tag>
+   <elementGuidId>60383c8c-17e2-4101-b44c-44e51b71946d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cohorts']/tbody/tr/td[6]/a[3]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Edit&quot;] > i.icon.fa.fa-cog.fa-fw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5a46a75b-3e65-4fd0-b2ca-fb2f8e33bedd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-cog fa-fw </value>
+      <webElementGuid>8aa9b4bf-f6b4-4a30-b310-47e4535821c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>d3d62329-8e62-46ff-9c5b-b2c4cf02c872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>312b2b64-0b3a-4120-ab0e-61320c3bf315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cohorts&quot;)/tbody[1]/tr[@class=&quot;lastrow&quot;]/td[@class=&quot;centeralign action cell c5 lastcol&quot;]/a[3]/i[@class=&quot;icon fa fa-cog fa-fw&quot;]</value>
+      <webElementGuid>abf57ec3-469f-4556-9153-5efecf5d39e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cohorts']/tbody/tr/td[6]/a[3]/i</value>
+      <webElementGuid>e22998b4-3a20-477d-9544-04fd7a3b058b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a[3]/i</value>
+      <webElementGuid>1bc42cab-8888-4acd-888e-51e8b3b780fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Edit']</value>
+      <webElementGuid>40ee15ea-d745-497a-8bfb-7f319acc3c5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Master topics in small steps. Set a s_14d170</name>
+   <name>input_Match the search text anywhere in the_89f7b5</name>
    <tag></tag>
-   <elementGuidId>b7feec4f-ea86-475a-8c27-97a51da530e4</elementGuidId>
+   <elementGuidId>9f822890-3adb-4b20-b436-3c43756731fb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form/div/div/input&#xd;
-</value>
+         <value>//input[@id='add']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#id_search</value>
+         <value>#add</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,94 +23,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>65c211d9-4fdb-4f7a-9ac2-2b14b1f44493</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>b75b3913-3cf9-4e1a-a6b6-e528b21b8ff1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>afbb351a-8305-4491-b73c-451afae5fa22</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Find Learning Paths</value>
-      <webElementGuid>c1c15044-6e7f-4821-86c8-d4b7e9134f83</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>id_search</value>
-      <webElementGuid>a91f5dae-82fe-43ec-91a1-38b576cbc43a</webElementGuid>
+      <webElementGuid>70ab2e07-3a68-4b83-ae20-95b8dd37b0ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>search_lp</value>
-      <webElementGuid>40ea611a-3a97-412e-9044-d4640b6e3628</webElementGuid>
+      <value>add</value>
+      <webElementGuid>903309c6-9d56-48cb-be12-e00e0fc1528c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add</value>
+      <webElementGuid>6e8cc220-d183-4827-8585-98fe5e75de3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>fa869ae5-dbd0-416e-a049-d2a96aaa8b30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>for</name>
+      <name>value</name>
       <type>Main</type>
-      <value>id_search</value>
-      <webElementGuid>a8a281eb-f2e9-44d9-840e-fdb076b39db7</webElementGuid>
+      <value>◄ Add</value>
+      <webElementGuid>586b4a87-38ce-4273-970b-db15444726f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>30980842-8693-4312-b436-6d2d34dd4747</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;id_search&quot;)</value>
-      <webElementGuid>92b3fa71-b153-4877-984d-c83c64a783f3</webElementGuid>
+      <value>id(&quot;add&quot;)</value>
+      <webElementGuid>011b88e1-998c-46b7-810d-9a47223598dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='id_search']</value>
-      <webElementGuid>9750ef06-9da5-4143-8e56-a3faa3b27624</webElementGuid>
+      <value>//input[@id='add']</value>
+      <webElementGuid>ed614539-ade2-414b-83b8-cc94b01dd776</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='searchbox']/div/input</value>
-      <webElementGuid>b0ca246e-8124-4367-b862-fa5a99a92304</webElementGuid>
+      <value>//div[@id='addcontrols']/input</value>
+      <webElementGuid>72e5a2c1-a085-402f-b2c8-7960e2a8f513</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div/div/input</value>
-      <webElementGuid>c6fcfce7-4e97-4bf8-9774-88505376ed57</webElementGuid>
+      <value>//td[2]/div/input</value>
+      <webElementGuid>ee050352-05eb-4e7d-85c9-b7f682b96298</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Find Learning Paths' and @id = 'id_search' and @name = 'search_lp']</value>
-      <webElementGuid>2c87e908-8e4c-48d8-9e88-c1da54db6b09</webElementGuid>
+      <value>//input[@name = 'add' and @id = 'add' and @type = 'submit' and @title = 'Add']</value>
+      <webElementGuid>ff5e06aa-181e-4bca-9ecd-06ba6a599b97</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

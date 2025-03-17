@@ -19,8 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.setText(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Paradiso LMS Log in to the site/input_Username_username'), 
@@ -32,6 +30,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/LearningPath_Insidethet
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin'))
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Paradiso LMS Log in to the site/button_Log in'))
+
+WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Dashboard/i_Add a Course_fa men men-plms-learning-path'))
 

@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Master topics in small steps. Set a s_14d170</name>
+   <name>input_Search_addselect_searchtext</name>
    <tag></tag>
-   <elementGuidId>b7feec4f-ea86-475a-8c27-97a51da530e4</elementGuidId>
+   <elementGuidId>dffab952-4a6e-4f2e-a759-789180fab881</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form/div/div/input&#xd;
-</value>
+         <value>//input[@id='addselect_searchtext']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#id_search</value>
+         <value>#addselect_searchtext</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,15 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>65c211d9-4fdb-4f7a-9ac2-2b14b1f44493</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>b75b3913-3cf9-4e1a-a6b6-e528b21b8ff1</webElementGuid>
+      <webElementGuid>71fa655f-ecbd-4e86-a5fa-603afc2232f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,78 +31,86 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>afbb351a-8305-4491-b73c-451afae5fa22</webElementGuid>
+      <webElementGuid>e6f59c39-9fef-458d-8af9-537ef44ec7e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Find Learning Paths</value>
-      <webElementGuid>c1c15044-6e7f-4821-86c8-d4b7e9134f83</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>id_search</value>
-      <webElementGuid>a91f5dae-82fe-43ec-91a1-38b576cbc43a</webElementGuid>
+      <value>Search</value>
+      <webElementGuid>4785467c-ae14-42b6-bfee-c2622b090f40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>search_lp</value>
-      <webElementGuid>40ea611a-3a97-412e-9044-d4640b6e3628</webElementGuid>
+      <value>addselect_searchtext</value>
+      <webElementGuid>d676b407-4078-41dd-aeb8-6c3f1e911d36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addselect_searchtext</value>
+      <webElementGuid>5e948b02-3030-491f-a29f-3fda7c52f8d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>for</name>
+      <name>size</name>
       <type>Main</type>
-      <value>id_search</value>
-      <webElementGuid>a8a281eb-f2e9-44d9-840e-fdb076b39db7</webElementGuid>
+      <value>15</value>
+      <webElementGuid>1c822304-4c0d-4a8a-beaa-191429dfea5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>918bee1f-a432-4f7a-b8f9-b79c2331f27e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;id_search&quot;)</value>
-      <webElementGuid>92b3fa71-b153-4877-984d-c83c64a783f3</webElementGuid>
+      <value>id(&quot;addselect_searchtext&quot;)</value>
+      <webElementGuid>dc0ed654-2ad3-4e2b-b3ae-4fc09f6e7a3f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='id_search']</value>
-      <webElementGuid>9750ef06-9da5-4143-8e56-a3faa3b27624</webElementGuid>
+      <value>//input[@id='addselect_searchtext']</value>
+      <webElementGuid>21450d84-05e8-4715-92f5-fac84e3ae458</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='searchbox']/div/input</value>
-      <webElementGuid>b0ca246e-8124-4367-b862-fa5a99a92304</webElementGuid>
+      <value>//div[@id='addselect_wrapper']/div/input</value>
+      <webElementGuid>1a11bb9e-952d-465d-a2c7-792b22db0b02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div/div/input</value>
-      <webElementGuid>c6fcfce7-4e97-4bf8-9774-88505376ed57</webElementGuid>
+      <value>//td[3]/div/div/input</value>
+      <webElementGuid>a46a9262-d9fe-480f-b938-ecd77e30a95c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Find Learning Paths' and @id = 'id_search' and @name = 'search_lp']</value>
-      <webElementGuid>2c87e908-8e4c-48d8-9e88-c1da54db6b09</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Search' and @name = 'addselect_searchtext' and @id = 'addselect_searchtext']</value>
+      <webElementGuid>eebaedaf-7e08-4dd7-a159-0ca885c32dac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
