@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Course_CourseInvite_in_Course</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0072842b-0ace-4786-846a-2b13376c0a42</testCaseGuid>
+</TestCaseEntity>

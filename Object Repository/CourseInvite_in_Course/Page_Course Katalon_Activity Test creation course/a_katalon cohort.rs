@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_katalon cohort</name>
+   <tag></tag>
+   <elementGuidId>fbfa114c-8990-4539-a876-fee1316de75d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.click_add_cohorts</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseOne']/div/div[2]/div/label/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7f666337-cfe3-48c8-a807-8e2eb06ffac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>click_add_cohorts</value>
+      <webElementGuid>8b81e15a-6afc-461e-a6be-06485a040e83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-usernm</name>
+      <type>Main</type>
+      <value>katalon cohort</value>
+      <webElementGuid>7e3479d4-668a-437e-a77e-17db21c2e620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-userid</name>
+      <type>Main</type>
+      <value>180</value>
+      <webElementGuid>c9274681-08d8-4e2c-97f9-5893f9775b85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>katalon cohort</value>
+      <webElementGuid>9d07ef09-897f-448a-871d-17fa7c447c5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseOne&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;search-cohort-result&quot;]/div[@class=&quot;item&quot;]/label[@class=&quot;container-chobx&quot;]/a[@class=&quot;click_add_cohorts&quot;]</value>
+      <webElementGuid>94fe69ed-c76a-4aad-8139-d83d597c7370</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseOne']/div/div[2]/div/label/a</value>
+      <webElementGuid>69947cc8-4030-45a3-b21d-8097e5af91e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'katalon cohort')]</value>
+      <webElementGuid>eb48fb96-4481-430c-ad92-50c61425f814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cohorts'])[2]/following::a[1]</value>
+      <webElementGuid>710dd475-9140-4ff5-9372-79288d73495c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invite by Email'])[1]/following::a[1]</value>
+      <webElementGuid>dff2c118-f439-4086-aa34-afa858d80742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='katalon cohort 2'])[1]/preceding::a[1]</value>
+      <webElementGuid>2818114f-8f1a-4cdf-b877-90733bf653af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[2]/preceding::a[2]</value>
+      <webElementGuid>00dcd1c6-9977-4ac8-a064-f396816a3c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='katalon cohort']/parent::*</value>
+      <webElementGuid>9233bb4d-3a39-4a6a-b50c-b658afccf279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/a</value>
+      <webElementGuid>4aff1d6f-803b-4011-a68f-1ca79bbc7274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'katalon cohort' or . = 'katalon cohort')]</value>
+      <webElementGuid>61ef5c06-221b-4632-af17-fe785ee6ecad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
