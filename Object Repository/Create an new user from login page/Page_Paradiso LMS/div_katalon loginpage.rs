@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_katalon loginpage</name>
+   <tag></tag>
+   <elementGuidId>18083ee8-7283-499a-bf46-5a1755169d06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.full_name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='action-menu-1-menu']/div/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf4794a4-5de9-4719-be32-0ff9dc0a59a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>full_name</value>
+      <webElementGuid>f0869557-eb71-4ee4-b61a-c8e6d741c265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>katalon loginpage</value>
+      <webElementGuid>83478364-7d68-4538-afcf-a8f4765b7983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action-menu-1-menu&quot;)/div[@class=&quot;group-start&quot;]/div[@class=&quot;group-center&quot;]/a[@class=&quot;dropdown-item menu-action&quot;]/div[@class=&quot;full_name&quot;]</value>
+      <webElementGuid>36d40408-ae2f-4b9d-886d-1e17f346aab0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='action-menu-1-menu']/div/div/a/div</value>
+      <webElementGuid>f1495786-258e-4809-9da0-398962d9bc8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kl'])[2]/following::div[2]</value>
+      <webElementGuid>dfd21aa2-22f5-4779-b9c8-ebbb3d2a2625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kl'])[1]/following::div[5]</value>
+      <webElementGuid>699af752-f10f-40ce-8116-e97167c26f33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='katalonloginpage@dom.com'])[1]/preceding::div[1]</value>
+      <webElementGuid>b1c3ca2f-1e7b-4dfc-9fbd-0ab87310fb16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Points'])[1]/preceding::div[3]</value>
+      <webElementGuid>0df9e089-be9d-4d7c-b54b-3b38dafbfac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/a/div</value>
+      <webElementGuid>3f82b5e7-01eb-49e7-ae30-9117013857f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'katalon loginpage' or . = 'katalon loginpage')]</value>
+      <webElementGuid>e6c44bce-f8e7-4179-9fb0-453de7d21bb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

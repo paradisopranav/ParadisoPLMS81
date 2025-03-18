@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Create An Account</name>
+   <tag></tag>
+   <elementGuidId>a2d91629-76b0-4614-9139-49c278660113</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login_center']/div/div/div/div/div[4]/div[2]/a/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>f309b94c-0c60-41d6-8ad5-9583b08cbd46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create An Account</value>
+      <webElementGuid>ffc93943-234b-4f6a-a31c-6716043976d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login_center&quot;)/div[@class=&quot;pr-0 content-login&quot;]/div[@class=&quot;center-items_log&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-block pt-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-12 col-lg-12 newacoount text-center pb-4&quot;]/a[1]/b[1]</value>
+      <webElementGuid>9bba2f56-4d6d-4152-8938-3089136e7b02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login_center']/div/div/div/div/div[4]/div[2]/a/b</value>
+      <webElementGuid>763ed244-2284-4ce9-ac7c-3d2b1fa04bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or you can join with'])[1]/following::b[1]</value>
+      <webElementGuid>543de754-bd1d-4ab2-a6ee-56350bde52dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paradiso LMS'])[1]/preceding::b[1]</value>
+      <webElementGuid>9ffafc4a-e4eb-4485-8960-a69f847980b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create An Account']/parent::*</value>
+      <webElementGuid>ad658f96-24a0-422d-aa44-378438267ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>b338515f-ce13-41bd-b21c-4f49c1fc3e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Create An Account' or . = 'Create An Account')]</value>
+      <webElementGuid>5bc58b13-c93f-4077-9e99-50ad565d08bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

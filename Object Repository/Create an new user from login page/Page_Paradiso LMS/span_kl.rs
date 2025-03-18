@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_kl</name>
+   <tag></tag>
+   <elementGuidId>3a4e4fc2-74d5-4425-9053-43772686a785</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.avatar_initials > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='action-menu-toggle-1']/span/span[2]/span/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>25adc026-ddd1-4def-9a89-5fc6fa55ba3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kl</value>
+      <webElementGuid>a8d1e689-7aec-4d39-9111-ec18404b159d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action-menu-toggle-1&quot;)/span[@class=&quot;userbutton&quot;]/span[@class=&quot;avatars&quot;]/span[@class=&quot;avatar current&quot;]/div[@class=&quot;avatar_initials&quot;]/span[1]</value>
+      <webElementGuid>ff7fa483-fda7-47c6-ab2f-4748078321d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='action-menu-toggle-1']/span/span[2]/span/div/span</value>
+      <webElementGuid>c9c2b49e-7417-48bf-a7f8-afd429d0e966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='katalon loginpage'])[1]/following::span[3]</value>
+      <webElementGuid>0f183aef-9100-4eb2-a849-430aa7dd3bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See all'])[1]/following::span[7]</value>
+      <webElementGuid>62d5a1d1-36cc-4eef-ba56-aa25154bc9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kl'])[2]/preceding::span[2]</value>
+      <webElementGuid>270d5ec6-786b-41f9-b863-8ad13f270be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='katalon loginpage'])[2]/preceding::span[3]</value>
+      <webElementGuid>717f7151-4cd2-4c8c-80d5-25bf09853280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='kl']/parent::*</value>
+      <webElementGuid>36269f89-7ebc-46cc-b608-34d638d8b3ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/span</value>
+      <webElementGuid>f766194d-0c69-42c6-91f4-aa37d7f8f164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'kl' or . = 'kl')]</value>
+      <webElementGuid>ff820df1-afca-42c1-a49b-987f07ee2aa1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
