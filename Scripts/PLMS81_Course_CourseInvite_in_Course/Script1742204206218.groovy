@@ -50,6 +50,8 @@ WebUI.setText(findTestObject('Object Repository/CourseInvite_in_Course/Page_Cour
 
 WebUI.click(findTestObject('Object Repository/CourseInvite_in_Course/Page_Course Katalon_Activity Test creation course/a_katalon cohort'))
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Object Repository/CourseInvite_in_Course/Page_Course Katalon_Activity Test creation course/input_Users_btn btn-primary btn-md center-b_e789b1'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/CourseInvite_in_Course/Page_Course Katalon_Activity Test creation course/p_Invite link Katalon_Activity Test creatio_0a2cd3'), 
@@ -57,12 +59,16 @@ WebUI.verifyElementText(findTestObject('Object Repository/CourseInvite_in_Course
 
 WebUI.click(findTestObject('Object Repository/CourseInvite_in_Course/Page_Course Katalon_Activity Test creation course/button_Ok'))
 
+WebUI.delay(3)
+
 WebUI.click(findTestObject('Object Repository/CourseInvite_in_Course/Page_Course Katalon_Activity Test creation course/svg_Invite_pr-2'))
 
 WebUI.setText(findTestObject('Object Repository/CourseInvite_in_Course/Page_Course Katalon_Activity Test creation course/input_Invite -                         Kata_7230cc'), 
     'plms880')
 
 WebUI.click(findTestObject('Object Repository/CourseInvite_in_Course/Page_Course Katalon_Activity Test creation course/a_plms 880'))
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/CourseInvite_in_Course/Page_Course Katalon_Activity Test creation course/input_plms 880_yui_3_17_2_1_1742204429966_120'))
 

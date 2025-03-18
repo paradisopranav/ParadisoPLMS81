@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_plms 880_yui_3_17_2_1_1742204429966_120</name>
+   <name>input_Require passing grade_completionpass</name>
    <tag></tag>
-   <elementGuidId>d5d54fa4-a273-4bb6-afad-d91059c5304d</elementGuidId>
+   <elementGuidId>8022617d-70d8-4fe0-a520-a9b7c6ff1596</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#yui_3_17_2_1_1742204429966_120</value>
+         <value>#id_completionpass</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[4]/div/input</value>
+         <value>//input[@id='id_completionpass']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,78 +23,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5e9f43bc-cb04-4bba-82e8-7663091b8dd5</webElementGuid>
+      <webElementGuid>e14471e1-58ba-4e3f-8c28-5e881ed118a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>0c447dc9-7d5e-40d7-b5c1-19c48c81bad0</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>1471f7c5-cea6-487e-bd18-5cfcc3916695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>completionpass</value>
+      <webElementGuid>f31beae4-c53b-4fa3-98a2-63dfd5946bbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-md center-block sharebtn popup-bottom-btn mr-2</value>
-      <webElementGuid>abd9ea5c-1495-40a2-a430-82ce00efdd6e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>Invite</value>
-      <webElementGuid>213a9b7c-cd39-4af1-8684-1c47f3e91201</webElementGuid>
+      <value>form-check-input checkboxgroupcpass</value>
+      <webElementGuid>cb15411a-8bf8-4d0e-bd8b-7a38e4e877a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>yui_3_17_2_1_1742204429966_120</value>
-      <webElementGuid>539d3a88-ddc8-45c4-a51a-653bcd05aba5</webElementGuid>
+      <value>id_completionpass</value>
+      <webElementGuid>5200116e-c221-4110-b99d-61fb3678120c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>8c8b776a-8550-4d95-b7a9-c074cc27d39b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742204429966_120&quot;)</value>
-      <webElementGuid>517a0224-a5df-4997-adb4-99440c9d4190</webElementGuid>
+      <value>id(&quot;id_completionpass&quot;)</value>
+      <webElementGuid>dd8d27ba-9f2a-4679-a95d-be52699d8e77</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='yui_3_17_2_1_1742204429966_120']</value>
-      <webElementGuid>5aa166cd-5d10-4343-aadc-5a6492fa6b45</webElementGuid>
+      <value>//input[@id='id_completionpass']</value>
+      <webElementGuid>4b4002f7-e551-45e8-9645-84eae568c007</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742204429966_121']/input</value>
-      <webElementGuid>87bdc009-19e0-4959-a99f-42ec68d02aca</webElementGuid>
+      <value>//label[@id='yui_3_17_2_1_1742283838030_3108']/input[2]</value>
+      <webElementGuid>f0811728-f090-4d02-9cdf-aca55014b757</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/input</value>
-      <webElementGuid>f8f6f7b3-5b20-429e-a241-e68bab18a15e</webElementGuid>
+      <value>//div[5]/div[2]/label/input[2]</value>
+      <webElementGuid>a93d5582-4d7a-460d-9a09-45b1821d7224</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @id = 'yui_3_17_2_1_1742204429966_120']</value>
-      <webElementGuid>6aaf97a7-15c3-429b-9955-950c95fd3f3f</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'completionpass' and @id = 'id_completionpass']</value>
+      <webElementGuid>984d518a-9447-4ac6-ae27-c5ec8a83d3d8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

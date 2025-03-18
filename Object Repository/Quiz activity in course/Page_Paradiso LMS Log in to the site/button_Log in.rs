@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Invite link Katalon_Activity Test creatio_0a2cd3_1</name>
+   <name>button_Log in</name>
    <tag></tag>
-   <elementGuidId>70d4483b-b6af-4e47-8960-6f10b8f3ca2a</elementGuidId>
+   <elementGuidId>b7b6e7e6-f10d-4d57-b702-7642f400b09e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>p.mt-2.success-msg</value>
+         <value>#loginbtn</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::p[1]</value>
+         <value>//button[@id='loginbtn']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,95 +22,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>p</value>
-      <webElementGuid>533f6bec-37f8-40f8-8ebe-e507acb25841</webElementGuid>
+      <value>button</value>
+      <webElementGuid>16e8f983-75d6-40b6-b7e4-5897bfd0676e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>d5edbc47-4f21-4456-82a4-7757b310fc75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mt-2 success-msg</value>
-      <webElementGuid>7d386823-400e-435b-9cbb-e66045a9a205</webElementGuid>
+      <value>btn btn-primary btn-block btn-round</value>
+      <webElementGuid>f6b30a81-d3dc-4539-8796-5e8f4dfb2e57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>loginbtn</value>
+      <webElementGuid>b2110d22-0340-4f10-af2c-84f5cdf43523</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Invite link Katalon_Activity Test creation course have been shared successfully.</value>
-      <webElementGuid>7a138a38-e2cf-41db-8e3c-37eb11b00b06</webElementGuid>
+      <value>Log in</value>
+      <webElementGuid>27bb3535-8776-49f3-8f52-0e1e4cf07078</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742204429966_124&quot;)/p[@class=&quot;mt-2 success-msg&quot;]</value>
-      <webElementGuid>0a4a6f5f-9c4e-4194-8206-300cd7d129cd</webElementGuid>
+      <value>id(&quot;loginbtn&quot;)</value>
+      <webElementGuid>1c2d5fad-7b80-4d3c-9fda-bd0406e921be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='loginbtn']</value>
+      <webElementGuid>c093f348-b16b-4deb-8aae-63f37c1d77ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742204429966_124']/p</value>
-      <webElementGuid>7ab87a7c-5b8d-4bd2-bdd8-6d75ad00380c</webElementGuid>
+      <value>//form[@id='login']/div[5]/div/button</value>
+      <webElementGuid>6acdbc8f-4720-4bdc-8c64-c01dcfa33b8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::p[1]</value>
-      <webElementGuid>8c374f8b-8384-4f5e-b67d-10a154e38abf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::button[1]</value>
+      <webElementGuid>be71b0ea-8426-45c3-8ab4-edcfb067e418</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::p[1]</value>
-      <webElementGuid>1eb48ea7-a2ac-4a5b-a466-609c74bcaaf8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='日本語 ‎(ja)‎'])[1]/following::button[1]</value>
+      <webElementGuid>72e3be57-edd6-4fda-891c-1494cd36cffd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/preceding::p[1]</value>
-      <webElementGuid>9f58b148-5c5c-4e69-9e09-e7d5a1b922b0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or you can join with'])[1]/preceding::button[1]</value>
+      <webElementGuid>42e4bcf3-2751-4ce3-aa5a-60ad99f4e7f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/preceding::p[2]</value>
-      <webElementGuid>545bb2e9-7a71-49ff-83de-f8c32d70d68b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Invite link Katalon_Activity Test creation course have been shared successfully.']/parent::*</value>
-      <webElementGuid>29040a81-33ef-4fc0-b4de-255d87fc896d</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
+      <webElementGuid>d9721676-10fa-43aa-bc56-7b51e1a1d4cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/p</value>
-      <webElementGuid>967ce452-6dee-4873-8e54-96c99890024f</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>7b1ad25b-9041-4faf-aee2-39e16d0a46be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = ' Invite link Katalon_Activity Test creation course have been shared successfully.' or . = ' Invite link Katalon_Activity Test creation course have been shared successfully.')]</value>
-      <webElementGuid>88f465f0-bef6-4500-89e2-6887b90329ed</webElementGuid>
+      <value>//button[@type = 'submit' and @id = 'loginbtn' and (text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>9c2de088-5d5f-417b-8339-0715eae25599</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

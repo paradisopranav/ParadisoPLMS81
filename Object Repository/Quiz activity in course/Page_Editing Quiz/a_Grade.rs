@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Invite_1</name>
+   <name>a_Grade</name>
    <tag></tag>
-   <elementGuidId>a4cff825-dc36-4a66-92e1-7c48beb000c7</elementGuidId>
+   <elementGuidId>d45acf5d-836d-4f43-81d1-46abea9dcf19</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#yui_3_17_2_1_1742204429966_100</value>
+         <value>#yui_3_17_2_1_1742283838030_3273</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Invite')]</value>
+         <value>(//a[contains(text(),'Grade')])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,156 +23,150 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b8eae074-291f-4ce1-b601-ecc505d3f1b8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-secondary col-sm-12</value>
-      <webElementGuid>d16b4b20-1454-40a3-9b45-001602fadfe0</webElementGuid>
+      <webElementGuid>924e6808-0c2c-494d-880b-54a7562c7cc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>javascript:void(0);</value>
-      <webElementGuid>8901dda9-3d5e-4b34-b063-a3991407be77</webElementGuid>
+      <value>#</value>
+      <webElementGuid>64de9a13-385e-4bcc-993d-9f6783adf4e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-toggle</name>
+      <name>class</name>
       <type>Main</type>
-      <value>modal</value>
-      <webElementGuid>3e2cd7b1-5029-4705-934d-03061a194ab2</webElementGuid>
+      <value>fheader</value>
+      <webElementGuid>9b4118d9-352a-4bf7-8915-f7bff17d9d34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-target</name>
+      <name>role</name>
       <type>Main</type>
-      <value>#share_course</value>
-      <webElementGuid>84a20cdc-7603-474a-bb8e-2840595b78c1</webElementGuid>
+      <value>button</value>
+      <webElementGuid>946bf5a7-e1e8-4164-9f01-769efc810e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>id_modstandardgrade</value>
+      <webElementGuid>49c5c62f-2227-4b0c-9885-8d93ff573b94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>42d4943e-1444-4d49-9391-f6c0100cb5ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>yui_3_17_2_1_1742204429966_100</value>
-      <webElementGuid>ffe9a37f-62f7-4b4c-9afa-ae3cbbcfdc3a</webElementGuid>
+      <value>yui_3_17_2_1_1742283838030_3273</value>
+      <webElementGuid>356ae18f-f8f2-4002-94d3-eb2b8f30a96a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                            
-                            Invite</value>
-      <webElementGuid>dd91679d-1260-465d-a919-47eff023a43a</webElementGuid>
+      <value>Grade</value>
+      <webElementGuid>9c855a71-bf69-432f-be6c-d168748096c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742204429966_100&quot;)</value>
-      <webElementGuid>2bfa5846-3a15-4699-8ec0-7ca73f64d08f</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1742283838030_3273&quot;)</value>
+      <webElementGuid>1a064900-41de-4c09-9ba5-c0e93bb12e91</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='yui_3_17_2_1_1742204429966_100']</value>
-      <webElementGuid>40b4170a-0e8c-4168-a9a3-df4d8d7ce322</webElementGuid>
+      <value>//a[@id='yui_3_17_2_1_1742283838030_3273']</value>
+      <webElementGuid>e0d2d0a9-ae5d-4ad6-a87e-6edb8c262224</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='yui_3_17_2_1_1742204429966_101']/a</value>
-      <webElementGuid>c2143c11-32fb-4a49-8b39-315794419621</webElementGuid>
+      <value>//legend[@id='yui_3_17_2_1_1742283838030_3274']/a</value>
+      <webElementGuid>bbbae2c0-f0f5-4ee1-a316-f71e7156c698</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Invite')]</value>
-      <webElementGuid>36e72214-6452-4805-9cb5-4ae497c1d4ff</webElementGuid>
+      <value>(//a[contains(text(),'Grade')])[2]</value>
+      <webElementGuid>f260d44d-b2b0-4982-b98a-28dfd1414d24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructors'])[1]/following::a[1]</value>
-      <webElementGuid>0ebf3f31-264b-4c0e-84b6-af1cd7215468</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Unit'])[2]/following::a[1]</value>
+      <webElementGuid>33a4280c-31a9-42fa-ba4a-a9388b72e10b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Features'])[1]/following::a[1]</value>
-      <webElementGuid>7bbd2c93-b96a-435f-8c7a-47b318b571d4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grade category'])[1]/preceding::a[1]</value>
+      <webElementGuid>3007ab98-d540-4102-b153-c24edb638375</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest notifications'])[1]/preceding::a[1]</value>
-      <webElementGuid>3fff4102-8491-4a75-bd74-d56efbf0b57a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grade to pass'])[1]/preceding::a[1]</value>
+      <webElementGuid>a1901bb8-f587-41d3-8514-c5c4b583b130</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No records found.'])[1]/preceding::a[1]</value>
-      <webElementGuid>c304cded-cfec-4503-8a40-f4c8ca1797e5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Invite']/parent::*</value>
-      <webElementGuid>eddb3fbf-7ed9-4509-8d0f-86464d77bd0d</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Grade']/parent::*</value>
+      <webElementGuid>7691a3cc-36cc-4d8e-8e99-a6f8a3bd702b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'javascript:void(0);')]</value>
-      <webElementGuid>b92dda20-7083-4021-9e5c-9f930343c8b2</webElementGuid>
+      <value>(//a[contains(@href, '#')])[15]</value>
+      <webElementGuid>decf6edb-297a-4a5f-b96d-8f865fbb3850</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[2]/div/span/a</value>
-      <webElementGuid>186e605a-1054-4f96-a7bb-c2d9dceddd34</webElementGuid>
+      <value>//fieldset[3]/legend/a</value>
+      <webElementGuid>a9966b31-0591-4e8c-8891-cd6ad1b5e41b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'javascript:void(0);' and @id = 'yui_3_17_2_1_1742204429966_100' and (text() = '
-                            
-                            Invite' or . = '
-                            
-                            Invite')]</value>
-      <webElementGuid>698f6a71-6731-4910-aa53-4d231380d757</webElementGuid>
+      <value>//a[@href = '#' and @id = 'yui_3_17_2_1_1742283838030_3273' and (text() = 'Grade' or . = 'Grade')]</value>
+      <webElementGuid>26680309-8dc4-4e88-ae5f-ffc06fe9d29f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_plms 880_yui_3_17_2_1_1742204429966_120</name>
+   <name>input_Add Content_search</name>
    <tag></tag>
-   <elementGuidId>d5d54fa4-a273-4bb6-afad-d91059c5304d</elementGuidId>
+   <elementGuidId>c7a9f650-4229-4e12-a2f0-fd13dc2c0ba7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#yui_3_17_2_1_1742204429966_120</value>
+         <value>#search</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[4]/div/input</value>
+         <value>//input[@id='search']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,78 +23,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5e9f43bc-cb04-4bba-82e8-7663091b8dd5</webElementGuid>
+      <webElementGuid>7cd415e3-552a-42b5-b071-71025ba683b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>0c447dc9-7d5e-40d7-b5c1-19c48c81bad0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-primary btn-md center-block sharebtn popup-bottom-btn mr-2</value>
-      <webElementGuid>abd9ea5c-1495-40a2-a430-82ce00efdd6e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>Invite</value>
-      <webElementGuid>213a9b7c-cd39-4af1-8684-1c47f3e91201</webElementGuid>
+      <value>text</value>
+      <webElementGuid>d1292da4-a36b-4592-bcbc-5645be35e72f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>yui_3_17_2_1_1742204429966_120</value>
-      <webElementGuid>539d3a88-ddc8-45c4-a51a-653bcd05aba5</webElementGuid>
+      <value>search</value>
+      <webElementGuid>7f92355a-5f85-4401-89ea-82aad8c18076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search Here</value>
+      <webElementGuid>deaed220-3b95-4aa8-8b92-58cad9b479fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formaction</name>
+      <type>Main</type>
+      <value>/elsewhere</value>
+      <webElementGuid>8af73c38-857f-46d1-b3ca-4ce012a9e51f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742204429966_120&quot;)</value>
-      <webElementGuid>517a0224-a5df-4997-adb4-99440c9d4190</webElementGuid>
+      <value>id(&quot;search&quot;)</value>
+      <webElementGuid>42c4034f-288b-484b-9ffa-9259c0153bd9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='yui_3_17_2_1_1742204429966_120']</value>
-      <webElementGuid>5aa166cd-5d10-4343-aadc-5a6492fa6b45</webElementGuid>
+      <value>//input[@id='search']</value>
+      <webElementGuid>9dd3c3a8-fdda-4cd3-af1b-5d72bc11f7fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742204429966_121']/input</value>
-      <webElementGuid>87bdc009-19e0-4959-a99f-42ec68d02aca</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1742283812905_981']/input</value>
+      <webElementGuid>a3a7fe9d-d814-4f18-8a4d-960de2dfcfcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/input</value>
-      <webElementGuid>f8f6f7b3-5b20-429e-a241-e68bab18a15e</webElementGuid>
+      <value>//div[2]/div[2]/div/div/input</value>
+      <webElementGuid>114caf2d-afa1-4cd5-bfab-aa22158368cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @id = 'yui_3_17_2_1_1742204429966_120']</value>
-      <webElementGuid>6aaf97a7-15c3-429b-9955-950c95fd3f3f</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'search' and @placeholder = 'Search Here']</value>
+      <webElementGuid>2d9ba9de-48ed-41e4-82df-fb81d1b77083</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

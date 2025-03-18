@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_plms 880_yui_3_17_2_1_1742204429966_120</name>
+   <name>input_(ja)_keepmeloggedin</name>
    <tag></tag>
-   <elementGuidId>d5d54fa4-a273-4bb6-afad-d91059c5304d</elementGuidId>
+   <elementGuidId>f7420754-9d1a-4d11-b8de-a4ae4b98fb4e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#yui_3_17_2_1_1742204429966_120</value>
+         <value>#keepmeloggedin</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[4]/div/input</value>
+         <value>//input[@id='keepmeloggedin']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,78 +23,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5e9f43bc-cb04-4bba-82e8-7663091b8dd5</webElementGuid>
+      <webElementGuid>35c5c2d5-9f4c-410e-9ab6-311572bb2ff3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>0c447dc9-7d5e-40d7-b5c1-19c48c81bad0</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>8169b512-2a86-466e-8ae4-63d16c2e00bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>name</name>
       <type>Main</type>
-      <value>btn btn-primary btn-md center-block sharebtn popup-bottom-btn mr-2</value>
-      <webElementGuid>abd9ea5c-1495-40a2-a430-82ce00efdd6e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>Invite</value>
-      <webElementGuid>213a9b7c-cd39-4af1-8684-1c47f3e91201</webElementGuid>
+      <value>keepmeloggedin</value>
+      <webElementGuid>82b70ae7-b3e5-4ac3-a20a-6073183e0ebf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>yui_3_17_2_1_1742204429966_120</value>
-      <webElementGuid>539d3a88-ddc8-45c4-a51a-653bcd05aba5</webElementGuid>
+      <value>keepmeloggedin</value>
+      <webElementGuid>aff0190b-f04f-4a3e-aef8-9270297b5f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>af361e38-8d4d-416f-9589-d06beff4dd0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742204429966_120&quot;)</value>
-      <webElementGuid>517a0224-a5df-4997-adb4-99440c9d4190</webElementGuid>
+      <value>id(&quot;keepmeloggedin&quot;)</value>
+      <webElementGuid>82f2c82b-3224-40c9-b59d-78589f819005</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='yui_3_17_2_1_1742204429966_120']</value>
-      <webElementGuid>5aa166cd-5d10-4343-aadc-5a6492fa6b45</webElementGuid>
+      <value>//input[@id='keepmeloggedin']</value>
+      <webElementGuid>a2e082de-0ff2-40d9-930e-97a2116894ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742204429966_121']/input</value>
-      <webElementGuid>87bdc009-19e0-4959-a99f-42ec68d02aca</webElementGuid>
+      <value>//form[@id='login']/div[4]/input</value>
+      <webElementGuid>9d27eb95-e8a6-46d8-9d9b-10e4c97fb356</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/input</value>
-      <webElementGuid>f8f6f7b3-5b20-429e-a241-e68bab18a15e</webElementGuid>
+      <value>//div[4]/input</value>
+      <webElementGuid>a715d7f1-464d-4ba1-b5b4-5aed408a1195</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @id = 'yui_3_17_2_1_1742204429966_120']</value>
-      <webElementGuid>6aaf97a7-15c3-429b-9955-950c95fd3f3f</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'keepmeloggedin' and @id = 'keepmeloggedin']</value>
+      <webElementGuid>58b4153a-d8e5-43f9-a672-29baa2e232ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

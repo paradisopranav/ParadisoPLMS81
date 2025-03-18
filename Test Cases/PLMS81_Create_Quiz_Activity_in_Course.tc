@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Create_Quiz_Activity_in_Course</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5fb8f872-c5f2-46a6-9cf7-cda830a45de2</testCaseGuid>
+</TestCaseEntity>

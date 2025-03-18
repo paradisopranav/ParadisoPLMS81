@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_plms 880_yui_3_17_2_1_1742204429966_120</name>
+   <name>input_Name_name</name>
    <tag></tag>
-   <elementGuidId>d5d54fa4-a273-4bb6-afad-d91059c5304d</elementGuidId>
+   <elementGuidId>58902f77-f0a9-4f1d-a090-14cdc97768d7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#yui_3_17_2_1_1742204429966_120</value>
+         <value>#id_name</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[4]/div/input</value>
+         <value>//input[@id='id_name']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,78 +23,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5e9f43bc-cb04-4bba-82e8-7663091b8dd5</webElementGuid>
+      <webElementGuid>e66cbd3d-a3a4-4d44-a27b-cc2d74894d8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>0c447dc9-7d5e-40d7-b5c1-19c48c81bad0</webElementGuid>
+      <value>text</value>
+      <webElementGuid>97ba49e9-5148-47da-abb1-7f280a8933cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-md center-block sharebtn popup-bottom-btn mr-2</value>
-      <webElementGuid>abd9ea5c-1495-40a2-a430-82ce00efdd6e</webElementGuid>
+      <value>form-control </value>
+      <webElementGuid>83d38223-b04a-4309-aecf-469abc7f56f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>name</name>
       <type>Main</type>
-      <value>Invite</value>
-      <webElementGuid>213a9b7c-cd39-4af1-8684-1c47f3e91201</webElementGuid>
+      <value>name</value>
+      <webElementGuid>f67de08c-8a1e-477c-a638-9149abdb4b68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>yui_3_17_2_1_1742204429966_120</value>
-      <webElementGuid>539d3a88-ddc8-45c4-a51a-653bcd05aba5</webElementGuid>
+      <value>id_name</value>
+      <webElementGuid>93ed4b11-d98c-49d2-819b-eb46aaddfd9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>50</value>
+      <webElementGuid>763c1c3e-0310-49c3-ba59-b09b96981330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>254</value>
+      <webElementGuid>9dcc7ada-ef2f-4e7e-9032-bcbf9a8f73fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742204429966_120&quot;)</value>
-      <webElementGuid>517a0224-a5df-4997-adb4-99440c9d4190</webElementGuid>
+      <value>id(&quot;id_name&quot;)</value>
+      <webElementGuid>c077e1e0-b7b5-4b9f-bf76-7c8f7928e360</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='yui_3_17_2_1_1742204429966_120']</value>
-      <webElementGuid>5aa166cd-5d10-4343-aadc-5a6492fa6b45</webElementGuid>
+      <value>//input[@id='id_name']</value>
+      <webElementGuid>4cd29c7f-0a8d-4bf2-9ec8-b8d9cec6b532</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742204429966_121']/input</value>
-      <webElementGuid>87bdc009-19e0-4959-a99f-42ec68d02aca</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1742287070120_408']/input</value>
+      <webElementGuid>e93ed133-a0b3-46c9-8eb3-1b80da89daa8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/input</value>
-      <webElementGuid>f8f6f7b3-5b20-429e-a241-e68bab18a15e</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>00e9d358-9e7f-4584-af96-580dbfce8727</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @id = 'yui_3_17_2_1_1742204429966_120']</value>
-      <webElementGuid>6aaf97a7-15c3-429b-9955-950c95fd3f3f</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'name' and @id = 'id_name']</value>
+      <webElementGuid>85cdc2ac-cff6-4862-9e09-0125655bf984</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

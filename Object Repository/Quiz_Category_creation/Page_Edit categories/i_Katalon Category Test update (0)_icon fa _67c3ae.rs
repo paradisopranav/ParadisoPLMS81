@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Katalon Category Test update (0)_icon fa _67c3ae</name>
+   <tag></tag>
+   <elementGuidId>cd82b84e-38db-4a00-ad4d-fa1624c1f93a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Delete&quot;] > i.icon.fa.fa-trash.fa-fw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul//a[@title=&quot;Delete&quot; and contains(@href, &quot;question/category.php?courseid=&quot;)])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>dcc20e27-ff44-491f-9b2c-970d796dde10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-trash fa-fw </value>
+      <webElementGuid>df3bd2c8-e8f0-4e04-a8e2-d15250bd7c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>905cc3de-6ec5-41a4-896d-bab71222bc2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>253e36a6-b01b-417f-993e-6df156002ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1742287115640_49&quot;)/div[@class=&quot;box py-3 boxwidthwide boxaligncenter generalbox questioncategories contextlevel50&quot;]/ul[1]/li[1]/ul[1]/li[1]/a[1]/i[@class=&quot;icon fa fa-trash fa-fw&quot;]</value>
+      <webElementGuid>2ed130f4-fe24-48de-b89c-6cbd906e7e63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1742287115640_49']/div[2]/ul/li/ul/li/a/i</value>
+      <webElementGuid>cff280dd-3688-4550-9517-24e0a5e4dc86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/a/i</value>
+      <webElementGuid>bb043319-4ac8-4969-bb77-6044321fda29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Delete']</value>
+      <webElementGuid>def22713-7927-47f5-8d25-380ae501829b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

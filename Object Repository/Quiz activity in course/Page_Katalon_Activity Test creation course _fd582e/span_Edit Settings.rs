@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Invite link Katalon_Activity Test creatio_0a2cd3_1</name>
+   <name>span_Edit Settings</name>
    <tag></tag>
-   <elementGuidId>70d4483b-b6af-4e47-8960-6f10b8f3ca2a</elementGuidId>
+   <elementGuidId>a389c57c-98db-448e-9af6-5fc3d5ad4dfb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>p.mt-2.success-msg</value>
+         <value>#actionmenuaction-14</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::p[1]</value>
+         <value>//span[@id='actionmenuaction-14']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,95 +22,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>p</value>
-      <webElementGuid>533f6bec-37f8-40f8-8ebe-e507acb25841</webElementGuid>
+      <value>span</value>
+      <webElementGuid>5ac66d56-3337-468e-b615-180385896d1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mt-2 success-msg</value>
-      <webElementGuid>7d386823-400e-435b-9cbb-e66045a9a205</webElementGuid>
+      <value>menu-action-text</value>
+      <webElementGuid>94df34e5-c9ca-4fae-9fd7-6f0b96e1ea65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actionmenuaction-14</value>
+      <webElementGuid>c92e5968-875a-406f-a48f-63d182de2a05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Invite link Katalon_Activity Test creation course have been shared successfully.</value>
-      <webElementGuid>7a138a38-e2cf-41db-8e3c-37eb11b00b06</webElementGuid>
+      <value>Edit Settings</value>
+      <webElementGuid>92c54cc3-bfb1-4750-86dc-34fde2251fac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742204429966_124&quot;)/p[@class=&quot;mt-2 success-msg&quot;]</value>
-      <webElementGuid>0a4a6f5f-9c4e-4194-8206-300cd7d129cd</webElementGuid>
+      <value>id(&quot;actionmenuaction-14&quot;)</value>
+      <webElementGuid>8a8a198a-2999-41e6-9f81-3ca66219ac06</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='actionmenuaction-14']</value>
+      <webElementGuid>298cdae5-30f5-4c2e-9a09-f500057b8a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742204429966_124']/p</value>
-      <webElementGuid>7ab87a7c-5b8d-4bd2-bdd8-6d75ad00380c</webElementGuid>
+      <value>//a[@id='yui_3_17_2_1_1742283910137_581']/span</value>
+      <webElementGuid>c2dc5b2d-ae9a-4617-8131-d8146fad429a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::p[1]</value>
-      <webElementGuid>8c374f8b-8384-4f5e-b67d-10a154e38abf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Topic'])[1]/following::span[4]</value>
+      <webElementGuid>69ac071d-ea59-49cf-9e01-829d01ba2045</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::p[1]</value>
-      <webElementGuid>1eb48ea7-a2ac-4a5b-a466-609c74bcaaf8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide Topic'])[1]/following::span[5]</value>
+      <webElementGuid>27702d60-9e27-4de8-8a07-1c1bdca48310</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/preceding::p[1]</value>
-      <webElementGuid>9f58b148-5c5c-4e69-9e09-e7d5a1b922b0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Right'])[2]/preceding::span[1]</value>
+      <webElementGuid>93bbacdb-5770-4255-868e-c22c0d540185</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/preceding::p[2]</value>
-      <webElementGuid>545bb2e9-7a71-49ff-83de-f8c32d70d68b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Invite link Katalon_Activity Test creation course have been shared successfully.']/parent::*</value>
-      <webElementGuid>29040a81-33ef-4fc0-b4de-255d87fc896d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Left'])[2]/preceding::span[2]</value>
+      <webElementGuid>76056272-c186-4bae-9420-0e6a31218a09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/p</value>
-      <webElementGuid>967ce452-6dee-4873-8e54-96c99890024f</webElementGuid>
+      <value>//li[2]/div/ul/li/div/div/div[2]/span/div/div/div/div/a/span</value>
+      <webElementGuid>12b3f317-0f2c-469c-bd58-2826fd2a5574</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = ' Invite link Katalon_Activity Test creation course have been shared successfully.' or . = ' Invite link Katalon_Activity Test creation course have been shared successfully.')]</value>
-      <webElementGuid>88f465f0-bef6-4500-89e2-6887b90329ed</webElementGuid>
+      <value>//span[@id = 'actionmenuaction-14' and (text() = 'Edit Settings' or . = 'Edit Settings')]</value>
+      <webElementGuid>725b8bb7-4f8c-4252-9b18-93613103a1ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

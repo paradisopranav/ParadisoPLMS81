@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Invite_1</name>
+   <name>a_Timing_1</name>
    <tag></tag>
-   <elementGuidId>a4cff825-dc36-4a66-92e1-7c48beb000c7</elementGuidId>
+   <elementGuidId>e8d6393b-9bac-4e65-ab05-774a39d59f3d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#yui_3_17_2_1_1742204429966_100</value>
+         <value>#yui_3_17_2_1_1742283920543_2790</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Invite')]</value>
+         <value>//a[contains(text(),'Timing')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,156 +23,150 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b8eae074-291f-4ce1-b601-ecc505d3f1b8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-secondary col-sm-12</value>
-      <webElementGuid>d16b4b20-1454-40a3-9b45-001602fadfe0</webElementGuid>
+      <webElementGuid>e35daa2d-887c-4118-b7e3-7be8278b9978</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>javascript:void(0);</value>
-      <webElementGuid>8901dda9-3d5e-4b34-b063-a3991407be77</webElementGuid>
+      <value>#</value>
+      <webElementGuid>28e1388b-382d-48ea-8b1d-6246dad0230e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-toggle</name>
+      <name>class</name>
       <type>Main</type>
-      <value>modal</value>
-      <webElementGuid>3e2cd7b1-5029-4705-934d-03061a194ab2</webElementGuid>
+      <value>fheader</value>
+      <webElementGuid>00de4adb-99aa-4ab8-8523-d4a669413488</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-target</name>
+      <name>role</name>
       <type>Main</type>
-      <value>#share_course</value>
-      <webElementGuid>84a20cdc-7603-474a-bb8e-2840595b78c1</webElementGuid>
+      <value>button</value>
+      <webElementGuid>c9427ae3-f38f-4d90-9a1a-b1e859201646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>id_timing</value>
+      <webElementGuid>706435f8-2487-4f06-be23-62240f7306e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b6107e75-d22f-47d2-b494-46c4f7494e7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>yui_3_17_2_1_1742204429966_100</value>
-      <webElementGuid>ffe9a37f-62f7-4b4c-9afa-ae3cbbcfdc3a</webElementGuid>
+      <value>yui_3_17_2_1_1742283920543_2790</value>
+      <webElementGuid>a5516776-28eb-4f26-bbef-06ae104a96af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                            
-                            Invite</value>
-      <webElementGuid>dd91679d-1260-465d-a919-47eff023a43a</webElementGuid>
+      <value>Timing</value>
+      <webElementGuid>c90acf77-96ad-41b3-b4cd-7e924a5f9c27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742204429966_100&quot;)</value>
-      <webElementGuid>2bfa5846-3a15-4699-8ec0-7ca73f64d08f</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1742283920543_2790&quot;)</value>
+      <webElementGuid>2a858251-7474-41df-ac0a-73ee981efa4b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='yui_3_17_2_1_1742204429966_100']</value>
-      <webElementGuid>40b4170a-0e8c-4168-a9a3-df4d8d7ce322</webElementGuid>
+      <value>//a[@id='yui_3_17_2_1_1742283920543_2790']</value>
+      <webElementGuid>0e09359c-c803-44be-a78c-0da6388ff1b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='yui_3_17_2_1_1742204429966_101']/a</value>
-      <webElementGuid>c2143c11-32fb-4a49-8b39-315794419621</webElementGuid>
+      <value>//legend[@id='yui_3_17_2_1_1742283920543_2791']/a</value>
+      <webElementGuid>83d98cd7-04b8-460a-ab65-71138ca62b50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Invite')]</value>
-      <webElementGuid>36e72214-6452-4805-9cb5-4ae497c1d4ff</webElementGuid>
+      <value>//a[contains(text(),'Timing')]</value>
+      <webElementGuid>70379499-c7d4-41f4-b933-876733e52e0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructors'])[1]/following::a[1]</value>
-      <webElementGuid>0ebf3f31-264b-4c0e-84b6-af1cd7215468</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::a[1]</value>
+      <webElementGuid>c4f7053b-480a-4711-a2d2-295a79679d6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Features'])[1]/following::a[1]</value>
-      <webElementGuid>7bbd2c93-b96a-435f-8c7a-47b318b571d4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open the quiz'])[1]/preceding::a[1]</value>
+      <webElementGuid>e675c6e4-2fc3-44ff-96cd-65a2a83582b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest notifications'])[1]/preceding::a[1]</value>
-      <webElementGuid>3fff4102-8491-4a75-bd74-d56efbf0b57a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open the quiz'])[2]/preceding::a[1]</value>
+      <webElementGuid>e6e109e8-8918-489e-b482-577279b492c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No records found.'])[1]/preceding::a[1]</value>
-      <webElementGuid>c304cded-cfec-4503-8a40-f4c8ca1797e5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Invite']/parent::*</value>
-      <webElementGuid>eddb3fbf-7ed9-4509-8d0f-86464d77bd0d</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Timing']/parent::*</value>
+      <webElementGuid>afe982a0-f551-4bb2-814f-d89928c65d9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'javascript:void(0);')]</value>
-      <webElementGuid>b92dda20-7083-4021-9e5c-9f930343c8b2</webElementGuid>
+      <value>(//a[contains(@href, '#')])[13]</value>
+      <webElementGuid>df7c504b-b641-4310-9dba-35db5c99871f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[2]/div/span/a</value>
-      <webElementGuid>186e605a-1054-4f96-a7bb-c2d9dceddd34</webElementGuid>
+      <value>//fieldset[2]/legend/a</value>
+      <webElementGuid>9f47eabd-e64c-4af8-9bda-50fd47e3c657</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'javascript:void(0);' and @id = 'yui_3_17_2_1_1742204429966_100' and (text() = '
-                            
-                            Invite' or . = '
-                            
-                            Invite')]</value>
-      <webElementGuid>698f6a71-6731-4910-aa53-4d231380d757</webElementGuid>
+      <value>//a[@href = '#' and @id = 'yui_3_17_2_1_1742283920543_2790' and (text() = 'Timing' or . = 'Timing')]</value>
+      <webElementGuid>59e1f0e8-dee3-4a25-ba7e-389da07ae858</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Invite_1</name>
+   <name>a_Activity Completion</name>
    <tag></tag>
-   <elementGuidId>a4cff825-dc36-4a66-92e1-7c48beb000c7</elementGuidId>
+   <elementGuidId>1b1ceb9f-efee-49c5-ab0a-cdcc2c04501d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#yui_3_17_2_1_1742204429966_100</value>
+         <value>#yui_3_17_2_1_1742283838030_3294</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Invite')]</value>
+         <value>//a[contains(text(),'Activity Completion')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,156 +23,158 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b8eae074-291f-4ce1-b601-ecc505d3f1b8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-secondary col-sm-12</value>
-      <webElementGuid>d16b4b20-1454-40a3-9b45-001602fadfe0</webElementGuid>
+      <webElementGuid>c3394783-100f-45e6-ad06-6565808f6e02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>javascript:void(0);</value>
-      <webElementGuid>8901dda9-3d5e-4b34-b063-a3991407be77</webElementGuid>
+      <value>#</value>
+      <webElementGuid>dcd772ff-e361-490a-8e8c-f232311abe19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-toggle</name>
+      <name>class</name>
       <type>Main</type>
-      <value>modal</value>
-      <webElementGuid>3e2cd7b1-5029-4705-934d-03061a194ab2</webElementGuid>
+      <value>fheader</value>
+      <webElementGuid>7e8a970b-2a0b-4263-9c04-9b9c207b7d86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-target</name>
+      <name>role</name>
       <type>Main</type>
-      <value>#share_course</value>
-      <webElementGuid>84a20cdc-7603-474a-bb8e-2840595b78c1</webElementGuid>
+      <value>button</value>
+      <webElementGuid>47ac79ca-1525-48f4-87d2-f16a50100512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>id_activitycompletionheader</value>
+      <webElementGuid>58266067-dcf4-4712-9062-83abb382ec5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0ebb720c-96d2-44d6-ae69-22739d536649</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>yui_3_17_2_1_1742204429966_100</value>
-      <webElementGuid>ffe9a37f-62f7-4b4c-9afa-ae3cbbcfdc3a</webElementGuid>
+      <value>yui_3_17_2_1_1742283838030_3294</value>
+      <webElementGuid>566f9630-4052-4576-8783-28234c548360</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                            
-                            Invite</value>
-      <webElementGuid>dd91679d-1260-465d-a919-47eff023a43a</webElementGuid>
+      <value>Activity Completion</value>
+      <webElementGuid>b9e841d2-9d37-4191-be91-d88a2e483d27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742204429966_100&quot;)</value>
-      <webElementGuid>2bfa5846-3a15-4699-8ec0-7ca73f64d08f</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1742283838030_3294&quot;)</value>
+      <webElementGuid>6dbc39c7-9ddf-452c-9195-328c2cd94ba9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='yui_3_17_2_1_1742204429966_100']</value>
-      <webElementGuid>40b4170a-0e8c-4168-a9a3-df4d8d7ce322</webElementGuid>
+      <value>//a[@id='yui_3_17_2_1_1742283838030_3294']</value>
+      <webElementGuid>8e0c6b1a-be2a-4aea-b417-b8245fe0e722</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='yui_3_17_2_1_1742204429966_101']/a</value>
-      <webElementGuid>c2143c11-32fb-4a49-8b39-315794419621</webElementGuid>
+      <value>//legend[@id='yui_3_17_2_1_1742283838030_3295']/a</value>
+      <webElementGuid>b57f5123-9973-4df1-a037-7991b6507356</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Invite')]</value>
-      <webElementGuid>36e72214-6452-4805-9cb5-4ae497c1d4ff</webElementGuid>
+      <value>//a[contains(text(),'Activity Completion')]</value>
+      <webElementGuid>c4cccc2b-5d77-4263-bf34-3f36204bd384</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructors'])[1]/following::a[1]</value>
-      <webElementGuid>0ebf3f31-264b-4c0e-84b6-af1cd7215468</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add restriction...'])[1]/following::a[1]</value>
+      <webElementGuid>74deffd0-085a-49a8-9725-9bc004116af1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Features'])[1]/following::a[1]</value>
-      <webElementGuid>7bbd2c93-b96a-435f-8c7a-47b318b571d4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[3]/following::a[1]</value>
+      <webElementGuid>6d872a30-4aba-4ca0-bd50-5675f37313b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest notifications'])[1]/preceding::a[1]</value>
-      <webElementGuid>3fff4102-8491-4a75-bd74-d56efbf0b57a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completion tracking'])[1]/preceding::a[1]</value>
+      <webElementGuid>69415350-be72-4dce-a821-1963baab4f96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No records found.'])[1]/preceding::a[1]</value>
-      <webElementGuid>c304cded-cfec-4503-8a40-f4c8ca1797e5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Require View'])[1]/preceding::a[1]</value>
+      <webElementGuid>728d1e97-18f1-4536-b765-a572ef59e9ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Invite']/parent::*</value>
-      <webElementGuid>eddb3fbf-7ed9-4509-8d0f-86464d77bd0d</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Activity Completion']/parent::*</value>
+      <webElementGuid>b2b89fc2-3586-4f73-ae6c-6a0231d7e9c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'javascript:void(0);')]</value>
-      <webElementGuid>b92dda20-7083-4021-9e5c-9f930343c8b2</webElementGuid>
+      <value>(//a[contains(@href, '#')])[61]</value>
+      <webElementGuid>d5046403-11e1-42f1-b14a-bb58b65b82aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[2]/div/span/a</value>
-      <webElementGuid>186e605a-1054-4f96-a7bb-c2d9dceddd34</webElementGuid>
+      <value>//fieldset[14]/legend/a</value>
+      <webElementGuid>dcfcc193-4d0c-4da9-a813-430fcd38c24e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'javascript:void(0);' and @id = 'yui_3_17_2_1_1742204429966_100' and (text() = '
-                            
-                            Invite' or . = '
-                            
-                            Invite')]</value>
-      <webElementGuid>698f6a71-6731-4910-aa53-4d231380d757</webElementGuid>
+      <value>//a[@href = '#' and @id = 'yui_3_17_2_1_1742283838030_3294' and (text() = 'Activity Completion' or . = 'Activity Completion')]</value>
+      <webElementGuid>133534a4-3e94-437f-b345-3acee640359b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
