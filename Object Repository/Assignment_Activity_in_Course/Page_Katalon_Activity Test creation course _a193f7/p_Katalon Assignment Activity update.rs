@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Katalon Assignment Activity update</name>
+   <tag></tag>
+   <elementGuidId>8c757b9a-c591-4928-93eb-8b60a06efd67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1742367327538_570</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@title='Katalon Assignment Activity update' and text()='Katalon Assignment Activity update']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>21aafd58-3d6d-42b1-a07d-02d2ff4461ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Katalon Assignment Activity update</value>
+      <webElementGuid>c4490699-0de8-4354-b7e5-2f46f1c41a96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_3_17_2_1_1742367327538_570</value>
+      <webElementGuid>366afec2-a925-4d21-ab6d-e4d7d872798f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon Assignment Activity update</value>
+      <webElementGuid>818eebe1-b8ac-4a81-b0d1-733575b223d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1742367327538_570&quot;)</value>
+      <webElementGuid>2bfb4c0c-63ab-4015-8f3a-ce8a974bfa14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='yui_3_17_2_1_1742367327538_570']</value>
+      <webElementGuid>5c0f1551-8a65-4cc0-bd8f-1bb411efb472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='yui_3_17_2_1_1742367327538_571']/p</value>
+      <webElementGuid>8bd480d2-4236-4b0b-96ff-a6a873a48581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Topic'])[1]/following::p[1]</value>
+      <webElementGuid>f63e8960-6fce-405f-a43c-c22b00a6c675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide Topic'])[1]/following::p[1]</value>
+      <webElementGuid>803aee7a-ee0d-499a-8d70-e47ed65f9c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Settings'])[2]/preceding::p[1]</value>
+      <webElementGuid>aec5525d-faa6-4edd-8fc3-bf501374642d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Right'])[2]/preceding::p[1]</value>
+      <webElementGuid>f4dbb82d-73fa-4d64-811f-c5bcc215d6cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Katalon Assignment Activity update']/parent::*</value>
+      <webElementGuid>fb970349-45e9-4f52-90c0-41fc5da4a739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/ul/li/div/div/div[2]/div/a/span/p</value>
+      <webElementGuid>1f18665c-b382-42c3-a539-1e8e8e646bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@title = 'Katalon Assignment Activity update' and @id = 'yui_3_17_2_1_1742367327538_570' and (text() = 'Katalon Assignment Activity update' or . = 'Katalon Assignment Activity update')]</value>
+      <webElementGuid>fad28aad-9a11-458b-881a-d89bbe821e8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View all submissions</name>
+   <tag></tag>
+   <elementGuidId>f32d463b-d2e6-47fa-b81b-e0b1ecc3945b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1742367342797_2352</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignment: Katalon Assignment Activity update'])[1]/following::a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0a06b473-f6d7-4558-bacb-38e38bad61c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://plms-php81.paradisolms.net/mod/assign/view.php?id=9731&amp;action=grading</value>
+      <webElementGuid>dd1b0020-f29c-4c78-b343-8e601a9b6b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>View all submissions</value>
+      <webElementGuid>dcc39c32-6c16-400c-a40f-9d1bcb1bf6cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_3_17_2_1_1742367342797_2352</value>
+      <webElementGuid>b2188f6e-f193-4b06-b6e6-86016e847a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View all submissions</value>
+      <webElementGuid>3b35cb48-dcb6-4cdf-9f81-7d5eebca8c53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1742367342797_2352&quot;)</value>
+      <webElementGuid>3228ea3e-bc05-4c01-99ec-d7e22125d2df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1742367342797_2352']</value>
+      <webElementGuid>513d0c28-3700-400d-9247-09dd41281416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1742367342797_2353']/a[4]</value>
+      <webElementGuid>650638b6-f456-48fe-bba2-8f3dbfe96b88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View all submissions')]</value>
+      <webElementGuid>1f583176-187e-45ad-aaf5-93c018a049f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignment: Katalon Assignment Activity update'])[1]/following::a[2]</value>
+      <webElementGuid>b92fa48e-36a4-4beb-a32c-da0524128439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course: Katalon_Activity Test creation course'])[1]/following::a[3]</value>
+      <webElementGuid>eaafe416-f11b-46d3-a1cb-12d5bca70145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='support@paradisosoftware.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>1d0c6a5b-5449-4f50-b36d-93b9064612bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View all submissions']/parent::*</value>
+      <webElementGuid>42e2fc1f-11cc-4275-84c9-1d1e7fdd3a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/mod/assign/view.php?id=9731&amp;action=grading')]</value>
+      <webElementGuid>d3baac6f-eb63-42d1-ab34-8e9594b57cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>dd9e613e-5a4c-428a-b823-3190233eab49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://plms-php81.paradisolms.net/mod/assign/view.php?id=9731&amp;action=grading' and @title = 'View all submissions' and @id = 'yui_3_17_2_1_1742367342797_2352' and (text() = 'View all submissions' or . = 'View all submissions')]</value>
+      <webElementGuid>d59dbbc6-c475-4116-bf0e-187b8ea40f17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

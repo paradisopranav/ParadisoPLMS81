@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Grade</name>
+   <tag></tag>
+   <elementGuidId>a5014355-b122-47db-b7a9-d20143b83932</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mod_assign_grading_r0_c5 > a.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='mod_assign_grading_r0_c5']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4298b066-9c19-4635-96ce-8da2d47756a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://plms-php81.paradisolms.net/mod/assign/view.php?id=9731&amp;rownum=0&amp;action=grader&amp;userid=2</value>
+      <webElementGuid>ad5cb715-7248-4aea-b850-597d0fe7bae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>fe74243d-b651-4a2e-9c73-9ff6cb5ffec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grade</value>
+      <webElementGuid>746c95f9-b27f-41e0-b401-e30c866ff9bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mod_assign_grading_r0_c5&quot;)/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>737f73cc-3753-4d80-88de-0eb14e520281</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='mod_assign_grading_r0_c5']/a</value>
+      <webElementGuid>14958946-7d37-4a40-b5bc-8a45eab74c29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Grade')])[3]</value>
+      <webElementGuid>ee794cde-d5a9-4547-8300-980e744ff2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No submission'])[1]/following::a[1]</value>
+      <webElementGuid>c997811d-7633-420e-bd53-a8b8e4abbc6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grade'])[2]/preceding::a[2]</value>
+      <webElementGuid>48285f3d-018f-469a-a858-3a5e992583df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prevent submission changes'])[1]/preceding::a[3]</value>
+      <webElementGuid>b6fa3740-8b31-4faa-b07b-67b7dd174221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/mod/assign/view.php?id=9731&amp;rownum=0&amp;action=grader&amp;userid=2')]</value>
+      <webElementGuid>165e616a-dd42-4f2f-962b-2a4ea1c608da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a</value>
+      <webElementGuid>9964cdf0-8556-41be-9992-280fa875e55b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://plms-php81.paradisolms.net/mod/assign/view.php?id=9731&amp;rownum=0&amp;action=grader&amp;userid=2' and (text() = 'Grade' or . = 'Grade')]</value>
+      <webElementGuid>7a96eba8-7610-4c9a-9ef4-e12620f6b750</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
