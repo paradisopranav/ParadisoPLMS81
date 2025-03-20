@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_List of SchedulesAdd Add ColumnsAdd Fil_7d0c0f</name>
+   <tag></tag>
+   <elementGuidId>95a8d42e-bc6c-446f-9ba3-b6aa8dfea8fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='region-main']/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content-title-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b99c048d-6de2-4894-9a5d-9930c3fa3dc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-title-inner</value>
+      <webElementGuid>ac302232-7f6a-44d0-8cca-161d9e3d3f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>List of SchedulesAdd Add ColumnsAdd FilterReport SettingsEdit ReportFiltersSchedule ReportDelete Report</value>
+      <webElementGuid>ff85350f-a302-4306-9147-d279b59f0360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/div[@class=&quot;row no-padding inner-report&quot;]/div[@class=&quot;col-md-8 button-space p-0&quot;]/div[@class=&quot;content-title-inner&quot;]</value>
+      <webElementGuid>fc8e8535-f654-4c78-b2f5-afe0086aa1f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='region-main']/div/div/div/div[2]/div</value>
+      <webElementGuid>402d2fd2-d61a-41fb-8844-d06ccbcfe6db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sheduled report -Katalon script'])[2]/following::div[2]</value>
+      <webElementGuid>144241e4-c751-4628-9b39-256bc53151e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Uploaded Successfully'])[1]/following::div[13]</value>
+      <webElementGuid>3810a25a-d3e7-49fc-ad47-e2dd16f87937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div[2]/div</value>
+      <webElementGuid>1173a5ab-b7f0-4022-bf0e-6ae6960d01d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'List of SchedulesAdd Add ColumnsAdd FilterReport SettingsEdit ReportFiltersSchedule ReportDelete Report' or . = 'List of SchedulesAdd Add ColumnsAdd FilterReport SettingsEdit ReportFiltersSchedule ReportDelete Report')]</value>
+      <webElementGuid>b1c85d9b-ec1d-47db-a388-07cb6ecdc5eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

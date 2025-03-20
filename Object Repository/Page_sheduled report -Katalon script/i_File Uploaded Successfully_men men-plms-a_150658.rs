@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_File Uploaded Successfully_men men-plms-a_150658</name>
+   <tag></tag>
+   <elementGuidId>1f2575ef-be48-47ff-b10d-cb4d765fcb7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yui_3_17_2_1_1742384292091_18']/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.men.men-plms-arrow-small-left.btn-back</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1d1ed977-5377-4bcd-a1d5-4b746547ab13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>men men-plms-arrow-small-left btn-back</value>
+      <webElementGuid>eab18536-d86c-48dd-a4ed-4e27fc020565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>60bbe94d-8e48-4f53-ba69-ee5be974df05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1742384292091_18&quot;)/div[@class=&quot;col-md-4 p-0&quot;]/div[@class=&quot;content-title&quot;]/a[1]/i[@class=&quot;men men-plms-arrow-small-left btn-back&quot;]</value>
+      <webElementGuid>23064918-2bcf-44f2-8350-0b9434aa620b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1742384292091_18']/div/div/a/i</value>
+      <webElementGuid>e37c58ea-ab65-41bf-99dd-e6152117993d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div/a/i</value>
+      <webElementGuid>58ffcec3-fcc3-4d45-9324-15a4538729c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

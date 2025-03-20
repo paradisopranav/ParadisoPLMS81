@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Thursday,Mar-20-2025 000_fa fa-trash</name>
+   <tag></tag>
+   <elementGuidId>c58f2b3b-f6ba-4a60-b095-026aa6ac55cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='report-schedule']/div/div/div[2]/table/tbody/tr/td[5]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>20a99c4f-eded-450c-9e63-d6eb10071484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-trash</value>
+      <webElementGuid>a0e336d7-e749-4026-909f-768866284c77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report-schedule&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/table[@class=&quot;generaltable&quot;]/tbody[1]/tr[@class=&quot;lastrow&quot;]/td[@class=&quot;cell c4 lastcol&quot;]/a[@class=&quot;schedule_del&quot;]/i[@class=&quot;fa fa-trash&quot;]</value>
+      <webElementGuid>1272caf5-bdcd-4452-8c4b-59753b096ad8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report-schedule']/div/div/div[2]/table/tbody/tr/td[5]/a/i</value>
+      <webElementGuid>6d62618e-35ac-43ee-a5f4-d8ca62a7add0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a/i</value>
+      <webElementGuid>a763b2ba-8d69-46f0-b14c-20cbbaa73d54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Course Library_fa men men-plms-reports</name>
+   <tag></tag>
+   <elementGuidId>c9163ee8-5485-4960-8777-d610ab9f56dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='itemid_51']/a/div/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.men.men-plms-reports</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6d8d337a-a9fe-494f-a261-1f7bb99ef251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa men men-plms-reports</value>
+      <webElementGuid>fb724267-6812-4a2b-bb1a-7ba98c5d2ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>57b4550e-6cfa-4011-a426-ab7a4f22256d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-drawer&quot;)/div[@class=&quot;wrapper w-navigation&quot;]/nav[@id=&quot;sidebar&quot;]/ul[@class=&quot;list-unstyled components&quot;]/li[@id=&quot;itemid_51&quot;]/a[@class=&quot;accordion-toggle collapsed list-group-item list-group-item-action&quot;]/div[@class=&quot;col-md-12 text-center icon_text_nav&quot;]/span[@class=&quot;media-left&quot;]/i[@class=&quot;fa men men-plms-reports&quot;]</value>
+      <webElementGuid>67a9d2e4-deb3-4788-932b-ab4d6460b347</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='itemid_51']/a/div/span/i</value>
+      <webElementGuid>5f2bb5d9-b24a-4d2c-8499-a66613443129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a/div/span/i</value>
+      <webElementGuid>ddf36309-707d-437d-8dfd-449ccc2ef939</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

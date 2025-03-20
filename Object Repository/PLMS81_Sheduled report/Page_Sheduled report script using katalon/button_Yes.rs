@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Courses            Learning Path    _b68ab0</name>
+   <name>button_Yes</name>
    <tag></tag>
-   <elementGuidId>164e07b5-2b05-4be0-8d7b-125496c5e83c</elementGuidId>
+   <elementGuidId>3af53834-4f8a-4987-8538-d7f39fc578c0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/div[7]/div/div[2]/div/section/div/div/div[1]/div[2]/div/div[2]/div/a[4]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::button[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#id_category</value>
+         <value>#single_button67dbe58c0f7f119</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,135 +22,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>select</value>
-      <webElementGuid>b52f6714-13b2-4194-bd38-c634632802dd</webElementGuid>
+      <value>button</value>
+      <webElementGuid>b923337f-9540-4f8a-9e03-23ccfe0f3aa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>e14cc221-3c5c-4170-a01a-5e1f05a8eba8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>59d832a2-7ba9-4d78-bfac-1a3b8f13e0a9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>category</value>
-      <webElementGuid>67c21987-7c8d-4a9e-a17d-4911ed5fac1f</webElementGuid>
+      <value>btn btn-round btn-primary</value>
+      <webElementGuid>5c100a5f-6ed3-4c02-a5fd-2f8857ed2201</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>id_category</value>
-      <webElementGuid>f1cb96b6-c355-424d-b42c-e0d68d10c239</webElementGuid>
+      <value>single_button67dbe58c0f7f119</value>
+      <webElementGuid>28bcf504-0fc7-4649-84b4-fccff6bf1b8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-            Courses
-            Learning Path
-            Users
-            Gamification
-            System
-            ECommerce
-            Select Category
-        </value>
-      <webElementGuid>e298e4c6-7c2d-40ef-b8c3-c68048bd3b0f</webElementGuid>
+      <value>Yes</value>
+      <webElementGuid>844eff7b-3ee4-431b-8465-cfdf6f025c06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;id_category&quot;)</value>
-      <webElementGuid>78ee8609-a4c6-48f2-90dc-2eba95885e3a</webElementGuid>
+      <value>id(&quot;single_button67dbe58c0f7f119&quot;)</value>
+      <webElementGuid>696c98b6-ee13-43f0-851f-0a7830a4f18f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='id_category']</value>
-      <webElementGuid>3e9c5e09-7b6c-4e05-a6f5-35880e9e4c46</webElementGuid>
+      <value>//button[@id='single_button67dbe58c0f7f119']</value>
+      <webElementGuid>8461c3d1-6faa-4ce8-9cde-65fb0421f8fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1741272183962_61']/select</value>
-      <webElementGuid>4da7ccf7-2ba2-4871-ad6f-bc2f2ad04b66</webElementGuid>
+      <value>//div[@id='modal-footer']/div/div/form/button</value>
+      <webElementGuid>b75c4156-10ad-4f66-aa8a-467aa90e42d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Category'])[1]/following::select[1]</value>
-      <webElementGuid>562ec8dd-abab-4b9c-b215-7f694a2ff47b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::button[1]</value>
+      <webElementGuid>af3ea4e4-a3b7-433b-889a-b10d97a40cc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::select[1]</value>
-      <webElementGuid>230edf17-fa34-456d-9f1b-85dc280f686d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Uploaded Successfully'])[1]/following::button[1]</value>
+      <webElementGuid>faea53ea-9779-4b4b-936b-d18af61e5d1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pagination'])[1]/preceding::select[1]</value>
-      <webElementGuid>951df620-b48a-41e7-b91f-c61cd2219300</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>6bacdd08-efb0-4335-acc3-a52b2b97dfc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SQL Report'])[1]/preceding::select[2]</value>
-      <webElementGuid>fbed8928-5e9d-4e61-b620-cb66709d5225</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::button[2]</value>
+      <webElementGuid>5fac89f5-cf48-41b4-bd04-d343a36abd7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
+      <webElementGuid>dd05cb66-faf4-4309-8164-acbc94340aa3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//select</value>
-      <webElementGuid>6e7b4ba5-275c-4502-8256-900d186d1903</webElementGuid>
+      <value>//form/button</value>
+      <webElementGuid>3a8de592-8f78-45a5-b74e-5bce9b865723</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@name = 'category' and @id = 'id_category' and (text() = '
-            Courses
-            Learning Path
-            Users
-            Gamification
-            System
-            ECommerce
-            Select Category
-        ' or . = '
-            Courses
-            Learning Path
-            Users
-            Gamification
-            System
-            ECommerce
-            Select Category
-        ')]</value>
-      <webElementGuid>2b9cc8cc-08f3-4b7b-a127-fee64da9d784</webElementGuid>
+      <value>//button[@type = 'submit' and @id = 'single_button67dbe58c0f7f119' and (text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>88d48efd-32bb-4a6f-a95c-cc18b9fc597d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

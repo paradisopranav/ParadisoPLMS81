@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Add_fa fa-angle-right fs-19 pl-2</name>
+   <tag></tag>
+   <elementGuidId>e246aa27-0487-444b-8377-2e9ef0ecdf57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='reports-columns-add']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-angle-right.fs-19.pl-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e56be6fc-4c21-41e9-8922-b7e762c862e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-angle-right fs-19 pl-2</value>
+      <webElementGuid>976d8883-6961-4d50-b308-82209eea9055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reports-columns-add&quot;)/i[@class=&quot;fa fa-angle-right fs-19 pl-2&quot;]</value>
+      <webElementGuid>4ecb0989-e659-4f8c-8d15-b7582e18108a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='reports-columns-add']/i</value>
+      <webElementGuid>6d2e4539-4a07-4f3e-9b39-a5a2733bc6f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/i</value>
+      <webElementGuid>fb43f492-421f-41c8-b138-aba32818e108</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

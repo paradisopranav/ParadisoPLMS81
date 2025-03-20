@@ -19,13 +19,16 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://plms-php81.paradisolms.net/login/index.php')
 
-WebUI.setText(findTestObject('Object Repository/Report Repository 6 march/Page_Paradiso LMS Log in to the site/input_Username_username'),
-	'admin')
+WebUI.navigateToUrl(GlobalVariable.URL)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Report Repository 6 march/Page_Paradiso LMS Log in to the site/input_Password_password'),
-	'ed/1/AZbo1YX04df+rN1oA==')
+WebUI.setText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'), GlobalVariable.Username)
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'), 
+    GlobalVariable.Password)
 
 WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Page_Paradiso LMS Log in to the site/button_Log in'))
 
@@ -35,10 +38,10 @@ WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Page_Par
 
 WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Page_Reports/a_New Report'))
 
-WebUI.setText(findTestObject('Object Repository/Report Repository 6 march/Page_Report/input_Name_name'), '6th march delete katalon report')
+WebUI.setText(findTestObject('Object Repository/Report Repository 6 march/Page_Report/input_Name_name'), 'Script in Katalon for Report')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Report Repository 6 march/Page_Report/select_Courses            Learning Path    _b68ab0'),
-	'1', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Report Repository 6 march/Page_Report/select_Courses            Learning Path    _b68ab0'), 
+    '1', true)
 
 WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Page_Report/input_Show logged in user data_submitbutton'))
 
@@ -66,11 +69,28 @@ WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Page_6th
 
 WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Page_6th march delete katalon report/i_File Uploaded Successfully_men men-plms-a_150658'))
 
-WebUI.setText(findTestObject('Object Repository/Report Repository 6 march/Page_Reports/input_Duplicate Report_txt'), '6th march delete katalon report')
+WebUI.setText(findTestObject('Object Repository/Report Repository 6 march/Page_Reports/input_Duplicate Report_txt'), 'Script in Katalon for Report')
 
 WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Page_Reports/span_Courses_dropdownMenuButton'))
 
-WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Page_Reports/i_Edit_men men-plms-delete pr-2'))
+WebUI.click(findTestObject('Report Repository 6 march/Report edit/Page_Reports/span_Edit'))
+
+WebUI.setText(findTestObject('Object Repository/Report Repository 6 march/Report edit/Page_reporth of 30th jan 10/input_Name_name'), 
+    'Script in Katalon for Report- Update')
+
+WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Report edit/Page_reporth of 30th jan 10/input_Show logged in user data_submitbutton'))
+
+WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Report edit/Page_reporth of 30th jan 10 update Columns/button_Next'))
+
+WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Report edit/Page_reporth of 30th jan 10 update/a_Finish'))
+
+WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Page_6th march delete katalon report/i_File Uploaded Successfully_men men-plms-a_150658'))
+
+WebUI.setText(findTestObject('Object Repository/Report Repository 6 march/Page_Reports/input_Duplicate Report_txt'), 'Script in Katalon for Report- Update')
+
+WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Page_Reports/span_Courses_dropdownMenuButton'))
+
+WebUI.click(findTestObject('Report Repository 6 march/Page_Reports/i_Edit_men men-plms-delete pr-2'))
 
 WebUI.click(findTestObject('Object Repository/Report Repository 6 march/Page_6th march delete katalon report/button_Yes'))
 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_File Uploaded Successfully_men men-plms-a_150658</name>
+   <tag></tag>
+   <elementGuidId>a659f1f5-4d79-4107-b26f-7de8ab00a6aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='region-main']/div/div/div/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.men.men-plms-arrow-small-left.btn-back</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7829a1e9-6739-4d84-b326-3a94e07f27c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>men men-plms-arrow-small-left btn-back</value>
+      <webElementGuid>1f96e873-e78c-4175-a934-09bcca863f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>42c1212e-1830-45f2-85e3-59242cce9b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/div[@class=&quot;row no-padding inner-report&quot;]/div[@class=&quot;col-md-4 p-0&quot;]/div[@class=&quot;content-title&quot;]/a[1]/i[@class=&quot;men men-plms-arrow-small-left btn-back&quot;]</value>
+      <webElementGuid>1b28e063-7b3d-47d8-bb30-57463b85c876</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='region-main']/div/div/div/div/div/a/i</value>
+      <webElementGuid>dcf83bc8-3de2-4b96-b43e-8b2b9bf658c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div/a/i</value>
+      <webElementGuid>e0002372-2591-4ff4-a2aa-d94920b3807d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
