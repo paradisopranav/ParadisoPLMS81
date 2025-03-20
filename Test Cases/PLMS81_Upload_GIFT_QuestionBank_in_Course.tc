@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Upload_GIFT_QuestionBank_in_Course</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ff156c7-90dd-4bb2-90dd-046fddf59ab5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe66ace4-bb36-479a-b209-82fb4587abe8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\hp\\\\OneDrive - PARADISO\\\\Documents\\\\Paradiso Data\\\\KatalonGIFT.txt'</defaultValue>
+      <description></description>
+      <id>fe66ace4-bb36-479a-b209-82fb4587abe8</id>
+      <masked>false</masked>
+      <name>GIFTQuizFile</name>
+   </variable>
+</TestCaseEntity>

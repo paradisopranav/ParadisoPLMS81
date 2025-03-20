@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>PLMS81_Report_Create</name>
+   <name>PLMS81_Export_QuizQuestion_in_PLMSXML</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>abeb77c2-5898-4c6d-aa52-890e29de4046</testCaseGuid>
+   <testCaseGuid>780bc088-bca0-4a2b-bf28-f136b540eda3</testCaseGuid>
 </TestCaseEntity>

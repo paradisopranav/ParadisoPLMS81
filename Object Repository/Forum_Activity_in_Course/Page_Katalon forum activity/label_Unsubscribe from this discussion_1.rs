@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Unsubscribe from this discussion_1</name>
+   <tag></tag>
+   <elementGuidId>6d28ba25-dd7f-448a-9679-0798541aa13c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='yui_3_17_2_1_1742466365990_1032']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1742466365990_1032</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d5217849-129e-4534-a8a2-4bcefa25d8c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>cc5b8d87-0d9a-4d96-a49f-04893ac24243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>subscription-toggle-396</value>
+      <webElementGuid>04a8361b-fb95-4347-8405-fa654d7f36e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_3_17_2_1_1742466365990_1032</value>
+      <webElementGuid>33dd198e-6e4b-4023-b9cc-68841a9df2c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Unsubscribe from this discussion
+                                            </value>
+      <webElementGuid>6ab0ebe7-8154-41df-b40c-5276ad484859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1742466365990_1032&quot;)</value>
+      <webElementGuid>8c090afe-a066-4f64-85d8-d5b40ab7a3d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='yui_3_17_2_1_1742466365990_1032']</value>
+      <webElementGuid>cd2db4be-755c-4685-9ddf-09370f7565e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1742466365990_1033']/label</value>
+      <webElementGuid>7e392b08-a287-4562-b338-479f1c583e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin User'])[2]/following::label[1]</value>
+      <webElementGuid>d9b672dc-6887-4655-8402-a4d7b75ce07f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin User'])[1]/following::label[1]</value>
+      <webElementGuid>2da3ab4d-b935-4958-8670-7d80d0315073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Star this discussion'])[1]/preceding::label[1]</value>
+      <webElementGuid>271111fc-b0bf-4aa4-8a87-fd2ae8e6ff1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/label</value>
+      <webElementGuid>85cc3e55-288f-492e-bbdd-1826965beda5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'yui_3_17_2_1_1742466365990_1032' and (text() = '
+                                                Unsubscribe from this discussion
+                                            ' or . = '
+                                                Unsubscribe from this discussion
+                                            ')]</value>
+      <webElementGuid>292f9162-9793-4f7e-aa19-1bab5cee3182</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>e69e4199-5ac2-49c2-bcff-4cc7f52fab06</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#DataTables_Table_5 > tbody > tr.odd > td:nth-of-type(6) > div.dropdown.report_cate_elli_icon > #dropdownMenuButton</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Schedule'])[6]/following::span[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//span[@id='dropdownMenuButton'])[47]</value>
+         <key>CSS</key>
+         <value>#DataTables_Table_5 > tbody > tr.odd > td:nth-of-type(6) > div.dropdown.report_cate_elli_icon > #dropdownMenuButton</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a63035c2-6358-45df-846b-217fd0a8f07b</webElementGuid>
+      <webElementGuid>7814b912-4797-4d78-b6b9-2824a22a1650</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon-box</value>
-      <webElementGuid>b0eaa0bf-2863-4202-922b-d934db78c029</webElementGuid>
+      <webElementGuid>ae8241ea-5b6c-4c2d-a638-ef40586a1c69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7dbb827d-61f8-4d91-adc5-415554ceaccf</webElementGuid>
+      <webElementGuid>f88f7993-1985-4a3d-929f-bf2f28a81670</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>dropdownMenuButton</value>
-      <webElementGuid>67b39571-0ab3-49db-9902-c8ef947b5ff0</webElementGuid>
+      <webElementGuid>7d9f7c0c-3d86-491e-92a3-7bd12ef0adcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>02acd8ee-957f-46a2-a307-390105fbd832</webElementGuid>
+      <webElementGuid>132c69be-5d7d-4c59-be87-1159372c3999</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9a1d3cc1-e5e6-433e-a976-19e56ee32113</webElementGuid>
+      <webElementGuid>6539df6a-f6b5-4e9e-bcb7-cb194f83b5a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DataTables_Table_5&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;&quot;]/div[@class=&quot;dropdown report_cate_elli_icon&quot;]/span[@id=&quot;dropdownMenuButton&quot;]</value>
-      <webElementGuid>b464dae6-577f-4309-9838-207521925891</webElementGuid>
+      <webElementGuid>156a879d-1b19-4c1f-a1a9-8e69f34984aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//span[@id='dropdownMenuButton'])[47]</value>
-      <webElementGuid>82fb2f16-b8f3-493d-8344-1c02214a20c9</webElementGuid>
+      <webElementGuid>b69309d2-299f-4d5b-af25-ee6849691bd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='DataTables_Table_5']/tbody/tr/td[6]/div/span</value>
-      <webElementGuid>012dd3c8-7325-4c45-99f7-3c8367f98a98</webElementGuid>
+      <webElementGuid>27270396-c6a4-453a-984f-36c96ea14cc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses'])[17]/following::span[1]</value>
-      <webElementGuid>bfc0b43e-0e71-4be0-bed6-d5ac66a34564</webElementGuid>
+      <webElementGuid>77f15d2b-4d35-4c11-a6a7-df65f61f711b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Schedule'])[6]/following::span[2]</value>
-      <webElementGuid>ff89fa73-b547-43a7-8c4d-647880202995</webElementGuid>
+      <webElementGuid>821f014a-d443-4673-b088-d04da0db2a0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[47]/preceding::span[1]</value>
-      <webElementGuid>2c67722a-4457-49d7-8dff-828db2a2656b</webElementGuid>
+      <webElementGuid>a48e6b9b-686f-4f83-ba86-d4549f0cc18f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[47]/preceding::span[2]</value>
-      <webElementGuid>fa4b640c-50c8-4b6b-9ea5-eca6f89d2fa7</webElementGuid>
+      <webElementGuid>db187c84-1559-481c-9ea9-32ec83f0119e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/table/tbody/tr/td[6]/div/span</value>
-      <webElementGuid>9e475c8e-435a-4274-a0c3-7d628eb3f526</webElementGuid>
+      <webElementGuid>22353ff1-48c1-4932-b3df-178f0d678d45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@type = 'button' and @id = 'dropdownMenuButton']</value>
-      <webElementGuid>16ec4e6a-2450-4d47-9788-90beb45c5903</webElementGuid>
+      <webElementGuid>cbec8b2f-57d0-417f-a40d-7fc2cc3c4e36</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

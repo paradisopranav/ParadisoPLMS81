@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>PLMS81_Report_Create</name>
+   <name>PLMS81_Export_QuizQuestion_in_Aiken</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>abeb77c2-5898-4c6d-aa52-890e29de4046</testCaseGuid>
+   <testCaseGuid>b78ca95a-246c-4364-bd7a-6f8955cad06f</testCaseGuid>
 </TestCaseEntity>

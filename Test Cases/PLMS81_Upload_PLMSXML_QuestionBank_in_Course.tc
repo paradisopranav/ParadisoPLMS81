@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Upload_PLMSXML_QuestionBank_in_Course</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88140f45-a18b-458f-ac44-bd293c9d0a20</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8ce2c514-f4c4-4bc8-ae12-422168f9adce</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\hp\\\\OneDrive - PARADISO\\\\Documents\\\\Paradiso Data\\\\KatalonPLMSXMLformat.xml'</defaultValue>
+      <description></description>
+      <id>8ce2c514-f4c4-4bc8-ae12-422168f9adce</id>
+      <masked>false</masked>
+      <name>PLMSXMLQuiz</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Upload_AikenQuiz_Question_Bank_in_Course</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed2892e3-dfdf-4243-9c6f-71151baa1221</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc3a6566-4ff9-4480-bbde-ca716f6b4b83</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\hp\\\\OneDrive - PARADISO\\\\Documents\\\\Paradiso Data\\\\KatalonAiken.txt'</defaultValue>
+      <description></description>
+      <id>dc3a6566-4ff9-4480-bbde-ca716f6b4b83</id>
+      <masked>false</masked>
+      <name>AikenQuizFile</name>
+   </variable>
+</TestCaseEntity>

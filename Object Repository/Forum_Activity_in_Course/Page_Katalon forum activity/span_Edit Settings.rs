@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Yes</name>
+   <name>span_Edit Settings</name>
    <tag></tag>
-   <elementGuidId>2193b6ec-6220-460c-8654-1b6fc001695a</elementGuidId>
+   <elementGuidId>34902525-0174-495c-bb71-588283b8735a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::button[1]</value>
+         <value>//span[@id='actionmenuaction-14']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#single_button67c9b4d2b0ad219</value>
+         <value>#actionmenuaction-14</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,119 +22,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>04087f85-9164-4726-ae51-efb11a153efb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>5d96f114-6e88-4915-8f4b-9ba02a0cbd5d</webElementGuid>
+      <value>span</value>
+      <webElementGuid>fc87d3e6-c1f6-46f1-a237-2e173d1eb364</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-round btn-primary</value>
-      <webElementGuid>8d4b81f4-6cbf-4c74-91f0-e9cadc263fb7</webElementGuid>
+      <value>menu-action-text</value>
+      <webElementGuid>22a59cc6-bd9c-4de4-a20a-0855decb45f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>single_button67c9b4d2b0ad219</value>
-      <webElementGuid>f55b39d1-f182-43a1-bd8b-8cac948d0d10</webElementGuid>
+      <value>actionmenuaction-14</value>
+      <webElementGuid>ed907346-aab5-4022-9a34-68367a600d1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Yes</value>
-      <webElementGuid>cae10dc3-79a2-4bd2-accc-3d4a31404a3a</webElementGuid>
+      <value>Edit Settings</value>
+      <webElementGuid>f29e7d27-b1e7-452d-86d5-177316785313</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single_button67c9b4d2b0ad219&quot;)</value>
-      <webElementGuid>95a79df7-e0d0-4f6d-aa5f-400b4d40b3f0</webElementGuid>
+      <value>id(&quot;actionmenuaction-14&quot;)</value>
+      <webElementGuid>4615632a-d14e-4be2-bf77-6060d5aae8bb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='single_button67c9b4d2b0ad219']</value>
-      <webElementGuid>4e3a139f-7f35-416b-87bd-908b04ea180d</webElementGuid>
+      <value>//span[@id='actionmenuaction-14']</value>
+      <webElementGuid>bd7acdb7-c9ef-4f19-8a09-bb1a8dd2fa9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modal-footer']/div/div/form/button</value>
-      <webElementGuid>5b5b8d86-108b-4b47-8caf-7dfc12a72297</webElementGuid>
+      <value>//a[@id='yui_3_17_2_1_1742466607582_1068']/span</value>
+      <webElementGuid>6e207c5c-d919-4eca-a083-7cc780b16504</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::button[1]</value>
-      <webElementGuid>d430fad7-2b85-432a-a669-501797789073</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Topic'])[1]/following::span[4]</value>
+      <webElementGuid>67f20a78-aaa1-48f0-bef2-3424acc0099c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Uploaded Successfully'])[1]/following::button[1]</value>
-      <webElementGuid>bb9649e6-040d-44f7-a0ea-977baedbd1a2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide Topic'])[1]/following::span[5]</value>
+      <webElementGuid>66d6d3b2-8533-4cba-b611-d617ee89549e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
-      <webElementGuid>b419c802-be27-44ec-b870-7cbee0c5137d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Right'])[2]/preceding::span[1]</value>
+      <webElementGuid>75985460-2a00-4cb7-ad81-ef31eeb17945</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::button[2]</value>
-      <webElementGuid>dfb3ce87-9974-4096-be07-b62c65096415</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
-      <webElementGuid>0ac8ef16-3268-4e0c-bcd7-daaf1d649b66</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Left'])[2]/preceding::span[2]</value>
+      <webElementGuid>892837b3-b608-44c7-8627-f299bd6ce3a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/button</value>
-      <webElementGuid>2106b77a-6a23-420a-9a1d-43532d29032a</webElementGuid>
+      <value>//li[2]/div/ul/li/div/div/div[2]/span/div/div/div/div/a/span</value>
+      <webElementGuid>c7ec4de9-7638-40b2-8ba5-3ed231a96425</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'single_button67c9b4d2b0ad219' and (text() = 'Yes' or . = 'Yes')]</value>
-      <webElementGuid>e1418444-60ed-4974-9a1d-89dc6e8a138c</webElementGuid>
+      <value>//span[@id = 'actionmenuaction-14' and (text() = 'Edit Settings' or . = 'Edit Settings')]</value>
+      <webElementGuid>04c1b54a-fce7-4b6b-bfe1-b67e875a0524</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

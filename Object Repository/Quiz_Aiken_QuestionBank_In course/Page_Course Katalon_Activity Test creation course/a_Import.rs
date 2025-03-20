@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Yes</name>
+   <name>a_Import</name>
    <tag></tag>
-   <elementGuidId>2193b6ec-6220-460c-8654-1b6fc001695a</elementGuidId>
+   <elementGuidId>e998d330-e3c5-4480-975f-5eaac1f28780</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::button[1]</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#single_button67c9b4d2b0ad219</value>
+         <key>XPATH</key>
+         <value>//div[@id='teacherdashslider']/div/div/div/div[2]/div[2]/div[2]/a[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,119 +22,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>04087f85-9164-4726-ae51-efb11a153efb</webElementGuid>
+      <value>a</value>
+      <webElementGuid>d272acfe-56a9-45d4-9284-eacc753d059e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>href</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>5d96f114-6e88-4915-8f4b-9ba02a0cbd5d</webElementGuid>
+      <value>https://plms-php81.paradisolms.net/question/import.php?courseid=1159</value>
+      <webElementGuid>6e0b297f-b9c3-4ec3-ba8f-3bfba6ca83ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-round btn-primary</value>
-      <webElementGuid>8d4b81f4-6cbf-4c74-91f0-e9cadc263fb7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>single_button67c9b4d2b0ad219</value>
-      <webElementGuid>f55b39d1-f182-43a1-bd8b-8cac948d0d10</webElementGuid>
+      <value>list-group-item</value>
+      <webElementGuid>4a5985e5-99f4-4932-9b7a-f06489825f0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Yes</value>
-      <webElementGuid>cae10dc3-79a2-4bd2-accc-3d4a31404a3a</webElementGuid>
+      <value>Import</value>
+      <webElementGuid>ea21f977-21de-4274-a66b-07d0f460bac1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single_button67c9b4d2b0ad219&quot;)</value>
-      <webElementGuid>95a79df7-e0d0-4f6d-aa5f-400b4d40b3f0</webElementGuid>
+      <value>id(&quot;teacherdashslider&quot;)/div[@class=&quot;teacherdashboard&quot;]/div[@class=&quot;container-fluid pr-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;border-group questionlinks&quot;]/div[@class=&quot;list-group&quot;]/a[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>d46d3c6f-0913-40f4-afaf-276c8d0aadbe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='single_button67c9b4d2b0ad219']</value>
-      <webElementGuid>4e3a139f-7f35-416b-87bd-908b04ea180d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modal-footer']/div/div/form/button</value>
-      <webElementGuid>5b5b8d86-108b-4b47-8caf-7dfc12a72297</webElementGuid>
+      <value>//div[@id='teacherdashslider']/div/div/div/div[2]/div[2]/div[2]/a[3]</value>
+      <webElementGuid>e7ed5ea5-6838-446b-8a30-d6459a6393bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Import')])[2]</value>
+      <webElementGuid>743db1d7-3ebd-4fbb-862c-f647ef2cddc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::button[1]</value>
-      <webElementGuid>d430fad7-2b85-432a-a669-501797789073</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Question category'])[1]/following::a[1]</value>
+      <webElementGuid>47b8e6e3-9800-4d3e-b335-797d86252be0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Uploaded Successfully'])[1]/following::button[1]</value>
-      <webElementGuid>bb9649e6-040d-44f7-a0ea-977baedbd1a2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Question bank'])[1]/following::a[2]</value>
+      <webElementGuid>ecddb0bf-f7ed-40b3-b2e8-abf404e6400b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
-      <webElementGuid>b419c802-be27-44ec-b870-7cbee0c5137d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/preceding::a[1]</value>
+      <webElementGuid>343f3c33-f137-43a4-80a0-2828bf2be50e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::button[2]</value>
-      <webElementGuid>dfb3ce87-9974-4096-be07-b62c65096415</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::a[2]</value>
+      <webElementGuid>0130c2d1-c8de-48f1-92e9-7d3f3bee0376</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
-      <webElementGuid>0ac8ef16-3268-4e0c-bcd7-daaf1d649b66</webElementGuid>
+      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/question/import.php?courseid=1159')]</value>
+      <webElementGuid>b6bbd767-dc47-43a6-9e62-b26412c78485</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/button</value>
-      <webElementGuid>2106b77a-6a23-420a-9a1d-43532d29032a</webElementGuid>
+      <value>//div[2]/div[2]/div[2]/a[3]</value>
+      <webElementGuid>f4b86afd-e9aa-4882-a0cc-0f540f1e7991</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'single_button67c9b4d2b0ad219' and (text() = 'Yes' or . = 'Yes')]</value>
-      <webElementGuid>e1418444-60ed-4974-9a1d-89dc6e8a138c</webElementGuid>
+      <value>//a[@href = 'https://plms-php81.paradisolms.net/question/import.php?courseid=1159' and (text() = 'Import' or . = 'Import')]</value>
+      <webElementGuid>cee816cd-19e3-4e8d-8eb8-7c314a3188e0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Courses            Learning Path    _b68ab0</name>
+   <name>button_Log in</name>
    <tag></tag>
-   <elementGuidId>164e07b5-2b05-4be0-8d7b-125496c5e83c</elementGuidId>
+   <elementGuidId>f368bb66-d0ac-4c8e-bc60-f628c91107aa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Category'])[1]/following::select[1]</value>
+         <value>//button[@id='loginbtn']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#id_category</value>
+         <value>#loginbtn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,135 +22,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>select</value>
-      <webElementGuid>505ea4c6-4f99-48a9-8829-35276d99a178</webElementGuid>
+      <value>button</value>
+      <webElementGuid>4db5d07e-6983-4f81-a8a0-0f1d0769acec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>19caaa31-006a-4fc3-b18e-dd88ca162660</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>46ddcb2d-ddcd-4f0c-9cd9-a424b10de3fd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>category</value>
-      <webElementGuid>8d88c86d-1442-483e-8edc-6ffd75c5076a</webElementGuid>
+      <value>btn btn-primary btn-block btn-round</value>
+      <webElementGuid>5a78f5a5-9654-4e7b-a930-1f9b769982a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>id_category</value>
-      <webElementGuid>2b72d82c-99ce-4ec9-b1c4-8997e5f83c85</webElementGuid>
+      <value>loginbtn</value>
+      <webElementGuid>2deb85c1-88aa-4c36-968b-41af07165b34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-            Courses
-            Learning Path
-            Users
-            Gamification
-            System
-            ECommerce
-            Select Category
-        </value>
-      <webElementGuid>0415209f-bb45-4e64-9498-817c5e9fbbd5</webElementGuid>
+      <value>Log in</value>
+      <webElementGuid>20a24648-b546-414d-8830-f14ea81240f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;id_category&quot;)</value>
-      <webElementGuid>3afc2a8b-5434-47e1-8ac5-376b5d8d16ba</webElementGuid>
+      <value>id(&quot;loginbtn&quot;)</value>
+      <webElementGuid>4c452c9e-366a-4e07-9c66-f232b1e16064</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='id_category']</value>
-      <webElementGuid>6d73eeb3-4a7e-4ce6-ad1b-7623407da064</webElementGuid>
+      <value>//button[@id='loginbtn']</value>
+      <webElementGuid>c8477ac3-e381-456d-b53d-0b853fe2547d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1741272183962_61']/select</value>
-      <webElementGuid>1b312694-bbea-4801-a706-26c55c18eeec</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1742452742496_28']/button</value>
+      <webElementGuid>f7439336-38db-4469-93f2-d843609efa2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Category'])[1]/following::select[1]</value>
-      <webElementGuid>4a8b3842-ef14-4a2e-9d1b-efd355d6fdd2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::button[1]</value>
+      <webElementGuid>d7ce46db-e1b5-4fc0-b11a-111a36069d4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::select[1]</value>
-      <webElementGuid>1f9ec35f-8c41-4ae2-895c-844e5bb8b271</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='日本語 ‎(ja)‎'])[1]/following::button[1]</value>
+      <webElementGuid>d4e1d1d5-5808-4321-8b36-a2bd4b9c0c71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pagination'])[1]/preceding::select[1]</value>
-      <webElementGuid>fc1f91f5-878b-47ee-9bcb-2695dde36f00</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or you can join with'])[1]/preceding::button[1]</value>
+      <webElementGuid>c4c1a41c-8731-4a8a-ac6d-ad36939778d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SQL Report'])[1]/preceding::select[2]</value>
-      <webElementGuid>a6e49c0e-7b6d-46ef-94fd-53eae1e4d830</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
+      <webElementGuid>36b0c648-3bb3-4e06-ae62-b5a2f6c049d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//select</value>
-      <webElementGuid>abf822d4-0843-4c39-ac7b-21bd1deeab5c</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>8aa6ac64-6e93-464a-8d50-f208f3abd9ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@name = 'category' and @id = 'id_category' and (text() = '
-            Courses
-            Learning Path
-            Users
-            Gamification
-            System
-            ECommerce
-            Select Category
-        ' or . = '
-            Courses
-            Learning Path
-            Users
-            Gamification
-            System
-            ECommerce
-            Select Category
-        ')]</value>
-      <webElementGuid>f2c77c39-1433-4e06-8632-644cff738eeb</webElementGuid>
+      <value>//button[@type = 'submit' and @id = 'loginbtn' and (text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>dd3dd486-c0c3-491f-9152-c98e594d5eb2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

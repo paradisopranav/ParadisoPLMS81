@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>PLMS81_Report_Create</name>
+   <name>PLMS81_Create_Forum_Activity_in_Course</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>abeb77c2-5898-4c6d-aa52-890e29de4046</testCaseGuid>
+   <testCaseGuid>127f322c-8636-4d4e-8081-27f5c6af7d78</testCaseGuid>
 </TestCaseEntity>
