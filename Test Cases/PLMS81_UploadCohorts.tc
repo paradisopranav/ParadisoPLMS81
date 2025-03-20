@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_UploadCohorts</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d140027-47fe-4f8c-a5e0-eb1013670dee</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b4a87ac6-3b61-4c13-ab78-ef4ec2d92327</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\S\\Downloads\\example (19).csv'</defaultValue>
+      <description></description>
+      <id>b4a87ac6-3b61-4c13-ab78-ef4ec2d92327</id>
+      <masked>false</masked>
+      <name>csvuploadfile</name>
+   </variable>
+</TestCaseEntity>

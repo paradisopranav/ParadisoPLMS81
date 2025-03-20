@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Search_cancel</name>
+   <name>input_File_cohortfilechoose</name>
    <tag></tag>
-   <elementGuidId>0371017c-f7e9-4352-957e-632d774bd28e</elementGuidId>
+   <elementGuidId>43746546-8b59-4441-b3f2-51da625d60a4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='cancel']</value>
+         <value>//div[2]/div/input</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;cancel&quot;]</value>
+         <value>#filepicker-button-67dc0dcddac82</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,70 +23,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1590a441-4c57-48e8-b277-1521f21d076d</webElementGuid>
+      <webElementGuid>de395db2-29bd-4706-b6ea-26d97e392636</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>59efad97-3913-46a5-8635-ed01ac70ad02</webElementGuid>
+      <value>button</value>
+      <webElementGuid>7972118a-8c4c-49e0-8ba5-44364d13721b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary fp-btn-choose btn-round</value>
+      <webElementGuid>7fc3aa1d-da52-4ad3-a447-0a006c131435</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>id</name>
       <type>Main</type>
-      <value>cancel</value>
-      <webElementGuid>2b4027be-27f0-4da8-9cca-89b0d8460b4a</webElementGuid>
+      <value>filepicker-button-67dc0dcddac82</value>
+      <webElementGuid>53de5ad0-0cf5-4efb-a6ce-246a153bb582</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Back To Cohorts</value>
-      <webElementGuid>b8d08cc6-b6d7-47f1-af45-238b4b2dffe8</webElementGuid>
+      <value>Choose a file</value>
+      <webElementGuid>227bd590-9d3a-4cc6-8d38-59ba743df6ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>cohortfilechoose</value>
+      <webElementGuid>d4a2c066-2e3e-4d82-9d64-bf6ce124f8e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;backcell&quot;)/input[1]</value>
-      <webElementGuid>8fd13b61-d97a-4609-9697-e8276d0d7bc0</webElementGuid>
+      <value>id(&quot;filepicker-button-67dc0dcddac82&quot;)</value>
+      <webElementGuid>e01f6f60-bbdb-4d67-82d1-6a37c0437e0f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='cancel']</value>
-      <webElementGuid>948640c6-4d69-4c86-ab9e-0b386c03a551</webElementGuid>
+      <value>//input[@id='filepicker-button-67dc0dcddac82']</value>
+      <webElementGuid>f4506f79-fa29-4b95-871c-811873f99be0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//td[@id='backcell']/input</value>
-      <webElementGuid>36a37bcb-bf8d-4b0d-9b26-adb514ce6cb4</webElementGuid>
+      <value>//div[@id='filepicker-wrapper-67dc0dcddac82']/div/input</value>
+      <webElementGuid>0a6a043a-750e-4703-8a1d-2c6c07d44b35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/input</value>
-      <webElementGuid>0a8ab2a9-2a0d-488e-816b-172ddabfd7b7</webElementGuid>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>b5f4aa3b-b6e7-48cc-85cc-74f590e55df0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @name = 'cancel']</value>
-      <webElementGuid>f227f180-f0a9-45ab-9f60-f3bf35527641</webElementGuid>
+      <value>//input[@type = 'button' and @id = 'filepicker-button-67dc0dcddac82' and @name = 'cohortfilechoose']</value>
+      <webElementGuid>b47dfa7a-ee0e-47ca-93a6-f7c867f2a164</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

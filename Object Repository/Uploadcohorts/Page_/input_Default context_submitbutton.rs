@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Search_cancel</name>
+   <name>input_Default context_submitbutton</name>
    <tag></tag>
-   <elementGuidId>0371017c-f7e9-4352-957e-632d774bd28e</elementGuidId>
+   <elementGuidId>a479210d-dfe5-4eb8-bbfc-77c268f899ed</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='cancel']</value>
+         <value>//input[@id='id_submitbutton']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;cancel&quot;]</value>
+         <value>#id_submitbutton</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1590a441-4c57-48e8-b277-1521f21d076d</webElementGuid>
+      <webElementGuid>ebf08d8f-2d51-4e4a-b039-7d426f4387af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,62 +31,81 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>59efad97-3913-46a5-8635-ed01ac70ad02</webElementGuid>
+      <webElementGuid>29af7bd4-dc5a-4605-817c-92c3d8226251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-round
+                    btn-primary
+                    
+                    </value>
+      <webElementGuid>aefb8f35-444f-4c4f-aa1f-95710b786dd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>cancel</value>
-      <webElementGuid>2b4027be-27f0-4da8-9cca-89b0d8460b4a</webElementGuid>
+      <value>submitbutton</value>
+      <webElementGuid>17f9765d-272c-4e37-bfc1-67e2f4ea2aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_submitbutton</value>
+      <webElementGuid>95315ce1-c816-4419-9c6d-0419ab3553bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Back To Cohorts</value>
-      <webElementGuid>b8d08cc6-b6d7-47f1-af45-238b4b2dffe8</webElementGuid>
+      <value>Upload cohorts</value>
+      <webElementGuid>7e636d35-dd81-48f4-8806-682f5c87b983</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;backcell&quot;)/input[1]</value>
-      <webElementGuid>8fd13b61-d97a-4609-9697-e8276d0d7bc0</webElementGuid>
+      <value>id(&quot;id_submitbutton&quot;)</value>
+      <webElementGuid>d99471aa-bed9-4224-9c37-fbcaf3dbef46</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='cancel']</value>
-      <webElementGuid>948640c6-4d69-4c86-ab9e-0b386c03a551</webElementGuid>
+      <value>//input[@id='id_submitbutton']</value>
+      <webElementGuid>72b70622-8cc3-41e5-9f87-8a38999ab748</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//td[@id='backcell']/input</value>
-      <webElementGuid>36a37bcb-bf8d-4b0d-9b26-adb514ce6cb4</webElementGuid>
+      <value>//span[@id='yui_3_17_2_1_1742473473778_103']/input</value>
+      <webElementGuid>b517a37a-7c14-46e9-bfce-c546fc84f9ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/input</value>
-      <webElementGuid>0a8ab2a9-2a0d-488e-816b-172ddabfd7b7</webElementGuid>
+      <value>//span[2]/input</value>
+      <webElementGuid>d1716031-d314-4036-b441-cbc3668062b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @name = 'cancel']</value>
-      <webElementGuid>f227f180-f0a9-45ab-9f60-f3bf35527641</webElementGuid>
+      <value>//input[@type = 'submit' and @name = 'submitbutton' and @id = 'id_submitbutton']</value>
+      <webElementGuid>85f8e612-4e92-48cb-935b-2ed07be19dc3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

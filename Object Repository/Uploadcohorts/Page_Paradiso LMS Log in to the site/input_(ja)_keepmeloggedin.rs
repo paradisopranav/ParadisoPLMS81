@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Search_cancel</name>
+   <name>input_(ja)_keepmeloggedin</name>
    <tag></tag>
-   <elementGuidId>0371017c-f7e9-4352-957e-632d774bd28e</elementGuidId>
+   <elementGuidId>33d53f07-1fd1-43d1-8113-f697ad3b6553</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='cancel']</value>
+         <value>//input[@id='keepmeloggedin']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;cancel&quot;]</value>
+         <value>#keepmeloggedin</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,70 +23,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1590a441-4c57-48e8-b277-1521f21d076d</webElementGuid>
+      <webElementGuid>89eb57bd-30b5-4a29-9d06-5891fa13e14c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>59efad97-3913-46a5-8635-ed01ac70ad02</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>b5067fe3-5f42-4bc4-bb4c-9b47eb6b1fc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>cancel</value>
-      <webElementGuid>2b4027be-27f0-4da8-9cca-89b0d8460b4a</webElementGuid>
+      <value>keepmeloggedin</value>
+      <webElementGuid>451ec436-e398-43e3-98f0-8ee314af8da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>keepmeloggedin</value>
+      <webElementGuid>ef342848-3e79-4cda-938e-ad5deceaceb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Back To Cohorts</value>
-      <webElementGuid>b8d08cc6-b6d7-47f1-af45-238b4b2dffe8</webElementGuid>
+      <value>1</value>
+      <webElementGuid>37011964-9d81-4638-bba3-be4c12342c40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;backcell&quot;)/input[1]</value>
-      <webElementGuid>8fd13b61-d97a-4609-9697-e8276d0d7bc0</webElementGuid>
+      <value>id(&quot;keepmeloggedin&quot;)</value>
+      <webElementGuid>5f4e11af-7ce9-427a-995b-0492bf21fccc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='cancel']</value>
-      <webElementGuid>948640c6-4d69-4c86-ab9e-0b386c03a551</webElementGuid>
+      <value>//input[@id='keepmeloggedin']</value>
+      <webElementGuid>e557fa3e-f000-48ce-ab48-f105c8c816c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//td[@id='backcell']/input</value>
-      <webElementGuid>36a37bcb-bf8d-4b0d-9b26-adb514ce6cb4</webElementGuid>
+      <value>//form[@id='login']/div[4]/input</value>
+      <webElementGuid>7c9f0531-89f7-4953-bd10-da67bebb4f03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/input</value>
-      <webElementGuid>0a8ab2a9-2a0d-488e-816b-172ddabfd7b7</webElementGuid>
+      <value>//div[4]/input</value>
+      <webElementGuid>aa33c77f-a751-4474-b8b2-666ae9e22f76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @name = 'cancel']</value>
-      <webElementGuid>f227f180-f0a9-45ab-9f60-f3bf35527641</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'keepmeloggedin' and @id = 'keepmeloggedin']</value>
+      <webElementGuid>665a3a88-695e-41a2-bb68-aca87b9c6b69</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
