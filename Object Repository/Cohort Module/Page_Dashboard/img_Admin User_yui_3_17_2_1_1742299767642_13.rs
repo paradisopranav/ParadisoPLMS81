@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Name_name</name>
+   <name>img_Admin User_yui_3_17_2_1_1742299767642_13</name>
    <tag></tag>
-   <elementGuidId>5d75a8a6-96d0-4165-81e8-eec04546450c</elementGuidId>
+   <elementGuidId>aaeb0700-1442-46c3-9ad6-b6fc01bce57a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#id_name</value>
+         <key>XPATH</key>
+         <value>//img[@id='yui_3_17_2_1_1742299767642_13']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='id_name']</value>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1742299767642_13</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,111 +22,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>daf45dfa-28d8-4917-9339-f41c7084006f</webElementGuid>
+      <value>img</value>
+      <webElementGuid>fa77b682-c95c-4340-9ab4-2b724323cef0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>src</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>ff48ec85-1789-450c-bfe2-ca9a9b5e3905</webElementGuid>
+      <value>https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189</value>
+      <webElementGuid>9f7356ed-6488-4209-8e22-4d0f1e05d396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control </value>
-      <webElementGuid>42a0c4bc-f235-409e-b344-6c332871d994</webElementGuid>
+      <value>userpicture</value>
+      <webElementGuid>9b2e1a33-3b31-470e-99e5-6f88916c9e33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>width</name>
       <type>Main</type>
-      <value>name</value>
-      <webElementGuid>d88abb6d-8fab-4d11-b321-bf4b14ce53e6</webElementGuid>
+      <value>35</value>
+      <webElementGuid>c4f48fd2-739f-4e3f-a83b-7c41e25afb52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>35</value>
+      <webElementGuid>8c75ce3d-e995-4997-865f-a93adbe01e29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>26124f02-5579-42fe-9f7a-65f0798a8b4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>id_name</value>
-      <webElementGuid>f1fcad9b-5a35-4a76-b5ed-f4cc0d2c27b8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>QA cohort 2003</value>
-      <webElementGuid>6005317e-2ee4-420c-8262-b1148319eda9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>size</name>
-      <type>Main</type>
-      <value>50</value>
-      <webElementGuid>2b50f853-faca-4f11-844e-b46f1b330e15</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
-      <type>Main</type>
-      <value>254</value>
-      <webElementGuid>91a9d216-c1ec-4c40-94e6-e1047cd057fd</webElementGuid>
+      <value>yui_3_17_2_1_1742299767642_13</value>
+      <webElementGuid>ea2e8a26-3624-448c-94aa-98eb8a792131</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;id_name&quot;)</value>
-      <webElementGuid>cbb29a8e-377a-4eb6-8be2-fea22612e6b3</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1742299767642_13&quot;)</value>
+      <webElementGuid>963163cc-1edd-499b-967a-68f2a7c06a39</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='id_name']</value>
-      <webElementGuid>e4dd38e2-85f6-4d57-8c9b-d9de4759c7e6</webElementGuid>
+      <value>//img[@id='yui_3_17_2_1_1742299767642_13']</value>
+      <webElementGuid>4861b6bb-9b69-4291-87f6-6a9054706470</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742446698628_562']/input</value>
-      <webElementGuid>d30aad66-109b-4de7-8f8e-00dc5108ea44</webElementGuid>
+      <value>//span[@id='yui_3_17_2_1_1742299767642_14']/img</value>
+      <webElementGuid>92495896-dbec-4630-923a-e670aa6bddd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189')]</value>
+      <webElementGuid>8a639b18-2888-4104-af16-1acb358d58f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/input</value>
-      <webElementGuid>dd22e4d7-9d94-4c35-848a-31c045494fe5</webElementGuid>
+      <value>//span[2]/span/img</value>
+      <webElementGuid>f6565e0a-bbcc-494c-9981-9ecfcc027abf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'name' and @id = 'id_name']</value>
-      <webElementGuid>a14ec3f6-82ab-4572-87b6-740165291721</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742211936639_554']/input</value>
-      <webElementGuid>64466b02-47b9-43c1-9767-f03c01861752</webElementGuid>
+      <value>//img[@src = 'https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189' and @id = 'yui_3_17_2_1_1742299767642_13']</value>
+      <webElementGuid>175731cb-b37c-4cd5-b3bc-589c9eb828ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

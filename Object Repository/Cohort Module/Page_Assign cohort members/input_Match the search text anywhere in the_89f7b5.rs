@@ -6,12 +6,12 @@
    <elementGuidId>9f822890-3adb-4b20-b436-3c43756731fb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='add']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#add</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='add']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>70ab2e07-3a68-4b83-ae20-95b8dd37b0ce</webElementGuid>
+      <webElementGuid>218a57a3-14a6-41b4-bac9-2beeb75d1b97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>name</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>903309c6-9d56-48cb-be12-e00e0fc1528c</webElementGuid>
+      <webElementGuid>c48a353f-1e88-4da2-ab7c-6b4054821aba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>6e8cc220-d183-4827-8585-98fe5e75de3f</webElementGuid>
+      <webElementGuid>655a459c-1642-4ae1-ab18-89a3a0ceb9c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>fa869ae5-dbd0-416e-a049-d2a96aaa8b30</webElementGuid>
+      <webElementGuid>f5896b55-7380-46a6-99ae-7a20fd103a24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>value</name>
       <type>Main</type>
       <value>◄ Add</value>
-      <webElementGuid>586b4a87-38ce-4273-970b-db15444726f4</webElementGuid>
+      <webElementGuid>c5a438cd-6161-4b12-ac2b-612c357e1c69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Add</value>
-      <webElementGuid>30980842-8693-4312-b436-6d2d34dd4747</webElementGuid>
+      <webElementGuid>fe15c890-46cf-4af5-a45f-dde8578dcc5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;add&quot;)</value>
-      <webElementGuid>011b88e1-998c-46b7-810d-9a47223598dd</webElementGuid>
+      <webElementGuid>89aea327-417f-4b23-a8ac-a9fb306f8310</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='add']</value>
-      <webElementGuid>ed614539-ade2-414b-83b8-cc94b01dd776</webElementGuid>
+      <webElementGuid>80920c6f-876b-4422-8e39-16e71ff2073d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='addcontrols']/input</value>
-      <webElementGuid>72e5a2c1-a085-402f-b2c8-7960e2a8f513</webElementGuid>
+      <webElementGuid>3d5b77fb-d785-495f-8ac5-871598370ab2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/div/input</value>
-      <webElementGuid>ee050352-05eb-4e7d-85c9-b7f682b96298</webElementGuid>
+      <webElementGuid>bb51d8c5-ecb8-4b13-af52-d2fcb60ab2f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'add' and @id = 'add' and @type = 'submit' and @title = 'Add']</value>
-      <webElementGuid>ff5e06aa-181e-4bca-9ecd-06ba6a599b97</webElementGuid>
+      <webElementGuid>088e465e-c036-4f72-adf8-6d7d8392b330</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

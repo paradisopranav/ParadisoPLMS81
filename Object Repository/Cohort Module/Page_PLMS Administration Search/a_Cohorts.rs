@@ -6,12 +6,12 @@
    <elementGuidId>751efb1f-e8d3-4dd0-94ef-a8c8388ccac2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='linkusers']/div/div/div/div[2]/div[2]/ul/li[7]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#linkusers > div.card > div.card-block.pl-0 > div.container-fluid > div.row > div.col-sm-9 > ul.list-unstyled.admin-settings > li:nth-of-type(7) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='linkusers']/div/div/div/div[2]/div[2]/ul/li[7]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d6b979a5-5a4d-4a3d-a7cc-ac9118189c1d</webElementGuid>
+      <webElementGuid>b902f44d-4eda-4f82-ad41-459646ff6b92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/cohort/index.php</value>
-      <webElementGuid>712f4b5c-b073-482d-86f5-bccedc325b6c</webElementGuid>
+      <webElementGuid>1b416838-8c47-435e-b7eb-7059ab1ac2be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cohorts</value>
-      <webElementGuid>262958bd-df92-4bf3-8deb-7cde9a04be31</webElementGuid>
+      <webElementGuid>bba4e533-5b65-48de-b2a4-aaa1d742d612</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;linkusers&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-block pl-0&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-9&quot;]/ul[@class=&quot;list-unstyled admin-settings&quot;]/li[7]/a[1]</value>
-      <webElementGuid>f5432b89-63ba-4681-a10d-5dc7d9eb7a60</webElementGuid>
+      <webElementGuid>29d9859f-4d6f-4553-8b23-30c881dc9827</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='linkusers']/div/div/div/div[2]/div[2]/ul/li[7]/a</value>
-      <webElementGuid>f0484423-680a-4e52-b42a-13d6e3342936</webElementGuid>
+      <webElementGuid>d2bda3c6-7cb5-46ad-8f29-2a48e71eff28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Cohorts')]</value>
-      <webElementGuid>665c0fdb-8839-435a-9f06-8ed9ac7b5fb0</webElementGuid>
+      <webElementGuid>09eb14b9-4d56-4848-a022-0907ef367d7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User profile fields'])[1]/following::a[1]</value>
-      <webElementGuid>993d6947-ddc2-493d-a814-208cc162897c</webElementGuid>
+      <webElementGuid>dff548c9-6a76-445b-b1e5-185c1d0c4b51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User default preferences'])[1]/following::a[2]</value>
-      <webElementGuid>bc226ee7-8e4d-499e-9617-1e7141cc8764</webElementGuid>
+      <webElementGuid>1de9f23f-182d-4f37-ad78-2a509a92dcb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Merge user accounts'])[1]/preceding::a[1]</value>
-      <webElementGuid>502d1d8e-c8aa-483f-a621-a21cb51b66e9</webElementGuid>
+      <webElementGuid>08835b29-87cd-44fb-8039-844d0723155f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Merge user accounts'])[2]/preceding::a[2]</value>
-      <webElementGuid>d88015f7-14af-424d-87b8-f858b3e593e5</webElementGuid>
+      <webElementGuid>aec1d51f-96b6-40c6-8d4c-0ff859347d35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cohorts']/parent::*</value>
-      <webElementGuid>590fa9ce-2dca-405a-99df-17f14fabb918</webElementGuid>
+      <webElementGuid>0e66b29c-2c6b-4755-92b7-3b8d1d280e18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/cohort/index.php')]</value>
-      <webElementGuid>912079a1-023a-4bfd-bfcc-b8a8b23fb842</webElementGuid>
+      <webElementGuid>86e2d531-9e3f-4086-b830-df0583ccf890</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/ul/li[7]/a</value>
-      <webElementGuid>97864732-5158-43f4-8675-707d08af0f2e</webElementGuid>
+      <webElementGuid>cf1defce-aab8-4baa-9683-365b7ddf3382</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://plms-php81.paradisolms.net/cohort/index.php' and (text() = 'Cohorts' or . = 'Cohorts')]</value>
-      <webElementGuid>6649d7ef-5e77-46d2-afed-dd96dad8a6cf</webElementGuid>
+      <webElementGuid>4e4b6844-2e33-4446-8e4f-284a4a4464d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

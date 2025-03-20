@@ -16,6 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.apache.commons.lang3.RandomStringUtils as RandomStringUtils
 
 WebUI.openBrowser('')
 
@@ -31,11 +32,16 @@ WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Paradiso LMS Lo
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Paradiso LMS Log in to the site/button_Log in'))
 
+// Generate a random name with 8 characters
+String randomName = RandomStringUtils.randomAlphabetic(8).toLowerCase()
+
+String randomNameupdate = RandomStringUtils.randomAlphabetic(8).toLowerCase()
+
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Learning Paths/img_Admin User_userpicture'))
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Dashboard/img_Admin User_userpicture'))
 
-WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Learning Paths/div_Settings'))
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Dashboard/div_Settings'))
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Search/a_Users'))
 
@@ -43,72 +49,58 @@ WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administra
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_Add New Cohort'))
 
-WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_Add New Cohort/input_Name_name'), 'Katalon cohort creation test')
+WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_Add New Cohort/input_Name_name'), randomName)
 
-WebUI.delay(2)
-
-WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_Add New Cohort/input_Cohort ID_idnumber'), '1733')
+WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_Add New Cohort/input_Cohort ID_idnumber'), randomName)
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Add New Cohort/input_qa_multi_select_field_submitbutton'))
 
-WebUI.delay(2)
-
 WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'), 
-    'katalon cohort creation')
+    randomName)
 
-WebUI.sendKeys(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Master topics in small steps. Set a s_14d170'), 
-    Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'),Keys.chord(Keys.ENTER))
 
 WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_All Cohorts'))
+
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_System cohorts'))
+
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/i_Created manually_icon fa fa-eye fa-fw'))
+
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_All Cohorts'))
+
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_System cohorts'))
+
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/i_Created manually_icon fa fa-eye fa-fw'))
+
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_All Cohorts'))
+
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_System cohorts'))
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/i_Created manually_icon fa fa-cog fa-fw'))
 
-WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Edit cohort/input_Name_name'))
-
-WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_Edit cohort/input_Name_name'), 'QA_Katalon cohort creation test')
-
-WebUI.delay(2)
+WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_Edit cohort/input_Name_name'), randomNameupdate)
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Edit cohort/input_qa_multi_select_field_submitbutton'))
 
-//add for clear
-
-WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'),
-	'')
-
-WebUI.sendKeys(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Master topics in small steps. Set a s_14d170'),
-	Keys.chord(Keys.ENTER))
-
 WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'), 
-    'QA_Katalon cohort creation test')
+    randomNameupdate)
 
-WebUI.sendKeys(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Master topics in small steps. Set a s_14d170'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.delay(2)
-
-
-WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/i_Created manually_icon fa fa-eye fa-fw'))
+WebUI.sendKeys(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'),Keys.chord(Keys.ENTER))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/i_Created manually_icon fa fa-eye fa-fw'))
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_All Cohorts_1'))
 
-WebUI.delay(2)
-
-/*WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'), 
-    'QA_Katalon cohort creation test')
-
-WebUI.sendKeys(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Master topics in small steps. Set a s_14d170'), 
-    Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_System cohorts_1'))
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/i_Created manually_icon fa fa-users fa-fw'))
 
 WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/input_Search_addselect_searchtext'), 
     'hruta')
 
-WebUI.sendKeys(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/input_Search_addselect_searchtext'),
-	Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/input_Search_addselect_searchtext'),Keys.chord(Keys.ENTER))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/select_hruta hruta (manashmail.com)hruta1 h_e50a15'), 
     '24315', true)
@@ -118,29 +110,19 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Cohort Module/Page_A
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/input_Match the search text anywhere in the_89f7b5'))
 
-WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/p_Footnote content editor for main footer'))
-*/
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/input_Search_cancel'))
 
-WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'),
-	'')
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_All Cohorts_1'))
 
-WebUI.sendKeys(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Master topics in small steps. Set a s_14d170'),
-	Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/i_Created manually_icon fa fa-users fa-fw_1'))
 
-WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'), 
-    'QA_Katalon cohort creation test')
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/input_Search_cancel'))
 
-WebUI.sendKeys(findTestObject('Object Repository/LearningPath_Insidethetabs/Page_Learning Paths/input_Master topics in small steps. Set a s_14d170'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.delay(2)
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_System cohorts_1'))
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/i_Created manually_icon fa fa-trash fa-fw'))
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Delete cohort/button_Continue'))
 
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'))
-
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_All Cohorts_1'))
 

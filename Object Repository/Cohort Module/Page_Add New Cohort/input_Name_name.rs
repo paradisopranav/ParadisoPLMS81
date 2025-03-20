@@ -6,12 +6,12 @@
    <elementGuidId>8a718a7b-39fa-4b9e-89d2-86411d4296d1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='id_name']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#id_name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='id_name']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>98496825-0bbe-4414-9132-d53476edad5d</webElementGuid>
+      <webElementGuid>d367e010-5c70-4b93-a50b-9ef978c8a3e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>da54935f-8c14-4225-b2e5-2aa960aa1864</webElementGuid>
+      <webElementGuid>778265c4-6a89-4bb9-8cbe-153ecab9edf6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control </value>
-      <webElementGuid>380c8809-7f89-428a-940a-bc088aa43882</webElementGuid>
+      <webElementGuid>055f690b-80cd-4f83-9a6c-4e64e9297c89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>5405b783-d0f1-423f-9259-acae23412aaf</webElementGuid>
+      <webElementGuid>e57c83ff-5571-4dba-b6dc-f9a74573e001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>id_name</value>
-      <webElementGuid>34c2ee1c-7b6a-4c08-862b-6d2eff21b1d5</webElementGuid>
+      <webElementGuid>33978709-e0c9-4a26-ad0f-5893daed53bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>size</name>
       <type>Main</type>
       <value>50</value>
-      <webElementGuid>13d34541-0c98-4113-8101-312d989b6f51</webElementGuid>
+      <webElementGuid>17f3fbf7-bd12-4eeb-b452-4f55b20bf921</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>254</value>
-      <webElementGuid>669e2a97-6ff9-4a31-8b94-c2ed18b1ac38</webElementGuid>
+      <webElementGuid>750d7774-824b-4bb1-8ff8-ff6eecad4849</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;id_name&quot;)</value>
-      <webElementGuid>fdea07c8-d9a7-4fcd-a08c-d23111ba0f6f</webElementGuid>
+      <webElementGuid>1861dba9-902f-4794-9fe7-289106a0b520</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='id_name']</value>
-      <webElementGuid>76c7b42a-ea37-4c02-8107-7b1b7ce54f71</webElementGuid>
+      <webElementGuid>6d1a3616-0bf6-49c4-9b50-8d5159078756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1742446235406_562']/input</value>
+      <webElementGuid>c0a0348b-b177-424f-8c40-14ea81056cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/input</value>
+      <webElementGuid>4e67a3e8-1979-442b-abc7-75080e500988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'name' and @id = 'id_name']</value>
+      <webElementGuid>26bdda0d-c8bb-44ec-bbf7-25f254ae199b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,21 +120,5 @@
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1742211800873_562']/input</value>
       <webElementGuid>d900cb8b-8952-4d29-8104-323f8cd63e32</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[2]/input</value>
-      <webElementGuid>5e39eb9f-246f-4fe5-9fe9-b2133487365a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'name' and @id = 'id_name']</value>
-      <webElementGuid>685ce8e2-80ce-4558-8905-af37d901585c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

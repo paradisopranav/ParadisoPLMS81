@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Search_cancel</name>
+   <name>i_Created manually_icon fa fa-users fa-fw_1</name>
    <tag></tag>
-   <elementGuidId>0371017c-f7e9-4352-957e-632d774bd28e</elementGuidId>
+   <elementGuidId>007de819-6c81-4e07-8857-a5fd4e385c09</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='cancel']</value>
+         <key>CSS</key>
+         <value>i.icon.fa.fa-users.fa-fw</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;cancel&quot;]</value>
+         <key>XPATH</key>
+         <value>//table[@id='cohorts']/tbody/tr/td[7]/a[4]/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,71 +22,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>3e753b54-d8bf-4c3d-b68d-29712b7a8f88</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>2c735beb-adaf-413b-8285-c663d089f787</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>cancel</value>
-      <webElementGuid>4d409f06-0f59-4595-8f88-20fb975e57ed</webElementGuid>
+      <value>i</value>
+      <webElementGuid>bbfa6ce8-3853-4fa4-8b5f-d55c6aa814c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>class</name>
       <type>Main</type>
-      <value>Back To Cohorts</value>
-      <webElementGuid>84d777db-56c8-476d-81f4-07092441e9a5</webElementGuid>
+      <value>icon fa fa-users fa-fw </value>
+      <webElementGuid>9bc3120b-34a5-40fc-8f48-211edce53f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Assign</value>
+      <webElementGuid>416b7831-5193-4ce0-a239-9d0ae33a8c23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Assign</value>
+      <webElementGuid>0b1d2313-56cf-4521-819d-79fe062ef78c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;backcell&quot;)/input[1]</value>
-      <webElementGuid>ec27f06a-d86c-4363-a3d5-fffe0b427f92</webElementGuid>
+      <value>id(&quot;cohorts&quot;)/tbody[1]/tr[@class=&quot;lastrow&quot;]/td[@class=&quot;centeralign action cell c6 lastcol&quot;]/a[4]/i[@class=&quot;icon fa fa-users fa-fw&quot;]</value>
+      <webElementGuid>f360dcfe-5cc5-455e-b102-26f43553f8fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@name='cancel']</value>
-      <webElementGuid>61f9c4d3-2226-407a-973c-ae25addf1f5c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//td[@id='backcell']/input</value>
-      <webElementGuid>23e4f134-88a7-4ad4-b3ac-282feacd6b06</webElementGuid>
+      <value>//table[@id='cohorts']/tbody/tr/td[7]/a[4]/i</value>
+      <webElementGuid>b6975628-ccfd-4858-80bf-b46b116f2d85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/input</value>
-      <webElementGuid>945ada82-a668-476d-ab7b-37ec1916a4aa</webElementGuid>
+      <value>//td[7]/a[4]/i</value>
+      <webElementGuid>d312092e-49c0-4ed3-b834-f4fcbd2de0bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @name = 'cancel']</value>
-      <webElementGuid>934b81a6-1465-4072-9a5f-3b7e7b01b719</webElementGuid>
+      <value>//i[@title = 'Assign']</value>
+      <webElementGuid>1e746995-acb6-45d4-b650-a12eff71a812</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

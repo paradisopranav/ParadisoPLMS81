@@ -6,12 +6,12 @@
    <elementGuidId>6bffed0d-5e01-4947-aa9f-01b3d4d39ffc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='cohorts']/tbody/tr/td[6]/a[2]/i</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>i.icon.fa.fa-trash.fa-fw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cohorts']/tbody/tr/td[6]/a[2]/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>23e00299-722e-4b38-9d77-995f88c648d3</webElementGuid>
+      <webElementGuid>213e13c5-47b9-4e6d-9b5d-2a03e0c6b390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon fa fa-trash fa-fw </value>
-      <webElementGuid>567db2f4-a86c-4063-91bc-8c26804e6c89</webElementGuid>
+      <webElementGuid>b32521a9-6802-4bf7-9ec6-727a84c80308</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>a7eb82b0-4bcb-43a9-936d-07998cba4b25</webElementGuid>
+      <webElementGuid>45bc6037-7b8d-408a-9fa0-113b1d3e0ec7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>b59cdd41-ff1f-491f-8ed0-4a29dd81a30c</webElementGuid>
+      <webElementGuid>b234f2d9-5ef1-444f-8cf4-9606f4659b8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cohorts&quot;)/tbody[1]/tr[@class=&quot;lastrow&quot;]/td[@class=&quot;centeralign action cell c5 lastcol&quot;]/a[2]/i[@class=&quot;icon fa fa-trash fa-fw&quot;]</value>
-      <webElementGuid>a7769587-06eb-426a-97e0-0aff2c2f05e5</webElementGuid>
+      <webElementGuid>199fb8cf-9169-42bc-b19f-aa7875c7e387</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='cohorts']/tbody/tr/td[6]/a[2]/i</value>
-      <webElementGuid>8be61130-d7aa-445a-8a33-34581ecbc40c</webElementGuid>
+      <webElementGuid>e5a41af3-53d4-40d8-b81f-d0f0d3c47668</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[6]/a[2]/i</value>
-      <webElementGuid>e738b353-c7dc-446a-9fbe-b1bd5493c648</webElementGuid>
+      <webElementGuid>86600757-3205-4978-82b2-b934ede49d4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[@title = 'Delete']</value>
-      <webElementGuid>15873f5c-e54e-4b9e-a480-caceabbd05aa</webElementGuid>
+      <webElementGuid>ac519187-fdc1-4bc3-a7a6-6ddae69d51ed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

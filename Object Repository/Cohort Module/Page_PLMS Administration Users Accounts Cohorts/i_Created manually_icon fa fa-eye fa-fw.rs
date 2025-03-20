@@ -6,12 +6,12 @@
    <elementGuidId>ffc94df4-cf5f-43eb-b378-91ed977e16a5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='cohorts']/tbody/tr/td[6]/a/i</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>i.icon.fa.fa-eye.fa-fw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cohorts']/tbody/tr/td[6]/a/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>b3424f3f-12c8-4661-afbe-82dca527cb2d</webElementGuid>
+      <webElementGuid>e2ed7023-a18b-493a-bc79-30fda3467e9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon fa fa-eye fa-fw </value>
-      <webElementGuid>d0311243-d80c-4ecf-ac84-98094f2d5e6d</webElementGuid>
+      <webElementGuid>5692826f-03f4-4944-ab8f-7fed39600fcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Hide</value>
-      <webElementGuid>a49e57c3-71a1-450b-b4a3-62fece387fff</webElementGuid>
+      <webElementGuid>cc91b0fa-4614-4a84-b50a-8098e400bf78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Hide</value>
-      <webElementGuid>8a8df38e-aaf9-42be-84d5-a3449ae28232</webElementGuid>
+      <webElementGuid>b7513528-533b-4690-a36a-20e62250b8ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cohorts&quot;)/tbody[1]/tr[@class=&quot;lastrow&quot;]/td[@class=&quot;centeralign action cell c5 lastcol&quot;]/a[1]/i[@class=&quot;icon fa fa-eye fa-fw&quot;]</value>
-      <webElementGuid>f48b2c2f-f83d-4450-b978-2a66c3a954e8</webElementGuid>
+      <webElementGuid>b911efec-1711-4ad3-a62b-fa3c3d240a3f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='cohorts']/tbody/tr/td[6]/a/i</value>
-      <webElementGuid>287de80e-138a-450d-8f92-2e443a10a89c</webElementGuid>
+      <webElementGuid>d76a13ab-cf9c-42de-88e2-fa3caa026a7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[6]/a/i</value>
-      <webElementGuid>fcb02d0e-d1d8-406a-82dd-4fc56fb67981</webElementGuid>
+      <webElementGuid>720c359a-64d6-449e-a37b-79142d33c893</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[@title = 'Hide']</value>
-      <webElementGuid>67bf8cf8-e8f1-4361-92c4-87d4f3e5bea0</webElementGuid>
+      <webElementGuid>0ca67914-324e-4e71-b018-49087aef931a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>989e39f4-828b-4ffe-88f4-63848a518e6b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='addselect']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#addselect</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='addselect']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>598279e8-f1a7-480c-85cf-59f6fd7e4094</webElementGuid>
+      <webElementGuid>0b3959ec-00b3-469c-9959-24fdf8ab95f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>name</name>
       <type>Main</type>
       <value>addselect[]</value>
-      <webElementGuid>0a56caf4-8923-4b38-843f-e59a9a2157f5</webElementGuid>
+      <webElementGuid>bfbecbde-60bb-40c3-822f-a7b808fcd153</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>addselect</value>
-      <webElementGuid>63a1617b-e880-4750-a74c-bc0a4ceca7a3</webElementGuid>
+      <webElementGuid>25acd101-3c62-47c7-bc30-c12234d66df8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>multiple</name>
       <type>Main</type>
       <value>multiple</value>
-      <webElementGuid>c86814fe-4085-46b1-a607-a66d6c27bfd7</webElementGuid>
+      <webElementGuid>a421f8c1-c11f-4697-9455-42a28e30b3b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>size</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>032c9711-9daa-4a9a-9cce-51662c30d149</webElementGuid>
+      <webElementGuid>125ee362-e4f6-4349-a4fd-f0293d282e4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control no-overflow</value>
-      <webElementGuid>3063d0b1-07c9-4a6d-bfce-20b3f5fbf007</webElementGuid>
+      <webElementGuid>864d1b6e-8dad-449a-81cf-1f43a04c3ad8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
   
   
 hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hruta2326@mail.com)hruta1601 hruta1601 (hruta1601@mail.com)hruta1701 hruta1701 (hruta1701@mail.com)hruta2 hruta2 (hruta2@mail.com)hruta200 hruta200 (hruta200@mail.com)hruta201 hruta201 (hruta201@mail.com)hruta202 hruta202 (hruta2022@mail.com)hruta203 hruta203 (hruta203@mail.com)hruta204 hruta204 (hruta204@mail.com)hruta205 hruta205 (hruta205@mail.com)hruta3 hruta3 (hruta3@mail.com)hruta4 hruta4 (hruta4@mail.com)hruta5 hruta5 (hruta5@mail.com)hruta6 hruta6 (hruta6@mail.com)hruta7 hruta7 (hruta7@mail.com)hrutamobile hrutamobile (hrutamobile@mail.com) </value>
-      <webElementGuid>a49bbaf2-d363-45cf-8f2b-9b53bf658cb5</webElementGuid>
+      <webElementGuid>25feefc5-9326-4063-bf1f-09639115e480</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;addselect&quot;)</value>
-      <webElementGuid>eeedc0d7-e374-4253-a9e7-cbe1802bbff0</webElementGuid>
+      <webElementGuid>4b3c679e-c005-4cf1-85f3-cba693160491</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -90,7 +90,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='addselect']</value>
-      <webElementGuid>a36fe488-fe3c-479f-b570-c93b0927f059</webElementGuid>
+      <webElementGuid>f12a6e7a-54bf-4393-82fb-6060a681b4a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='addselect_wrapper']/select</value>
-      <webElementGuid>0e789143-42d8-4681-8ce0-3c2e9961bb2f</webElementGuid>
+      <webElementGuid>d686d742-04f9-4562-8842-25b5354ccfa4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential users'])[1]/following::select[1]</value>
-      <webElementGuid>e4afd6f4-7d3d-4447-8fed-358b435758c9</webElementGuid>
+      <webElementGuid>0211127c-2c42-4cd5-85c7-ce17ffe01cb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Match the search text anywhere in the displayed fields'])[1]/following::select[1]</value>
-      <webElementGuid>3740ec47-10d0-4c5b-9355-9ff15248c469</webElementGuid>
+      <webElementGuid>ee1fa5de-e152-45c7-ab0f-15b04c47dfe1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::select[1]</value>
-      <webElementGuid>50578cb6-144f-4e46-8588-3d6c3ab41e04</webElementGuid>
+      <webElementGuid>5134d4cd-4b1a-47b4-8074-aa9320cb2a2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::select[1]</value>
-      <webElementGuid>b95f5392-f885-46fd-9a6d-02c454d50b49</webElementGuid>
+      <webElementGuid>2b012689-7342-494c-bc9d-683cd8bbdc2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/div/select</value>
-      <webElementGuid>01a53f9c-4f58-496b-b1bb-f8628e5d70af</webElementGuid>
+      <webElementGuid>ec4aeaf0-f685-47c8-9522-3d9bc9540415</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -152,6 +152,6 @@ hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hru
   
   
 hruta hruta (manash@mail.com)hruta1 hruta1 (hruta1@mail.com)hruta11 hruta11 (hruta2326@mail.com)hruta1601 hruta1601 (hruta1601@mail.com)hruta1701 hruta1701 (hruta1701@mail.com)hruta2 hruta2 (hruta2@mail.com)hruta200 hruta200 (hruta200@mail.com)hruta201 hruta201 (hruta201@mail.com)hruta202 hruta202 (hruta2022@mail.com)hruta203 hruta203 (hruta203@mail.com)hruta204 hruta204 (hruta204@mail.com)hruta205 hruta205 (hruta205@mail.com)hruta3 hruta3 (hruta3@mail.com)hruta4 hruta4 (hruta4@mail.com)hruta5 hruta5 (hruta5@mail.com)hruta6 hruta6 (hruta6@mail.com)hruta7 hruta7 (hruta7@mail.com)hrutamobile hrutamobile (hrutamobile@mail.com) ')]</value>
-      <webElementGuid>1317f026-096d-4636-a904-60c5acec716f</webElementGuid>
+      <webElementGuid>149100b4-b59e-46fb-9c05-70deb4d4cb9f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

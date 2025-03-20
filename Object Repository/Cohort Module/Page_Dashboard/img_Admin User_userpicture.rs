@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_qa_multi_select_field_submitbutton</name>
+   <name>img_Admin User_userpicture</name>
    <tag></tag>
-   <elementGuidId>65c9fcfb-f875-44ca-98f5-a8bacefa7599</elementGuidId>
+   <elementGuidId>2e55fb2c-ec7e-43e7-bdbf-366a5b325e7f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#id_submitbutton</value>
+         <value>img.userpicture</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='id_submitbutton']</value>
+         <value>//a[@id='action-menu-toggle-1']/span/span[2]/span/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,98 +22,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>8f3094f3-4947-4e69-828b-257d41360f00</webElementGuid>
+      <value>img</value>
+      <webElementGuid>b0478ea3-300f-4127-b52c-fbe923e92565</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>src</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>6af66422-dc3a-4fa5-9670-c85be8767628</webElementGuid>
+      <value>https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189</value>
+      <webElementGuid>549b945d-bded-473c-b24f-327a1a6403b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-round
-                    btn-primary
-                    
-                    </value>
-      <webElementGuid>a0d8f5f3-917c-4e58-8c58-d762d5805164</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>submitbutton</value>
-      <webElementGuid>f23d48b9-c690-409b-9df9-82e0f07ab0ba</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>id_submitbutton</value>
-      <webElementGuid>6921b874-6769-473d-bfef-e844e063fbe8</webElementGuid>
+      <value>userpicture</value>
+      <webElementGuid>d666fd3a-9b6f-4eb1-b779-a1d33b7d5821</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>width</name>
       <type>Main</type>
-      <value>Save Changes</value>
-      <webElementGuid>e0b0dc8b-f597-4007-abe9-f0db1d0b94c2</webElementGuid>
+      <value>35</value>
+      <webElementGuid>0521c924-bf22-4cad-b575-e76fc9731e00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>35</value>
+      <webElementGuid>3dd6e2ff-c0f2-4d6e-9a8b-a08f7673daf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>60e264d8-ec0c-4b52-b75f-bff813fe650a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;id_submitbutton&quot;)</value>
-      <webElementGuid>157e66ea-9f7f-4277-bf8a-735ece7f07ca</webElementGuid>
+      <value>id(&quot;action-menu-toggle-1&quot;)/span[@class=&quot;userbutton&quot;]/span[@class=&quot;avatars&quot;]/span[@class=&quot;avatar current&quot;]/img[@class=&quot;userpicture&quot;]</value>
+      <webElementGuid>68074d65-26f4-4855-8110-c3267428495e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//input[@id='id_submitbutton']</value>
-      <webElementGuid>7a43b427-38b8-47da-96a7-0f3bd1bf6478</webElementGuid>
+      <value>//a[@id='action-menu-toggle-1']/span/span[2]/span/img</value>
+      <webElementGuid>7f3cede5-7512-4411-b7be-5b0b39377686</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:img</name>
       <type>Main</type>
-      <value>//span[@id='yui_3_17_2_1_1742446235406_580']/input</value>
-      <webElementGuid>d9d60e36-e488-4283-824e-7f22eba79b03</webElementGuid>
+      <value>//img[contains(@src,'https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189')]</value>
+      <webElementGuid>a63bec5e-c77c-47f4-a068-89ae124f532d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[2]/input</value>
-      <webElementGuid>957698fa-5d19-4d39-b42c-1c9227a96b1b</webElementGuid>
+      <value>//span[2]/span/img</value>
+      <webElementGuid>f9d679be-a564-4a50-9959-fc82d27e4be7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @name = 'submitbutton' and @id = 'id_submitbutton']</value>
-      <webElementGuid>3686b4cb-0875-4b2b-ae0d-98a651b10e0d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//span[@id='yui_3_17_2_1_1742211800873_592']/input</value>
-      <webElementGuid>1cfd3201-657a-47f9-831c-7a9717cabb12</webElementGuid>
+      <value>//img[@src = 'https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189']</value>
+      <webElementGuid>72a8ca3b-da16-4e49-99f6-327dcf1c4603</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

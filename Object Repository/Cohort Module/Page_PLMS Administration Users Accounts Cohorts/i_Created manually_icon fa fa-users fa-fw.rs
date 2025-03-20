@@ -6,12 +6,12 @@
    <elementGuidId>b775ae4f-650b-4671-8a0c-0c95c90ca5ed</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='cohorts']/tbody/tr/td[6]/a[4]/i</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>i.icon.fa.fa-users.fa-fw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cohorts']/tbody/tr/td[6]/a[4]/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>6eb7564f-ddf3-454f-b6a7-541fe0fce98f</webElementGuid>
+      <webElementGuid>d79572a4-081c-4067-8c96-07a3d185cc95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon fa fa-users fa-fw </value>
-      <webElementGuid>8f67a645-cf54-409e-9833-fd98d3f46372</webElementGuid>
+      <webElementGuid>26e4aaef-8a3f-4f20-8d55-3c6bc2cdfe98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Assign</value>
-      <webElementGuid>1d27a5e7-6879-47e3-98e6-d616b1a20999</webElementGuid>
+      <webElementGuid>13169ce0-c5f6-449a-9785-0693dd53af34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Assign</value>
-      <webElementGuid>42c2568b-0104-460a-b9ee-22aa1816370d</webElementGuid>
+      <webElementGuid>e98de5b3-5419-4469-b13f-9cc9a19c76f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cohorts&quot;)/tbody[1]/tr[@class=&quot;lastrow&quot;]/td[@class=&quot;centeralign action cell c5 lastcol&quot;]/a[4]/i[@class=&quot;icon fa fa-users fa-fw&quot;]</value>
-      <webElementGuid>eb1a3468-e4c2-49fb-a831-e2b97f94d604</webElementGuid>
+      <webElementGuid>b7ec275c-638b-4600-98a1-1ae59efcaad4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='cohorts']/tbody/tr/td[6]/a[4]/i</value>
-      <webElementGuid>c3d86dbc-ef7d-4b37-a81a-fde8d9f0a33e</webElementGuid>
+      <webElementGuid>e83cfc39-95ff-4469-ab74-ad1c2a697741</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[6]/a[4]/i</value>
-      <webElementGuid>30d6edb1-64a8-481c-85d3-e3b09d7e174d</webElementGuid>
+      <webElementGuid>0b6c0947-c777-41eb-bbae-b7a229f09bdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[@title = 'Assign']</value>
-      <webElementGuid>0c498b68-4753-4bab-9f99-a34524dfe67f</webElementGuid>
+      <webElementGuid>6d50801b-14b0-49ce-b5a0-f82c4618b127</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
