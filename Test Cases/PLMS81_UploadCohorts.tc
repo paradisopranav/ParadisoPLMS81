@@ -17,6 +17,6 @@
       <description></description>
       <id>b4a87ac6-3b61-4c13-ab78-ef4ec2d92327</id>
       <masked>false</masked>
-      <name>csvuploadfile</name>
+      <name>Cohortcsv</name>
    </variable>
 </TestCaseEntity>

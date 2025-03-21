@@ -43,12 +43,11 @@ WebUI.click(findTestObject('Object Repository/Uploadcohorts/Page_PLMS Administra
 
 WebUI.click(findTestObject('Uploadcohorts/filecohortupload/Page_/input_File_cohortfilechoose'))
 
-WebUI.uploadFile(findTestObject('Uploadcohorts/filecohortupload/Page_/input_Attachment_repo_upload_file'), csvuploadfile)
+WebUI.uploadFile(findTestObject('Uploadcohorts/filecohortupload/Page_/input_Attachment_repo_upload_file'), Cohortcsv)
 
 WebUI.click(findTestObject('Object Repository/Uploadcohorts/Page_/button_Upload'))
 
 //WebUI.waitForElementClickable(findTestObject('Object Repository/Uploadcohorts/Page_/input_Default context_previewbutton'), 2)
-
 WebUI.click(findTestObject('Object Repository/Uploadcohorts/Page_/input_Default context_previewbutton'))
 
 WebUI.click(findTestObject('Object Repository/Uploadcohorts/Page_/input_Default context_submitbutton'))
@@ -60,4 +59,9 @@ WebUI.setText(findTestObject('Object Repository/Uploadcohorts/Page_PLMS Administ
 
 WebUI.sendKeys(findTestObject('Object Repository/Uploadcohorts/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'), 
     Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/i_Created manually_icon fa fa-trash fa-fw'))
+
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Delete cohort/button_Continue'))
+
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_All Cohorts_1'))
 
