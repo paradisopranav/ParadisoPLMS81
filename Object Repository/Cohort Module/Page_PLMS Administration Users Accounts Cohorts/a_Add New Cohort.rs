@@ -6,12 +6,11 @@
    <elementGuidId>fd58e300-013e-4a49-8b9b-a03e8d875263</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//section[@id='region-main']/div/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>88b3b3e5-15ea-4f00-a9c6-9da6dbc71c6b</webElementGuid>
+      <webElementGuid>2386018b-ba3d-4eba-8fe9-41710b59c614</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
-      <webElementGuid>caccf568-bc31-4e8b-a5aa-79efab366097</webElementGuid>
+      <webElementGuid>6c179aa4-1e76-45ef-9b51-b60ed3fc0347</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/cohort/edit.php?contextid=1</value>
-      <webElementGuid>a7cd6254-8cba-4f59-bcc4-229ff48d9791</webElementGuid>
+      <webElementGuid>3176e2c5-4f7f-4c5c-91a2-831600484938</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Add New Cohort</value>
-      <webElementGuid>1f67ec83-ede0-446a-b09f-d4374ef67bd1</webElementGuid>
+      <webElementGuid>cd767583-44be-47e0-99c8-d8131995f319</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add New Cohort</value>
-      <webElementGuid>a1dce351-2e56-40a5-9ece-8efe76f39cdf</webElementGuid>
+      <webElementGuid>e31eb2be-200d-419c-bcc1-b47fa300cd34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/ul[@class=&quot;nav nav-tabs mb-3&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>3bd7a842-0076-49df-b501-5ecfcca3c5cd</webElementGuid>
+      <webElementGuid>8d9c87cf-3b5b-4500-9e0f-2ac590a8f5a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='region-main']/div/div/ul/li[3]/a</value>
-      <webElementGuid>daf48754-ba1a-4a84-84df-6e33c3737d14</webElementGuid>
+      <webElementGuid>2de57a3b-6b94-4092-be91-f26a6d70c0c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Add New Cohort')]</value>
-      <webElementGuid>6189cbc5-5ba2-49e0-9e9d-cc91e966c7f1</webElementGuid>
+      <webElementGuid>b4500415-221a-4a19-b9be-f56b86a40d80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All Cohorts'])[1]/following::a[1]</value>
-      <webElementGuid>0991cf93-e223-4fbe-8a4e-9feee352cc25</webElementGuid>
+      <webElementGuid>763936cb-b032-4db7-a134-b7b3ec085f7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='System cohorts'])[1]/following::a[2]</value>
-      <webElementGuid>d04728b7-5f67-48e1-bcc1-a310f5c6573a</webElementGuid>
+      <webElementGuid>3aca2626-03d8-472d-9811-1cabae9ac967</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload cohorts'])[1]/preceding::a[1]</value>
-      <webElementGuid>6be7606c-26d9-4349-aada-fe0dd1b0c583</webElementGuid>
+      <webElementGuid>75f1465e-5b83-43bc-9cde-249f5ada42bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(current)'])[1]/preceding::a[2]</value>
-      <webElementGuid>cc5c366f-6d3a-4bf6-9403-0fbc475568d6</webElementGuid>
+      <webElementGuid>d53171c0-afd7-453c-bac5-25cb549166f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add New Cohort']/parent::*</value>
-      <webElementGuid>f7f2caaa-e395-4451-94f7-20da1b0bccac</webElementGuid>
+      <webElementGuid>3d81f09b-4bb6-4a7f-95bf-f0ad935e0009</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/cohort/edit.php?contextid=1')]</value>
-      <webElementGuid>a80939a9-bc5d-4b6d-8c7d-b3ac91c3eb34</webElementGuid>
+      <webElementGuid>9ef6ef6a-2a9f-41ba-b9f1-b33395ab28ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div/div/ul/li[3]/a</value>
-      <webElementGuid>4afdc99a-89a8-4e6b-90c6-7821d5b13858</webElementGuid>
+      <webElementGuid>d0ead7bc-99f6-4959-8803-03ad78db26d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://plms-php81.paradisolms.net/cohort/edit.php?contextid=1' and @title = 'Add New Cohort' and (text() = 'Add New Cohort' or . = 'Add New Cohort')]</value>
-      <webElementGuid>33a19f48-0aeb-43f1-a8d0-f0e733c42e82</webElementGuid>
+      <webElementGuid>cfa2756b-4611-4176-98f1-af833c47a37e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -58,7 +58,8 @@ WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Add New Cohort/
 WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'), 
     randomName)
 
-WebUI.sendKeys(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'),Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'), 
+    Keys.chord(Keys.ENTER))
 
 WebUI.delay(2)
 
@@ -87,7 +88,8 @@ WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Edit cohort/inp
 WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'), 
     randomNameupdate)
 
-WebUI.sendKeys(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'),Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'), 
+    Keys.chord(Keys.ENTER))
 
 WebUI.delay(2)
 
@@ -100,7 +102,8 @@ WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administra
 WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/input_Search_addselect_searchtext'), 
     'hruta')
 
-WebUI.sendKeys(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/input_Search_addselect_searchtext'),Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/input_Search_addselect_searchtext'), 
+    Keys.chord(Keys.ENTER))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/select_hruta hruta (manashmail.com)hruta1 h_e50a15'), 
     '24315', true)
@@ -115,6 +118,14 @@ WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Assign cohort m
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_All Cohorts_1'))
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/i_Created manually_icon fa fa-users fa-fw_1'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/select_hruta hruta (manashmail.com)    hrut_d5ce47'), 
+    '24315', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/select_hruta hruta (manashmail.com)    hrut_d5ce47'), 
+    '4898', true)
+
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/input_Match the search text anywhere in the_31d039'))
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Assign cohort members/input_Search_cancel'))
 

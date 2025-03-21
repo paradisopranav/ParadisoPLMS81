@@ -6,12 +6,11 @@
    <elementGuidId>22ed860d-c3da-4155-ac5d-50d2a0d72367</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//section[@id='region-main']/div/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3d992585-77c9-466c-b250-d546cab6bb3e</webElementGuid>
+      <webElementGuid>0a62ee0b-0929-43d8-9f43-10c3bb8e52b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
-      <webElementGuid>44cd77c9-6345-418e-b999-9f9a13746360</webElementGuid>
+      <webElementGuid>fac03d41-0c59-4116-a03b-20c47768532c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/cohort/index.php?contextid=1&amp;search=Regression%20cohort%202003&amp;showall=1</value>
-      <webElementGuid>79dd5c5d-9a35-4160-9a5f-52bf7c86c01d</webElementGuid>
+      <webElementGuid>ee9cb291-175a-4bcc-ad42-53a492d13c4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>All Cohorts</value>
-      <webElementGuid>f02fb611-cf38-4168-bb80-2a49797a7e7f</webElementGuid>
+      <webElementGuid>df83c272-1ef6-475c-8c54-01ba7e580ff1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>All Cohorts</value>
-      <webElementGuid>ff68e12b-a7e5-4b33-8be4-8d573eb5d33e</webElementGuid>
+      <webElementGuid>d56abba4-7748-496e-9e23-0fa7a9d5559c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/ul[@class=&quot;nav nav-tabs mb-3&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>13cf1352-d304-4e36-8f75-276618233cc5</webElementGuid>
+      <webElementGuid>688801cc-2b85-4746-8aaf-2295e8329bf4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='region-main']/div/div/ul/li[2]/a</value>
-      <webElementGuid>fc14c5da-a3f6-4f4d-9545-ccd3b854645b</webElementGuid>
+      <webElementGuid>a46a0c41-9fa0-432f-8009-d4bf35aa5998</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'All Cohorts')]</value>
-      <webElementGuid>249a957a-dca8-4b91-af14-092063a00d60</webElementGuid>
+      <webElementGuid>494fb76e-5c2d-42ca-ab17-7e7418eab7ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='System cohorts'])[1]/following::a[1]</value>
-      <webElementGuid>02bd7a6e-6cd2-48cb-8737-308cae21e890</webElementGuid>
+      <webElementGuid>26aba537-0c37-48eb-aa37-86cee5b46d44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='System: available cohorts (1/60)'])[1]/following::a[2]</value>
-      <webElementGuid>e93206bb-c001-4682-9ec2-62cdc6eb5f0e</webElementGuid>
+      <webElementGuid>0cf29236-c439-4e74-84c1-448d193fd4fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Cohort'])[1]/preceding::a[1]</value>
-      <webElementGuid>e45c6eb1-c92d-4738-af26-cf0b534b5b77</webElementGuid>
+      <webElementGuid>1f4120fb-2a1d-4edd-a8d6-1ac8660a3769</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload cohorts'])[1]/preceding::a[2]</value>
-      <webElementGuid>2d1ca0a0-596e-47ff-a00e-7af20a093d68</webElementGuid>
+      <webElementGuid>c096bd59-2f38-49b2-9631-e59d2c1a16e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='All Cohorts']/parent::*</value>
-      <webElementGuid>0ac4f510-e89e-49e2-849c-208ef078103b</webElementGuid>
+      <webElementGuid>34a9b25d-88c9-4141-86b3-5588102e2041</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/cohort/index.php?contextid=1&amp;search=Regression%20cohort%202003&amp;showall=1')]</value>
-      <webElementGuid>2c9ab6e7-1516-4fa2-9a01-85860a7d2e05</webElementGuid>
+      <webElementGuid>96f7e4b4-e3d0-4757-8f2b-e991270d1e03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div/div/ul/li[2]/a</value>
-      <webElementGuid>894b1842-b6b9-431c-aa5e-f60ce4bd8397</webElementGuid>
+      <webElementGuid>0a6dc578-b541-42da-843e-7dbf466070bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://plms-php81.paradisolms.net/cohort/index.php?contextid=1&amp;search=Regression%20cohort%202003&amp;showall=1' and @title = 'All Cohorts' and (text() = 'All Cohorts' or . = 'All Cohorts')]</value>
-      <webElementGuid>8c700d38-b523-4b94-95f6-7033f15df5ce</webElementGuid>
+      <webElementGuid>774ae9b9-4ea9-4f2a-8020-f41519f4145f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

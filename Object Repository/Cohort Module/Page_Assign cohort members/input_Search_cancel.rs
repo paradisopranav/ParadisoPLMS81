@@ -6,12 +6,12 @@
    <elementGuidId>0371017c-f7e9-4352-957e-632d774bd28e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='cancel']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;cancel&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='cancel']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1590a441-4c57-48e8-b277-1521f21d076d</webElementGuid>
+      <webElementGuid>03fca677-2700-4e74-983a-c5765cc152e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>59efad97-3913-46a5-8635-ed01ac70ad02</webElementGuid>
+      <webElementGuid>fcbbe039-d27b-4669-8e39-27c35472fb35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>cancel</value>
-      <webElementGuid>2b4027be-27f0-4da8-9cca-89b0d8460b4a</webElementGuid>
+      <webElementGuid>ff96a6d3-1f5f-44be-99b0-83ce4a30f442</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Back To Cohorts</value>
-      <webElementGuid>b8d08cc6-b6d7-47f1-af45-238b4b2dffe8</webElementGuid>
+      <webElementGuid>6200ea4b-f6f0-4648-a931-c2222a90387e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;backcell&quot;)/input[1]</value>
-      <webElementGuid>8fd13b61-d97a-4609-9697-e8276d0d7bc0</webElementGuid>
+      <webElementGuid>65729e70-73d5-486f-a295-2574d022eb32</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='cancel']</value>
-      <webElementGuid>948640c6-4d69-4c86-ab9e-0b386c03a551</webElementGuid>
+      <webElementGuid>0f5ab8dd-d004-4706-bbef-1015664708c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='backcell']/input</value>
-      <webElementGuid>36a37bcb-bf8d-4b0d-9b26-adb514ce6cb4</webElementGuid>
+      <webElementGuid>45bca1a5-062c-4569-81cb-78d0cc4dadb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/input</value>
-      <webElementGuid>0a8ab2a9-2a0d-488e-816b-172ddabfd7b7</webElementGuid>
+      <webElementGuid>f262a756-1316-4f48-b744-9a78f94be34f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'cancel']</value>
-      <webElementGuid>f227f180-f0a9-45ab-9f60-f3bf35527641</webElementGuid>
+      <webElementGuid>fda7cbae-5237-4ccd-ae48-e72b94bf8c14</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

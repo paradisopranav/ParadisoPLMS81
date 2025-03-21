@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Match the search text anywhere in the_89f7b5</name>
+   <name>input_Match the search text anywhere in the_31d039</name>
    <tag></tag>
-   <elementGuidId>9f822890-3adb-4b20-b436-3c43756731fb</elementGuidId>
+   <elementGuidId>7bce6a57-4563-49c5-ae29-e4dfd89b2547</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='add']</value>
+         <value>//input[@id='remove']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#add</value>
+         <value>#remove</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,23 +23,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>95aba549-24b2-4bdf-b338-5290e6d2ed04</webElementGuid>
+      <webElementGuid>4ef3f7c2-7269-4b47-8c89-1e800c66c9a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>add</value>
-      <webElementGuid>105b49fa-4e97-4318-b586-9bacf25518fe</webElementGuid>
+      <value>remove</value>
+      <webElementGuid>fb14a842-a1c6-4bfa-892e-5eb9afabcbee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>add</value>
-      <webElementGuid>f5603a03-ca54-43e4-b099-871f8a743e09</webElementGuid>
+      <value>remove</value>
+      <webElementGuid>daac6f73-afb6-4301-8baf-480ea4a1462a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,62 +47,62 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>317a0229-8b63-4525-8aa0-d70467baf9eb</webElementGuid>
+      <webElementGuid>0ae04857-0be8-478c-861c-8c81101215cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>◄ Add</value>
-      <webElementGuid>325dd1cd-2b5d-4922-b38c-12ed7f9d1bd6</webElementGuid>
+      <value>Remove ►</value>
+      <webElementGuid>0f5c9740-16cd-4cce-baec-182cf39cfc86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
-      <value>Add</value>
-      <webElementGuid>300af7ae-5f8e-487c-bf1d-727ce69573bf</webElementGuid>
+      <value>Remove</value>
+      <webElementGuid>01a7e3c6-a118-4489-ac41-02129b2edb9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;add&quot;)</value>
-      <webElementGuid>64aeef64-eb0e-4920-82bb-912cdaa76b1a</webElementGuid>
+      <value>id(&quot;remove&quot;)</value>
+      <webElementGuid>4b344911-dd94-46e2-a6e2-425c6805970b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='add']</value>
-      <webElementGuid>5ef82aac-f7a9-4bf1-9491-e8093a0a426b</webElementGuid>
+      <value>//input[@id='remove']</value>
+      <webElementGuid>df40805e-2053-4c1c-b879-10c98366ce84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='addcontrols']/input</value>
-      <webElementGuid>998d4812-1f01-436d-a035-516ed246fdb1</webElementGuid>
+      <value>//div[@id='removecontrols']/input</value>
+      <webElementGuid>f35a8f7c-9807-47f9-a8fa-33bc295bb50b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[2]/div/input</value>
-      <webElementGuid>1e746700-6abf-4fe9-bdc3-a6b9077f6773</webElementGuid>
+      <value>//td[2]/div[2]/input</value>
+      <webElementGuid>edb2f547-d4d3-4446-8945-9310aa04375d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'add' and @id = 'add' and @type = 'submit' and @title = 'Add']</value>
-      <webElementGuid>ea697051-a56e-4a94-abeb-30aeaad56d4b</webElementGuid>
+      <value>//input[@name = 'remove' and @id = 'remove' and @type = 'submit' and @title = 'Remove']</value>
+      <webElementGuid>03246f5c-a371-4661-9c38-79cf3a57ff11</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
