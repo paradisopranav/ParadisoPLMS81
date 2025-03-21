@@ -63,5 +63,16 @@ WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administra
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Delete cohort/button_Continue'))
 
-WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_All Cohorts_1'))
+WebUI.setText(findTestObject('Object Repository/Uploadcohorts/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'),
+	'uploadcohort')
+
+WebUI.sendKeys(findTestObject('Object Repository/Uploadcohorts/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'),
+	Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/i_Created manually_icon fa fa-trash fa-fw'))
+
+WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Delete cohort/button_Continue'))
+
+WebUI.setText(findTestObject('Object Repository/Uploadcohorts/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'),
+	'uploadcohort')
+
 
