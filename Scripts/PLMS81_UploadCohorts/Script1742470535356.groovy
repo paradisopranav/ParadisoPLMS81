@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL)
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_Paradiso LMS Log in to the site/input_Username_username'), 
     GlobalVariable.Username)
 
@@ -72,7 +74,7 @@ WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administra
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Delete cohort/button_Continue'))
 
-WebUI.setText(findTestObject('Object Repository/Uploadcohorts/Page_PLMS Administration Users Accounts Cohorts/input_Upload cohorts_search'),
-	'uploadcohort')
+WebUI.closeBrowser()
+
 
 

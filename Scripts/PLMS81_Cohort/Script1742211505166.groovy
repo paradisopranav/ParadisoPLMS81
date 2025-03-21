@@ -20,6 +20,8 @@ import org.apache.commons.lang3.RandomStringUtils as RandomStringUtils
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.setText(findTestObject('Object Repository/Cohort Module/Page_Paradiso LMS Log in to the site/input_Username_username'), 
@@ -36,8 +38,6 @@ WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Paradiso LMS Lo
 String randomName = RandomStringUtils.randomAlphabetic(8).toLowerCase()
 
 String randomNameupdate = RandomStringUtils.randomAlphabetic(8).toLowerCase()
-
-WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Dashboard/img_Admin User_userpicture'))
 
@@ -137,3 +137,4 @@ WebUI.click(findTestObject('Object Repository/Cohort Module/Page_Delete cohort/b
 
 WebUI.click(findTestObject('Object Repository/Cohort Module/Page_PLMS Administration Users Accounts Cohorts/a_All Cohorts_1'))
 
+WebUI.closeBrowser()

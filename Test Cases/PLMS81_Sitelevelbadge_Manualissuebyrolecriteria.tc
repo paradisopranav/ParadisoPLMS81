@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Sitelevelbadge_Manualissuebyrolecriteria</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>046bafd4-fb71-412b-8b8b-69cfa9fff912</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de58e542-d7f8-4299-b6c0-07014d7c0ea1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\S\\Desktop\\Paradiso\\Google_Download\\th.jpg'</defaultValue>
+      <description></description>
+      <id>de58e542-d7f8-4299-b6c0-07014d7c0ea1</id>
+      <masked>false</masked>
+      <name>uploadimage</name>
+   </variable>
+</TestCaseEntity>

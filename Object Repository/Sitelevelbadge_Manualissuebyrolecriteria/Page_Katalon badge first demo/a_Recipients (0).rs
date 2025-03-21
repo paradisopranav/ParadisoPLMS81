@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Recipients (0)</name>
+   <tag></tag>
+   <elementGuidId>fd504cfd-e9ca-4db0-8747-28926808091e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='region-main']/div/div/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f96199bb-6fa0-4f5f-a125-dcd04c2c848d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>88225e64-396d-472a-a2ad-1302df4cbc30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://plms-php81.paradisolms.net/badges/recipients.php?id=260</value>
+      <webElementGuid>59c0e224-edf5-48e4-a8d2-f335467f93c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Recipients (0)</value>
+      <webElementGuid>23f04a47-0978-4bfb-a27e-cbb35c5fb062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recipients (0)</value>
+      <webElementGuid>bb58450d-d976-48b5-88cc-2ebc26d745c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/ul[@class=&quot;nav nav-tabs mb-3&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>25673caf-90da-4a6a-87c9-fbf6da1a6488</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='region-main']/div/div/ul/li[5]/a</value>
+      <webElementGuid>49ebc4dd-76f3-4046-aebf-ed833a25468c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Recipients (0)')]</value>
+      <webElementGuid>dc718760-191e-4e25-85ae-983fd50a7ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/following::a[1]</value>
+      <webElementGuid>0a777b34-869c-4564-beff-fdf56f73a77d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Criteria'])[1]/following::a[2]</value>
+      <webElementGuid>366675fd-ef8e-496e-adea-c4a0da60f3a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Endorsement'])[1]/preceding::a[1]</value>
+      <webElementGuid>5f71087a-4d0f-494b-98e7-bc7cbce1987e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related badges (0)'])[1]/preceding::a[2]</value>
+      <webElementGuid>645c9d40-6876-430a-a39e-a041fcabf1fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recipients (0)']/parent::*</value>
+      <webElementGuid>0e2b703e-0740-4ef4-94aa-cf1a9ec7aa6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/recipients.php?id=260')]</value>
+      <webElementGuid>27f7de05-ac51-4766-b4de-ca5d066de421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/ul/li[5]/a</value>
+      <webElementGuid>bd099593-eed4-484b-9421-d1a872ada760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/recipients.php?id=260' and @title = 'Recipients (0)' and (text() = 'Recipients (0)' or . = 'Recipients (0)')]</value>
+      <webElementGuid>a9f2bd67-f049-4918-b621-a754befefe4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

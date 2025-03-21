@@ -13,10 +13,10 @@
       <variableId>b4a87ac6-3b61-4c13-ab78-ef4ec2d92327</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'C:\\Users\\S\\Downloads\\example (19).csv'</defaultValue>
+      <defaultValue>'C:\\Users\\S\\Downloads\\cohortcsvfile.csv'</defaultValue>
       <description></description>
       <id>b4a87ac6-3b61-4c13-ab78-ef4ec2d92327</id>
       <masked>false</masked>
-      <name>Cohortcsv</name>
+      <name>csvuploadfile</name>
    </variable>
 </TestCaseEntity>
