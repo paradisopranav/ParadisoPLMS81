@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Copy</name>
+   <name>button_Upload</name>
    <tag></tag>
-   <elementGuidId>44a62966-8e62-448c-abbb-014464d0c1bb</elementGuidId>
+   <elementGuidId>1630d762-aa78-40eb-8103-e1fae0326edb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value>#yui_3_17_2_1_1742806038182_845</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(text(),'Copy')])[30]&#xd;
-</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose licence'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,111 +22,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>8e3044ad-5af0-4f38-9ab4-ee321a6455e2</webElementGuid>
+      <value>button</value>
+      <webElementGuid>ec50d9b8-e132-43e4-b0ba-da55d68924ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-item</value>
-      <webElementGuid>4eaec60a-a9ce-4383-a3cb-f7b09c19fe59</webElementGuid>
+      <value>fp-upload-btn btn-primary btn btn-round</value>
+      <webElementGuid>7831e7fe-3800-4c06-80ab-69613fc49b3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>id</name>
       <type>Main</type>
-      <value>https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=260&amp;sesskey=M5kt6xgS03</value>
-      <webElementGuid>d4972e31-c531-4dcc-b412-a8513317423d</webElementGuid>
+      <value>yui_3_17_2_1_1742806038182_845</value>
+      <webElementGuid>2b9e5f57-d9da-4dcd-8a0e-a76d5935649a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Copy</value>
-      <webElementGuid>83f12edf-6dd3-4403-8b0b-199a976d5c43</webElementGuid>
+      <value>Upload</value>
+      <webElementGuid>a94ed1a8-f09d-4256-9674-00527ab5190e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742545263048_18&quot;)/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>18ed7558-d6d3-4eb4-812c-5662efc65d85</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1742806038182_845&quot;)</value>
+      <webElementGuid>9823193e-82b4-4bc3-bed2-311b81fa4501</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='yui_3_17_2_1_1742806038182_845']</value>
+      <webElementGuid>07034619-0247-495e-99bc-096ca335e83f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//td[@id='yui_3_17_2_1_1742545263048_18']/div/a[3]</value>
-      <webElementGuid>97c17b11-f966-4663-879e-51f5682ed433</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>(//a[contains(text(),'Copy')])[30]</value>
-      <webElementGuid>84cdfc66-e36d-46f6-aeb8-f57af28c61ee</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1742806038182_846']/button</value>
+      <webElementGuid>bc5a7565-06bf-4f98-97d3-af12324967ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[30]/following::a[1]</value>
-      <webElementGuid>1faff28f-e2ca-4be6-ac54-ae3a40eef068</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose licence'])[1]/following::button[1]</value>
+      <webElementGuid>230aac1b-e62e-4474-bea9-28c81293b457</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable access'])[6]/following::a[2]</value>
-      <webElementGuid>478849b4-0fad-4db5-9df3-b4507650b7fc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Author'])[1]/following::button[1]</value>
+      <webElementGuid>be934cb5-1471-4352-9092-e6aa56992ba8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[30]/preceding::a[1]</value>
-      <webElementGuid>0191be1a-68c3-467b-8c06-02f9c966fb1b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[1]/preceding::button[1]</value>
+      <webElementGuid>2e331370-ceb8-443e-a562-746b22bf5cba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='manul badge'])[1]/preceding::a[2]</value>
-      <webElementGuid>70a1f990-35d1-41ff-98c0-7c7c5e94edd4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=260&amp;sesskey=M5kt6xgS03')]</value>
-      <webElementGuid>913d89a4-0570-41c5-a7a3-91a3675eee44</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/preceding::button[2]</value>
+      <webElementGuid>1f0eaf73-6ccc-460e-9313-3223c3b72d84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[30]/td[5]/div/a[3]</value>
-      <webElementGuid>6d57d627-d27c-4153-90f1-3edc907f63e4</webElementGuid>
+      <value>//div[2]/div/div[2]/div/div/div/button</value>
+      <webElementGuid>da916098-ceb2-4180-92ec-1d236fa9cf16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=260&amp;sesskey=M5kt6xgS03' and (text() = 'Copy' or . = 'Copy')]</value>
-      <webElementGuid>a4cd8657-38e6-4384-bcc2-f59abef88622</webElementGuid>
+      <value>//button[@id = 'yui_3_17_2_1_1742806038182_845' and (text() = 'Upload' or . = 'Upload')]</value>
+      <webElementGuid>45be70c0-53c2-49da-82e9-ca93156aa4a5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

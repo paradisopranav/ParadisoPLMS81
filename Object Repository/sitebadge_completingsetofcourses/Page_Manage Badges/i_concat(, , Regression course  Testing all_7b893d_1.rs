@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Awarded by Manager_dropdownMenuButton</name>
+   <name>i_concat(, , Regression course  Testing all_7b893d_1</name>
    <tag></tag>
-   <elementGuidId>fd03cd5f-322d-4953-8492-4915e577830b</elementGuidId>
+   <elementGuidId>fe964d78-a37d-4060-b46f-81b64c23a5ad</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>tr:nth-of-type(30) > td.actions.cell.c4.lastcol > #dropdownMenuButton</value>
+         <key>XPATH</key>
+         <value>(//i[@id='dropdownMenuButton'])[47]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html[1]/body[1]/div[3]/div[7]/div[1]/div[2]/div[1]/section[1]/div[1]/div[1]/table[1]/tbody[1]/tr[34]/td[5]/i[1]</value>
+         <key>CSS</key>
+         <value>tr:nth-of-type(47) > td.actions.cell.c4.lastcol > #dropdownMenuButton</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>45cb9614-8c50-44f2-81a7-3879813251de</webElementGuid>
+      <webElementGuid>442e873c-3135-4762-ac44-f990c066eec5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-ellipsis-v</value>
-      <webElementGuid>b9503ec9-d60c-4367-a84f-620bc2d3aff5</webElementGuid>
+      <webElementGuid>dce12990-5012-4304-b5eb-037c1548e942</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6dfce8d7-0d5f-4513-b7af-86941658fb89</webElementGuid>
+      <webElementGuid>6d92a193-f60e-4ed9-868d-ff0ecfa29dfa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>dropdownMenuButton</value>
-      <webElementGuid>d5fe998b-44f9-404e-aa9d-fa9ef6bd1837</webElementGuid>
+      <webElementGuid>88e55b19-4465-49bb-93ea-afdb8172d029</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>4672d6d1-7f92-4a73-bdae-e9eafb2c5742</webElementGuid>
+      <webElementGuid>96bd67b7-408f-46f3-bcaa-e69981d86442</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,39 +63,39 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>1368c36f-4fb3-470c-9e66-f1479a46a015</webElementGuid>
+      <webElementGuid>3df16f0f-5a57-441e-9622-b9873b0dc665</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/table[@class=&quot;table table-bordered table-striped&quot;]/tbody[1]/tr[30]/td[@class=&quot;actions cell c4 lastcol&quot;]/i[@id=&quot;dropdownMenuButton&quot;]</value>
-      <webElementGuid>d73cb9ae-5d30-4f66-8a73-bfe5dd8ae607</webElementGuid>
+      <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/table[@class=&quot;table table-bordered table-striped&quot;]/tbody[1]/tr[47]/td[@class=&quot;actions cell c4 lastcol&quot;]/i[@id=&quot;dropdownMenuButton&quot;]</value>
+      <webElementGuid>732c647e-6cf8-4b9e-9ce3-61581d053a2b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//i[@id='dropdownMenuButton'])[30]</value>
-      <webElementGuid>d0a2ba85-cb06-4e02-975c-7dae10db68cf</webElementGuid>
+      <value>(//i[@id='dropdownMenuButton'])[47]</value>
+      <webElementGuid>c4ffffae-1c42-4892-a0d3-f3979a88cebc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='region-main']/div/div/table/tbody/tr[30]/td[5]/i</value>
-      <webElementGuid>306e6d28-e317-4cf8-80af-b7c36f1440e7</webElementGuid>
+      <value>//section[@id='region-main']/div/div/table/tbody/tr[47]/td[5]/i</value>
+      <webElementGuid>3eb2f4e7-4d6d-44de-ba73-286f47b46a62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[30]/td[5]/i</value>
-      <webElementGuid>869e0ef8-8f91-43fa-b350-ed74461af216</webElementGuid>
+      <value>//tr[47]/td[5]/i</value>
+      <webElementGuid>12738006-9f69-489d-93d1-ce21102be8b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[@type = 'button' and @id = 'dropdownMenuButton']</value>
-      <webElementGuid>57d6d115-cbd5-4368-8d6a-c100d100cbef</webElementGuid>
+      <webElementGuid>2da2e9e1-d644-409f-b1fd-465be66a8ee8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

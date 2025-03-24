@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Copy</name>
+   <name>button_Add a New Badge</name>
    <tag></tag>
-   <elementGuidId>44a62966-8e62-448c-abbb-014464d0c1bb</elementGuidId>
+   <elementGuidId>56fee173-56b5-444a-b7b4-bc21c81a100b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value>#single_button67e11c476a20319</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(text(),'Copy')])[30]&#xd;
-</value>
+         <value>//section[@id='region-main']/div/div/div[2]/div/form/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,111 +22,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>8e3044ad-5af0-4f38-9ab4-ee321a6455e2</webElementGuid>
+      <value>button</value>
+      <webElementGuid>6eefe2a0-93bf-48f3-9673-5cfd3235e2d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>3227d5c3-92a7-40ec-8263-3e581e8181fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-item</value>
-      <webElementGuid>4eaec60a-a9ce-4383-a3cb-f7b09c19fe59</webElementGuid>
+      <value>btn btn-round btn-secondary</value>
+      <webElementGuid>0d755341-c247-4e5a-8793-6269c526ebeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>id</name>
       <type>Main</type>
-      <value>https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=260&amp;sesskey=M5kt6xgS03</value>
-      <webElementGuid>d4972e31-c531-4dcc-b412-a8513317423d</webElementGuid>
+      <value>single_button67e11c476a20319</value>
+      <webElementGuid>24846e37-5ed3-4dce-afd6-03adb360ea94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Copy</value>
-      <webElementGuid>83f12edf-6dd3-4403-8b0b-199a976d5c43</webElementGuid>
+      <value>Add a New Badge</value>
+      <webElementGuid>49d26e69-a0fd-4d4d-aa30-af2c70c4fe7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742545263048_18&quot;)/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>18ed7558-d6d3-4eb4-812c-5662efc65d85</webElementGuid>
+      <value>id(&quot;single_button67e11c476a20319&quot;)</value>
+      <webElementGuid>6bb37941-a842-408a-893a-cda4f9d03f44</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='single_button67e11c476a20319']</value>
+      <webElementGuid>e8cabef9-fb49-4a93-bb0e-5f1abb62a3c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//td[@id='yui_3_17_2_1_1742545263048_18']/div/a[3]</value>
-      <webElementGuid>97c17b11-f966-4663-879e-51f5682ed433</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>(//a[contains(text(),'Copy')])[30]</value>
-      <webElementGuid>84cdfc66-e36d-46f6-aeb8-f57af28c61ee</webElementGuid>
+      <value>//section[@id='region-main']/div/div/div[2]/div/form/button</value>
+      <webElementGuid>3ee564b9-44d8-49e0-aec8-7e8d80381f3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[30]/following::a[1]</value>
-      <webElementGuid>1faff28f-e2ca-4be6-ac54-ae3a40eef068</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of badges available: 71'])[1]/following::button[1]</value>
+      <webElementGuid>907ab0bf-9ceb-4db4-8c54-1fc514cb3496</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable access'])[6]/following::a[2]</value>
-      <webElementGuid>478849b4-0fad-4db5-9df3-b4507650b7fc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site badges: Manage Badges'])[1]/following::button[1]</value>
+      <webElementGuid>5754f6af-1776-4752-a70e-fd55752907da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[30]/preceding::a[1]</value>
-      <webElementGuid>0191be1a-68c3-467b-8c06-02f9c966fb1b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(current)'])[1]/preceding::button[1]</value>
+      <webElementGuid>d6c13da1-69b8-416f-908f-33aad7479caf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='manul badge'])[1]/preceding::a[2]</value>
-      <webElementGuid>70a1f990-35d1-41ff-98c0-7c7c5e94edd4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::button[1]</value>
+      <webElementGuid>d3e5e036-4f65-466e-b664-b8bdac70807b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=260&amp;sesskey=M5kt6xgS03')]</value>
-      <webElementGuid>913d89a4-0570-41c5-a7a3-91a3675eee44</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Add a New Badge']/parent::*</value>
+      <webElementGuid>a5e6efa7-f19c-448d-9aa8-4ae1d21cb3d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[30]/td[5]/div/a[3]</value>
-      <webElementGuid>6d57d627-d27c-4153-90f1-3edc907f63e4</webElementGuid>
+      <value>//form/button</value>
+      <webElementGuid>0e49d307-87e6-439b-91dc-127db825a5bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=260&amp;sesskey=M5kt6xgS03' and (text() = 'Copy' or . = 'Copy')]</value>
-      <webElementGuid>a4cd8657-38e6-4384-bcc2-f59abef88622</webElementGuid>
+      <value>//button[@type = 'submit' and @id = 'single_button67e11c476a20319' and (text() = 'Add a New Badge' or . = 'Add a New Badge')]</value>
+      <webElementGuid>23b21611-fb82-4bd6-a132-ebeb47acb96d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Awarded by Manager_dropdownMenuButton</name>
+   <name>input_Password_password</name>
    <tag></tag>
-   <elementGuidId>fd03cd5f-322d-4953-8492-4915e577830b</elementGuidId>
+   <elementGuidId>13cfe81f-66fc-48a2-bb6c-065b300b98d6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>tr:nth-of-type(30) > td.actions.cell.c4.lastcol > #dropdownMenuButton</value>
+         <key>XPATH</key>
+         <value>//input[@id='password']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html[1]/body[1]/div[3]/div[7]/div[1]/div[2]/div[1]/section[1]/div[1]/div[1]/table[1]/tbody[1]/tr[34]/td[5]/i[1]</value>
+         <key>CSS</key>
+         <value>#password</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,87 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>i</value>
-      <webElementGuid>45cb9614-8c50-44f2-81a7-3879813251de</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>fa fa-ellipsis-v</value>
-      <webElementGuid>b9503ec9-d60c-4367-a84f-620bc2d3aff5</webElementGuid>
+      <value>input</value>
+      <webElementGuid>8da9ac31-7189-44fc-92cf-ee4529a21137</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>6dfce8d7-0d5f-4513-b7af-86941658fb89</webElementGuid>
+      <value>password</value>
+      <webElementGuid>6e7626ca-af6f-4244-a59d-64c573355fa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>f0de4f68-a55f-4f30-aecb-66cd1b43cdf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>dropdownMenuButton</value>
-      <webElementGuid>d5fe998b-44f9-404e-aa9d-fa9ef6bd1837</webElementGuid>
+      <value>password</value>
+      <webElementGuid>00fb5fec-efcd-4fb5-a319-2d0b0f93cec1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-toggle</name>
+      <name>class</name>
       <type>Main</type>
-      <value>dropdown</value>
-      <webElementGuid>4672d6d1-7f92-4a73-bdae-e9eafb2c5742</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>2e4c9e2a-5e28-46dc-afdb-ceb3feb5ff60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-expanded</name>
+      <name>autocomplete</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>1368c36f-4fb3-470c-9e66-f1479a46a015</webElementGuid>
+      <value>off</value>
+      <webElementGuid>73851ddb-72ea-44ef-8d89-5c7d63f1f22d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>da62fd9f-64f8-40ac-9713-7db113fcb565</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/table[@class=&quot;table table-bordered table-striped&quot;]/tbody[1]/tr[30]/td[@class=&quot;actions cell c4 lastcol&quot;]/i[@id=&quot;dropdownMenuButton&quot;]</value>
-      <webElementGuid>d73cb9ae-5d30-4f66-8a73-bfe5dd8ae607</webElementGuid>
+      <value>id(&quot;password&quot;)</value>
+      <webElementGuid>256dc968-9c37-416a-b52c-3e41531f6ef5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//i[@id='dropdownMenuButton'])[30]</value>
-      <webElementGuid>d0a2ba85-cb06-4e02-975c-7dae10db68cf</webElementGuid>
+      <value>//input[@id='password']</value>
+      <webElementGuid>8fd4cb78-1d47-4326-896b-58409f4c923b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='region-main']/div/div/table/tbody/tr[30]/td[5]/i</value>
-      <webElementGuid>306e6d28-e317-4cf8-80af-b7c36f1440e7</webElementGuid>
+      <value>//form[@id='login']/div[2]/input</value>
+      <webElementGuid>67424587-c112-48ea-8c92-d7171f4da5e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[30]/td[5]/i</value>
-      <webElementGuid>869e0ef8-8f91-43fa-b350-ed74461af216</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>3e9c11b8-6177-4828-a155-ba3e130dd8e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//i[@type = 'button' and @id = 'dropdownMenuButton']</value>
-      <webElementGuid>57d6d115-cbd5-4368-8d6a-c100d100cbef</webElementGuid>
+      <value>//input[@type = 'password' and @name = 'password' and @id = 'password' and @placeholder = 'Password']</value>
+      <webElementGuid>57a89603-a01e-4a38-9463-04d855271759</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

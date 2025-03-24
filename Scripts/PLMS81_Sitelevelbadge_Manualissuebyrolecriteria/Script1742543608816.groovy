@@ -36,10 +36,8 @@ WebUI.click(findTestObject('Object Repository/LearningPath_Creation/Page_Paradis
 WebUI.click(findTestObject('Object Repository/LearningPath_Creation/Page_Paradiso LMS Log in to the site/button_Log in'))
 
 // Generate a random name with 8 characters
-String randomName = RandomStringUtils.randomAlphabetic(8).toLowerCase()
-
-String randomNameupdate = RandomStringUtils.randomAlphabetic(8).toLowerCase()
-
+//String randomName = RandomStringUtils.randomAlphabetic(8).toLowerCase()
+//String randomNameupdate = RandomStringUtils.randomAlphabetic(8).toLowerCase()
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/img_Admin User_userpicture'))
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/div_Settings'))
@@ -49,12 +47,12 @@ WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecr
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/button_Add a New Badge'))
 
 WebUI.setText(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_New badge/input_Name_name'), 
-    randomName)
+    'katalon badge 2403')
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_New badge/input_Name_name'))
 
 WebUI.setText(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_New badge/textarea_Description_description'), 
-    randomName)
+    'katalon badge 24032025')
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_New badge/input_Image_imagechoose'))
 
@@ -68,7 +66,7 @@ WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecr
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first/a_Edit details'))
 
 WebUI.setText(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first/input_Name_name'), 
-    randomNameupdate)
+    'katalon badge 24032025')
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first/input_Time Unit_submitbutton'))
 
@@ -154,16 +152,13 @@ WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1'
 /* String badgeName = "randomName"  // Change to target different badges
 TestObject menuButton = new TestObject().addProperty('xpath', ConditionType.EQUALS, "//*[@id=ropdownMenuButton]"
 WebUI.click(menuButton) */
-
-
 //WebUI.click(findTestObject('Sitelevelbadge_Manualissuebyrolecriteria/sitebadge_3dotsicon/Page_Manage Badges/i_Awarded by Manager_dropdownMenuButton'))
-
-WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/a_Disable access'))
-
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/i_Awarded by Manager_dropdownMenuButton'))
 
-WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/a_Copy'))
+WebUI.click(findTestObject('Sitelevelbadge_Manualissuebyrolecriteria/qa_copybutton'))
 
+//WebUI.click(findTestObject('Sitelevelbadge_Manualissuebyrolecriteria/disablebutton_qa/Page_Manage Badges/a_Disable access'))
+//WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/a_Copy'))
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Copy of Katalon badge first demo/input_Time Unit_submitbutton'))
 
 WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')

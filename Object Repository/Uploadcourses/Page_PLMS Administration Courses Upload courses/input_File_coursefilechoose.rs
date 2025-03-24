@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Awarded by Manager_dropdownMenuButton</name>
+   <name>input_File_coursefilechoose</name>
    <tag></tag>
-   <elementGuidId>fd03cd5f-322d-4953-8492-4915e577830b</elementGuidId>
+   <elementGuidId>dc1e085f-87ee-4c59-8706-0223d8f468eb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>tr:nth-of-type(30) > td.actions.cell.c4.lastcol > #dropdownMenuButton</value>
+         <key>XPATH</key>
+         <value>//fieldset/div[2]/div/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html[1]/body[1]/div[3]/div[7]/div[1]/div[2]/div[1]/section[1]/div[1]/div[1]/table[1]/tbody[1]/tr[34]/td[5]/i[1]</value>
+         <key>CSS</key>
+         <value>#filepicker-button-67e1661a3545b</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,16 +22,8 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>i</value>
-      <webElementGuid>45cb9614-8c50-44f2-81a7-3879813251de</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>fa fa-ellipsis-v</value>
-      <webElementGuid>b9503ec9-d60c-4367-a84f-620bc2d3aff5</webElementGuid>
+      <value>input</value>
+      <webElementGuid>07df9400-2cb6-4aff-a11e-6205c3d44ce3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,70 +31,78 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6dfce8d7-0d5f-4513-b7af-86941658fb89</webElementGuid>
+      <webElementGuid>c528e5e1-cbe9-4d5a-9207-d8bf5fc02f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary fp-btn-choose btn-round</value>
+      <webElementGuid>e23420c1-8aa2-4598-a4d1-c52c621a843b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>dropdownMenuButton</value>
-      <webElementGuid>d5fe998b-44f9-404e-aa9d-fa9ef6bd1837</webElementGuid>
+      <value>filepicker-button-67e1661a3545b</value>
+      <webElementGuid>c5683731-6d05-48a8-a8f6-d3e09077ded9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-toggle</name>
+      <name>value</name>
       <type>Main</type>
-      <value>dropdown</value>
-      <webElementGuid>4672d6d1-7f92-4a73-bdae-e9eafb2c5742</webElementGuid>
+      <value>Choose a file</value>
+      <webElementGuid>7756bc20-1599-4292-803d-a29826974cb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-expanded</name>
+      <name>name</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>1368c36f-4fb3-470c-9e66-f1479a46a015</webElementGuid>
+      <value>coursefilechoose</value>
+      <webElementGuid>1bc84704-ecb1-4188-a168-79b2d0b1df6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/table[@class=&quot;table table-bordered table-striped&quot;]/tbody[1]/tr[30]/td[@class=&quot;actions cell c4 lastcol&quot;]/i[@id=&quot;dropdownMenuButton&quot;]</value>
-      <webElementGuid>d73cb9ae-5d30-4f66-8a73-bfe5dd8ae607</webElementGuid>
+      <value>id(&quot;filepicker-button-67e1661a3545b&quot;)</value>
+      <webElementGuid>5dd5f249-7e63-4d2a-a1bb-22faf55dc4a7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//i[@id='dropdownMenuButton'])[30]</value>
-      <webElementGuid>d0a2ba85-cb06-4e02-975c-7dae10db68cf</webElementGuid>
+      <value>//input[@id='filepicker-button-67e1661a3545b']</value>
+      <webElementGuid>63264a62-0536-41c4-9229-b1c90de4c86d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='region-main']/div/div/table/tbody/tr[30]/td[5]/i</value>
-      <webElementGuid>306e6d28-e317-4cf8-80af-b7c36f1440e7</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1742824934005_149']/input</value>
+      <webElementGuid>097cc83e-ad10-491e-b557-b322549c5271</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[30]/td[5]/i</value>
-      <webElementGuid>869e0ef8-8f91-43fa-b350-ed74461af216</webElementGuid>
+      <value>//fieldset/div[2]/div/input</value>
+      <webElementGuid>114d2720-eec0-498b-ae36-809474e52907</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//i[@type = 'button' and @id = 'dropdownMenuButton']</value>
-      <webElementGuid>57d6d115-cbd5-4368-8d6a-c100d100cbef</webElementGuid>
+      <value>//input[@type = 'button' and @id = 'filepicker-button-67e1661a3545b' and @name = 'coursefilechoose']</value>
+      <webElementGuid>134c6438-7643-49c6-854c-3a2bd57f57cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

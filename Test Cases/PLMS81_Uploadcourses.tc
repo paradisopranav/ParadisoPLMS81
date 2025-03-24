@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Uploadcourses</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ccb02c5e-3921-44e2-81f7-dd32bfa44d5f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1ad6c481-8f9c-48ee-8063-efb2b35102ea</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\S\\Desktop\\Paradiso\\CSV UPLOAD\\course csv_file.csv'</defaultValue>
+      <description></description>
+      <id>1ad6c481-8f9c-48ee-8063-efb2b35102ea</id>
+      <masked>false</masked>
+      <name>courseuploadfile</name>
+   </variable>
+</TestCaseEntity>

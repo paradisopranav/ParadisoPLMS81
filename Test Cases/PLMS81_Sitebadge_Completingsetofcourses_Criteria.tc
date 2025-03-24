@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Sitebadge_Completingsetofcourses_Criteria</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b6c0b02-1c88-4031-a212-6eb11a411547</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>214b5da1-6428-489a-8f12-98b8669bc82f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\S\\Desktop\\Paradiso\\Google_Download\\th (1).jpg'</defaultValue>
+      <description></description>
+      <id>214b5da1-6428-489a-8f12-98b8669bc82f</id>
+      <masked>false</masked>
+      <name>badgeimageupload</name>
+   </variable>
+</TestCaseEntity>

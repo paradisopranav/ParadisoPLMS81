@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Copy</name>
+   <name>button_Continue</name>
    <tag></tag>
-   <elementGuidId>44a62966-8e62-448c-abbb-014464d0c1bb</elementGuidId>
+   <elementGuidId>ac1fcbc6-3ef5-4897-b2bf-6057594cfa62</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//button[@id='single_button67e11ca4e66f819']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//a[contains(text(),'Copy')])[30]&#xd;
-</value>
+         <key>CSS</key>
+         <value>#single_button67e11ca4e66f819</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,111 +22,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>8e3044ad-5af0-4f38-9ab4-ee321a6455e2</webElementGuid>
+      <value>button</value>
+      <webElementGuid>bb3ef552-f8de-4887-8a5a-33f3f48cc2f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>68b0be60-044d-42bb-adb4-85cf685d3433</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-item</value>
-      <webElementGuid>4eaec60a-a9ce-4383-a3cb-f7b09c19fe59</webElementGuid>
+      <value>btn btn-round btn-primary</value>
+      <webElementGuid>72962705-6c31-4a26-8bcf-51bc4b44dd71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>id</name>
       <type>Main</type>
-      <value>https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=260&amp;sesskey=M5kt6xgS03</value>
-      <webElementGuid>d4972e31-c531-4dcc-b412-a8513317423d</webElementGuid>
+      <value>single_button67e11ca4e66f819</value>
+      <webElementGuid>d0546b9e-0b16-49d9-8a6e-2cdaacd4b097</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Copy</value>
-      <webElementGuid>83f12edf-6dd3-4403-8b0b-199a976d5c43</webElementGuid>
+      <value>Continue</value>
+      <webElementGuid>42239bb2-852d-41ab-9cea-c3c51a7db29f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742545263048_18&quot;)/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>18ed7558-d6d3-4eb4-812c-5662efc65d85</webElementGuid>
+      <value>id(&quot;single_button67e11ca4e66f819&quot;)</value>
+      <webElementGuid>a9afb795-d6e8-4286-89f6-02e6d387911a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='single_button67e11ca4e66f819']</value>
+      <webElementGuid>d448cf4b-e258-43e1-b923-24bd5fb1ff9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//td[@id='yui_3_17_2_1_1742545263048_18']/div/a[3]</value>
-      <webElementGuid>97c17b11-f966-4663-879e-51f5682ed433</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>(//a[contains(text(),'Copy')])[30]</value>
-      <webElementGuid>84cdfc66-e36d-46f6-aeb8-f57af28c61ee</webElementGuid>
+      <value>//div[@id='modal-footer']/div/div/form/button</value>
+      <webElementGuid>e057f280-7345-4780-bc26-cb7853bd8aef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[30]/following::a[1]</value>
-      <webElementGuid>1faff28f-e2ca-4be6-ac54-ae3a40eef068</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='locked'])[1]/following::button[1]</value>
+      <webElementGuid>30841c64-baa6-4246-95cd-71fa9d5dc7e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable access'])[6]/following::a[2]</value>
-      <webElementGuid>478849b4-0fad-4db5-9df3-b4507650b7fc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::button[1]</value>
+      <webElementGuid>cbcd49e4-42ce-46f5-b785-27f2c60e081a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[30]/preceding::a[1]</value>
-      <webElementGuid>0191be1a-68c3-467b-8c06-02f9c966fb1b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/preceding::button[1]</value>
+      <webElementGuid>4e61021e-6762-4590-917a-91f38a73d1bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='manul badge'])[1]/preceding::a[2]</value>
-      <webElementGuid>70a1f990-35d1-41ff-98c0-7c7c5e94edd4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::button[2]</value>
+      <webElementGuid>a9927e05-7d36-45ee-889c-bce96ae26be3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=260&amp;sesskey=M5kt6xgS03')]</value>
-      <webElementGuid>913d89a4-0570-41c5-a7a3-91a3675eee44</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
+      <webElementGuid>57efa0e7-b1fd-4b3e-a0af-3b4284157563</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[30]/td[5]/div/a[3]</value>
-      <webElementGuid>6d57d627-d27c-4153-90f1-3edc907f63e4</webElementGuid>
+      <value>//form/button</value>
+      <webElementGuid>f8be5332-8715-4b4a-97a6-b8e68242be49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=260&amp;sesskey=M5kt6xgS03' and (text() = 'Copy' or . = 'Copy')]</value>
-      <webElementGuid>a4cd8657-38e6-4384-bcc2-f59abef88622</webElementGuid>
+      <value>//button[@type = 'submit' and @id = 'single_button67e11ca4e66f819' and (text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>0b26964b-03d6-4bd6-8ea7-b7c3eafc5e05</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
