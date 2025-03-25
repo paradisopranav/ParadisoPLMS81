@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Recycle bin</name>
+   <tag></tag>
+   <elementGuidId>d32fe3c9-e914-40c2-8e21-c29cdaa04fdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='teacherdashslider']/div/div/div/div/div[2]/div[2]/a[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ff7736d9-d395-4b28-bb8e-bd4d7bb3a9c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://plms-php81.paradisolms.net/admin/tool/recyclebin/index.php?contextid=53268</value>
+      <webElementGuid>ecd8d626-7461-419b-b599-fde48393d4a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>69ae3217-3273-4bd5-a2f2-7783a2966f46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recycle bin</value>
+      <webElementGuid>85e8047f-40a0-48c2-9c66-936986afa4ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;teacherdashslider&quot;)/div[@class=&quot;teacherdashboard&quot;]/div[@class=&quot;container-fluid pr-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;border-group coursetoolslinks&quot;]/div[@class=&quot;list-group&quot;]/a[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>a0b53d56-8bf0-4f6e-b01f-3ba13bd7d2fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='teacherdashslider']/div/div/div/div/div[2]/div[2]/a[5]</value>
+      <webElementGuid>82ecae64-4ab9-4e83-b948-5664ddd62bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Recycle bin')]</value>
+      <webElementGuid>0a3ffdc6-77c9-4dc1-9e90-1750e1d49fb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/following::a[1]</value>
+      <webElementGuid>31ec7958-b3a5-4751-ab2d-00205b8078cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restore'])[1]/following::a[2]</value>
+      <webElementGuid>ff8de621-345b-4ee4-9884-211b58ad7731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter settings'])[1]/preceding::a[1]</value>
+      <webElementGuid>3c5abaa8-7480-4aa9-9ba1-c1d3658f9e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Links'])[1]/preceding::a[2]</value>
+      <webElementGuid>3179e032-6e37-4252-a63c-17cd5dd67812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recycle bin']/parent::*</value>
+      <webElementGuid>9a4e1727-7718-4dec-8788-a9880cfe09c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/admin/tool/recyclebin/index.php?contextid=53268')]</value>
+      <webElementGuid>8bf39b59-573a-4e5a-97d1-539bae43817c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>e70887d7-c948-4557-bea1-e5af7ff67d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://plms-php81.paradisolms.net/admin/tool/recyclebin/index.php?contextid=53268' and (text() = 'Recycle bin' or . = 'Recycle bin')]</value>
+      <webElementGuid>2272a4f3-27ae-4ad7-a4df-6708210d5fa7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

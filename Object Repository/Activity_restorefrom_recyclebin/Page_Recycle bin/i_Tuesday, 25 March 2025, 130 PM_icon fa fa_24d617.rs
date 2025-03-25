@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Tuesday, 25 March 2025, 130 PM_icon fa fa_24d617</name>
+   <tag></tag>
+   <elementGuidId>24e910ff-584b-489e-ac3b-9ce40a2684da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.fa.fa-arrow-circle-up.fa-fw.iconsmall</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[3]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c2a8c011-e176-4874-8b10-683401b72736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-arrow-circle-up fa-fw iconsmall</value>
+      <webElementGuid>532abfd9-ccd7-4d51-933f-8a8a02faa10d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Restore</value>
+      <webElementGuid>c734f486-8380-435d-83ca-988eb52bbd81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Restore</value>
+      <webElementGuid>3b64d346-dff8-433b-9532-c0aa4664cf44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action_link67e26be9d860e5&quot;)/i[@class=&quot;icon fa fa-arrow-circle-up fa-fw iconsmall&quot;]</value>
+      <webElementGuid>9704300d-1434-440b-8b94-9c41e2c83b70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='action_link67e26be9d860e5']/i</value>
+      <webElementGuid>c5e5e38e-9c88-45ba-ac76-15f55d4d8381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/a/i</value>
+      <webElementGuid>d3b46262-9553-4fb4-ade3-ce339f5fa4d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Restore']</value>
+      <webElementGuid>f9c2826a-6f9a-45e9-bb78-d7445304d03b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

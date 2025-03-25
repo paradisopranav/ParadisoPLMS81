@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Restore_Activity_from_Bin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e6db158-6ff2-4e01-99df-76885a7ab478</testCaseGuid>
+</TestCaseEntity>

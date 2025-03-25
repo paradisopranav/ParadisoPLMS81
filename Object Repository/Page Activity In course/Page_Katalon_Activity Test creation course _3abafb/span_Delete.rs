@@ -6,12 +6,12 @@
    <elementGuidId>182bd729-202e-4292-ad7c-82ee4eac1c48</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='actionmenuaction-20']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#actionmenuaction-20</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Roles'])[2]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>3fc656c2-7dbb-4b0e-b58d-def9a35dd8b9</webElementGuid>
+      <webElementGuid>bbfa08ff-6af3-4864-9fc1-556d13705f44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-action-text</value>
-      <webElementGuid>3863edcb-4c75-4d2b-8251-9c370bacc6ac</webElementGuid>
+      <webElementGuid>e87a331a-9d78-4075-a101-963a726e2b70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>actionmenuaction-20</value>
-      <webElementGuid>4cc7d45b-097a-4682-951b-c654772eaa3f</webElementGuid>
+      <webElementGuid>3136d464-ad5a-4c61-8a8d-314e8392b40a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>e7a0453b-fe44-4c54-9866-0381feafa85b</webElementGuid>
+      <webElementGuid>f5dc2f80-1bb7-4576-96e7-4737524d49dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;actionmenuaction-20&quot;)</value>
-      <webElementGuid>b4e0503e-7f6a-4e94-b5af-fb3b3a1eb742</webElementGuid>
+      <webElementGuid>335b2c3f-19b2-403e-8e88-a114436c611d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='actionmenuaction-20']</value>
-      <webElementGuid>f51c3eca-0705-4bdc-8883-5c0acde91fbb</webElementGuid>
+      <webElementGuid>7c580853-aa83-42d8-905b-0784afe271f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='yui_3_17_2_1_1741088760028_583']/span</value>
-      <webElementGuid>b7154655-aaf9-4ece-9ea4-3abfba0a7a0e</webElementGuid>
+      <webElementGuid>ab77b27c-ca2f-4615-9a9d-e713011c0853</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Roles'])[2]/following::span[1]</value>
-      <webElementGuid>f4419b95-77f4-4580-a50e-dc148a8a27f8</webElementGuid>
+      <webElementGuid>dc065d5f-335f-4b15-b3fc-1249de5cce60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Duplicate'])[3]/following::span[2]</value>
-      <webElementGuid>ddf5efb2-a52a-49f0-a348-0b5147031b6e</webElementGuid>
+      <webElementGuid>b25bbd5a-3727-4402-96d1-40955dfb813e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='The system marks this item complete according to conditions: Katalon Page activity updfate'])[1]/preceding::span[2]</value>
-      <webElementGuid>1312439a-faac-4aba-a175-df4eae83d156</webElementGuid>
+      <webElementGuid>51a49648-493d-4bf1-bbd1-8bddd78f02c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add file(s) here'])[2]/preceding::span[4]</value>
-      <webElementGuid>3abb0040-3eab-4b76-bc5d-b79cb56fa0db</webElementGuid>
+      <webElementGuid>729e0fc6-36db-4def-af30-3210a0056033</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div/ul/li/div/div/div[2]/span/div/div/div/div/a[7]/span</value>
-      <webElementGuid>3d9cd690-dc92-4d74-a2bd-3b3455cda31b</webElementGuid>
+      <webElementGuid>fc27e9a2-774d-4dd4-bf82-c39eb664a2d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'actionmenuaction-20' and (text() = 'Delete' or . = 'Delete')]</value>
-      <webElementGuid>70471a80-e59f-4da9-b753-4891e4ab6ab4</webElementGuid>
+      <webElementGuid>67b17728-bb89-4a3a-a3d0-b44bb71caa5e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>544c5952-03b4-48fa-93fa-b556d7371734</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//a[contains(@href, '#')])[17]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#yui_3_17_2_1_1741088629586_1567</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Activity Completion')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>453774db-4bfd-416e-8033-c7f30cd954c5</webElementGuid>
+      <webElementGuid>6fbcbdb7-b917-4e50-a9bf-a68c7c1ae78d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>e4bd17b1-3774-419f-9544-9e1418af0396</webElementGuid>
+      <webElementGuid>4cdab0a6-b0c8-45e7-8676-0c4c4fb0fad8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fheader</value>
-      <webElementGuid>5a004fd0-b7e2-40f2-aaab-df1cf747d4a6</webElementGuid>
+      <webElementGuid>bf74cba6-29e8-45e3-8d27-c9124e0dfc83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1f5e337b-4b23-4183-b2fe-b07ebfb935c3</webElementGuid>
+      <webElementGuid>567281c6-eef6-460e-ade6-e47bc76337e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>id_activitycompletionheader</value>
-      <webElementGuid>2b21ebe8-c9ad-4020-82a5-aca80800060d</webElementGuid>
+      <webElementGuid>e568eee1-0551-4944-916c-733fd7371241</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c4e339d4-57f6-4c8c-a745-b67ef7ddd9b6</webElementGuid>
+      <webElementGuid>7cfc1af6-a46a-47c3-bb6c-561b4714a6b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>id</name>
       <type>Main</type>
       <value>yui_3_17_2_1_1741088629586_1567</value>
-      <webElementGuid>8ed4c164-b1e9-4a58-a169-7bf385041fa3</webElementGuid>
+      <webElementGuid>4e390404-dfe9-41bd-83d8-18aa95bda708</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Activity Completion</value>
-      <webElementGuid>2b5cfc24-167f-4ac5-ab9f-cdff088b5172</webElementGuid>
+      <webElementGuid>ce4d05a9-0fb9-453e-8501-a4bde19f2dd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1741088629586_1567&quot;)</value>
-      <webElementGuid>6fccfdb8-0f2c-4e04-ba3a-a59c91a14f8a</webElementGuid>
+      <webElementGuid>6727eefb-18a3-417b-8810-ab57503920df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='yui_3_17_2_1_1741088629586_1567']</value>
-      <webElementGuid>7961cf51-feac-42f8-ab72-6e2f7857f3c8</webElementGuid>
+      <webElementGuid>d1a9226a-4bc6-4536-8ab8-6fbf03d30e11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//legend[@id='yui_3_17_2_1_1741088629586_1568']/a</value>
-      <webElementGuid>834a42bd-bb3f-4aeb-90f9-ea4ee207c138</webElementGuid>
+      <webElementGuid>bcca0152-96a2-4ee0-91c7-bd7a32899015</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Activity Completion')]</value>
-      <webElementGuid>d61908ae-0df6-4ed5-b491-5823f503b88e</webElementGuid>
+      <webElementGuid>28c6ae8c-479d-4c6b-a8d5-2f5eb927d97d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add restriction...'])[1]/following::a[1]</value>
-      <webElementGuid>496c02e7-54c8-4b02-993c-5ed87aee61e7</webElementGuid>
+      <webElementGuid>d7a79ebf-6cd6-4465-8e69-923a91187e6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[1]/following::a[1]</value>
-      <webElementGuid>76b2d570-0548-487e-b80d-0cd0d67443d6</webElementGuid>
+      <webElementGuid>47849841-8291-465f-aa56-79d62fde4003</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Completion tracking'])[1]/preceding::a[1]</value>
-      <webElementGuid>759aec8e-ccef-4d2b-a2a6-f60418083df2</webElementGuid>
+      <webElementGuid>f87ab235-55d9-4535-92c7-3f00d26e626e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Require View'])[1]/preceding::a[1]</value>
-      <webElementGuid>ea985809-6be0-4428-93de-046c5271df86</webElementGuid>
+      <webElementGuid>dfb1a254-0b0a-4344-8503-05e524aa6588</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +151,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Activity Completion']/parent::*</value>
-      <webElementGuid>52f6d82a-33c0-4d1e-936b-de734ecadf71</webElementGuid>
+      <webElementGuid>41657cc2-a1da-4635-9f42-b7fa9f544d5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +159,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[17]</value>
-      <webElementGuid>fab423bc-7485-4231-b494-81b56c35a9d0</webElementGuid>
+      <webElementGuid>c57e5729-8bf2-4601-bf40-b104b8bf46f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,7 +167,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fieldset[6]/legend/a</value>
-      <webElementGuid>06fd00c2-44b3-4b4c-8d90-ce680d3fe6a1</webElementGuid>
+      <webElementGuid>ea874579-d19b-437b-b697-c11724e38f2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -175,6 +175,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and @id = 'yui_3_17_2_1_1741088629586_1567' and (text() = 'Activity Completion' or . = 'Activity Completion')]</value>
-      <webElementGuid>e0d2bdd8-c834-45fd-86fd-7b9e5c4c0247</webElementGuid>
+      <webElementGuid>3e541b85-e82f-485f-ba4b-7367dfdccf30</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

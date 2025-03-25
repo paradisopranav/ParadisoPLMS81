@@ -41,6 +41,8 @@ WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Administra
 
 WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Administration Search/a_Upload courses'))
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Administration Courses Upload courses/input_File_coursefilechoose'))
 
 WebUI.uploadFile(findTestObject('Object Repository/Uploadcourses/fileselection_uploadcourse/Page_PLMS Administration Courses Upload courses/input_Attachment_repo_upload_file'), 
@@ -54,9 +56,11 @@ WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Administra
 
 WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Administration Courses Upload courses/button_Continue'))
 
-WebUI.navigateToUrl('https://plms-php81.paradisolms.net/course/')
+WebUI.click(findTestObject('Object Repository/File Activity in course/Page_Paradiso LMS/span_Courses'))
 
-WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Course Categories/input_Course templates_form-control course_search'))
+WebUI.click(findTestObject('Object Repository/File Activity in course/Page_Paradiso LMS/span_Catalog'))
+
+WebUI.click(findTestObject('Object Repository/File Activity in course/Page_PLMS Course Categories/input_dqksywlv_form-control course_search'))
 
 WebUI.setText(findTestObject('Object Repository/Uploadcourses/Page_PLMS Course Categories/input_Course templates_yui_3_17_2_1_1742825_dc3ccf'), 
     'course 50')
