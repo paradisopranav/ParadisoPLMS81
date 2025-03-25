@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_Courses_bc</name>
    <tag></tag>
-   <elementGuidId>cc656a58-0fa5-4177-81c7-aefd3a1594d6</elementGuidId>
+   <elementGuidId>94cbb1d9-b312-4d83-90b0-36d47c493a4f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value>#yui_3_17_2_1_1742882271861_603</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <value>//input[@id='yui_3_17_2_1_1742882271861_603']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,94 +23,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2592c397-dbd3-400b-9e95-a69c4d7976a9</webElementGuid>
+      <webElementGuid>d8f990bc-6d96-46ad-9bac-fef77174c3f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>e75753eb-fa53-4f7e-854f-46f31a3e4afa</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>31e68777-041c-425a-987d-e9cbb2227375</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>067bae1d-a385-4cdf-80c0-6b9139530a09</webElementGuid>
+      <value>bc[]</value>
+      <webElementGuid>ce6d7616-36d5-482b-8110-f9b9a24c3e11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>value</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>da1a8b6b-7f92-41f3-b8f0-9eac6941dbdd</webElementGuid>
+      <value>1193</value>
+      <webElementGuid>8e9cf1bd-751f-4b66-a9b4-3809eef24bc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>c59e5f90-73a4-47b0-b9cb-1d0634579cb6</webElementGuid>
+      <value>bulk-action-checkbox</value>
+      <webElementGuid>646d349f-966d-46f8-a623-b7ccde7fdbf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>aria-label</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>29aa9ce1-6bc1-4acc-accd-2f32b517956e</webElementGuid>
+      <value>Course 502 bulk action selection</value>
+      <webElementGuid>c8d67cad-585b-47f3-8c3e-092b93223ca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bb37a674-1603-441e-b4cb-8863551737ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>b2e3a0c1-4130-444e-b72a-4b855a33e899</webElementGuid>
+      <value>yui_3_17_2_1_1742882271861_603</value>
+      <webElementGuid>7136eac7-8a9f-4f19-8dcb-11ed0a0d9567</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>c9743952-ec17-4dd0-a3ee-354e3c3c4c1b</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1742882271861_603&quot;)</value>
+      <webElementGuid>174b367f-5871-452f-8dc6-6e3cadcb75dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>3209d6fe-041a-4628-a65f-ef1c213afa69</webElementGuid>
+      <value>//input[@id='yui_3_17_2_1_1742882271861_603']</value>
+      <webElementGuid>4c94f65c-d144-484f-b00a-bfaef58113d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[2]/input</value>
-      <webElementGuid>29ffce18-c26a-4811-9879-fc6b032edd8b</webElementGuid>
+      <value>//li[@id='yui_3_17_2_1_1742882271861_28']/div/div/input</value>
+      <webElementGuid>4b3da911-6419-42b8-97e7-64db8d12a69d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>91d3ca98-0bbb-4f6f-99e7-600b9e1a444c</webElementGuid>
+      <value>//li/div/div/input</value>
+      <webElementGuid>5d7a5934-7d2e-457e-bc56-c80784aeda30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password' and @id = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>2b587ca7-b673-4074-90cf-672801147de7</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'bc[]' and @id = 'yui_3_17_2_1_1742882271861_603']</value>
+      <webElementGuid>708528bb-b14b-4173-a853-62f48569da46</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

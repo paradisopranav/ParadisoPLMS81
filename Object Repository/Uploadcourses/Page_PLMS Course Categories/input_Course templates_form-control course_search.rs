@@ -6,12 +6,12 @@
    <elementGuidId>82eba939-f592-4c57-9598-2c52096b8202</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@type='text'])[4]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input.form-control.course_search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f0e439b6-ad2e-45da-aa3b-80c0059c8cdb</webElementGuid>
+      <webElementGuid>9077f79f-4b0b-403c-80db-91df0bb41646</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>6c963e51-2307-491a-9956-98699e515f41</webElementGuid>
+      <webElementGuid>bf83d9f1-c857-4787-b391-0ab172a12a6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control course_search</value>
-      <webElementGuid>bf8f4447-5d09-4a2a-9508-c7ad6cb9abf6</webElementGuid>
+      <webElementGuid>3bd9775d-521e-4721-864a-b97a9ea4d036</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search Course &amp; Category</value>
-      <webElementGuid>48695e3a-aa14-4039-9f88-4b4d66251028</webElementGuid>
+      <webElementGuid>2fc666b6-9ab0-4d8c-81ea-465eefc8fb97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1742825004766_39&quot;)/div[@id=&quot;page-content&quot;]/div[@class=&quot;pr-0 pl-0 all-card-view&quot;]/div[@class=&quot;row pt-3 px-3 position-relative&quot;]/div[@class=&quot;item position-relative mr-3&quot;]/input[@class=&quot;form-control course_search&quot;]</value>
-      <webElementGuid>e867c7db-d0e4-4958-84c3-598be6b8434c</webElementGuid>
+      <webElementGuid>f98daaba-3e92-4045-b079-2826b6f3f859</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[4]</value>
-      <webElementGuid>cb02d3bc-ab71-4200-91d8-875494b41445</webElementGuid>
+      <webElementGuid>112f5159-6e2e-4ba0-ae11-15bdd58f27e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page-content']/div[3]/div/div/input</value>
-      <webElementGuid>09f65802-6b0a-4b34-bb1d-78397e99e391</webElementGuid>
+      <webElementGuid>aafe4ef1-7714-4d18-9311-f6a3154583d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/input</value>
-      <webElementGuid>6b23185c-1e85-4f13-aa76-464aff3c463c</webElementGuid>
+      <webElementGuid>70e51663-81c7-4ad4-89b5-a20e631be1b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Search Course &amp; Category']</value>
-      <webElementGuid>1402ddce-bc82-4780-b55d-ed27e2b948db</webElementGuid>
+      <webElementGuid>c5b28c91-cc9f-4371-b5e9-beb50764c181</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

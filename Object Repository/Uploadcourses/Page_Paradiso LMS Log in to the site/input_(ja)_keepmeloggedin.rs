@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Course templates_yui_3_17_2_1_1742825_dc3ccf</name>
+   <name>input_(ja)_keepmeloggedin</name>
    <tag></tag>
-   <elementGuidId>eb24c600-96a5-48b9-95ca-e966c05533e1</elementGuidId>
+   <elementGuidId>2ec184d7-0564-4cbb-9f23-64a2f58f3527</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#yui_3_17_2_1_1742825004766_41</value>
+         <value>#keepmeloggedin</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[3]/div/div/input</value>
+         <value>//input[@id='keepmeloggedin']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,78 +23,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>36092491-c162-469a-ba3e-5adc54d70a4e</webElementGuid>
+      <webElementGuid>9d538467-1a5d-4694-adf6-171cea5ff2b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>73583697-3860-4470-9188-585137327137</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control course_search</value>
-      <webElementGuid>1234ac3a-5651-47d0-b32e-e07575dc1012</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>dc900aaa-8856-4818-9482-d9c389ed5e8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>name</name>
       <type>Main</type>
-      <value>Search Course &amp; Category</value>
-      <webElementGuid>23e9df4c-8a49-4771-a050-78506013483a</webElementGuid>
+      <value>keepmeloggedin</value>
+      <webElementGuid>d117eeb9-955d-4ca7-bd10-f647a1b3eb45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>yui_3_17_2_1_1742825004766_41</value>
-      <webElementGuid>f287b3be-8122-42c4-97ed-af7e68eeb71a</webElementGuid>
+      <value>keepmeloggedin</value>
+      <webElementGuid>2b10405c-8d0b-42ba-a134-855cdf81f30b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>ce7e0be9-7871-4376-8212-8c2d0f6856cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742825004766_41&quot;)</value>
-      <webElementGuid>b13d70cb-ae61-479b-be06-2cc2519ba69c</webElementGuid>
+      <value>id(&quot;keepmeloggedin&quot;)</value>
+      <webElementGuid>f65c4063-4bbd-4563-9273-ad17924f5334</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='yui_3_17_2_1_1742825004766_41']</value>
-      <webElementGuid>56095ad6-3169-4402-8bb3-b220dc9c39a7</webElementGuid>
+      <value>//input[@id='keepmeloggedin']</value>
+      <webElementGuid>5dc430bd-af5c-4a73-b26e-b0199b4b74fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742825004766_42']/input</value>
-      <webElementGuid>2b86f5c1-b91c-478c-b34d-1b854da8fa85</webElementGuid>
+      <value>//form[@id='login']/div[4]/input</value>
+      <webElementGuid>358411a2-69e0-4afa-8786-b2f9ec7217f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div/input</value>
-      <webElementGuid>4f9bce3f-2b85-40bd-a518-eb269340679a</webElementGuid>
+      <value>//div[4]/input</value>
+      <webElementGuid>8c09a475-e763-485f-b0d1-9ad99dd8b847</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Search Course &amp; Category' and @id = 'yui_3_17_2_1_1742825004766_41']</value>
-      <webElementGuid>9b947dae-08f4-446c-aecd-8782c3dcb9ad</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'keepmeloggedin' and @id = 'keepmeloggedin']</value>
+      <webElementGuid>d0dc1aac-7bdb-4349-b32c-339c325c5fbf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

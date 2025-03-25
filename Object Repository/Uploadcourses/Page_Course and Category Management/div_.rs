@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Settings</name>
+   <name>div_</name>
    <tag></tag>
-   <elementGuidId>11dc8ce2-b9ac-4ee1-9029-01b512b4cd70</elementGuidId>
+   <elementGuidId>68253972-9964-4305-9b82-2d60bbffffec</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.menu-title</value>
+         <value>#yui_3_17_2_1_1742882271861_604</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='actionmenuaction-2']/div/div</value>
+         <value>//div[@id='yui_3_17_2_1_1742882271861_604']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,86 +23,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>758b970f-75a4-4374-9126-159e52608fa7</webElementGuid>
+      <webElementGuid>75882f71-44ad-45ed-9c6d-7786eed854ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>menu-title</value>
-      <webElementGuid>0af9c813-311d-4142-8570-4d782e21b7ab</webElementGuid>
+      <value>float-left</value>
+      <webElementGuid>4aff21fe-4c8b-4488-a1da-7f97e8736b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_3_17_2_1_1742882271861_604</value>
+      <webElementGuid>6104d25e-2610-4323-baf0-77b39c974d9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Settings</value>
-      <webElementGuid>b0de1484-f7b8-4a7b-a57f-53556095bdec</webElementGuid>
+      <value> </value>
+      <webElementGuid>b970d9e3-5a81-431b-b424-257fb59547c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;actionmenuaction-2&quot;)/div[@class=&quot;menu-item cust-menu-item&quot;]/div[@class=&quot;menu-title&quot;]</value>
-      <webElementGuid>f8392b2d-e2cb-4367-bccb-b26b0ebab259</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1742882271861_604&quot;)</value>
+      <webElementGuid>ecf480d3-d18a-479f-8c1c-f479e713d99f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1742882271861_604']</value>
+      <webElementGuid>5f30987f-b785-4606-9451-f3bae7a8b76b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='actionmenuaction-2']/div/div</value>
-      <webElementGuid>628d9b65-3202-4d4c-b37a-1b69aa2812c3</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1742882271861_605']/div</value>
+      <webElementGuid>3d15c398-faa4-4cb4-8acb-48493470019a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::div[2]</value>
-      <webElementGuid>431d3b26-402e-422f-a985-7edee6af3220</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses'])[1]/following::div[2]</value>
+      <webElementGuid>9a0f8896-445f-4646-8e54-6f4bd1813e1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Points'])[1]/following::div[3]</value>
-      <webElementGuid>9bff059a-f55e-4bf1-9f8b-cedf66f89c8c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to the course listings'])[1]/following::div[5]</value>
+      <webElementGuid>224457be-ed86-404f-8c6d-d027535f5d31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Day/Night Mode'])[1]/preceding::div[1]</value>
-      <webElementGuid>3a8765b8-8087-463c-a67e-fc96ccb9a7e1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course 502'])[1]/preceding::div[1]</value>
+      <webElementGuid>5a4457e5-1274-4084-a099-31f149993116</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/preceding::div[6]</value>
-      <webElementGuid>fcd4c5a4-490e-45b9-a051-3f5670f411e4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA'])[1]/preceding::div[1]</value>
+      <webElementGuid>e79e5cc0-404b-46b6-9fbc-262a7f32beb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[2]/div/div</value>
-      <webElementGuid>43b27bcb-b30c-410b-86ea-ac883c88a9d7</webElementGuid>
+      <value>//li/div/div</value>
+      <webElementGuid>47b2fb1c-f927-4007-91a0-e4a3627a48be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Settings' or . = 'Settings')]</value>
-      <webElementGuid>a2539627-fabb-4004-964b-89f5548c1b9c</webElementGuid>
+      <value>//div[@id = 'yui_3_17_2_1_1742882271861_604' and (text() = ' ' or . = ' ')]</value>
+      <webElementGuid>286277ce-a506-4d24-9acc-6aef815825e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

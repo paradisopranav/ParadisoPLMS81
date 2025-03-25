@@ -23,15 +23,15 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl(GlobalVariable.URL)
 
-WebUI.setText(findTestObject('Object Repository/LearningPath_Creation/Page_Paradiso LMS Log in to the site/input_Username_username'), 
+WebUI.setText(findTestObject('Object Repository/Uploadcourses/Page_Paradiso LMS Log in to the site/input_Username_username'), 
     GlobalVariable.Username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/LearningPath_Creation/Page_Paradiso LMS Log in to the site/input_Password_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Uploadcourses/Page_Paradiso LMS Log in to the site/input_Password_password'), 
     GlobalVariable.Password)
 
-WebUI.click(findTestObject('Object Repository/LearningPath_Creation/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin'))
+WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin'))
 
-WebUI.click(findTestObject('Object Repository/LearningPath_Creation/Page_Paradiso LMS Log in to the site/button_Log in'))
+WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_Paradiso LMS Log in to the site/button_Log in'))
 
 WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_Dashboard/img_Admin User_userpicture'))
 
@@ -43,7 +43,7 @@ WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Administra
 
 WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Administration Courses Upload courses/input_File_coursefilechoose'))
 
-WebUI.uploadFile(findTestObject('Uploadcourses/fileselection_uploadcourse/Page_PLMS Administration Courses Upload courses/input_Attachment_repo_upload_file'), 
+WebUI.uploadFile(findTestObject('Object Repository/Uploadcourses/fileselection_uploadcourse/Page_PLMS Administration Courses Upload courses/input_Attachment_repo_upload_file'), 
     courseuploadfile)
 
 WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Administration Courses Upload courses/button_Upload'))
@@ -61,8 +61,43 @@ WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Course Cat
 WebUI.setText(findTestObject('Object Repository/Uploadcourses/Page_PLMS Course Categories/input_Course templates_yui_3_17_2_1_1742825_dc3ccf'), 
     'course 50')
 
+WebUI.sendKeys(findTestObject('Object Repository/Uploadcourses/Page_PLMS Course Categories/input_Course templates_yui_3_17_2_1_1742825_dc3ccf'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('Object Repository/Uploadcourses/Page_PLMS Course Categories/input_Course templates_yui_3_17_2_1_1742825_dc3ccf'),
+	'')
+
 WebUI.sendKeys(findTestObject('Object Repository/Uploadcourses/Page_PLMS Course Categories/input_Course templates_yui_3_17_2_1_1742825_dc3ccf'),
 	Keys.chord(Keys.ENTER))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Course Categories/i_Course catalog_men men-plms-module'))
 
+WebUI.setText(findTestObject('Object Repository/Uploadcourses/Page_Course and Category Management/input_Course and Category Management_search'), 
+    'course 50')
+
+WebUI.sendKeys(findTestObject('Object Repository/Uploadcourses/Page_Course and Category Management/input_Course and Category Management_search'),
+	Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_Course and Category Management/i_QA_yui_3_17_2_1_1742882271861_642'))
+
+WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Delete Course 502/button_Delete'))
+
+WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Deleting Course 502/button_Continue'))
+
+WebUI.setText(findTestObject('Object Repository/Uploadcourses/Page_Course and Category Management/input_Course and Category Management_search'), 
+    'course 50')
+
+WebUI.sendKeys(findTestObject('Object Repository/Uploadcourses/Page_Course and Category Management/input_Course and Category Management_search'),
+	Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_Course and Category Management/i_QA_yui_3_17_2_1_1742882362957_545'))
+
+WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Delete Course 503/button_Delete'))
+
+WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Deleting Course 503/button_Continue'))
+
+WebUI.delay(2)
+
+WebUI.closeBrowser()

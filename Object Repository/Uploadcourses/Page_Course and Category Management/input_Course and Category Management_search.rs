@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Course templates_yui_3_17_2_1_1742825_dc3ccf</name>
+   <name>input_Course and Category Management_search</name>
    <tag></tag>
-   <elementGuidId>eb24c600-96a5-48b9-95ca-e966c05533e1</elementGuidId>
+   <elementGuidId>8170367b-6fcd-4c0c-a5d3-6c66530f794f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#yui_3_17_2_1_1742825004766_41</value>
+         <value>#coursesearchbox</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[3]/div/div/input</value>
+         <value>//input[@id='coursesearchbox']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>36092491-c162-469a-ba3e-5adc54d70a4e</webElementGuid>
+      <webElementGuid>44f11008-7bcb-4347-ba82-69626e2791ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,70 +31,86 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>73583697-3860-4470-9188-585137327137</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control course_search</value>
-      <webElementGuid>1234ac3a-5651-47d0-b32e-e07575dc1012</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Search Course &amp; Category</value>
-      <webElementGuid>23e9df4c-8a49-4771-a050-78506013483a</webElementGuid>
+      <webElementGuid>10f13695-b0ea-4989-8f0e-01df5e84e118</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>yui_3_17_2_1_1742825004766_41</value>
-      <webElementGuid>f287b3be-8122-42c4-97ed-af7e68eeb71a</webElementGuid>
+      <value>coursesearchbox</value>
+      <webElementGuid>a6863e63-3847-49bc-b5bf-38e87006cff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>997068a7-d762-4742-a6f5-aee3bc8c6a90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>781b8fd4-44be-4106-a5d8-1b4d45401003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control m-x-1</value>
+      <webElementGuid>370bb533-abb7-45c3-8d89-720066314242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search Courses</value>
+      <webElementGuid>f2e967b2-76e6-4de4-908a-9bc5e952efec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742825004766_41&quot;)</value>
-      <webElementGuid>b13d70cb-ae61-479b-be06-2cc2519ba69c</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1742882242938_2454&quot;)/input[@id=&quot;coursesearchbox&quot;]</value>
+      <webElementGuid>6860c06c-be72-41f0-9d24-cbbbe004ac99</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='yui_3_17_2_1_1742825004766_41']</value>
-      <webElementGuid>56095ad6-3169-4402-8bb3-b220dc9c39a7</webElementGuid>
+      <value>//input[@id='coursesearchbox']</value>
+      <webElementGuid>92a8a014-5341-40b0-a505-269bf7898060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742825004766_42']/input</value>
-      <webElementGuid>2b86f5c1-b91c-478c-b34d-1b854da8fa85</webElementGuid>
+      <value>//fieldset[@id='yui_3_17_2_1_1742882242938_2454']/input</value>
+      <webElementGuid>1a617c1b-ffef-40cc-a5ef-1db452268cb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div/input</value>
-      <webElementGuid>4f9bce3f-2b85-40bd-a518-eb269340679a</webElementGuid>
+      <value>//fieldset/input</value>
+      <webElementGuid>a7ea4d91-62a1-4269-8f2d-1fc87458b670</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Search Course &amp; Category' and @id = 'yui_3_17_2_1_1742825004766_41']</value>
-      <webElementGuid>9b947dae-08f4-446c-aecd-8782c3dcb9ad</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'coursesearchbox' and @name = 'search' and @placeholder = 'Search Courses']</value>
+      <webElementGuid>c890679b-ddea-40a8-9128-ff23a05eabed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

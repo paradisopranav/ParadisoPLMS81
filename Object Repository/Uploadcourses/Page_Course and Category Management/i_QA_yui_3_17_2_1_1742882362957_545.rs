@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Course templates_yui_3_17_2_1_1742825_dc3ccf</name>
+   <name>i_QA_yui_3_17_2_1_1742882362957_545</name>
    <tag></tag>
-   <elementGuidId>eb24c600-96a5-48b9-95ca-e966c05533e1</elementGuidId>
+   <elementGuidId>860aeb83-a65b-4888-91f3-6c8ef30ee5ec</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#yui_3_17_2_1_1742825004766_41</value>
+         <value>#yui_3_17_2_1_1742882362957_545</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[3]/div/div/input</value>
+         <value>//span/a[2]/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,79 +22,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>36092491-c162-469a-ba3e-5adc54d70a4e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>73583697-3860-4470-9188-585137327137</webElementGuid>
+      <value>i</value>
+      <webElementGuid>0cef9ba3-1f49-4c4a-adcd-354a2f6ef79a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control course_search</value>
-      <webElementGuid>1234ac3a-5651-47d0-b32e-e07575dc1012</webElementGuid>
+      <value>icon fa fa-trash fa-fw </value>
+      <webElementGuid>402f181c-600e-4749-83aa-fc8da46675d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>title</name>
       <type>Main</type>
-      <value>Search Course &amp; Category</value>
-      <webElementGuid>23e9df4c-8a49-4771-a050-78506013483a</webElementGuid>
+      <value>Delete</value>
+      <webElementGuid>8fcb4b26-b077-4a57-862f-0e8e469a630f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>018c095e-7ea6-4a69-9612-4b6cb607a1a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>yui_3_17_2_1_1742825004766_41</value>
-      <webElementGuid>f287b3be-8122-42c4-97ed-af7e68eeb71a</webElementGuid>
+      <value>yui_3_17_2_1_1742882362957_545</value>
+      <webElementGuid>930e0e46-bfc4-4c25-b708-c6feebe02c50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742825004766_41&quot;)</value>
-      <webElementGuid>b13d70cb-ae61-479b-be06-2cc2519ba69c</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1742882362957_545&quot;)</value>
+      <webElementGuid>79301102-8a6d-4543-942f-f5d22c4799f9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='yui_3_17_2_1_1742825004766_41']</value>
-      <webElementGuid>56095ad6-3169-4402-8bb3-b220dc9c39a7</webElementGuid>
+      <value>//i[@id='yui_3_17_2_1_1742882362957_545']</value>
+      <webElementGuid>fdc2cfad-3498-4e38-b205-ef72f21369b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742825004766_42']/input</value>
-      <webElementGuid>2b86f5c1-b91c-478c-b34d-1b854da8fa85</webElementGuid>
+      <value>//a[@id='action_link67e24671b6a4520']/i</value>
+      <webElementGuid>d11fe485-1a00-4a0e-9023-7ed254e00b64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div/input</value>
-      <webElementGuid>4f9bce3f-2b85-40bd-a518-eb269340679a</webElementGuid>
+      <value>//span/a[2]/i</value>
+      <webElementGuid>62e98752-ac73-4267-8aa7-cff24a679b30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Search Course &amp; Category' and @id = 'yui_3_17_2_1_1742825004766_41']</value>
-      <webElementGuid>9b947dae-08f4-446c-aecd-8782c3dcb9ad</webElementGuid>
+      <value>//i[@title = 'Delete' and @id = 'yui_3_17_2_1_1742882362957_545']</value>
+      <webElementGuid>448f6a5a-83cd-4eea-9089-df3e17885999</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
