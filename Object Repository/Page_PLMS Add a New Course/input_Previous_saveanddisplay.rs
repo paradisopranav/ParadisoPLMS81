@@ -6,16 +6,16 @@
    <elementGuidId>332b3ffb-ca43-482d-ac37-06d13a0fb2c5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#btnProcess</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//input[@id='btnProcess']</value>
+         <value>//input[@type = 'submit' and @name = 'saveanddisplay' and @id = 'btnProcess']</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[@type = 'submit' and @name = 'saveanddisplay' and @id = 'btnProcess']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnProcess</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8d04729b-d18c-4d0d-823e-090883e19fee</webElementGuid>
+      <webElementGuid>9285164b-e3d2-4cec-80ca-272347c246ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>aafe7670-6412-4f31-b56c-846e37657fc0</webElementGuid>
+      <webElementGuid>c5fe0c5d-ad12-41c3-8400-84dc914b959d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
                     btn-primary
                     
                     </value>
-      <webElementGuid>38f1e05a-b18f-4671-8249-e84cf0d6d787</webElementGuid>
+      <webElementGuid>c0eb3a5c-f908-45fb-84d9-ea7486c653d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
       <name>name</name>
       <type>Main</type>
       <value>saveanddisplay</value>
-      <webElementGuid>9c2fb457-1d24-4fcd-b9ec-e92ed3a2f7db</webElementGuid>
+      <webElementGuid>f27a575e-db09-4a38-ba9a-1f57b14edfaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +68,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnProcess</value>
-      <webElementGuid>d451b7b1-1d62-4cea-92c2-9775bd2e0ae0</webElementGuid>
+      <webElementGuid>1314f2e4-427c-427c-8f27-9882d9bf7f67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>032a8743-a949-4491-b2b8-970a2fc49fd5</webElementGuid>
+      <webElementGuid>8b26c391-f7de-48f2-bcda-0f1693b0155d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1737460997816_380&quot;)/input[@id=&quot;btnProcess&quot;]</value>
-      <webElementGuid>8de85615-0f32-41b3-acca-44d9b5740416</webElementGuid>
+      <webElementGuid>1559c133-3e0e-4b5a-9cc6-7ad2e3a2c95e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='btnProcess']</value>
-      <webElementGuid>4f4cdad1-c326-4c0b-8b34-bbf4b8d035b1</webElementGuid>
+      <webElementGuid>19e74025-87df-42f4-b2d0-208b62db90b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='yui_3_17_2_1_1737460997816_380']/input</value>
-      <webElementGuid>3949d814-98ca-47e5-9685-571ee44ed2cf</webElementGuid>
+      <webElementGuid>76040c77-267e-4247-90d9-d375c24c4753</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/input</value>
-      <webElementGuid>d3245566-be9f-45c9-9b6d-6f1daf2468ac</webElementGuid>
+      <webElementGuid>5c077439-59b4-4199-b84c-b716894408ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'saveanddisplay' and @id = 'btnProcess']</value>
-      <webElementGuid>ac2744fd-ec0d-44e9-9ff2-c1ca9897a6c8</webElementGuid>
+      <webElementGuid>6b80d84c-ebf8-40b4-baa4-e31ee04a6b4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,6 +124,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='yui_3_17_2_1_1737460469107_380']/input</value>
-      <webElementGuid>577c80cc-3e8f-429b-9330-c2224d745da9</webElementGuid>
+      <webElementGuid>606b7bea-1b2a-43b9-9cf4-36a033a4372c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

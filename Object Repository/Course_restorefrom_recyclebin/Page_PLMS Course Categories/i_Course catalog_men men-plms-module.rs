@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Course catalog_men men-plms-module</name>
+   <tag></tag>
+   <elementGuidId>ca7c061a-9cd4-4e3e-a911-5c8c42586650</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.men.men-plms-module</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-header-desc']/div[2]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7fb63622-8cd4-4c0d-a5d8-2349b7cd31e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>men men-plms-module</value>
+      <webElementGuid>68cf7761-9cf1-410b-a624-8b41c10b1b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Manage Courses</value>
+      <webElementGuid>4733cd63-6d77-4caa-a3fa-6c99ae17e2d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ba7111d5-cc75-4999-8c00-f0fc66b018f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-header-desc&quot;)/div[@class=&quot;col-xs-12 col-md-8 p-0&quot;]/div[@class=&quot;float-right course_add_new&quot;]/a[@class=&quot;manage-button&quot;]/i[@class=&quot;men men-plms-module&quot;]</value>
+      <webElementGuid>11bedfb3-3000-4c9d-9e61-6c7c62df8011</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-header-desc']/div[2]/div/a/i</value>
+      <webElementGuid>8f867f6c-4eda-4ce6-8c02-358275dc0e68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/i</value>
+      <webElementGuid>f98251ce-9ccd-4cf8-a69a-3658e93c34d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Manage Courses']</value>
+      <webElementGuid>4dbace46-0fd2-48a6-90ac-1c335104f7bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Restore_Course_from_Bin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ead8156b-9baa-4900-b4eb-fad257a58e90</testCaseGuid>
+</TestCaseEntity>
