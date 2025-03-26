@@ -6,12 +6,12 @@
    <elementGuidId>be6cfdb6-c0ba-455f-b33c-6c9d4c688abc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.backlink > a</value>
+         <key>XPATH</key>
+         <value>//div[@id='linkmaincontent']/div/div[2]/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Back to Course: Katalon badge course_403')]</value>
+         <key>CSS</key>
+         <value>div.backlink > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9db65c6f-794d-4b75-a8d4-3748ff6f6691</webElementGuid>
+      <webElementGuid>c042bdc7-b0b2-4256-8c1a-87f25ad16945</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/course/view.php?id=1160</value>
-      <webElementGuid>05cfaed2-d4f5-4a6b-8b68-653ea06b0d13</webElementGuid>
+      <webElementGuid>a04b809c-9af6-4e81-972b-a38765a8ddcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Back to Course: Katalon badge course_403</value>
-      <webElementGuid>668be9dd-0058-4dfc-97da-37212cf1ca31</webElementGuid>
+      <webElementGuid>775c00c1-66dd-4410-aee8-443fe2e99965</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;linkmaincontent&quot;)/div[1]/div[@class=&quot;backlink&quot;]/a[1]</value>
-      <webElementGuid>fe9a7c1e-44ab-499e-be2f-73ab32635594</webElementGuid>
+      <webElementGuid>3bbe4c71-033f-493e-a5cb-26b14bd246bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='linkmaincontent']/div/div[2]/a</value>
-      <webElementGuid>39cadf8f-e0b9-422c-b39d-422afbbe8924</webElementGuid>
+      <webElementGuid>fe69bb87-ec74-48d2-9f35-7d10715f3bbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Back to Course: Katalon badge course_403')]</value>
-      <webElementGuid>88d2a1af-4816-40d3-9be6-ff828d8b07b5</webElementGuid>
+      <webElementGuid>c19202f1-f4cf-4555-a5d1-6dca7ee5b4b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='There are no items in the recycle bin.'])[1]/following::a[1]</value>
-      <webElementGuid>f8a29b20-59ee-437d-bd12-d63fd99e7ede</webElementGuid>
+      <webElementGuid>261a21d9-7d12-4e62-8454-895d629b0247</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon badge course_403: Recycle bin'])[1]/following::a[1]</value>
-      <webElementGuid>97e069a6-40b1-4676-9ef5-db1caa9c7ca3</webElementGuid>
+      <webElementGuid>0d9e2927-c530-466f-b7ad-2464685b04c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Retention Summary'])[1]/preceding::a[1]</value>
-      <webElementGuid>95876f1c-49d6-4c88-a765-78bec212cc29</webElementGuid>
+      <webElementGuid>d70699b9-35f2-453a-8f35-83eb3dfb7b48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Get the mobile app'])[1]/preceding::a[2]</value>
-      <webElementGuid>da7b1425-4fff-4c17-b5d3-cdc5aaece07b</webElementGuid>
+      <webElementGuid>6b29dd10-acfd-471a-8c76-26242cd65f4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Back to Course: Katalon badge course_403']/parent::*</value>
-      <webElementGuid>a700ed4a-513f-4ea7-92b2-9e0b5789cd5b</webElementGuid>
+      <webElementGuid>b7bdc3b5-e0d7-43ac-b71a-17010f65cddd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://plms-php81.paradisolms.net/course/view.php?id=1160')])[3]</value>
-      <webElementGuid>3c7bd7c6-2255-4fc0-91d7-c6303ccb4235</webElementGuid>
+      <webElementGuid>811d4e6e-bf52-4c7f-bf4a-8a68ca86c34a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a</value>
-      <webElementGuid>687aac62-605c-483b-b890-b0804d29daa5</webElementGuid>
+      <webElementGuid>237c3ca0-448b-4434-b4c8-d7e1949980ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://plms-php81.paradisolms.net/course/view.php?id=1160' and (text() = 'Back to Course: Katalon badge course_403' or . = 'Back to Course: Katalon badge course_403')]</value>
-      <webElementGuid>eb1e9921-6845-4b00-80ea-26575bd28741</webElementGuid>
+      <webElementGuid>0b7b1c64-39e8-4adf-ab80-c8e797e4c43e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,11 @@
    <elementGuidId>d32fe3c9-e914-40c2-8e21-c29cdaa04fdd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='teacherdashslider']/div/div/div/div/div[2]/div[2]/a[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ff7736d9-d395-4b28-bb8e-bd4d7bb3a9c0</webElementGuid>
+      <webElementGuid>bc3c4c3b-cc9a-4df2-9786-447f9f228d6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/admin/tool/recyclebin/index.php?contextid=53268</value>
-      <webElementGuid>ecd8d626-7461-419b-b599-fde48393d4a7</webElementGuid>
+      <webElementGuid>b98ee72f-1047-4bf9-b9df-cf7c1042646c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>list-group-item</value>
-      <webElementGuid>69ae3217-3273-4bd5-a2f2-7783a2966f46</webElementGuid>
+      <webElementGuid>1b94a44a-216a-41dc-8052-e1fdead31253</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Recycle bin</value>
-      <webElementGuid>85e8047f-40a0-48c2-9c66-936986afa4ff</webElementGuid>
+      <webElementGuid>1cddeefb-64e6-4999-872a-2f6d6f49b8dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;teacherdashslider&quot;)/div[@class=&quot;teacherdashboard&quot;]/div[@class=&quot;container-fluid pr-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;border-group coursetoolslinks&quot;]/div[@class=&quot;list-group&quot;]/a[@class=&quot;list-group-item&quot;]</value>
-      <webElementGuid>a0b53d56-8bf0-4f6e-b01f-3ba13bd7d2fa</webElementGuid>
+      <webElementGuid>f55c0ae3-322e-4371-be05-41f62f44b2d7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='teacherdashslider']/div/div/div/div/div[2]/div[2]/a[5]</value>
-      <webElementGuid>82ecae64-4ab9-4e83-b948-5664ddd62bf0</webElementGuid>
+      <webElementGuid>d051b5ad-49ef-4b8f-8f41-75f709204511</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Recycle bin')]</value>
-      <webElementGuid>0a3ffdc6-77c9-4dc1-9e90-1750e1d49fb2</webElementGuid>
+      <webElementGuid>16e46e61-7c7c-4589-975d-860d12cd8812</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/following::a[1]</value>
-      <webElementGuid>31ec7958-b3a5-4751-ab2d-00205b8078cb</webElementGuid>
+      <webElementGuid>3d1c465a-a8e4-469e-bcb8-a77c2419b3c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Restore'])[1]/following::a[2]</value>
-      <webElementGuid>ff8de621-345b-4ee4-9884-211b58ad7731</webElementGuid>
+      <webElementGuid>7179c3c3-8e4f-4a22-9edc-901a860dfe30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter settings'])[1]/preceding::a[1]</value>
-      <webElementGuid>3c5abaa8-7480-4aa9-9ba1-c1d3658f9e6f</webElementGuid>
+      <webElementGuid>0f7596d5-6611-41d2-a99f-d9f3848f8038</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User Links'])[1]/preceding::a[2]</value>
-      <webElementGuid>3179e032-6e37-4252-a63c-17cd5dd67812</webElementGuid>
+      <webElementGuid>7005c41a-77af-4a01-a33d-dd8eb1b080ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Recycle bin']/parent::*</value>
-      <webElementGuid>9a4e1727-7718-4dec-8788-a9880cfe09c4</webElementGuid>
+      <webElementGuid>4837e26d-d9a5-4184-a532-3fe4043bb5b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/admin/tool/recyclebin/index.php?contextid=53268')]</value>
-      <webElementGuid>8bf39b59-573a-4e5a-97d1-539bae43817c</webElementGuid>
+      <webElementGuid>686fbf1e-35d3-45d1-a610-6ea3c6c00d1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[5]</value>
-      <webElementGuid>e70887d7-c948-4557-bea1-e5af7ff67d2b</webElementGuid>
+      <webElementGuid>68ab3fb7-84ba-4aec-bfd3-8b18503d0472</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://plms-php81.paradisolms.net/admin/tool/recyclebin/index.php?contextid=53268' and (text() = 'Recycle bin' or . = 'Recycle bin')]</value>
-      <webElementGuid>2272a4f3-27ae-4ad7-a4df-6708210d5fa7</webElementGuid>
+      <webElementGuid>54c7bf3b-c7c5-4f10-80a1-b2e1cb0f0889</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
