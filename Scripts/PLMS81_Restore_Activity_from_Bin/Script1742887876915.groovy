@@ -40,7 +40,7 @@ WebUI.click(findTestObject('Object Repository/File Activity in course/Page_Parad
 WebUI.click(findTestObject('Object Repository/File Activity in course/Page_PLMS Course Categories/input_dqksywlv_form-control course_search'))
 
 WebUI.setText(findTestObject('Object Repository/File Activity in course/Page_PLMS Course Categories/input_dqksywlv_form-control course_search'), 
-    'Katalon badge')
+    'katalon badge')
 
 WebUI.click(findTestObject('Object Repository/File Activity in course/Page_PLMS Course Categories/div_Katalon_Activity Test creation course'))
 
@@ -99,3 +99,4 @@ WebUI.click(findTestObject('Object Repository/Activity_restorefrom_recyclebin/Pa
 WebUI.click(findTestObject('Object Repository/Activity_restorefrom_recyclebin/Page_Recycle bin/a_Back to Course Katalon badge course_403'))
 
 WebUI.closeBrowser()
+

@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>bbfa08ff-6af3-4864-9fc1-556d13705f44</webElementGuid>
+      <webElementGuid>bfebf149-bced-4671-99d4-f88218e73f61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-action-text</value>
-      <webElementGuid>e87a331a-9d78-4075-a101-963a726e2b70</webElementGuid>
+      <webElementGuid>5c93462a-afc2-4ec7-ba93-5b695f0b828c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>actionmenuaction-20</value>
-      <webElementGuid>3136d464-ad5a-4c61-8a8d-314e8392b40a</webElementGuid>
+      <webElementGuid>6ae34f16-1224-4fd8-a964-b721b1201fb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>f5dc2f80-1bb7-4576-96e7-4737524d49dc</webElementGuid>
+      <webElementGuid>fecde97d-2d05-4084-83be-a09aab4b2a50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;actionmenuaction-20&quot;)</value>
-      <webElementGuid>335b2c3f-19b2-403e-8e88-a114436c611d</webElementGuid>
+      <webElementGuid>a37b360e-899a-4409-9495-bdd9ca350198</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='actionmenuaction-20']</value>
-      <webElementGuid>7c580853-aa83-42d8-905b-0784afe271f5</webElementGuid>
+      <webElementGuid>3df35bd1-d8cf-4f98-b8b4-25b74e0ec2de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='yui_3_17_2_1_1741088760028_583']/span</value>
-      <webElementGuid>ab77b27c-ca2f-4615-9a9d-e713011c0853</webElementGuid>
+      <webElementGuid>7c257cee-df95-4050-b71d-ed77097f669a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Roles'])[2]/following::span[1]</value>
-      <webElementGuid>dc065d5f-335f-4b15-b3fc-1249de5cce60</webElementGuid>
+      <webElementGuid>9fdaf59f-589b-43b7-8570-5932b4863586</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Duplicate'])[3]/following::span[2]</value>
-      <webElementGuid>b25bbd5a-3727-4402-96d1-40955dfb813e</webElementGuid>
+      <webElementGuid>ccbeae62-f2ba-4128-a3c9-bf60d2ad1538</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='The system marks this item complete according to conditions: Katalon Page activity updfate'])[1]/preceding::span[2]</value>
-      <webElementGuid>51a49648-493d-4bf1-bbd1-8bddd78f02c8</webElementGuid>
+      <webElementGuid>6004f90b-54ae-43e2-afc8-68e3e4248256</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add file(s) here'])[2]/preceding::span[4]</value>
-      <webElementGuid>729e0fc6-36db-4def-af30-3210a0056033</webElementGuid>
+      <webElementGuid>8f96da5a-3586-49bd-a0c5-ff252924cfae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div/ul/li/div/div/div[2]/span/div/div/div/div/a[7]/span</value>
-      <webElementGuid>fc27e9a2-774d-4dd4-bf82-c39eb664a2d5</webElementGuid>
+      <webElementGuid>597e32e8-c39c-476f-8b68-d0baa63ee135</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'actionmenuaction-20' and (text() = 'Delete' or . = 'Delete')]</value>
-      <webElementGuid>67b17728-bb89-4a3a-a3d0-b44bb71caa5e</webElementGuid>
+      <webElementGuid>2e434c30-cf37-42fb-91b2-f4f9a79fa8f1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
