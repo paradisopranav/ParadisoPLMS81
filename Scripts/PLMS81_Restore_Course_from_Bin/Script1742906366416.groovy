@@ -56,7 +56,7 @@ WebUI.click(findTestObject('Object Repository/Page_PLMS Course Categories/a_Cour
 
 WebUI.click(findTestObject('Object Repository/Page_PLMS Add a New Course/button_Create'))
 
-WebUI.setText(findTestObject('Object Repository/Page_PLMS Add a New Course/input_Course Name_fullname'), 'Delete ourse checking from katalon')
+WebUI.setText(findTestObject('Object Repository/Page_PLMS Add a New Course/input_Course Name_fullname'), 'Delete course checking from katalon')
 
 WebUI.click(findTestObject('Object Repository/Page_PLMS Add a New Course/li_Next'))
 
@@ -69,7 +69,7 @@ WebUI.click(findTestObject('Object Repository/Course_restorefrom_recyclebin/Page
 WebUI.click(findTestObject('Object Repository/Course_restorefrom_recyclebin/Page_PLMS Course Categories/input_dqksywlv_form-control course_search'))
 
 WebUI.setText(findTestObject('Object Repository/Uploadcourses/Page_PLMS Course Categories/input_Course templates_yui_3_17_2_1_1742825_dc3ccf'), 
-    'Delete ourse checking from katalon')
+    'Delete course checking from katalon')
 
 WebUI.sendKeys(findTestObject('Object Repository/Uploadcourses/Page_PLMS Course Categories/input_Course templates_yui_3_17_2_1_1742825_dc3ccf'), 
     Keys.chord(Keys.ENTER))
@@ -85,7 +85,7 @@ WebUI.sendKeys(findTestObject('Object Repository/Uploadcourses/Page_PLMS Course 
 WebUI.click(findTestObject('Course_restorefrom_recyclebin/managecourses_btn'))
 
 WebUI.setText(findTestObject('Object Repository/Course_restorefrom_recyclebin/Page_Course and Category Management/input_Course and Category Management_search'), 
-    'Delete ourse checking from katalon')
+    'Delete course checking from katalon')
 
 WebUI.sendKeys(findTestObject('Object Repository/Course_restorefrom_recyclebin/Page_Course and Category Management/input_Course and Category Management_search'), 
     Keys.chord(Keys.ENTER))
@@ -109,13 +109,12 @@ WebUI.click(findTestObject('Object Repository/Course_restorefrom_recyclebin/Page
 WebUI.click(findTestObject('Object Repository/Course_restorefrom_recyclebin/Page_PLMS Paradiso Solutions/i_Course catalog_men men-plms-module'))
 
 WebUI.setText(findTestObject('Object Repository/Course_restorefrom_recyclebin/Page_Course and Category Management/input_Course and Category Management_search'), 
-    'Delete ourse checking from katalon')
+    'Delete course checking from katalon')
 
 WebUI.sendKeys(findTestObject('Object Repository/Course_restorefrom_recyclebin/Page_Course and Category Management/input_Course and Category Management_search'), 
     Keys.chord(Keys.ENTER))
 
 //WebUI.click(findTestObject('Object Repository/Course_restorefrom_recyclebin/Page_Recycle bin/a_Back to Category Paradiso Solutions'))
-
 WebUI.click(findTestObject('Object Repository/Course_restorefrom_recyclebin/Page_Course and Category Management/i_QA_yui_3_17_2_1_1742882271861_642'))
 
 WebUI.click(findTestObject('Object Repository/Uploadcourses/Page_PLMS Delete Course 502/button_Delete'))
@@ -134,5 +133,5 @@ WebUI.click(findTestObject('Object Repository/Course_restorefrom_recyclebin/Page
 
 WebUI.click(findTestObject('Object Repository/Course_restorefrom_recyclebin/Page_Recycle bin/a_Back to Category Paradiso Solutions'))
 
-
 WebUI.closeBrowser()
+

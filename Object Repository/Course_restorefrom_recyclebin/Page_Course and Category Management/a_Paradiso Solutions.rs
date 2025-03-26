@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>456b7005-dd1f-44eb-a636-5f491dee8cf2</webElementGuid>
+      <webElementGuid>6084aa9f-217e-4fd1-ad2a-6712663968a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>float-left categoryname</value>
-      <webElementGuid>dcdbc02b-14fc-468c-8a14-ae31e8cafe0e</webElementGuid>
+      <webElementGuid>c94a7cb9-9d71-4db1-940c-dbd7dbe03b97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Paradiso Solutions</value>
-      <webElementGuid>5ea3839f-9924-413e-885c-c98515a611a4</webElementGuid>
+      <webElementGuid>8d9dc2c4-a357-4c8d-a57d-a163a6ddb5f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/theme/paradiso/pages/course_management/management.php?categoryid=8</value>
-      <webElementGuid>72496cfb-237c-4785-b51b-2ba66632fa9a</webElementGuid>
+      <webElementGuid>59988d5d-4a35-4b82-9592-a08ad2e249f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Paradiso Solutions</value>
-      <webElementGuid>25aabbae-ff09-4156-83a1-125581d35637</webElementGuid>
+      <webElementGuid>708b7e57-7626-4dda-8c92-a819624e2cd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1742909200589_928&quot;)/a[@class=&quot;float-left categoryname&quot;]</value>
-      <webElementGuid>81dca19f-6169-4e7a-aca7-adc0b5d0be73</webElementGuid>
+      <webElementGuid>bdc552b2-a5ef-48aa-b65c-8ee2e89c339e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1742909200589_928']/a[2]</value>
-      <webElementGuid>54aab8ce-691a-4652-9c18-b7cfe458535a</webElementGuid>
+      <webElementGuid>ca8fac57-d656-4762-beac-502638ca5e3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Paradiso Solutions')]</value>
-      <webElementGuid>6e5a57ae-6782-4bcd-bd78-b1b96dca68b9</webElementGuid>
+      <webElementGuid>f9514ac3-f6f1-476f-b61b-e15d89f242dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Restore course'])[6]/following::a[2]</value>
-      <webElementGuid>1667ef36-512c-489e-9504-e4ae044c625c</webElementGuid>
+      <webElementGuid>9084284c-ddaa-41e9-8530-069627d1f3fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[6]/following::a[3]</value>
-      <webElementGuid>b643212c-1798-473e-b4cb-6ff3d0ae2c1b</webElementGuid>
+      <webElementGuid>46a99c0d-8bbb-4b36-8472-2b20303d3671</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(252)'])[1]/preceding::a[1]</value>
-      <webElementGuid>1170c5c8-26f5-48ee-a981-4e06f8baa433</webElementGuid>
+      <webElementGuid>4785ac3e-5072-40a4-a70e-b79ab449a19b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions menu'])[7]/preceding::a[5]</value>
-      <webElementGuid>ce55f53c-8a87-4681-88ba-dc59fed8b5ba</webElementGuid>
+      <webElementGuid>4c766a8f-64aa-44d3-99f8-e91529bf1205</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://plms-php81.paradisolms.net/theme/paradiso/pages/course_management/management.php?categoryid=8')])[2]</value>
-      <webElementGuid>cc0db08a-a8a9-4a17-97a3-761bf1d5a9de</webElementGuid>
+      <webElementGuid>8dc7b01a-1507-4033-972a-3210eb8e5be2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/div/a[2]</value>
-      <webElementGuid>db763806-5fac-4b37-9a51-bd62ce8033d7</webElementGuid>
+      <webElementGuid>8d97973f-29d8-4cfc-9dbb-39a15d20626a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@title = 'Paradiso Solutions' and @href = 'https://plms-php81.paradisolms.net/theme/paradiso/pages/course_management/management.php?categoryid=8' and (text() = 'Paradiso Solutions' or . = 'Paradiso Solutions')]</value>
-      <webElementGuid>35de143d-6009-4afc-a261-2c8521b202a0</webElementGuid>
+      <webElementGuid>b392b999-777a-4c6d-bc0b-0514158af5c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

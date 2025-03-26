@@ -11,7 +11,8 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='actionmenuaction-106']</value>
+         <value>//*[@id=&quot;action-menu-7-menu&quot;]/a[12]/i&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +24,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ed85a7bc-c411-43fd-9535-18e14ce3c676</webElementGuid>
+      <webElementGuid>881c8901-b285-45f7-86c7-ac5ae4e42972</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +32,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-action-text</value>
-      <webElementGuid>4a47e2a8-04a8-4027-a7cd-4e5d24c05ed4</webElementGuid>
+      <webElementGuid>330e30d3-8e2c-42b6-9904-59e105791b08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +40,7 @@
       <name>id</name>
       <type>Main</type>
       <value>actionmenuaction-106</value>
-      <webElementGuid>e5427bff-f1f3-4532-9ad1-f8803afeedf7</webElementGuid>
+      <webElementGuid>373f8756-aa90-4642-9d04-91bd895d6129</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +48,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Recycle bin</value>
-      <webElementGuid>4e6b1701-779c-48f2-a4c8-35e508245cf9</webElementGuid>
+      <webElementGuid>f1c7a4f8-5f5b-40ee-903c-e8d942afc675</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;actionmenuaction-106&quot;)</value>
-      <webElementGuid>1d49c3cf-9ec4-4e3c-94c3-4c303b21534b</webElementGuid>
+      <webElementGuid>acdacadc-d1a9-441b-9bd8-8979c1ef1330</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +64,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='actionmenuaction-106']</value>
-      <webElementGuid>5029cd3b-1701-4f17-abcc-a60edd1e5274</webElementGuid>
+      <webElementGuid>610d5008-5f57-4d0d-8383-5d0cc7432944</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +72,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='action-menu-8-menu']/a[12]/span</value>
-      <webElementGuid>a62a5e69-9909-4e1b-90b6-cb7052989971</webElementGuid>
+      <webElementGuid>8ef45dd7-5dc4-4b38-950d-f6b6ca16620a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Restore course'])[7]/following::span[1]</value>
-      <webElementGuid>ba7f4f0d-5f77-4b12-9ed3-2e6edbcf3b93</webElementGuid>
+      <webElementGuid>1736267a-904a-4837-beae-ad5aab86309b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[7]/following::span[2]</value>
-      <webElementGuid>b6f2ed9a-d508-41b0-8f6d-db86f136b029</webElementGuid>
+      <webElementGuid>ab776c3f-c030-4270-a1b1-cbf1f9ebdea0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Category1'])[1]/preceding::span[2]</value>
-      <webElementGuid>6c9cfcbf-5a16-4a00-afa7-3adcdea7ff7d</webElementGuid>
+      <webElementGuid>283599e8-55a1-46c3-b7f1-54831987803f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(01)'])[4]/preceding::span[2]</value>
-      <webElementGuid>8610c28a-0c51-45e3-a3eb-99d869673863</webElementGuid>
+      <webElementGuid>613e274b-274f-4548-9fc4-0df583e35284</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[12]/span</value>
-      <webElementGuid>9f46b0b1-a249-4b7b-a5e8-82ed12a9dfed</webElementGuid>
+      <webElementGuid>94a6c68b-2557-4255-849a-f775733b6500</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +120,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'actionmenuaction-106' and (text() = 'Recycle bin' or . = 'Recycle bin')]</value>
-      <webElementGuid>23ecc1a0-5505-4423-abe0-4414800b0b2c</webElementGuid>
+      <webElementGuid>3f382bf7-647f-4e1b-a8ed-9ace617be0b8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
