@@ -40,7 +40,11 @@ WebUI.click(findTestObject('Object Repository/File Activity in course/Page_Parad
 WebUI.click(findTestObject('Object Repository/File Activity in course/Page_PLMS Course Categories/input_dqksywlv_form-control course_search'))
 
 WebUI.setText(findTestObject('Object Repository/File Activity in course/Page_PLMS Course Categories/input_dqksywlv_form-control course_search'), 
+<<<<<<< HEAD
     'katalon badge')
+=======
+    'Katalon badge course_403c')
+>>>>>>> branch 'master' of https://github.com/paradisopranav/ParadisoPLMS81.git
 
 WebUI.click(findTestObject('Object Repository/File Activity in course/Page_PLMS Course Categories/div_Katalon_Activity Test creation course'))
 

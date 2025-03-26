@@ -52,5 +52,14 @@ WebUI.navigateToUrl('https://plms-php81.paradisolms.net/local/people/index.php')
 WebUI.setText(findTestObject('Object Repository/Page_Manage People/input_Manage People_txt'), extractedText)
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Manage People/input_Manage People_txt'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/Page_Manage People/input_Status_id_1_2_3'))
+WebUI.click(findTestObject('Object Repository/Page_Manage People/i_New User_wid wid-dots'))
 
+//WebUI.click(findTestObject('Object Repository/Page_Manage People/button_New User_btn btn_css dropdown dropdo_1428cf'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage People/span_Delete'))
+
+WebUI.click(findTestObject('Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Yes'))
+
+WebUI.click(findTestObject('Object Repository/Page_PLMS Administration Users Accounts Bul_d721b7/button_Continue'))
 
