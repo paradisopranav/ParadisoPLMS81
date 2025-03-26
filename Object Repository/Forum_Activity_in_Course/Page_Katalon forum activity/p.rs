@@ -6,12 +6,12 @@
    <elementGuidId>4a7f310a-131b-44ae-8d55-44eed3043b91</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='id_messageeditable']/p</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#id_messageeditable > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@contenteditable='true' and @id='id_messageeditable']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>c6df0ee4-6273-4f7b-ad7e-e6bf19b916f9</webElementGuid>
+      <webElementGuid>bcb8203d-9fa1-46c6-aff7-1a89a23488a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>ltr</value>
-      <webElementGuid>c2a55891-2915-4ff5-af79-661a430ba530</webElementGuid>
+      <webElementGuid>d7b9c869-8410-42d2-8516-a72b6ec59cc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;id_messageeditable&quot;)/p[1]</value>
-      <webElementGuid>350d2729-caa6-4b81-9d86-0fb7db7dbd3f</webElementGuid>
+      <webElementGuid>82028966-2995-4264-bb02-1f55c0e2bc86</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='id_messageeditable']/p</value>
-      <webElementGuid>1678b8df-a4ac-498a-aacb-63176eff9828</webElementGuid>
+      <webElementGuid>47450617-420e-472b-a3c4-4f29cc027c01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/following::p[1]</value>
-      <webElementGuid>7a955b87-16e6-48ca-b0ff-886c7f9f84d0</webElementGuid>
+      <webElementGuid>5fb73ae5-4ff2-46d7-b753-aad0a26e6c98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subject'])[1]/following::p[1]</value>
-      <webElementGuid>15cd0a62-ec01-4b6e-999b-bbcd1de7d9bb</webElementGuid>
+      <webElementGuid>0b88a625-a215-47cc-b587-c62e08e44d47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::p[1]</value>
-      <webElementGuid>1b6ee604-8031-44df-aa9c-147200b8d4ab</webElementGuid>
+      <webElementGuid>ed1fa95b-063e-406a-907a-bfbbc3d4fde4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/p</value>
-      <webElementGuid>472e4311-aff9-4c05-ad41-ff6d5843bafe</webElementGuid>
+      <webElementGuid>b5ae1445-a57a-4409-a13d-f14233196eaa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

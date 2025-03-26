@@ -6,12 +6,11 @@
    <elementGuidId>ac960018-d816-4ec3-aa20-04ad60a39258</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='yui_3_17_2_1_1742466533931_604']/a[3]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Edit')])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b56c178f-3ead-4fec-b4cc-1a8598763c9b</webElementGuid>
+      <webElementGuid>397e8800-a8fd-4827-8842-bee993755e30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>data-region</name>
       <type>Main</type>
       <value>post-action</value>
-      <webElementGuid>b8ffc101-cd36-444c-9707-1c3c1dff2aba</webElementGuid>
+      <webElementGuid>189daf9c-16a4-4571-8165-6f841c67d704</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/mod/forum/post.php?edit=1273</value>
-      <webElementGuid>4092136b-2508-4a4f-8e9f-f5bca0d291be</webElementGuid>
+      <webElementGuid>40752175-ba35-4b06-962e-919bb0f45462</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-link</value>
-      <webElementGuid>55f1c3d1-0b61-4311-a773-24a140cf8871</webElementGuid>
+      <webElementGuid>818a93af-f62d-4f00-994f-1cd768edc83a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>cafa70fb-d8fb-464d-88f6-cfc8e0e8a1cb</webElementGuid>
+      <webElementGuid>00184315-c06a-4aba-93c2-446fe9a59454</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +64,7 @@
       <value>
                                                     Edit
                                                 </value>
-      <webElementGuid>ee426217-5e90-4628-a5c2-b3e9614ce8f7</webElementGuid>
+      <webElementGuid>68e203c3-1686-46cf-bbf6-b2d8edd49d8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1742466533931_604&quot;)/a[@class=&quot;btn btn-link&quot;]</value>
-      <webElementGuid>cbda0b01-d274-4777-9c2f-0a8a50015350</webElementGuid>
+      <webElementGuid>c826a4bd-ed36-4ade-9af3-7c308bc05a71</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -81,7 +80,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1742466533931_604']/a[3]</value>
-      <webElementGuid>a2a21e54-8a25-4744-bdde-acac70b8d28d</webElementGuid>
+      <webElementGuid>e6864163-66b4-4a60-9c1e-60657277a04d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +88,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Edit')])[2]</value>
-      <webElementGuid>73a40b34-db7e-4575-a8d1-7798fa8ff988</webElementGuid>
+      <webElementGuid>40ea6620-e63c-442d-bef5-ef595bde4a07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show parent'])[1]/following::a[1]</value>
-      <webElementGuid>4b1ce0a8-bda6-443a-a7b0-405dfc62958f</webElementGuid>
+      <webElementGuid>8ef74441-d8f3-43ad-ba7c-875007a60143</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Permalink'])[2]/following::a[2]</value>
-      <webElementGuid>ce1214d0-b060-47b6-baf6-25e8bb63a800</webElementGuid>
+      <webElementGuid>2ba7b9f5-a145-455a-8764-6b3104ee6b90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Split'])[1]/preceding::a[1]</value>
-      <webElementGuid>6f50aced-0126-44ec-ae31-79854264063f</webElementGuid>
+      <webElementGuid>1bb6352e-cf3d-4ddd-871c-c06b7c8f0802</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[5]/preceding::a[2]</value>
-      <webElementGuid>e04ddae7-2738-4ee6-bc6d-000ea0957dfa</webElementGuid>
+      <webElementGuid>5b994de7-d602-42e8-b934-ecd63e50fb87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +128,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/mod/forum/post.php?edit=1273')]</value>
-      <webElementGuid>322fe17c-4902-4f43-8999-dabf28b9e094</webElementGuid>
+      <webElementGuid>ef8f07b7-6f29-46ce-baaf-49ae52de9b54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,7 +136,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/article/div/div/div/div[2]/div[2]/div/a[3]</value>
-      <webElementGuid>a04e6171-c167-4931-9d21-c9d1d99fc28e</webElementGuid>
+      <webElementGuid>711af8a9-a01e-49ec-b9e6-09216ad71d72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +148,6 @@
                                                 ' or . = '
                                                     Edit
                                                 ')]</value>
-      <webElementGuid>333147a6-97a9-471c-a178-20a5fe6c87d4</webElementGuid>
+      <webElementGuid>700c06cd-f5d4-4e2d-a5a6-2022df8b39de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

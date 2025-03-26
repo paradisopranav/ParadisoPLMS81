@@ -6,12 +6,12 @@
    <elementGuidId>4cb06921-9181-40fd-aef9-21357ba23238</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='yui_3_17_2_1_1742466450419_1089']/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#yui_3_17_2_1_1742466450419_1089 > span.menu-action-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Star this discussion'])[1]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>838a5e33-cf74-49d7-8a37-624138ed8c00</webElementGuid>
+      <webElementGuid>8ea80a19-4427-423e-abc0-bd5d46f530d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-action-text</value>
-      <webElementGuid>70a07006-73bc-4ae3-873e-15f94a2dd645</webElementGuid>
+      <webElementGuid>691805f5-6c01-4804-a7a1-1fa60b3b2612</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <value>
             Unlock this discussion
     </value>
-      <webElementGuid>0b901276-1a92-4ec4-915f-b04982e025f0</webElementGuid>
+      <webElementGuid>886d8bf2-0015-4c56-ad4f-31c9f5b6f0c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1742466450419_1089&quot;)/span[@class=&quot;menu-action-text&quot;]</value>
-      <webElementGuid>94697993-b027-4408-b4f3-5c223981d55a</webElementGuid>
+      <webElementGuid>982b8304-862e-4c44-9b32-1c792f579e20</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='yui_3_17_2_1_1742466450419_1089']/span</value>
-      <webElementGuid>52c4f5d9-ad7b-41d6-9f2a-d5e79e725722</webElementGuid>
+      <webElementGuid>25f4180e-ee57-4298-8d8e-ad1b40bac83b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pin this discussion'])[1]/following::span[1]</value>
-      <webElementGuid>f2517482-a635-45c4-8111-af24eb340645</webElementGuid>
+      <webElementGuid>331d91a2-ed15-4fb7-b5d5-04abca66dc7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Star this discussion'])[1]/following::span[2]</value>
-      <webElementGuid>d75b56e0-88f4-4b74-8f5b-ec50e876b8e1</webElementGuid>
+      <webElementGuid>fb2e7c30-2763-4591-be3d-e067e3186ddb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Retention Summary'])[1]/preceding::span[1]</value>
-      <webElementGuid>0901e3bd-eebc-413b-bb66-b217fb3ce5db</webElementGuid>
+      <webElementGuid>11141a42-b072-477d-8c8d-cfd0695c43b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Get the mobile app'])[1]/preceding::span[1]</value>
-      <webElementGuid>0067c3af-4752-4e7c-9281-7c3aee6e8484</webElementGuid>
+      <webElementGuid>56fa934f-35d4-48d1-bb17-c82978a0a8e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Unlock this discussion']/parent::*</value>
-      <webElementGuid>fdf2aee4-29d4-4b43-b954-45eb74300777</webElementGuid>
+      <webElementGuid>a9169640-d6ac-4bb2-8a0e-66e641f7bad1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[7]/div/div/div/div/a[3]/span</value>
-      <webElementGuid>6c974b5b-44aa-41fc-bcd0-4589c17a4fe3</webElementGuid>
+      <webElementGuid>5f9c023f-e956-4a22-980b-d2f953018485</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
     ' or . = '
             Unlock this discussion
     ')]</value>
-      <webElementGuid>f1ea6c08-b926-4869-959a-d2baa9d773cc</webElementGuid>
+      <webElementGuid>91a02e50-f8d0-4dd3-9ee8-8ce57841595a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

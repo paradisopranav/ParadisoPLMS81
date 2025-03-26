@@ -6,12 +6,12 @@
    <elementGuidId>76f206cb-3a5e-4572-98b6-f1eb887cd649</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='yui_3_17_2_1_1742466365990_1078']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#yui_3_17_2_1_1742466365990_1078</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin User'])[2]/following::a[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fc9b6677-cdee-4cde-b0cf-e7d02936fc3a</webElementGuid>
+      <webElementGuid>2c382b9a-b257-4f88-bed0-8cf1caca8a22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>7667df5f-1476-44e9-af33-ab89f0c9b3b1</webElementGuid>
+      <webElementGuid>bda19324-077c-436d-a552-4de5ee1daba5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value> btn btn-link btn-icon colour-inherit text-decoration-none d-flex align-items-center justify-content-center</value>
-      <webElementGuid>dfbd829f-4c20-4c93-9f6d-3a695bd82418</webElementGuid>
+      <webElementGuid>93c46c16-6a20-48f6-9164-e444f25c4b87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>837693a4-6296-46c1-a5d7-8da8d97c2f1c</webElementGuid>
+      <webElementGuid>888d2b4d-9358-4828-a085-d673bf9b0607</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>f9c89323-14e5-4307-a2b4-9d604e3f8fb4</webElementGuid>
+      <webElementGuid>19100a35-e1b8-42c5-8930-3cc6fa03eb9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>7dd3759e-b887-4f8b-9db7-4e6c2ae0a66e</webElementGuid>
+      <webElementGuid>521e1a5d-a55a-4ea8-a982-14e2c887fdd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>aa259888-0ce1-45ec-9e0d-b3a93f80744e</webElementGuid>
+      <webElementGuid>99cf263a-edf1-475d-9fca-57d7c74051e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>forum-action-menu-396-menu</value>
-      <webElementGuid>de77bee6-8958-4cfd-9977-99d6f574b7e9</webElementGuid>
+      <webElementGuid>f1270711-0b8a-489d-adb1-dab2a316327b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Toggle the discussion menu</value>
-      <webElementGuid>d1131fca-62da-4af0-b12a-7861e81e3c13</webElementGuid>
+      <webElementGuid>baaa1b55-969b-456b-986c-b88973ae1d21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c4d7d6bd-51d6-4600-bfbe-6140a169b992</webElementGuid>
+      <webElementGuid>7dca5c1a-0dbd-4ed3-87ef-fc2b7213a8da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -103,7 +103,7 @@
       <name>id</name>
       <type>Main</type>
       <value>yui_3_17_2_1_1742466365990_1078</value>
-      <webElementGuid>e6ac9294-14f9-4c4f-96f0-7c2113fab3da</webElementGuid>
+      <webElementGuid>e96d7d99-65ae-460e-96dc-2fb265270a13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1742466365990_1078&quot;)</value>
-      <webElementGuid>d4756035-a654-468a-8a33-be2e2d054b64</webElementGuid>
+      <webElementGuid>ed064777-e9fa-458a-b926-47d5e5d8b6b7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='yui_3_17_2_1_1742466365990_1078']</value>
-      <webElementGuid>eca61538-5f23-48f6-9277-916c7d3861f9</webElementGuid>
+      <webElementGuid>cd6efe72-4078-4cb5-a87e-6cf3932b2d6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1742466365990_1079']/a</value>
-      <webElementGuid>856135a7-f90c-448c-b014-46b94f2c1a15</webElementGuid>
+      <webElementGuid>dcc95fb2-ed43-4222-abf0-63fb2e3a57c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe to this discussion'])[1]/following::a[1]</value>
-      <webElementGuid>3d529566-1e80-4303-8f2b-2ad5271c9733</webElementGuid>
+      <webElementGuid>efcc0a20-1408-4e06-9404-527045029bf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin User'])[2]/following::a[2]</value>
-      <webElementGuid>9cb26d43-4cdd-48bc-933e-ace8b49f906e</webElementGuid>
+      <webElementGuid>b7cf6704-752f-4fc8-b2d1-f0519bdaa919</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +151,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Star this discussion'])[1]/preceding::a[1]</value>
-      <webElementGuid>3df4e3ae-9727-4c23-ad8e-9d41b1dd0b0e</webElementGuid>
+      <webElementGuid>b6ac2b6f-792c-4497-89ce-945f00733a3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +159,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pin this discussion'])[1]/preceding::a[2]</value>
-      <webElementGuid>007aeccb-5952-4c9d-999d-64eea46050c0</webElementGuid>
+      <webElementGuid>c8405260-a559-4907-a2fc-8f73526cdeac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,7 +167,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[15]</value>
-      <webElementGuid>1f312e86-7741-4181-828b-416ed5e88e8e</webElementGuid>
+      <webElementGuid>986d355b-c5e9-4820-b1a6-cb8ccac692fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -175,7 +175,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[7]/div/div/div/a</value>
-      <webElementGuid>89208792-980c-44f4-943f-9a5c350216bc</webElementGuid>
+      <webElementGuid>50ffe4c8-5e92-4af3-a70e-609924c0f514</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -183,6 +183,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and @id = 'yui_3_17_2_1_1742466365990_1078']</value>
-      <webElementGuid>b63cbc6f-1848-4149-b4af-c1077a0e5ce6</webElementGuid>
+      <webElementGuid>a94c50a6-d800-4694-9428-cf22334f91df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

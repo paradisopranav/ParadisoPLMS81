@@ -6,12 +6,11 @@
    <elementGuidId>9fbf11af-4670-4c40-8016-cb3e45c32ea9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//article[@id='p1272']/div/div/div/div[2]/div[2]/div/a[3]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Delete')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ab97e47f-8d9f-4358-bbae-e2b61b871329</webElementGuid>
+      <webElementGuid>452dbffa-177c-4272-bcfd-6e5b19863425</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>data-region</name>
       <type>Main</type>
       <value>post-action</value>
-      <webElementGuid>ab6ca54b-4e2c-4a39-86f6-db5516c71101</webElementGuid>
+      <webElementGuid>b4bf479b-db69-48b7-95d0-a1283ce77466</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/mod/forum/post.php?delete=1272</value>
-      <webElementGuid>368763da-c399-4b2f-87ef-5c76ae73cf35</webElementGuid>
+      <webElementGuid>a839d43e-ea77-4e89-8c7e-b0dc489c948e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-link</value>
-      <webElementGuid>fa4bb492-b28e-43b8-b85a-a0562a86da83</webElementGuid>
+      <webElementGuid>972df2ed-ba50-4acd-8ae5-04d0355b7df7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>53bc7af8-39d7-4542-9e07-4d4cda3243cb</webElementGuid>
+      <webElementGuid>3505ff35-ce98-4aed-8f5f-b233186c1445</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>040e4101-802d-4667-a57e-32cff672021f</webElementGuid>
+      <webElementGuid>b40e3c44-70cf-435a-9718-8faef4a6630c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -73,7 +72,7 @@
       <value>
                                                         Delete
                                                     </value>
-      <webElementGuid>7d0e3923-cb8f-4a8a-badd-06f82e9f513a</webElementGuid>
+      <webElementGuid>d547cd36-f6bb-4100-bfbd-d9377f7da1a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +80,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;p1272&quot;)/div[@class=&quot;d-flex border p-2 mb-2 forumpost focus-target  firstpost starter&quot;]/div[@class=&quot;d-flex flex-column w-100&quot;]/div[@class=&quot;d-flex body-content-container&quot;]/div[@class=&quot;no-overflow w-100 content-alignment-container&quot;]/div[@class=&quot;d-flex flex-wrap&quot;]/div[@class=&quot;post-actions d-flex align-self-end justify-content-end flex-wrap ml-auto&quot;]/a[@class=&quot;btn btn-link&quot;]</value>
-      <webElementGuid>53b4c144-89aa-4b24-8729-f9e6b41d945e</webElementGuid>
+      <webElementGuid>bffcee4e-9843-4cd3-94b4-5e3988b15191</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -89,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//article[@id='p1272']/div/div/div/div[2]/div[2]/div/a[3]</value>
-      <webElementGuid>69fadf0f-31c5-458f-9c8d-f2e67ca5ab82</webElementGuid>
+      <webElementGuid>47b2f5e1-13bc-40ec-8afb-eed89dbe67fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +96,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Delete')]</value>
-      <webElementGuid>d560f335-ce80-4bb0-8266-c73fa8b47f63</webElementGuid>
+      <webElementGuid>17b96227-cda7-49ee-af5a-97c41d04092b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::a[1]</value>
-      <webElementGuid>07411b21-1f78-4fa7-a248-2be03d7be123</webElementGuid>
+      <webElementGuid>f3aceea0-f1a2-4293-b977-a71e68a5b0b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Permalink'])[1]/following::a[2]</value>
-      <webElementGuid>bbebd458-77c1-4faa-8cc5-a80df59b449f</webElementGuid>
+      <webElementGuid>d52d14bf-6bbf-4046-8542-99d7b03915d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reply'])[1]/preceding::a[1]</value>
-      <webElementGuid>2aaec416-2bb1-4bf1-a303-8b898f4b5d36</webElementGuid>
+      <webElementGuid>0eab67ec-e1c1-47e3-94be-7506b15aee90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Retention Summary'])[1]/preceding::a[3]</value>
-      <webElementGuid>f8de9a79-eb52-4831-a09d-ce77b14441ba</webElementGuid>
+      <webElementGuid>481381c7-eb1b-4d24-94f0-658cb9a254f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,7 +136,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/mod/forum/post.php?delete=1272')]</value>
-      <webElementGuid>1b2f1d80-e447-4923-bccb-d36f1e10e40a</webElementGuid>
+      <webElementGuid>52bc9314-bfbf-494b-817c-fe5e528a1de3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -145,7 +144,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a[3]</value>
-      <webElementGuid>9b189fa6-60ba-4fcb-970d-b3568b5d6b64</webElementGuid>
+      <webElementGuid>f1a1ddae-6601-4e68-940b-939dc85a5d48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +156,6 @@
                                                     ' or . = '
                                                         Delete
                                                     ')]</value>
-      <webElementGuid>20dd6c98-573b-42b1-867b-f96428b013e8</webElementGuid>
+      <webElementGuid>d3cd6600-8d87-4439-b486-95ce77c073ed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

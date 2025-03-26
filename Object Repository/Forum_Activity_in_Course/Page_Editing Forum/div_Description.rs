@@ -6,12 +6,12 @@
    <elementGuidId>449f8697-4591-4222-bbc9-5c54e37ef080</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='yui_3_17_2_1_1742466286374_756']/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#yui_3_17_2_1_1742466286374_756 > div.contentlabel.col-sm-12.col-md-4.col-lg-4.col-xl-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@contenteditable='true' and contains(@class, 'editor_atto_content')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>95c1795c-9a30-4520-80e6-7cf2f391dc3d</webElementGuid>
+      <webElementGuid>1f3de44e-7fb1-4b6e-9f70-8a574e9e0d27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>contentlabel col-sm-12 col-md-4 col-lg-4 col-xl-4</value>
-      <webElementGuid>b02394aa-e19d-4c04-a9dc-93cd7cdd0a80</webElementGuid>
+      <webElementGuid>e781123d-55cb-47be-9ee7-3d5d2e84d473</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
             
         
     </value>
-      <webElementGuid>e4ac26be-87f2-4b3d-8cf9-6de7af7cf6d6</webElementGuid>
+      <webElementGuid>ce2c88ff-6197-4531-8665-90d495d8153d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1742466286374_756&quot;)/div[@class=&quot;contentlabel col-sm-12 col-md-4 col-lg-4 col-xl-4&quot;]</value>
-      <webElementGuid>23187572-edcd-4742-97c0-c9df642e321e</webElementGuid>
+      <webElementGuid>ed74858e-ed6c-4d47-a552-f0a9a481dc34</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1742466286374_756']/div</value>
-      <webElementGuid>e1263a2f-9c43-49d4-bd5f-1e3ca3057b7d</webElementGuid>
+      <webElementGuid>8034e3d9-d0e0-4dc5-88bf-e9702f7dfd2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forum name'])[1]/following::div[5]</value>
-      <webElementGuid>d478b78f-4ebd-469f-810e-9072aea3299f</webElementGuid>
+      <webElementGuid>58b164c6-76a2-496b-ba5e-57b1f07bf5e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Adding a new Forum to Topic 1'])[1]/following::div[9]</value>
-      <webElementGuid>aed4c1a9-54fa-4762-a9d3-864ee104d4d1</webElementGuid>
+      <webElementGuid>705d9424-5a6e-4791-9eb9-a85491242c7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fieldset/div/div[2]/div</value>
-      <webElementGuid>23a4e941-6622-4a2b-a00b-3a9cccbcdba3</webElementGuid>
+      <webElementGuid>04435dbc-cbfd-41c9-955c-939b6c7bae9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
             
         
     ')]</value>
-      <webElementGuid>e00fba4e-23df-418a-b886-c4ed16bd65cf</webElementGuid>
+      <webElementGuid>33b96d4f-d6e3-4d77-81d3-f9b3c3a75b2f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

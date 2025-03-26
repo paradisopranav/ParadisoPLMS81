@@ -6,12 +6,12 @@
    <elementGuidId>1398a185-ce77-4ced-8e44-7c095f055f54</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//circle[@id = 'Ellipse_454']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#action-menu-toggle-4 > #menu-dots-vertical_1_ > #Ellipse_454</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Topic'])[1]/following::*[name()='svg'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>circle</value>
-      <webElementGuid>922ee009-fbf9-4393-ac7a-8fe7822523e0</webElementGuid>
+      <webElementGuid>31ad9c0b-ca34-41e4-9cdd-0e102020996f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Ellipse_454</value>
-      <webElementGuid>34178cc9-e084-4400-a160-391a052b9c89</webElementGuid>
+      <webElementGuid>68899ae1-a3a8-4117-bff4-1e1dab60a628</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>data-name</name>
       <type>Main</type>
       <value>Ellipse 454</value>
-      <webElementGuid>06e3104c-48b6-4bb4-b4e8-50cfeac06b68</webElementGuid>
+      <webElementGuid>c0d6cf2a-cb65-47dc-bcbd-20c86bd0b594</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>cx</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>e7d2e240-4b1e-408c-a3cb-7e4cc47e6387</webElementGuid>
+      <webElementGuid>a0561023-93d2-4635-abc2-63b7e9efb86a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>cy</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>325ba4d2-5eb4-4673-8ae2-6380f987407a</webElementGuid>
+      <webElementGuid>01a3ed36-443d-4ba5-8d4e-7effe0db673b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>r</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>0a8b1bf2-87d7-4660-8b0d-12ea3c9ddbeb</webElementGuid>
+      <webElementGuid>d062e8b7-8595-4b00-8f7d-eea5f558682c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>transform</name>
       <type>Main</type>
       <value>translate(0 8)</value>
-      <webElementGuid>849f8cc1-8d01-4914-be94-9166e6966016</webElementGuid>
+      <webElementGuid>b6f9b281-30a5-4a33-bb8e-46be9d941111</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>#334155</value>
-      <webElementGuid>6a8333fa-4738-4018-a013-6398630d388e</webElementGuid>
+      <webElementGuid>5e2a31ce-a413-490d-b471-9c0dfcc7d2b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;action-menu-toggle-4&quot;)/svg[@id=&quot;menu-dots-vertical_1_&quot;]/circle[@id=&quot;Ellipse_454&quot;]</value>
-      <webElementGuid>95d33545-1324-4853-ac29-9694e218258a</webElementGuid>
+      <webElementGuid>3ed8c19e-c77a-4136-b8e3-f19c659c0f9e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//circle[@id = 'Ellipse_454']</value>
-      <webElementGuid>c63dfff7-9a17-4cc0-b1a1-7beb7cf16d51</webElementGuid>
+      <webElementGuid>e6d70140-70d9-4655-ab18-7d410add4ab8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

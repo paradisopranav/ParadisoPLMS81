@@ -6,12 +6,12 @@
    <elementGuidId>588bb338-0078-407a-a9c9-85b623916c53</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='yui_3_17_2_1_1742466428568_1041']/i</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>i.icon.fa.fa-ellipsis-v.fa-fw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin User'])[2]/following::a[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>23903f42-28a8-488a-bcba-4d22f6f90b10</webElementGuid>
+      <webElementGuid>85028b83-78c9-4396-8f79-93c19f59f1f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon fa fa-ellipsis-v fa-fw </value>
-      <webElementGuid>012db48c-91c1-420c-aed6-ecf5bfcee3bf</webElementGuid>
+      <webElementGuid>5a69cb91-050c-4bdb-b34e-cde189e79386</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>62741625-dcf2-49db-8adf-2f3379849b2b</webElementGuid>
+      <webElementGuid>9cc218c4-b428-4712-8377-6b9a23ef9c99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1742466428568_1041&quot;)/i[@class=&quot;icon fa fa-ellipsis-v fa-fw&quot;]</value>
-      <webElementGuid>3945301a-7061-456e-8de8-c014e131a937</webElementGuid>
+      <webElementGuid>cdb21ef2-1c74-4734-b220-3511b153c399</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='yui_3_17_2_1_1742466428568_1041']/i</value>
-      <webElementGuid>d5f8766a-6850-400f-8477-6fdfdebb3821</webElementGuid>
+      <webElementGuid>25c5b4fd-94fc-4610-ac3d-c4649aad444e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,6 +63,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[7]/div/div/div/a/i</value>
-      <webElementGuid>821772b3-31d6-4fc1-a4dc-7516464c77a7</webElementGuid>
+      <webElementGuid>bc52862c-60a4-47dd-be50-8a682b200516</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

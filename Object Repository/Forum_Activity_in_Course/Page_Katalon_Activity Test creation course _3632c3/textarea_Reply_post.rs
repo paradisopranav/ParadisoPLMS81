@@ -6,12 +6,12 @@
    <elementGuidId>808c8e1e-2ffa-46c1-a57e-6c9989d36767</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//textarea[@id='yui_3_17_2_1_1742466533931_575']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#yui_3_17_2_1_1742466533931_575</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>f6f1a555-138a-4d34-9931-1e480475794c</webElementGuid>
+      <webElementGuid>20696d1f-2ee2-4359-ab3d-9e2fb0d90754</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>869abb8a-21be-4fff-8f2f-66c478a70edb</webElementGuid>
+      <webElementGuid>965bf412-dcec-4ef4-9f3e-b37caad8e37f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>post</value>
-      <webElementGuid>e871f6f0-179b-47ff-b92d-ec2bba9487c4</webElementGuid>
+      <webElementGuid>9bc20319-1cb3-4c4e-907a-9572c948558b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>title</name>
       <type>Main</type>
       <value>post</value>
-      <webElementGuid>e6ae5ecb-6270-4e0b-b7d5-060bcb1b8698</webElementGuid>
+      <webElementGuid>3deb5402-193f-4975-a986-f8b9d223a71e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>aebd99b4-8ea4-4bb3-a58a-e15ec755d8ae</webElementGuid>
+      <webElementGuid>5e0399d6-c1ec-4229-a2fe-efee22a88d68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Write your reply...</value>
-      <webElementGuid>4fdbe952-0a03-44d1-85b3-cf9e6050ce7e</webElementGuid>
+      <webElementGuid>239bcbc6-e015-4c00-8229-65f19fa7d3d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>id</name>
       <type>Main</type>
       <value>yui_3_17_2_1_1742466533931_575</value>
-      <webElementGuid>7d0b5be5-35fd-47ed-ae2e-48d8f069d651</webElementGuid>
+      <webElementGuid>6aca8a72-2733-48d5-9531-677367c95174</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1742466533931_575&quot;)</value>
-      <webElementGuid>64678c84-1623-449a-a987-964386c60709</webElementGuid>
+      <webElementGuid>462104ad-1848-4d4a-8531-7291df7bca71</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='yui_3_17_2_1_1742466533931_575']</value>
-      <webElementGuid>a3dd549a-b3d5-4126-ab5f-cd31e775d791</webElementGuid>
+      <webElementGuid>9d7b37e1-edc3-4ac4-a887-81b59e372256</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='yui_3_17_2_1_1742466533931_576']/textarea</value>
-      <webElementGuid>5c6a9105-15c3-4fce-8e6e-57294a71a0f5</webElementGuid>
+      <webElementGuid>8c37df23-1ddb-49bd-9090-38c59dce24fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>c0bc065b-9e16-4ed6-89d2-93d1f36aaa39</webElementGuid>
+      <webElementGuid>cecf0435-4a97-4bf7-89d9-a5e3b39e20b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@name = 'post' and @title = 'post' and @placeholder = 'Write your reply...' and @id = 'yui_3_17_2_1_1742466533931_575']</value>
-      <webElementGuid>25564865-f6a9-4076-b93e-5de41f9d59c2</webElementGuid>
+      <webElementGuid>ebfbb95a-b182-423c-a062-46398e5f34ff</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

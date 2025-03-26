@@ -6,12 +6,12 @@
    <elementGuidId>56a0da5d-15fe-40d5-acb6-4c12575d070e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='yui_3_17_2_1_1742466315364_1034']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#yui_3_17_2_1_1742466315364_1034</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Add a new discussion topic')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>46dd4064-8063-4e7d-b406-9f6489279722</webElementGuid>
+      <webElementGuid>5ed90e63-eacd-4959-85f8-fa770a7f2be0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>a92083a4-8ee9-45cf-8653-477f20525ccd</webElementGuid>
+      <webElementGuid>28ecd20f-ce62-4785-896b-16d72582089c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>collapse</value>
-      <webElementGuid>4a479a7a-0627-415d-9a06-e7ac942eb5ad</webElementGuid>
+      <webElementGuid>07b4559c-bcd9-4f19-8f26-d24b8b3a06f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#collapseAddForm</value>
-      <webElementGuid>117f6fbd-8e1c-40ac-bd97-efdec6280611</webElementGuid>
+      <webElementGuid>ef014d89-cf22-44c2-ad89-1161bfaecf23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>yui_3_17_2_1_1742466315364_1034</value>
-      <webElementGuid>4ce57a49-e18b-41d9-93e8-fbad758702d5</webElementGuid>
+      <webElementGuid>b2426cf4-a3ab-4af2-85a7-ef61b4207c7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <value>
                     Add a new discussion topic
             </value>
-      <webElementGuid>1b8af62a-a9e7-4dac-a882-55774666b676</webElementGuid>
+      <webElementGuid>6028ef74-36a6-471b-b306-5865c02c6d9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1742466315364_1034&quot;)</value>
-      <webElementGuid>63602ba9-838c-4783-a6e0-b2bdd770bb1b</webElementGuid>
+      <webElementGuid>d070ad46-eb7e-4a99-8a90-45753f8dee76</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='yui_3_17_2_1_1742466315364_1034']</value>
-      <webElementGuid>a28c7ec1-8b16-4307-9831-0b461a2c73f1</webElementGuid>
+      <webElementGuid>ad78e555-1877-4bb7-875a-8a2c78e1531f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1742466315364_1035']/a</value>
-      <webElementGuid>eb4346f1-8190-481a-a29d-84b7b6ac8f47</webElementGuid>
+      <webElementGuid>45e77cbf-954f-4c04-a5d0-0f1010210b6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Add a new discussion topic')]</value>
-      <webElementGuid>7f912b25-5a5f-42a4-a999-3f24ef9759a8</webElementGuid>
+      <webElementGuid>db5ecbe6-1564-446f-aa66-af563ee92369</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::a[1]</value>
-      <webElementGuid>44b317b1-3fea-47a3-bd2e-76dcaeb15c49</webElementGuid>
+      <webElementGuid>68d6127b-36e6-4d68-8a26-105bbec25760</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show/edit current subscribers'])[1]/following::a[2]</value>
-      <webElementGuid>110c791b-61c8-4ac7-93ee-d5af5ca0b7c6</webElementGuid>
+      <webElementGuid>106e51b0-40cd-4da7-ab56-db6ec79e1997</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subject'])[1]/preceding::a[1]</value>
-      <webElementGuid>1b7b1a88-f08d-475e-b6ce-65f41f7326ba</webElementGuid>
+      <webElementGuid>44a68a91-ff14-4c21-bbcb-d72167c4bddd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/preceding::a[1]</value>
-      <webElementGuid>178bba53-7464-428c-8e6e-b0c8c61a6c5e</webElementGuid>
+      <webElementGuid>c47a2bb3-7d36-486b-af1d-cbb729208ce6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,7 +137,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add a new discussion topic']/parent::*</value>
-      <webElementGuid>2e94f635-9854-4000-8c55-d0c91abb79ff</webElementGuid>
+      <webElementGuid>9758ff5a-b44a-442c-97d7-dca1fec1d790</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -145,7 +145,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#collapseAddForm')]</value>
-      <webElementGuid>5f8228f2-f14d-4fd1-990e-ce296840fe4a</webElementGuid>
+      <webElementGuid>de94d901-81cb-4ccf-887f-df2a0dbb89ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -153,7 +153,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]/div/div/a</value>
-      <webElementGuid>f9381386-b199-496b-85c4-96c8ac65067a</webElementGuid>
+      <webElementGuid>0faa3ebc-9760-4f62-b725-1c3cc466b587</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,6 +165,6 @@
             ' or . = '
                     Add a new discussion topic
             ')]</value>
-      <webElementGuid>ab0669e2-c234-4eb0-b26b-89e8999e962c</webElementGuid>
+      <webElementGuid>304aa10f-107c-4d34-9042-7dab8abaa124</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

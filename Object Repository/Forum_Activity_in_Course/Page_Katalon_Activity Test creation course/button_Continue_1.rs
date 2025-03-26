@@ -6,12 +6,12 @@
    <elementGuidId>3f7e11bc-d16f-460a-b1c0-a059f295d2cc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='single_button67dbee2be0bc539']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#single_button67dbee2be0bc539</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7a8d6f9c-5923-46b8-b2db-c92735821fd6</webElementGuid>
+      <webElementGuid>b9e4019c-4b80-4410-bcb7-5e5f5c515b4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>583ab16c-c326-4683-8db7-0cafc9c031ff</webElementGuid>
+      <webElementGuid>8ae45f38-e9b6-4de4-9665-c8a7534f68f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-round btn-primary</value>
-      <webElementGuid>2d03cff2-aceb-4e2b-9cb7-0bbd4a843e92</webElementGuid>
+      <webElementGuid>39c68445-a331-4dc2-bbe1-92783bad4cd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>single_button67dbee2be0bc539</value>
-      <webElementGuid>59b33aac-9da0-4b03-bfb5-3e645b550d46</webElementGuid>
+      <webElementGuid>7da0071b-7780-47f9-9999-da6c44478f35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Continue</value>
-      <webElementGuid>b391207f-3d84-49d0-971c-be5e8f5f6318</webElementGuid>
+      <webElementGuid>b918f302-41cd-4864-967d-2bb631d8fb16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;single_button67dbee2be0bc539&quot;)</value>
-      <webElementGuid>c28004d4-2c0a-4c3c-9b4b-c63a350056dc</webElementGuid>
+      <webElementGuid>38c51824-283f-444f-a0ec-2f55a79684f5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='single_button67dbee2be0bc539']</value>
-      <webElementGuid>94323bbb-3b69-4a55-a335-372f10854d37</webElementGuid>
+      <webElementGuid>a4ae7360-6001-4742-82b7-8ee03b6ccc9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-footer']/div/div/form/button</value>
-      <webElementGuid>f59bea70-f711-4a49-a328-d0ff3cd43f18</webElementGuid>
+      <webElementGuid>c7203cd8-e6fa-4c76-b4e0-f63da8a2d08e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::button[1]</value>
-      <webElementGuid>3cf752e2-cdf5-421e-bd4a-7a873ac3c2b9</webElementGuid>
+      <webElementGuid>5a89736d-6f98-43e7-abe9-69262889c610</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon forum activity'])[2]/following::button[1]</value>
-      <webElementGuid>5bd775ac-98a3-490d-8526-54b1574c909f</webElementGuid>
+      <webElementGuid>06c0b0ef-98e4-4b38-96d1-fedea0a15986</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
-      <webElementGuid>63568564-443e-4c9a-bbc1-4c8d3b1dca9a</webElementGuid>
+      <webElementGuid>001400e3-ee0f-40df-a6a6-b50ee1b0ff29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon forum update'])[1]/preceding::button[2]</value>
-      <webElementGuid>90a87002-70b8-4cee-a9af-e7b5a7f9f59b</webElementGuid>
+      <webElementGuid>2be72415-67e2-4e50-84d2-f930859de763</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
-      <webElementGuid>451fa09f-a4c0-420a-a8ab-86fcdafa24f4</webElementGuid>
+      <webElementGuid>4a7388e9-a8a6-45d4-95b4-271d976dd0fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button</value>
-      <webElementGuid>ea105baa-bb6f-4276-ad30-0dca243dce48</webElementGuid>
+      <webElementGuid>11732e60-cd67-4924-9a8d-31a986facf63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @id = 'single_button67dbee2be0bc539' and (text() = 'Continue' or . = 'Continue')]</value>
-      <webElementGuid>82c7b31a-fe17-4611-b928-93b29c41fe5b</webElementGuid>
+      <webElementGuid>29e7ff92-78ac-428a-b681-9f151557471a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

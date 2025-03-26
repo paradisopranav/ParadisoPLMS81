@@ -6,12 +6,12 @@
    <elementGuidId>27c40353-a6fc-4497-b42e-fd70fa2e2aa6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='forum-action-menu-396-menu']/a/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#forum-action-menu-396-menu > a.dropdown-item.menu-action > span.menu-action-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Lock this discussion'])[1]/preceding::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>63e32423-f55e-44dd-bd3a-373c8ae6d601</webElementGuid>
+      <webElementGuid>ea7a2ad5-fc30-490b-b739-ab7a4e2a4548</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-action-text</value>
-      <webElementGuid>5a809f38-5963-46b9-bd38-67ffc26bebb2</webElementGuid>
+      <webElementGuid>8d8a1aa5-9674-40f9-80af-06d1721ec787</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <value>
                                                                                 Unstar this discussion
                                                                     </value>
-      <webElementGuid>fd51a6ca-362f-45d0-9304-1e5a802014a7</webElementGuid>
+      <webElementGuid>fa9318ec-29bb-4457-b060-a23c3d3b66bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;forum-action-menu-396-menu&quot;)/a[@class=&quot;dropdown-item menu-action&quot;]/span[@class=&quot;menu-action-text&quot;]</value>
-      <webElementGuid>751b311e-fee4-4705-b241-1c221932370c</webElementGuid>
+      <webElementGuid>b6b5da15-8afc-46e6-ad55-53c1ae9bf539</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='forum-action-menu-396-menu']/a/span</value>
-      <webElementGuid>8e05ee40-8672-4ed2-be3a-326d02b36802</webElementGuid>
+      <webElementGuid>ba35ec31-a3d2-4c2c-acb8-09ea4a0139c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe to this discussion'])[1]/following::span[1]</value>
-      <webElementGuid>2d7881ec-be77-4403-af5d-f3319e09df32</webElementGuid>
+      <webElementGuid>988a9961-781b-4358-8d1a-a5834f422294</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin User'])[2]/following::span[3]</value>
-      <webElementGuid>985e6458-6e6e-4db1-851f-d463aff44e58</webElementGuid>
+      <webElementGuid>338e7d28-69df-41c2-902d-22eabe36ae11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pin this discussion'])[1]/preceding::span[1]</value>
-      <webElementGuid>5b90d1e2-a783-458b-adee-00380126d78d</webElementGuid>
+      <webElementGuid>cf8ab082-3e70-4f57-b73b-2aa0a8c3b307</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lock this discussion'])[1]/preceding::span[2]</value>
-      <webElementGuid>e34756dc-86d9-4e9c-b187-54597c83f60b</webElementGuid>
+      <webElementGuid>3afec2af-4674-48c1-9e05-d1fdba19d773</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Unstar this discussion']/parent::*</value>
-      <webElementGuid>ebcbb97c-5261-4432-b85d-b190d6d10930</webElementGuid>
+      <webElementGuid>4fe593f6-c6c0-4bd1-8e70-147febd233da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,18 +105,18 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[7]/div/div/div/div/a/span</value>
-      <webElementGuid>22a353c2-b337-411d-9aea-db1602ea1fb4</webElementGuid>
+      <webElementGuid>f738d395-c94c-43ad-93c9-54be75efd280</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = '
-                                                                                Unstar this discussion
-                                                                    ' or . = '
-                                                                                Unstar this discussion
+      <value>//span[(text() = '&#xd;
+                                                                                Unstar this discussion&#xd;
+                                                                    ' or . = '&#xd;
+                                                                                Unstar this discussion&#xd;
                                                                     ')]</value>
-      <webElementGuid>5c448a23-0312-46d2-8396-e437dc5ab597</webElementGuid>
+      <webElementGuid>79d2f825-7804-4e84-877b-12b5f2dc401b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

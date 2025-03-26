@@ -56,23 +56,28 @@ WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Cour
 
 WebUI.setText(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Editing Forum/input_Forum name_name'), 'Katalon forum activity')
 
-WebUI.setText(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Editing Forum/div_Description'), '')
+WebUI.setText(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Editing Forum/div_Description'), 'Katalon forum activity')
 
 WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Editing Forum/input_Upon Activity Completion_submitbutton'))
+
 
 WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon forum activity/a_Add a new discussion topic'))
 
 WebUI.setText(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon forum activity/input_Subject_subject'), 
     'Katalon forum')
 
-WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon forum activity/p'))
+WebUI.setText(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon forum activity/p'), 'Katalon forum message')
+
+WebUI.click(findTestObject('Forum_Activity_in_Course/Page_Katalon forum activity/click on editor'))
+
+WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon forum activity/input_Message_submitbutton'))
 
-WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon forum activity/label_Subscribe to this discussion'))
 
-WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon forum activity/label_Unsubscribe from this discussion_1'))
+//WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon forum activity/label_Subscribe to this discussion'))
 
+//WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon forum activity/label_Unsubscribe from this discussion_1'))
 WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon forum activity/a_Subscribe to this discussion_yui_3_17_2_1_e237aa'))
 
 WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon forum activity/span_Star this discussion'))
@@ -97,6 +102,7 @@ WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Kata
 
 WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon forum activity/span_Unlock this discussion'))
 
+
 WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon forum activity/a_Katalon forum'))
 
 WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon_Activity Test creation course _e09118/a_Edit'))
@@ -104,7 +110,10 @@ WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Kata
 WebUI.setText(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon_Activity Test creation course _67508d/input_Subject_subject'), 
     'Katalon forum update')
 
-WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon_Activity Test creation course _67508d/p_katalon forum'))
+WebUI.setText(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon_Activity Test creation course _67508d/p_katalon forum'), 
+    'Katalon forum update')
+
+WebUI.click(findTestObject('Forum_Activity_in_Course/Page_Katalon forum activity/click on editor'))
 
 WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon_Activity Test creation course _67508d/input_Yardley classic_submitbutton'))
 
@@ -117,11 +126,14 @@ WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Kata
 
 WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon_Activity Test creation course _3632c3/a_Show parent'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon_Activity Test creation course _3632c3/a_Permalink'))
 
 WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon_Activity Test creation course _3632c3/a_Edit'))
 
-WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon_Activity Test creation course _74a2d8/div_Katalon reply'))
+WebUI.setText(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon_Activity Test creation course _74a2d8/div_Katalon reply'), 
+    'katalon forum comment edit update')
 
 WebUI.click(findTestObject('Object Repository/Forum_Activity_in_Course/Page_Katalon_Activity Test creation course _74a2d8/input_Yardley classic_submitbutton'))
 
