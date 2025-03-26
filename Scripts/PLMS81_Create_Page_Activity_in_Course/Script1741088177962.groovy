@@ -71,7 +71,7 @@ WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Katal
 
 WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Katalon_Activity Test creation course _cfcc5d/a_Edit Settings'))
 
-WebUI.setText(findTestObject('Object Repository/Page Activity In course/Page_Editing Page/input_Name_name'), 'Katalon Page activity updfate')
+WebUI.setText(findTestObject('Object Repository/Page Activity In course/Page_Editing Page/input_Name_name'), 'Katalon Page activity update')
 
 WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Editing Page/input_Upon Activity Completion_submitbutton'))
 
@@ -80,3 +80,4 @@ WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Katal
 WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Katalon_Activity Test creation course _3abafb/span_Delete'))
 
 WebUI.click(findTestObject('Object Repository/Page Activity In course/Page_Delete Page/button_Yes'))
+

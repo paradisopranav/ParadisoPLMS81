@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='action-menu-toggle-8']/i</value>
+         <value>//div[contains(@class, 'clearfix yui3-dd-drop')]//a[contains(text(), 'Paradiso Solutions')]/following::div[contains(@class, 'mak action-menu-trigger')][1]//a[contains(@id, 'action-menu-toggle-')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>15eddddc-a451-4076-a7a0-61e4eed0727a</webElementGuid>
+      <webElementGuid>6676f614-f6b9-424f-82dd-2e3fee30e39b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon fa men men-plms-setting-dot-icon fa-fw </value>
-      <webElementGuid>8d7658ed-66cf-4d78-b40f-aa86cd79d294</webElementGuid>
+      <webElementGuid>63e8ba43-24d7-4c98-9a69-029f448083c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Actions menu</value>
-      <webElementGuid>5448fb94-4e70-4ce4-84c8-97bb7feb5aaf</webElementGuid>
+      <webElementGuid>7ff63c03-94ab-488d-9b23-ca28869ea0b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Actions menu</value>
-      <webElementGuid>2b9305ed-0c15-4e44-b717-31176d4a5580</webElementGuid>
+      <webElementGuid>3588c012-d30f-4408-97e7-92834cebdd6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>1174f40d-a827-402a-9d78-b618b06b85c8</webElementGuid>
+      <webElementGuid>d9aefe24-d9e7-494a-80c7-e1e569cc95cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;action-menu-toggle-8&quot;)/i[@class=&quot;icon fa men men-plms-setting-dot-icon fa-fw&quot;]</value>
-      <webElementGuid>ec6fd94d-97e8-4f26-87a9-c0ce98bfe282</webElementGuid>
+      <webElementGuid>022db47a-8ebe-4ec3-ad0c-30245b844135</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='action-menu-toggle-8']/i</value>
-      <webElementGuid>8860b893-325c-4c70-aba9-6c317ad69dd5</webElementGuid>
+      <webElementGuid>b8e4ed45-d258-437f-89c0-2da7d2f3101e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/div/div[2]/div/div/div[5]/div/a/i</value>
-      <webElementGuid>6c5f511a-bdb4-4b56-b5bf-3f20fa0842e8</webElementGuid>
+      <webElementGuid>b9eb0cf3-b90d-42d7-94be-6b358b5d19da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[@title = 'Actions menu']</value>
-      <webElementGuid>38a18e5e-42c9-4078-9d5e-3d41cdc18b0c</webElementGuid>
+      <webElementGuid>4125c176-c380-401d-ba0d-f93334b0bf7a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
