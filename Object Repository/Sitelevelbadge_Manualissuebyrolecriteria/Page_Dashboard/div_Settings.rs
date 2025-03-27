@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>750319e0-e59f-425b-b4a2-9afdf3d6b8d7</webElementGuid>
+      <webElementGuid>33d8f717-a29f-4f54-9b99-b69955dc0cbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-title</value>
-      <webElementGuid>4541fb72-d5f8-4c28-9ce7-82f1f77ce819</webElementGuid>
+      <webElementGuid>f7a8dfa5-0405-41b2-8672-068632028c45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Settings</value>
-      <webElementGuid>008ca7d1-0186-4002-8462-c8cd8e82b443</webElementGuid>
+      <webElementGuid>903bd07f-f73e-44c0-adb4-14943eab2d26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;actionmenuaction-2&quot;)/div[@class=&quot;menu-item cust-menu-item&quot;]/div[@class=&quot;menu-title&quot;]</value>
-      <webElementGuid>bc7c699d-ffac-4fc0-a34c-bc450820c8f1</webElementGuid>
+      <webElementGuid>658fe2e3-da35-4fd6-9d70-5a3ca6939f98</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='actionmenuaction-2']/div/div</value>
-      <webElementGuid>9d0c7029-6e5c-4d1c-beb7-81f44f6d6ce9</webElementGuid>
+      <webElementGuid>0fe42ff3-6488-4ffc-ba3b-b753d6b75119</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::div[2]</value>
-      <webElementGuid>57eb7b34-0d36-4d21-b2c6-5227c2186237</webElementGuid>
+      <webElementGuid>59197b2a-79a2-40d2-850d-09d9a5f09b55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Points'])[1]/following::div[3]</value>
-      <webElementGuid>9e07ec3d-77ae-4b58-974e-f9f864e83c2f</webElementGuid>
+      <webElementGuid>ef160a58-d800-4faf-b1bb-5db3142098ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Day/Night Mode'])[1]/preceding::div[1]</value>
-      <webElementGuid>3e84c4a8-cae7-4b9a-b45c-4483966a8caa</webElementGuid>
+      <webElementGuid>debb1238-2839-406d-afdf-a89cf19bd49e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/preceding::div[6]</value>
-      <webElementGuid>1cf8cac6-585d-440e-8715-b1c253b22769</webElementGuid>
+      <webElementGuid>ee4177aa-3164-4881-a02a-e8e1d6546d5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/div/div</value>
-      <webElementGuid>8238d343-0322-4177-9dc5-c8d72df5e897</webElementGuid>
+      <webElementGuid>a5133f66-4cbb-40e0-9afd-dad544ff225f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Settings' or . = 'Settings')]</value>
-      <webElementGuid>20c41405-9a88-4964-adde-7885ec22a5ec</webElementGuid>
+      <webElementGuid>e6ae975e-8a80-47b3-a2ef-1d5dd5ce9dbe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

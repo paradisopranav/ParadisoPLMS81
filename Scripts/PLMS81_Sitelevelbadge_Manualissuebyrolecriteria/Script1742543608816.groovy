@@ -25,15 +25,15 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl(GlobalVariable.URL)
 
-WebUI.setText(findTestObject('Object Repository/LearningPath_Creation/Page_Paradiso LMS Log in to the site/input_Username_username'), 
+WebUI.setText(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Paradiso LMS Log in to the site/input_Username_username'), 
     GlobalVariable.Username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/LearningPath_Creation/Page_Paradiso LMS Log in to the site/input_Password_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Paradiso LMS Log in to the site/input_Password_password'), 
     GlobalVariable.Password)
 
-WebUI.click(findTestObject('Object Repository/LearningPath_Creation/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin'))
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Paradiso LMS Log in to the site/input_(ja)_keepmeloggedin'))
 
-WebUI.click(findTestObject('Object Repository/LearningPath_Creation/Page_Paradiso LMS Log in to the site/button_Log in'))
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Paradiso LMS Log in to the site/button_Log in'))
 
 // Generate a random name with 8 characters
 //String randomName = RandomStringUtils.randomAlphabetic(8).toLowerCase()
@@ -56,7 +56,7 @@ WebUI.setText(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrole
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_New badge/input_Image_imagechoose'))
 
-WebUI.uploadFile(findTestObject('Sitelevelbadge_Manualissuebyrolecriteria/uploadimage_criteria1/Page_New badge/input_Attachment_repo_upload_file'), 
+WebUI.uploadFile(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/uploadimage_criteria1/Page_New badge/input_Attachment_repo_upload_file'), 
     uploadimage)
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_New badge/button_Upload'))
@@ -72,9 +72,9 @@ WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecr
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first/button_Add criteria'))
 
-WebUI.click(findTestObject('Sitelevelbadge_Manualissuebyrolecriteria/badge dropdown'))
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/badge dropdown'))
 
-TestObject dropdown = findTestObject('Sitelevelbadge_Manualissuebyrolecriteria/badge dropdown')
+TestObject dropdown = findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/badge dropdown')
 
 try {
     // Attempt to select the dropdown option
@@ -91,40 +91,11 @@ catch (Exception e) {
     WebUI.comment('Failed to select dropdown option: ' + e.getMessage())
 } // Handle stale element exception by re-finding the object and trying again
 
-//WebUI.selectOptionByValue(findTestObject('Object Repository/Course_Level_Badges/Page_Katalon Badge dfg/select_Choose.                    Manual is_cf71a9'),
-//    '2', true)
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first demo/input_Manager_role_1'))
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first demo/input_Any of the selected roles awards the _dee3a1'))
 
-//WebUI.click(findTestObject('Object Repository/Course_Level_Badges/Page_Katalon Badge dfg/input_Manager_role_1'))
-//WebUI.click(findTestObject('Object Repository/Course_Level_Badges/Page_Katalon Badge dfg/input_Any of the selected roles awards the _dee3a1'))
-/* WebUI.click(findTestObject('Sitelevelbadge_Manualissuebyrolecriteria/badge dropdown'))
 
-TestObject dropdown = findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first/button_Add criteria')
-
-try {
-    // Attempt to select the dropdown option
-    WebUI.selectOptionByLabel(dropdown, 'Manual issue by role', true)
-}
-catch (StaleElementReferenceException e) {
-    WebUI.delay(2)
-
-    dropdown = findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first/button_Add criteria')
-
-    WebUI.selectOptionByLabel(dropdown, 'Manual issue by role', true)
-} 
-catch (Exception e) {
-    WebUI.comment('Failed to select dropdown option: ' + e.getMessage())
-} // Handle stale element exception by re-finding the object and trying again
-
-//WebUI.selectOptionByValue(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first demo/select_Choose.                    Manual is_f7e05d'), 
-//    '2', true)
-WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first demo/input_Manager_role_1'))
-
-WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first demo/input_Any of the selected roles awards the _dee3a1'))
-
-*/
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first demo/button_Enable access'))
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Changes in badge access/button_Continue'))
@@ -149,25 +120,34 @@ WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecr
 
 WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
 
-/* String badgeName = "randomName"  // Change to target different badges
-TestObject menuButton = new TestObject().addProperty('xpath', ConditionType.EQUALS, "//*[@id=ropdownMenuButton]"
-WebUI.click(menuButton) */
-//WebUI.click(findTestObject('Sitelevelbadge_Manualissuebyrolecriteria/sitebadge_3dotsicon/Page_Manage Badges/i_Awarded by Manager_dropdownMenuButton'))
-WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/i_Awarded by Manager_dropdownMenuButton'))
-
-WebUI.click(findTestObject('Sitelevelbadge_Manualissuebyrolecriteria/qa_copybutton'))
-
-//WebUI.click(findTestObject('Sitelevelbadge_Manualissuebyrolecriteria/disablebutton_qa/Page_Manage Badges/a_Disable access'))
-//WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/a_Copy'))
-WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Copy of Katalon badge first demo/input_Time Unit_submitbutton'))
-
-WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/i_Awarded by Manager_dropdownMenuButton_1'))
 
+WebUI.click(findTestObject('Sitelevelbadge_Manualissuebyrolecriteria/disablebutton_qa/Page_Manage Badges/a_Disable access'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/i_Awarded by Manager_dropdownMenuButton_1'))
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/a_Copy'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Copy of katalon badge 24032025/input_Time Unit_submitbutton'))
+
+WebUI.delay(5)
+
+WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/i_Awarded by Manager_dropdownMenuButton_1_2'))
+
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/a_Delete'))
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/button_Delete and remove existing issued badges'))
+
+WebUI.delay(5)
 
 WebUI.closeBrowser()
 
