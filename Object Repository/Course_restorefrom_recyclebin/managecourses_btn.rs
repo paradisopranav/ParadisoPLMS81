@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html[1]/body[1]/div[3]/div[7]/div[2]/div[1]/div[1]/div[2]/div[1]/a[1]/i[1]</value>
+         <value>//a[@class='manage-button' and @title='Manage Courses']&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
