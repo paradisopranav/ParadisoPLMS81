@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>4ff531c7-71be-4b17-a5b0-eb6613ef03ed</webElementGuid>
+      <webElementGuid>c348211f-3e26-424c-94c2-9df5df95161c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189</value>
-      <webElementGuid>c8c07550-3b95-4edf-a8de-3816129aacda</webElementGuid>
+      <webElementGuid>6e0a79b8-6446-4c14-8b47-69476ead82c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>userpicture</value>
-      <webElementGuid>29a5ea66-93be-4f88-9156-bc677f66c248</webElementGuid>
+      <webElementGuid>bd3dc6f9-6fde-462c-b5fd-f0a93eb4d0c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>width</name>
       <type>Main</type>
       <value>35</value>
-      <webElementGuid>c57fa299-a8b3-4645-a634-5682bf9c598e</webElementGuid>
+      <webElementGuid>e18dd03a-9a9c-4f8d-bfce-66c36637f1bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>height</name>
       <type>Main</type>
       <value>35</value>
-      <webElementGuid>290641b1-e124-4662-8bdf-c12ddbd72f5b</webElementGuid>
+      <webElementGuid>6e080f90-6ff6-4a2e-8246-3ebeceec3569</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>6aa12d27-ef56-4c30-ae63-0172d6acc59a</webElementGuid>
+      <webElementGuid>6da95fe1-c343-4c3e-a944-e95968f24f78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;action-menu-toggle-1&quot;)/span[@class=&quot;userbutton&quot;]/span[@class=&quot;avatars&quot;]/span[@class=&quot;avatar current&quot;]/img[@class=&quot;userpicture&quot;]</value>
-      <webElementGuid>1acc0a66-8d34-43b3-acc0-60f421bc5fb6</webElementGuid>
+      <webElementGuid>082de7c6-eff4-43ed-a43c-38fd9da379f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='action-menu-toggle-1']/span/span[2]/span/img</value>
-      <webElementGuid>bd305bbf-a3bb-4a65-8f6d-f20c37027ffd</webElementGuid>
+      <webElementGuid>1c071427-273e-4acd-9d01-35887277d2d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189')]</value>
-      <webElementGuid>d5926687-26b0-40dd-98c6-3d168bc74790</webElementGuid>
+      <webElementGuid>a5c9e875-c151-4e00-802d-ce4254415d63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/span/img</value>
-      <webElementGuid>916afb27-1bd6-4336-9387-c986ff6ac89f</webElementGuid>
+      <webElementGuid>09f6d588-98b0-43a7-9f3b-df5220c263cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189']</value>
-      <webElementGuid>da5d4487-df93-49cf-b80d-60e31b985411</webElementGuid>
+      <webElementGuid>af0c718f-54be-4c7f-bf75-6af8882b9571</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,21 +6,12 @@
    <elementGuidId>ae92be05-5ede-471f-a0eb-99379ec3de43</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.dropdown-menu.show > a.dropdown-item</value>
+         <key>XPATH</key>
+         <value>//td[@id='yui_3_17_2_1_1743055162529_18']/div/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Award badge'])[4]/preceding::a[1]&#xd;
-(//a[contains(text(),'Disable access')])[18]&#xd;
-(.//*[normalize-space(text()) and normalize-space(.)='Awarded by: Manager'])[5]/following::a[2]&#xd;
-(.//*[normalize-space(text()) and normalize-space(.)='Available to users'])[18]/following::a[2]&#xd;
-(.//*[normalize-space(text()) and normalize-space(.)='Award badge'])[4]/preceding::a[1]&#xd;
-(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[30]/preceding::a[2]&#xd;
-&#xd;
-&#xd;
-&#xd;
-</value>
+         <key>CSS</key>
+         <value>div.dropdown-menu.show > a.dropdown-item</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -32,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e14c1abc-5867-4f3f-94ae-530b1fb9b3c5</webElementGuid>
+      <webElementGuid>1b4b9e01-f914-4130-9d3e-7efc31fa4780</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,15 +31,15 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>b8fba6d9-036e-43c0-bfdf-97c91c25d0a5</webElementGuid>
+      <webElementGuid>aac55db6-3f40-4f57-b8d3-0a3940b679fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;lock=260&amp;sesskey=M5kt6xgS03</value>
-      <webElementGuid>009f62c9-9cf3-4fe6-b532-217e269038e5</webElementGuid>
+      <value>https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;lock=41315&amp;sesskey=A9bKNlo3Nt</value>
+      <webElementGuid>7b3c0d08-3967-4e81-bf26-09c91ea48c5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -56,18 +47,90 @@
       <name>text</name>
       <type>Main</type>
       <value>Disable access</value>
-      <webElementGuid>369a4492-175d-4ca3-9a23-473bbfc45b2d</webElementGuid>
+      <webElementGuid>755d7b12-7967-44c2-bcf5-b106ab18657a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742545200145_18&quot;)/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>b6e82a1f-5fc4-451b-8cec-340b2e280c0f</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1743055162529_18&quot;)/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>9c9b7163-1700-4a94-aacb-30c896f2b5ff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='yui_3_17_2_1_1743055162529_18']/div/a</value>
+      <webElementGuid>29741ed1-c482-44f1-9389-97bbb87e18d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Disable access')])[15]</value>
+      <webElementGuid>9a70280e-785f-4c6c-9fb5-1c18db1bdac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Awarded by: Manager'])[11]/following::a[2]</value>
+      <webElementGuid>fded60f1-85e0-4cd4-b984-3f82dd404abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available to users'])[15]/following::a[2]</value>
+      <webElementGuid>5795dbe5-4a80-4706-8dcf-122af335c5b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Award badge'])[6]/preceding::a[1]</value>
+      <webElementGuid>2ba43a3f-dbfc-47d9-9b64-30a4a922ece9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[33]/preceding::a[2]</value>
+      <webElementGuid>d79d381a-dcc7-47a2-b892-6b932deaa121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;lock=41315&amp;sesskey=A9bKNlo3Nt')]</value>
+      <webElementGuid>2a59abb9-77ff-4005-8f5c-8099e05aacb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[33]/td[5]/div/a</value>
+      <webElementGuid>cfa51b0d-6703-4bfd-af50-0c0202013323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;lock=41315&amp;sesskey=A9bKNlo3Nt' and (text() = 'Disable access' or . = 'Disable access')]</value>
+      <webElementGuid>fac9e944-1656-46a2-937e-53078e40e92b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

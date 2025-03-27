@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_(ja)_keepmeloggedin</name>
    <tag></tag>
-   <elementGuidId>b734ba7a-fac2-4f5d-b82e-e44370e6c38f</elementGuidId>
+   <elementGuidId>c7131f13-00da-4055-8e6a-c737dbb22c21</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <key>CSS</key>
+         <value>#keepmeloggedin</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#password</value>
+         <key>XPATH</key>
+         <value>//input[@id='keepmeloggedin']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,94 +23,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b9ce2907-4ad4-4556-9652-b6d88e4989b9</webElementGuid>
+      <webElementGuid>9d538467-1a5d-4694-adf6-171cea5ff2b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>a30ed583-11cf-4279-a1e1-7448b3815103</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>dc900aaa-8856-4818-9482-d9c389ed5e8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>30b13cba-10d3-4552-8605-c4d57326ff06</webElementGuid>
+      <value>keepmeloggedin</value>
+      <webElementGuid>d117eeb9-955d-4ca7-bd10-f647a1b3eb45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>d1313117-ab0b-4b74-aefd-400482891cdb</webElementGuid>
+      <value>keepmeloggedin</value>
+      <webElementGuid>2b10405c-8d0b-42ba-a134-855cdf81f30b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>value</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>95615b02-ce87-494b-85fc-714fa6f5c21c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>80454c46-9a57-4801-82e2-c120e0d3ed00</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>617c4241-7119-400b-8c70-32d0f18f3d44</webElementGuid>
+      <value>1</value>
+      <webElementGuid>ce7e0be9-7871-4376-8212-8c2d0f6856cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>ae9f2dbd-854b-4aac-a1b8-2701a81e26aa</webElementGuid>
+      <value>id(&quot;keepmeloggedin&quot;)</value>
+      <webElementGuid>f65c4063-4bbd-4563-9273-ad17924f5334</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>3c2b424f-2727-4c77-9918-a8b0d2f9647b</webElementGuid>
+      <value>//input[@id='keepmeloggedin']</value>
+      <webElementGuid>5dc430bd-af5c-4a73-b26e-b0199b4b74fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[2]/input</value>
-      <webElementGuid>155110b5-9c45-4160-a402-4e40c11ee631</webElementGuid>
+      <value>//form[@id='login']/div[4]/input</value>
+      <webElementGuid>358411a2-69e0-4afa-8786-b2f9ec7217f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>35a34daf-f57c-4021-adcd-39759358d5cc</webElementGuid>
+      <value>//div[4]/input</value>
+      <webElementGuid>8c09a475-e763-485f-b0d1-9ad99dd8b847</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password' and @id = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>4a80cf31-befc-4b7d-92b6-f4a1be63a28c</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'keepmeloggedin' and @id = 'keepmeloggedin']</value>
+      <webElementGuid>d0dc1aac-7bdb-4349-b32c-339c325c5fbf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

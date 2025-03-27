@@ -10,8 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(text(),'Copy')])[30]&#xd;
-</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='katalon badge 24032027'])[1]/preceding::a[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8e3044ad-5af0-4f38-9ab4-ee321a6455e2</webElementGuid>
+      <webElementGuid>02c9c77d-9c11-48e4-b700-5cd4b1c52197</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>4eaec60a-a9ce-4383-a3cb-f7b09c19fe59</webElementGuid>
+      <webElementGuid>48b0419c-2bec-4311-b965-bff26984abdb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=260&amp;sesskey=M5kt6xgS03</value>
-      <webElementGuid>d4972e31-c531-4dcc-b412-a8513317423d</webElementGuid>
+      <value>https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=41294&amp;sesskey=bmRWE0kbB2</value>
+      <webElementGuid>8a18ab1f-5bb2-43c9-89e2-4a38729200fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,23 +46,95 @@
       <name>text</name>
       <type>Main</type>
       <value>Copy</value>
-      <webElementGuid>83f12edf-6dd3-4403-8b0b-199a976d5c43</webElementGuid>
+      <webElementGuid>ffbd763a-1e12-4252-8572-dd79ad698c9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742545263048_18&quot;)/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>18ed7558-d6d3-4eb4-812c-5662efc65d85</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1743051192578_18&quot;)/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>4e657e73-3ca6-4655-a517-85d0ecee31df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//td[@id='yui_3_17_2_1_1743051192578_18']/div/a[4]</value>
+      <webElementGuid>7e6098e9-c5bd-4446-a314-fd4d64b46dbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Copy')])[34]</value>
+      <webElementGuid>e36c811e-c121-4141-b053-16deb549c8a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[34]/following::a[1]</value>
+      <webElementGuid>80ad1db0-397a-4e3d-a786-eaf823feea26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Award badge'])[6]/following::a[2]</value>
+      <webElementGuid>57101971-7886-4eb0-b29f-7dd474d21b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[34]/preceding::a[1]</value>
+      <webElementGuid>f172d710-b098-4dbd-b0b3-282c96f05690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='katalon badge 24032027'])[1]/preceding::a[2]</value>
+      <webElementGuid>89f66404-e674-41af-a23b-45f463330ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=41294&amp;sesskey=bmRWE0kbB2')]</value>
+      <webElementGuid>ea402c2b-4c97-40fb-a85e-54273dc0f5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[34]/td[5]/div/a[4]</value>
+      <webElementGuid>c11b0a4f-a4d8-474c-9182-e090b6994353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=41294&amp;sesskey=bmRWE0kbB2' and (text() = 'Copy' or . = 'Copy')]</value>
+      <webElementGuid>7018fa2d-7e21-4006-86d4-310117570e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//td[@id='yui_3_17_2_1_1742545263048_18']/div/a[3]</value>
-      <webElementGuid>97c17b11-f966-4663-879e-51f5682ed433</webElementGuid>
+      <webElementGuid>551c8ca3-8a33-4f95-ab3a-2e694ea89ff5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +142,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Copy')])[30]</value>
-      <webElementGuid>84cdfc66-e36d-46f6-aeb8-f57af28c61ee</webElementGuid>
+      <webElementGuid>a2a38b11-c841-43d1-9c00-3cb882a2cdd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[30]/following::a[1]</value>
-      <webElementGuid>1faff28f-e2ca-4be6-ac54-ae3a40eef068</webElementGuid>
+      <webElementGuid>c8133034-ceac-40f3-8b2f-e5a41aa61039</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable access'])[6]/following::a[2]</value>
-      <webElementGuid>478849b4-0fad-4db5-9df3-b4507650b7fc</webElementGuid>
+      <webElementGuid>8b11d24e-6bd0-4b50-8d73-4c1ad0ae2ea0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[30]/preceding::a[1]</value>
-      <webElementGuid>0191be1a-68c3-467b-8c06-02f9c966fb1b</webElementGuid>
+      <webElementGuid>5727a0b8-97fe-404b-a4bd-5c1a716873d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='manul badge'])[1]/preceding::a[2]</value>
-      <webElementGuid>70a1f990-35d1-41ff-98c0-7c7c5e94edd4</webElementGuid>
+      <webElementGuid>e46458e7-9bc7-4147-8bc1-85794b144f28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +182,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=260&amp;sesskey=M5kt6xgS03')]</value>
-      <webElementGuid>913d89a4-0570-41c5-a7a3-91a3675eee44</webElementGuid>
+      <webElementGuid>a93f5474-5580-44ba-aa0d-469af1e9f3ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +190,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[30]/td[5]/div/a[3]</value>
-      <webElementGuid>6d57d627-d27c-4153-90f1-3edc907f63e4</webElementGuid>
+      <webElementGuid>607d1198-5f2f-42cb-ba59-65148ba33acd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +198,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=260&amp;sesskey=M5kt6xgS03' and (text() = 'Copy' or . = 'Copy')]</value>
-      <webElementGuid>a4cd8657-38e6-4384-bcc2-f59abef88622</webElementGuid>
+      <webElementGuid>eecb467a-026e-43e6-875f-2c097c5c0d60</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

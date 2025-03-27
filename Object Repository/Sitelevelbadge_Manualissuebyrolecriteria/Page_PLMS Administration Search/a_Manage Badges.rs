@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>07e3ebfb-d7c0-4bd0-9d3a-ecb3e53108ab</webElementGuid>
+      <webElementGuid>478ce565-b585-4c07-a505-0f449ac3a179</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/badges/index.php?type=1</value>
-      <webElementGuid>2a8ad6c1-77ba-4aa2-b23e-ea00587da197</webElementGuid>
+      <webElementGuid>85de8633-12d0-42ee-837a-d70261a899a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Badges</value>
-      <webElementGuid>6875d0ab-337b-49ea-8647-fc2abb79d15e</webElementGuid>
+      <webElementGuid>565c2139-32c8-4ab8-b8ac-2cd8eefae616</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;linkroot&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-block pl-0&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-9&quot;]/ul[@class=&quot;list-unstyled admin-settings&quot;]/li[2]/a[1]</value>
-      <webElementGuid>d425cc1f-dbad-476f-85a1-29272d3d52ed</webElementGuid>
+      <webElementGuid>5268b909-bb68-48eb-85b9-7487112d0049</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='linkroot']/div/div/div/div[4]/div[2]/ul/li[2]/a</value>
-      <webElementGuid>76dc9028-5781-47e6-b209-1f3818b15765</webElementGuid>
+      <webElementGuid>7542e67f-6398-49b5-a6ea-0843c3276d1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Badges')]</value>
-      <webElementGuid>8c03b34e-ef79-431f-87b6-76a0ddebf1e6</webElementGuid>
+      <webElementGuid>c39b3b20-f8cf-4c25-adac-04544ab65389</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Badges settings'])[1]/following::a[1]</value>
-      <webElementGuid>0f330790-69bf-48f2-8947-15eec798a4e9</webElementGuid>
+      <webElementGuid>627ec1aa-ee42-450b-a31b-a3086e8cde68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Badges'])[1]/following::a[2]</value>
-      <webElementGuid>8e5e56bc-1dac-440f-ba52-f4d20b7f5821</webElementGuid>
+      <webElementGuid>ff2ae560-0ab9-41d7-a122-c06af0ac7040</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a New Badge'])[1]/preceding::a[1]</value>
-      <webElementGuid>faab8c8a-c185-4a5c-b2fd-475efb9c712c</webElementGuid>
+      <webElementGuid>02840cdb-55a8-47c5-af1a-03c84aeb38f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Backpack Settings'])[1]/preceding::a[2]</value>
-      <webElementGuid>90e6206d-9c0b-4cbe-ab70-4fc18ce9a1ea</webElementGuid>
+      <webElementGuid>971798b1-9f6a-42b5-95c7-67b973a045b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Manage Badges']/parent::*</value>
-      <webElementGuid>cb46eb60-55b8-4e38-bb76-945d8abb3f70</webElementGuid>
+      <webElementGuid>ef3ccb01-3e2e-4826-9414-9ce612f6c9a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/index.php?type=1')]</value>
-      <webElementGuid>9003f929-7432-41f1-8a90-9b27446c646b</webElementGuid>
+      <webElementGuid>abc3adf3-f3ca-4a50-aebe-12018520751f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/ul/li[2]/a</value>
-      <webElementGuid>e918c524-5e40-426e-8dd2-9debe3940980</webElementGuid>
+      <webElementGuid>db1b5586-2332-4726-898b-89c65e9e97cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/index.php?type=1' and (text() = 'Manage Badges' or . = 'Manage Badges')]</value>
-      <webElementGuid>cd7a6b47-411c-4e2a-a02d-42cac7b670d2</webElementGuid>
+      <webElementGuid>21228c00-433e-4305-8753-a74200bcf6c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
