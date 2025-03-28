@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_a new question</name>
+   <tag></tag>
+   <elementGuidId>93a75b61-eac6-46e9-ba1a-3eeef4165d2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#actionmenuaction-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@data-action='addquestion']&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7e291d4b-1141-446d-952a-8c5c736e7630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-action-text</value>
+      <webElementGuid>f97ca9aa-9d41-4772-8c1b-86385f7e6aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actionmenuaction-1</value>
+      <webElementGuid>41cf0121-fc09-4fd0-91fd-87a0b8f95c0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>a new question</value>
+      <webElementGuid>4988c713-bea0-4800-915d-ecd24ab84b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionmenuaction-1&quot;)</value>
+      <webElementGuid>47b8538a-2486-47f9-aa65-c8e1b5fefe55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='actionmenuaction-1']</value>
+      <webElementGuid>6d96a475-48c2-4929-af87-284fe3eaee2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1743138091144_382']/span</value>
+      <webElementGuid>ec6685fd-98fa-4af4-9fed-63b126d13c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::span[1]</value>
+      <webElementGuid>53173d19-c3f6-4476-8417-046e1760e932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shuffle'])[1]/following::span[4]</value>
+      <webElementGuid>b2e15a75-7b87-41c4-9ee5-268ca409106c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='from question bank'])[1]/preceding::span[1]</value>
+      <webElementGuid>4bde12aa-1818-400d-81bb-4c007736658f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a random question'])[1]/preceding::span[2]</value>
+      <webElementGuid>b7500afe-c102-48ce-9913-ed4554d5a2e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='a new question']/parent::*</value>
+      <webElementGuid>b0dcb5a5-e2c1-417a-903d-5f6476d930c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/div/div/a/span</value>
+      <webElementGuid>57de39d6-ef42-48da-b6c2-2e1ece236a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'actionmenuaction-1' and (text() = 'a new question' or . = 'a new question')]</value>
+      <webElementGuid>215113c8-df81-4db9-82c5-d12e7c41b2a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

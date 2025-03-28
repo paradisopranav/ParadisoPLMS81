@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Course_Quiz_Add_Questions_to_Quiz</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>72c34e68-cee4-4c3b-99f3-3eeffce73e60</testCaseGuid>
+</TestCaseEntity>
