@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//td[@id='yui_3_17_2_1_1742806161841_207']/div/a</value>
+         <value>(//a[contains(text(),'Disable access')])[16]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8b90dc43-b567-4ab8-9661-2298d17872c5</webElementGuid>
+      <webElementGuid>557a8a41-1a73-46ad-920a-dbcdb6a327d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +31,15 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>daed4020-d5df-4584-87fd-02bbbb771d59</webElementGuid>
+      <webElementGuid>79ddde39-3f11-4ae5-bd76-dcbb3974106d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;lock=289&amp;sesskey=oYGausPHVP</value>
-      <webElementGuid>5c01f722-7be9-4924-a2d8-5e53ad10c544</webElementGuid>
+      <value>https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;lock=41326&amp;sesskey=9w5k89XYjT</value>
+      <webElementGuid>71c22a43-4b41-4cba-99a9-0b90c05ea334</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,23 +47,79 @@
       <name>text</name>
       <type>Main</type>
       <value>Disable access</value>
-      <webElementGuid>eaeb1c3d-62dc-4714-91fd-622e1245a047</webElementGuid>
+      <webElementGuid>2c349987-d64f-40df-94f7-23f413ebefe6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1742806161841_207&quot;)/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>4d0d38c5-b134-4cac-a343-366f6437bc0b</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1743144773515_206&quot;)/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>57a887ec-fd78-4643-873f-31f2e974ca8d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//td[@id='yui_3_17_2_1_1743144773515_206']/div/a</value>
+      <webElementGuid>a006a89c-7cac-45cd-a8bd-e05eb455f687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Disable access')])[16]</value>
+      <webElementGuid>01eaca33-ca44-48d5-9851-4b3359a63ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[40]/preceding::a[1]</value>
+      <webElementGuid>6fd2873e-e0de-4c75-bcea-3fd672643d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[40]/preceding::a[2]</value>
+      <webElementGuid>3a898677-b637-408a-8dd2-3cc60cd0a9a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;lock=41326&amp;sesskey=9w5k89XYjT')]</value>
+      <webElementGuid>c9d656dc-1c7b-43eb-895e-e51f95150764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[40]/td[5]/div/a</value>
+      <webElementGuid>e80eb254-367f-4e4e-88fc-e6ed90457693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;lock=41326&amp;sesskey=9w5k89XYjT' and (text() = 'Disable access' or . = 'Disable access')]</value>
+      <webElementGuid>14535ea1-c020-4ff4-b082-2f1b1c94835d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//td[@id='yui_3_17_2_1_1742806161841_207']/div/a</value>
-      <webElementGuid>0b851155-ab94-49c1-b094-78174d55554b</webElementGuid>
+      <webElementGuid>be0def8e-a5b3-46c0-aa1f-494fccb5982f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +127,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Disable access')])[26]</value>
-      <webElementGuid>0c1f41a4-eff0-423a-9810-7bfb02010db1</webElementGuid>
+      <webElementGuid>317cde2c-8f3c-4b57-8dd7-144b8c39c502</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[46]/preceding::a[1]</value>
-      <webElementGuid>fb7b9e1c-b75b-4bb2-9026-703050eaabf6</webElementGuid>
+      <webElementGuid>cc5b8e1e-d6ee-4c94-bc28-5c136f76e2e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +143,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[46]/preceding::a[2]</value>
-      <webElementGuid>614084d9-35c2-4b3d-86fc-519e3fd1793c</webElementGuid>
+      <webElementGuid>1b6dc4c5-c5de-4472-abee-f77b4c583911</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +151,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;lock=289&amp;sesskey=oYGausPHVP')]</value>
-      <webElementGuid>d35b8950-90e5-4600-8db9-0bc0cfe9dd05</webElementGuid>
+      <webElementGuid>cf7be76c-1fb9-458c-b9cd-e4777fd35450</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +159,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[46]/td[5]/div/a</value>
-      <webElementGuid>0a8e55d9-b675-487b-9f1a-de36f40ae53a</webElementGuid>
+      <webElementGuid>1d37e46a-1e42-4756-86cb-dd3b649adec9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +167,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;lock=289&amp;sesskey=oYGausPHVP' and (text() = 'Disable access' or . = 'Disable access')]</value>
-      <webElementGuid>ade14312-ff08-4015-9495-b333d6402e05</webElementGuid>
+      <webElementGuid>7e590006-cb56-42d9-a5d3-9890171459eb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

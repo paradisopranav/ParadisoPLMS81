@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9e38568a-2c27-4793-ae2c-ec3d5cbc4b23</webElementGuid>
+      <webElementGuid>54980786-5418-4a2a-8de8-8e9273db897a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1acf20b8-2908-437b-8170-0e5aa7a9bfb4</webElementGuid>
+      <webElementGuid>e3483f71-d0d8-4ffd-b156-d8a8ac43b790</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-secondary btn-md center-block cancel_share_popup popup-bottom-btn</value>
-      <webElementGuid>c48311a0-6c17-40ae-81fb-fcede1de6897</webElementGuid>
+      <webElementGuid>b62ba976-82eb-46f4-9e2d-c7cfdecbb4f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>data-dismiss</name>
       <type>Main</type>
       <value>modal</value>
-      <webElementGuid>fca4a4ee-59d3-4564-9608-e2580ab699b6</webElementGuid>
+      <webElementGuid>e97031bf-8211-4939-b112-26f8ef21b3c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Close</value>
-      <webElementGuid>9ca81189-c703-4a6f-8243-b8d209638e86</webElementGuid>
+      <webElementGuid>e4add708-efa9-4df1-be79-ec11a4f57d5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cancel</value>
-      <webElementGuid>0a06741c-6872-45f1-a002-aeef07e5f137</webElementGuid>
+      <webElementGuid>1c844eb9-23f0-4e5a-8b09-a5c38e9ec91d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1742204429966_121&quot;)/button[@class=&quot;btn btn-secondary btn-md center-block cancel_share_popup popup-bottom-btn&quot;]</value>
-      <webElementGuid>3b86db81-294b-4840-b511-22449a298353</webElementGuid>
+      <webElementGuid>07e83b69-a1e1-4671-ae18-8a4891f0f1f3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[9]</value>
-      <webElementGuid>5b6e6d41-9706-4ecc-ad41-fe4b2e094006</webElementGuid>
+      <webElementGuid>936c372d-acf4-401e-9d3a-79fa12942628</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1742204429966_121']/button</value>
-      <webElementGuid>7b3f2495-15a6-4755-a085-9d9b3cce156b</webElementGuid>
+      <webElementGuid>4d3a66ce-2137-4885-aa7f-5df0d87892f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[2]/following::button[1]</value>
-      <webElementGuid>558e7d54-c5c6-489f-9ad5-eff062c27a54</webElementGuid>
+      <webElementGuid>b539789c-f1aa-45a4-9706-10bef9c86eb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cohorts'])[2]/following::button[2]</value>
-      <webElementGuid>2e987a95-8cd1-4d94-8396-5083db322cb0</webElementGuid>
+      <webElementGuid>5943262f-557d-46c5-b96a-71a3ca0c5f02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/preceding::button[1]</value>
-      <webElementGuid>1eac94ba-cfb4-47cc-97a4-bb5fcc2919e5</webElementGuid>
+      <webElementGuid>ca8c8926-6699-43f1-a634-9eb33ee383b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/preceding::button[1]</value>
-      <webElementGuid>ebadde86-04ad-45f9-91c5-8cad49fcb891</webElementGuid>
+      <webElementGuid>e14bcbd8-5e61-487c-904b-8d5301f05ae6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cancel']/parent::*</value>
-      <webElementGuid>53c98e73-920b-4882-b8b6-3b4a3859921f</webElementGuid>
+      <webElementGuid>7bd7298b-5b81-4ad5-86da-c3f2078ffaee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/button</value>
-      <webElementGuid>3cc1d613-bac3-4e44-8d18-12b4c7cd673c</webElementGuid>
+      <webElementGuid>bfec36ed-6375-4d8d-a0e9-0fc90550da6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +143,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
-      <webElementGuid>102545b3-22e7-429f-ab93-eb137b0cf3de</webElementGuid>
+      <webElementGuid>aa743108-8c87-4ba8-8972-ccead0002201</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
