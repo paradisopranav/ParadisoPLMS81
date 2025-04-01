@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>PLMS_Report_Edit</name>
+   <name>PLMS81_Discover_Create_Workspace</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>f9b3d381-d36f-4a42-b4ce-e70a99318bcb</testCaseGuid>
+   <testCaseGuid>7cd39bd7-6d24-4a52-afee-95e91f847dba</testCaseGuid>
 </TestCaseEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Image_imagechoose</name>
+   <name>input_Password_password</name>
    <tag></tag>
-   <elementGuidId>60ce666c-2e0a-454c-abb2-4f85e6d98759</elementGuidId>
+   <elementGuidId>6a25886c-b098-40af-8b4b-7c6991a1ab52</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#filepicker-button-67dd1cce8b8a7</value>
+         <value>#password</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//fieldset/div[2]/div/input</value>
+         <value>//input[@id='password']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,86 +23,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ab0ecce1-c457-497b-b7e1-c731b940d225</webElementGuid>
+      <webElementGuid>7b9848b0-02ef-4205-9b1d-8395a04aff50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e48159b7-c80e-441b-8da6-0a5a934905dc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-primary fp-btn-choose btn-round</value>
-      <webElementGuid>0836be7b-9656-45f3-a8a0-df71db893a59</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>filepicker-button-67dd1cce8b8a7</value>
-      <webElementGuid>bd7cac3e-51e1-466b-b1c0-85ba2b65af4e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>Choose a file</value>
-      <webElementGuid>1c360b88-ca97-47f3-b137-de2eb8e320d9</webElementGuid>
+      <value>password</value>
+      <webElementGuid>cf23b6d2-db82-4aa6-aff7-729b3ddc22a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>imagechoose</value>
-      <webElementGuid>a4a840cb-7fee-47b3-a9b3-9bd034b4bbd2</webElementGuid>
+      <value>password</value>
+      <webElementGuid>a7d71511-7638-4852-8f12-de7af08bdefe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>d85f78b1-a731-4331-bc1e-f61bb38918bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>67b49fa3-164f-47fd-9c7d-3bd9948c203f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>ca8d6ef5-91a3-4f50-895c-46b5d7402e1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>eb5b0f2e-ea00-44c6-b99b-08be1a0e3830</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;filepicker-button-67dd1cce8b8a7&quot;)</value>
-      <webElementGuid>1f699cdb-1711-450e-889e-e2ac6bbb8fbb</webElementGuid>
+      <value>id(&quot;password&quot;)</value>
+      <webElementGuid>4a06cdec-3621-42c1-b966-a5c1cc56df40</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='filepicker-button-67dd1cce8b8a7']</value>
-      <webElementGuid>6e24a090-5964-4e6e-a0fb-c4a9c623cb2a</webElementGuid>
+      <value>//input[@id='password']</value>
+      <webElementGuid>23a8200a-04e3-4fcf-bbec-7cb80a7e63f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742544029108_315']/input</value>
-      <webElementGuid>a17ff589-5e71-47c4-bc0a-b5c6d65b9547</webElementGuid>
+      <value>//form[@id='login']/div[2]/input</value>
+      <webElementGuid>425dc5a6-9f25-4c18-a4e3-f8f488888400</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//fieldset/div[2]/div/input</value>
-      <webElementGuid>aebd4820-8a10-4e23-9163-77bbc6fb3254</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>5cadc839-34eb-448a-9e54-037ef1a98ed9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'button' and @id = 'filepicker-button-67dd1cce8b8a7' and @name = 'imagechoose']</value>
-      <webElementGuid>b8c70616-9608-4931-800f-46e6b21a1ca4</webElementGuid>
+      <value>//input[@type = 'password' and @name = 'password' and @id = 'password' and @placeholder = 'Password']</value>
+      <webElementGuid>51bd18fe-85bc-408c-8574-2635f8930cea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

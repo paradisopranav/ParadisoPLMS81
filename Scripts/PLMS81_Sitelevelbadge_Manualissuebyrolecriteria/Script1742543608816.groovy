@@ -95,7 +95,6 @@ WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecr
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first demo/input_Any of the selected roles awards the _dee3a1'))
 
-
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Katalon badge first demo/button_Enable access'))
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Changes in badge access/button_Continue'))
@@ -119,7 +118,6 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Sitelevelbadge_Manua
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Badge recipients/input_Match the search text anywhere in the_df68c1'))
 
 //WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
-
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/img_Admin User_userpicture'))
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/div_Settings'))
@@ -128,7 +126,7 @@ WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecr
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/i_Awarded by Manager_dropdownMenuButton_1'))
 
-WebUI.click(findTestObject('Sitelevelbadge_Manualissuebyrolecriteria/disablebutton_qa/Page_Manage Badges/a_Disable access'))
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/a_Disable access'))
 
 WebUI.delay(5)
 
@@ -143,7 +141,6 @@ WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecr
 WebUI.delay(5)
 
 //WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
-
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/img_Admin User_userpicture'))
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/div_Settings'))
@@ -157,6 +154,16 @@ WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecr
 WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/button_Delete and remove existing issued badges'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/i_Awarded by Manager_dropdownMenuButton'))
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/a_Delete_1'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/button_Delete and remove existing issued badges_1'))
 
 WebUI.delay(5)
 

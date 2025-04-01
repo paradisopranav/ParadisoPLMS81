@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_katalon katalon_1</name>
+   <tag></tag>
+   <elementGuidId>cdbcb3bc-c5a9-4d08-9c9d-7dc247cd4142</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1743164921145_39 > #accordionExample > div.card > #collapseTwo > div.card-body > div.search-user-result > div.item > label.container-chobx > a.click_add_users</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='collapseTwo']/div/div/div/label/a)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>441c5d51-bb47-48d5-a960-8096de6e4a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>874c05a0-698a-4d85-9c68-3bbf435f6f87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>click_add_users</value>
+      <webElementGuid>025131ff-8238-4521-8a0b-186948554734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-userpic</name>
+      <type>Main</type>
+      <value>https://plms-php81.paradisolms.net/theme/image.php/paradiso/core/1743138177/u/f1</value>
+      <webElementGuid>2365cc11-e478-448b-93d0-7766c34abec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-usernm</name>
+      <type>Main</type>
+      <value>katalon katalon</value>
+      <webElementGuid>244fdcef-197d-491c-8303-6477e74b0c77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-userid</name>
+      <type>Main</type>
+      <value>24647</value>
+      <webElementGuid>5426390a-e469-4eb3-9458-2fc0908528d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>katalon katalon</value>
+      <webElementGuid>7c5de239-5b67-48a9-870e-149edcc03a82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1743164921145_39&quot;)/div[@id=&quot;accordionExample&quot;]/div[@class=&quot;card&quot;]/div[@id=&quot;collapseTwo&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;search-user-result&quot;]/div[@class=&quot;item&quot;]/label[@class=&quot;container-chobx&quot;]/a[@class=&quot;click_add_users&quot;]</value>
+      <webElementGuid>7147dc6a-031c-49fd-ab9c-a08d5d9dc359</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='collapseTwo']/div/div/div/label/a)[2]</value>
+      <webElementGuid>2b70e2b1-894f-44c2-916b-010c731994af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'katalon katalon')])[2]</value>
+      <webElementGuid>d70f93a4-7e97-4141-91d6-a92d673eb4d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[4]/following::a[1]</value>
+      <webElementGuid>7437160f-fbbe-4ac1-8ddf-8eb55d99ae53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teams'])[4]/following::a[1]</value>
+      <webElementGuid>4f360d2f-34d2-4a15-b543-7c3ce495a132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Workspace'])[3]/preceding::a[1]</value>
+      <webElementGuid>d9219b64-ade3-4b1d-a1df-28b67a07b03d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Workspace?'])[1]/preceding::a[1]</value>
+      <webElementGuid>dc4a4620-424e-48e3-b227-e26200ea45ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[7]</value>
+      <webElementGuid>32d66b83-04f4-43be-b594-5baba1bbbfc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/div[3]/div[2]/div[2]/div/div/div/label/a</value>
+      <webElementGuid>de9fa86e-8835-42fb-baae-f1146d46c36d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'katalon katalon' or . = 'katalon katalon')]</value>
+      <webElementGuid>66f8b22b-9096-470a-92cf-eeebb767be0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

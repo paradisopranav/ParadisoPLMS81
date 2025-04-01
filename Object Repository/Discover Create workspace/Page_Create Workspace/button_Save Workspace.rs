@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log in</name>
+   <name>button_Save Workspace</name>
    <tag></tag>
-   <elementGuidId>37f5098e-bcdf-4cea-83cc-fbff13ab7921</elementGuidId>
+   <elementGuidId>c0314f7c-b680-49d4-af06-85132928bb16</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='loginbtn']</value>
+         <key>CSS</key>
+         <value>#id_submit_workspace</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#loginbtn</value>
+         <key>XPATH</key>
+         <value>//button[@id='id_submit_workspace']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,110 +23,118 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>df36a782-caf2-4291-ad66-1381548f6f4a</webElementGuid>
+      <webElementGuid>0dd55b62-ed67-4679-92c5-e9468e723d8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>561fb65b-d7c0-4122-ba99-f00ae9d5b73c</webElementGuid>
+      <value>button</value>
+      <webElementGuid>2589c1a6-5fcd-4e06-a657-038c3e6c57a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-block btn-round</value>
-      <webElementGuid>c80af10c-ae44-433c-a2e3-f8e395f0165e</webElementGuid>
+      <value>btn btn-primary submit_form</value>
+      <webElementGuid>f1083098-3861-41cb-8db9-c42618fa1df0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginbtn</value>
-      <webElementGuid>e8095892-514f-47ce-b9ed-aa78bf1226d8</webElementGuid>
+      <value>id_submit_workspace</value>
+      <webElementGuid>f5fc220f-e1d1-4a78-a124-d10bfe1bda95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>a7ffa2c4-d92a-48e2-933c-0c9a83c550b3</webElementGuid>
+      <value>Save Workspace</value>
+      <webElementGuid>dd6defb1-05d1-4902-accb-20b48713689c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginbtn&quot;)</value>
-      <webElementGuid>66e2af10-ee5c-4344-bd0a-1a4d9b601cb2</webElementGuid>
+      <value>id(&quot;id_submit_workspace&quot;)</value>
+      <webElementGuid>6d95dd71-5ec5-4e86-817a-1d8c5293c5e9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='loginbtn']</value>
-      <webElementGuid>e5bac44f-9a02-4279-97c7-0fb5db7d5a79</webElementGuid>
+      <value>//button[@id='id_submit_workspace']</value>
+      <webElementGuid>37017631-0ae3-4980-a93c-96a79d83951e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[5]/div/button</value>
-      <webElementGuid>b0277e22-4b68-4ebf-bb61-4ceb8131a16a</webElementGuid>
+      <value>//form[@id='yui_3_17_2_1_1743164994757_63']/div[8]/div[2]/button</value>
+      <webElementGuid>23b3840f-9868-44f9-9d28-1a88ad5a49b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::button[1]</value>
-      <webElementGuid>0e0a19a4-18a1-4cdd-9f49-9274d037b9e1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[4]/following::button[1]</value>
+      <webElementGuid>849cfc83-f67f-4766-bb55-b1048138198a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='日本語 ‎(ja)‎'])[1]/following::button[1]</value>
-      <webElementGuid>0d748a9b-9c39-40ff-962c-93f230013107</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Cohort Available'])[2]/following::button[2]</value>
+      <webElementGuid>4f95acc3-e6bd-4396-8994-d767181e10c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or you can join with'])[1]/preceding::button[1]</value>
-      <webElementGuid>5498acfb-c3d8-43f9-aa6e-6a7c54a3c960</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Workspace'])[1]/preceding::button[1]</value>
+      <webElementGuid>027ffe6b-2af3-424a-aca4-a10995aa1d95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>292b139f-3e4f-40be-9c45-edba0a298085</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Workspace?'])[1]/preceding::button[1]</value>
+      <webElementGuid>912734b6-fd05-49c9-a58d-18a871968707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save Workspace']/parent::*</value>
+      <webElementGuid>c924b841-dc1c-4230-a8ad-91f662351d29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>54b2975f-f5c4-43e2-9c30-7b8bb729db12</webElementGuid>
+      <value>//div[8]/div[2]/button</value>
+      <webElementGuid>9f1ff6d7-6d1b-4434-b6b0-b48cbe2cf6e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'loginbtn' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>1f8c7d6a-3f82-4e30-80f6-a6ceab6462b6</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'id_submit_workspace' and (text() = 'Save Workspace' or . = 'Save Workspace')]</value>
+      <webElementGuid>0b11a556-52f8-4250-b48c-c0f8854554c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

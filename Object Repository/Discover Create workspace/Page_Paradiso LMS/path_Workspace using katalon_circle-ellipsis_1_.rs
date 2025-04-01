@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Workspace using katalon_circle-ellipsis_1_</name>
+   <tag></tag>
+   <elementGuidId>22a3ba23-b3c5-4447-834e-4fc739126aec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dropdownWorkspaceMenuLink318 > svg > #circle-ellipsis_1_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'circle-ellipsis_1_']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>e10c30fe-a37e-423f-afb2-ce95d687d5b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>circle-ellipsis_1_</value>
+      <webElementGuid>233728d6-6156-4d38-abb8-13f1e10ac75a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>circle-ellipsis (1)</value>
+      <webElementGuid>3532ea68-d8bc-4859-9da9-8936f39de857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M6.5,13.5A1.5,1.5,0,1,1,8,12,1.5,1.5,0,0,1,6.5,13.5Zm5.5,0A1.5,1.5,0,1,1,13.5,12,1.5,1.5,0,0,1,12,13.5Zm5.5,0A1.5,1.5,0,1,1,19,12,1.5,1.5,0,0,1,17.5,13.5Z</value>
+      <webElementGuid>0bd2a9fe-2294-4597-9b9a-24ae060230d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(13.5 -5) rotate(90)</value>
+      <webElementGuid>85bd95bb-7341-49d4-a3a9-8f90480c42b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#666</value>
+      <webElementGuid>0c1583c4-853e-4f48-93bd-9d3aa5e59779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdownWorkspaceMenuLink318&quot;)/svg[1]/path[@id=&quot;circle-ellipsis_1_&quot;]</value>
+      <webElementGuid>e468c84c-ecba-4384-b5f8-f1b3c025d657</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'circle-ellipsis_1_']</value>
+      <webElementGuid>24630766-5d40-4ebd-a6cb-83b493f5d51f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

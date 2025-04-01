@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Image_imagechoose</name>
+   <name>textarea_Description_description</name>
    <tag></tag>
-   <elementGuidId>60ce666c-2e0a-454c-abb2-4f85e6d98759</elementGuidId>
+   <elementGuidId>c2cec1aa-2d78-4c6c-b2c6-598510697cfe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#filepicker-button-67dd1cce8b8a7</value>
+         <value>#yui_3_17_2_1_1743164921145_25</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//fieldset/div[2]/div/input</value>
+         <value>//textarea[contains(@class, 'form-control') and contains(@class, 'description')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,87 +22,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>ab0ecce1-c457-497b-b7e1-c731b940d225</webElementGuid>
+      <value>textarea</value>
+      <webElementGuid>d6b9436a-820a-4d12-8deb-a63b69cc9dce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e48159b7-c80e-441b-8da6-0a5a934905dc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-primary fp-btn-choose btn-round</value>
-      <webElementGuid>0836be7b-9656-45f3-a8a0-df71db893a59</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>filepicker-button-67dd1cce8b8a7</value>
-      <webElementGuid>bd7cac3e-51e1-466b-b1c0-85ba2b65af4e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>Choose a file</value>
-      <webElementGuid>1c360b88-ca97-47f3-b137-de2eb8e320d9</webElementGuid>
+      <value>text</value>
+      <webElementGuid>c6b0edd9-042a-4e84-8f59-eeb01a02720c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>imagechoose</value>
-      <webElementGuid>a4a840cb-7fee-47b3-a9b3-9bd034b4bbd2</webElementGuid>
+      <value>description</value>
+      <webElementGuid>8cc9cb34-4a25-4783-978f-6d44bf6eaa9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control description</value>
+      <webElementGuid>050aafb7-bfde-4815-9f8a-afb4d89c1ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_3_17_2_1_1743164921145_25</value>
+      <webElementGuid>168b5f85-44f3-4c84-b84e-557c05d6b1d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;filepicker-button-67dd1cce8b8a7&quot;)</value>
-      <webElementGuid>1f699cdb-1711-450e-889e-e2ac6bbb8fbb</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1743164921145_25&quot;)</value>
+      <webElementGuid>ded43e0c-0780-4967-b778-8a98e8a3f71d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='filepicker-button-67dd1cce8b8a7']</value>
-      <webElementGuid>6e24a090-5964-4e6e-a0fb-c4a9c623cb2a</webElementGuid>
+      <value>//textarea[@id='yui_3_17_2_1_1743164921145_25']</value>
+      <webElementGuid>7cd3d0b2-0369-4c35-b274-2313e365ac5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742544029108_315']/input</value>
-      <webElementGuid>a17ff589-5e71-47c4-bc0a-b5c6d65b9547</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1743164921145_26']/textarea</value>
+      <webElementGuid>858a0948-0358-466c-a836-89685e934cf0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//fieldset/div[2]/div/input</value>
-      <webElementGuid>aebd4820-8a10-4e23-9163-77bbc6fb3254</webElementGuid>
+      <value>//textarea</value>
+      <webElementGuid>e4a2010d-d146-4175-ba3d-96117666cd03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'button' and @id = 'filepicker-button-67dd1cce8b8a7' and @name = 'imagechoose']</value>
-      <webElementGuid>b8c70616-9608-4931-800f-46e6b21a1ca4</webElementGuid>
+      <value>//textarea[@type = 'text' and @name = 'description' and @id = 'yui_3_17_2_1_1743164921145_25']</value>
+      <webElementGuid>39895bf7-907c-46ae-a0a3-48c4fd494de7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

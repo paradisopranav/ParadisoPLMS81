@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Image_imagechoose</name>
+   <name>input_Username_username</name>
    <tag></tag>
-   <elementGuidId>60ce666c-2e0a-454c-abb2-4f85e6d98759</elementGuidId>
+   <elementGuidId>79df049b-c254-412a-8fb3-e460e569922b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#filepicker-button-67dd1cce8b8a7</value>
+         <value>#username</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//fieldset/div[2]/div/input</value>
+         <value>//input[@id='username']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,86 +23,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ab0ecce1-c457-497b-b7e1-c731b940d225</webElementGuid>
+      <webElementGuid>1e67f737-1e16-4310-9ba7-7e4b56adc1d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e48159b7-c80e-441b-8da6-0a5a934905dc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-primary fp-btn-choose btn-round</value>
-      <webElementGuid>0836be7b-9656-45f3-a8a0-df71db893a59</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>filepicker-button-67dd1cce8b8a7</value>
-      <webElementGuid>bd7cac3e-51e1-466b-b1c0-85ba2b65af4e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>Choose a file</value>
-      <webElementGuid>1c360b88-ca97-47f3-b137-de2eb8e320d9</webElementGuid>
+      <value>text</value>
+      <webElementGuid>16a39dfc-c5f6-4ded-9097-51bae842546c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>imagechoose</value>
-      <webElementGuid>a4a840cb-7fee-47b3-a9b3-9bd034b4bbd2</webElementGuid>
+      <value>username</value>
+      <webElementGuid>8746a8ef-0afa-45f3-bce4-c9302ea95c06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>1468e6f9-8df5-4afe-aa33-a52e23e71b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> form-control </value>
+      <webElementGuid>8ed90fb9-0e6e-43f7-9098-23c405c70ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>409b3b3c-3b41-4e9a-a5e8-05f0a1bd6938</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;filepicker-button-67dd1cce8b8a7&quot;)</value>
-      <webElementGuid>1f699cdb-1711-450e-889e-e2ac6bbb8fbb</webElementGuid>
+      <value>id(&quot;username&quot;)</value>
+      <webElementGuid>8137feaf-d85b-472d-9789-57b12a293642</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='filepicker-button-67dd1cce8b8a7']</value>
-      <webElementGuid>6e24a090-5964-4e6e-a0fb-c4a9c623cb2a</webElementGuid>
+      <value>//input[@id='username']</value>
+      <webElementGuid>12cbf886-4f6c-4893-869b-4b779680fb03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='yui_3_17_2_1_1742544029108_315']/input</value>
-      <webElementGuid>a17ff589-5e71-47c4-bc0a-b5c6d65b9547</webElementGuid>
+      <value>//form[@id='login']/div/input</value>
+      <webElementGuid>0bc0e5b1-b963-4123-b3af-9add0c6c431c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//fieldset/div[2]/div/input</value>
-      <webElementGuid>aebd4820-8a10-4e23-9163-77bbc6fb3254</webElementGuid>
+      <value>//div/input</value>
+      <webElementGuid>70b66bea-2a7a-47bf-86c9-013ffc5e7322</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'button' and @id = 'filepicker-button-67dd1cce8b8a7' and @name = 'imagechoose']</value>
-      <webElementGuid>b8c70616-9608-4931-800f-46e6b21a1ca4</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'username' and @id = 'username' and @placeholder = 'Username']</value>
+      <webElementGuid>06b442ff-ef99-4577-ab48-f1bd09de1776</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

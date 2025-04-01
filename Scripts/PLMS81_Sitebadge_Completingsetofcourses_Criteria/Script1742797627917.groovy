@@ -38,6 +38,7 @@ WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/P
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Paradiso LMS Log in to the site/button_Log in'))
 
+
 // Generate a random name with 8 characters
 //String randomName = RandomStringUtils.randomAlphabetic(8).toLowerCase()
 //String randomNameupdate = RandomStringUtils.randomAlphabetic(8).toLowerCase()
@@ -93,12 +94,12 @@ catch (Exception e) {
     WebUI.comment('Failed to select dropdown option: ' + e.getMessage())
 } // Handle stale element exception by re-finding the object and trying again
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/select_Choose.                    Manual is_f7e05d'), 
-    '5', true)
+//WebUI.selectOptionByValue(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/select_Choose.                    Manual is_f7e05d'), 
+  //  '5', true)
 
-WebUI.acceptAlert()
+// WebUI.acceptAlert()
 
-// Identify the element
+/* Identify the element
 TestObject dropdownIcon = findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/i_No Selection_wid wid-icon-arrowvit')
 
 // Use JavaScript click
@@ -106,7 +107,9 @@ WebElement element = WebUiCommonHelper.findWebElement(dropdownIcon, 30)
 JavascriptExecutor executor = (JavascriptExecutor) WebUI.getDriver()
 executor.executeScript("arguments[0].click();", element)
 
+*/
 
+WebUI.delay(5)
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/i_No Selection_wid wid-icon-arrowvit'))
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/li_QA COURSE 2401_1'))
@@ -124,7 +127,13 @@ WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/P
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/a_Recipients (0)'))
 
-WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
+//WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/img_Admin User_userpicture'))
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/div_Settings'))
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_PLMS Administration Search/a_Manage Badges'))
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/i_concat(, , QA COURSE 2401, , )_dropdownMe_3154c4'))
 
@@ -136,7 +145,13 @@ WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/P
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Copy of Katalon course criteria badge 2026/input_Time Unit_submitbutton'))
 
-WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
+//WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/img_Admin User_userpicture'))
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/div_Settings'))
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_PLMS Administration Search/a_Manage Badges'))
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/i_concat(, , QA COURSE 2401, , )_dropdownMe_3154c4_1'))
 

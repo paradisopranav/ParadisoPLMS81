@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9181267f-5453-4582-8786-1d5dcaa1b41f</webElementGuid>
+      <webElementGuid>130ff231-6c0a-4a4b-a3d6-f2e2606f76fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a056e199-6966-4d85-8700-a735c2f5837a</webElementGuid>
+      <webElementGuid>c4a7c66a-3480-46ce-9efe-bfb1e34c2e41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary fp-btn-choose btn-round</value>
-      <webElementGuid>dea6c48a-0114-48fc-a6b5-537895941de6</webElementGuid>
+      <webElementGuid>8be520b0-a0d2-4eb1-b677-c18c24da5e85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>filepicker-button-67e11c4a69fd3</value>
-      <webElementGuid>02f1ea3b-2bd0-4159-9e9b-f0289f7b64b9</webElementGuid>
+      <webElementGuid>6c2bf921-fa1f-4c60-81fb-7289a6d933e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Choose a file</value>
-      <webElementGuid>5f23667e-7e35-4da1-a5e8-53687b218108</webElementGuid>
+      <webElementGuid>c4f7c385-44b1-49fa-a624-502118c6fa75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>name</name>
       <type>Main</type>
       <value>imagechoose</value>
-      <webElementGuid>24a7571b-8883-4e40-9d74-d311094f6138</webElementGuid>
+      <webElementGuid>03389bbf-4d45-4574-a32c-0385d34fca35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;filepicker-button-67e11c4a69fd3&quot;)</value>
-      <webElementGuid>014638a9-84fe-42da-81e9-6e7e7edbc410</webElementGuid>
+      <webElementGuid>ffbfdcc5-e00c-412d-b8af-ad22b1dae688</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='filepicker-button-67e11c4a69fd3']</value>
-      <webElementGuid>60523ca6-a29f-4c0d-bc37-c4e67d2230af</webElementGuid>
+      <webElementGuid>45829adb-db36-4b80-b084-657e5e2f687e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1742806038182_315']/input</value>
-      <webElementGuid>dfde220b-6db7-408b-ae92-a2499a6b4eec</webElementGuid>
+      <webElementGuid>772dd9aa-2071-400f-8eae-e25875c6f979</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fieldset/div[2]/div/input</value>
-      <webElementGuid>b16b0c34-5b14-4495-8a09-1cee17e12dca</webElementGuid>
+      <webElementGuid>3b27b587-5018-4b91-a25c-1379bf20b018</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button' and @id = 'filepicker-button-67e11c4a69fd3' and @name = 'imagechoose']</value>
-      <webElementGuid>b66b68af-2824-49cc-beb1-babf6e3cb024</webElementGuid>
+      <webElementGuid>6c85ec44-fcfb-4652-8392-7ab8ac9b0026</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>b2c61f78-31a8-40bd-86bb-c419b2277f92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dropdownWorkspaceMenuLink318 > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'dropdown-item1') and contains(@class, 'dropdown-menu-right')]    [./a[@data-name='Workspace using katalon']]    //a[contains(@class, 'dropdownWorkspaceMenuLink')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>0e1a11ca-c68f-4532-b584-cd9e45dba12e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>40866f3c-c761-4b69-a103-1fb3e5a1dc38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>53a0347f-2a0a-4372-8841-236dc3a9b07b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>85b7bec5-b3bf-4714-a6c4-0b6daf3ca030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 3 14</value>
+      <webElementGuid>c800a413-822e-48dc-bc28-5b62a9687022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdownWorkspaceMenuLink318&quot;)/svg[1]</value>
+      <webElementGuid>34b24f47-315d-4071-b298-da06073b878e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workspace using katalon'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>fa8d1da8-d627-4bf3-b548-a87a15569cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[9]/following::*[name()='svg'][1]</value>
+      <webElementGuid>05ebf1fa-6daf-4a01-b620-b5e79f6362c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[183]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>910ccf59-c476-490b-b938-9ac71c2079cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[10]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>087a252d-e49c-4a14-90f1-4dbe71f8e766</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
