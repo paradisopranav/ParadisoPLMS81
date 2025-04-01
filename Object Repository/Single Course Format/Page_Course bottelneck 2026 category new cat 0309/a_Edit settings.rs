@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit settings</name>
+   <tag></tag>
+   <elementGuidId>a128e9ff-bff0-48c1-a445-c4632ce29d43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'list-group')]//a[contains(text(), 'Edit settings')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.list-group-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>04be50f2-0b39-48cc-aa44-cd8816a45fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://plms-php81.paradisolms.net/course/edit.php?id=881</value>
+      <webElementGuid>9dc89714-9e65-45f7-9618-a6b3565a7203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>c4816e37-ec25-41f0-a580-70556519f46e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit settings</value>
+      <webElementGuid>5b311a2d-4718-490e-a32b-be1aff457dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;teacherdashslider&quot;)/div[@class=&quot;teacherdashboard&quot;]/div[@class=&quot;container-fluid pr-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;border-group coursemanagelinks&quot;]/div[@class=&quot;list-group&quot;]/a[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>a6d29fea-d713-494f-b190-9f9a50083fb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='teacherdashslider']/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>3f2e6599-2f55-44a3-84e8-828c00369ec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Edit settings')]</value>
+      <webElementGuid>f89fed45-b67d-4583-bff9-bc1c89037c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Settings'])[2]/following::a[1]</value>
+      <webElementGuid>5b1025ed-fe49-454d-b969-3f24a466b0a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Settings'])[1]/following::a[1]</value>
+      <webElementGuid>96bb3a90-24a7-45ef-98ca-83180e54e43e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course completion'])[1]/preceding::a[1]</value>
+      <webElementGuid>493904be-0707-4c33-bb91-1f2f864d1a15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grades overview'])[2]/preceding::a[2]</value>
+      <webElementGuid>b9d78d58-15e2-40c3-ac4c-bcbdcc11c13e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit settings']/parent::*</value>
+      <webElementGuid>a40fc42d-06c3-45c2-9c76-bafbb34e3098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/course/edit.php?id=881')]</value>
+      <webElementGuid>82c05ffc-b172-4229-a97a-17cce983e9bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>3143d451-bc44-400e-a5e4-85ac27ba90a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://plms-php81.paradisolms.net/course/edit.php?id=881' and (text() = 'Edit settings' or . = 'Edit settings')]</value>
+      <webElementGuid>4c0da4fc-cd77-413f-81ad-b2991d06e7dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

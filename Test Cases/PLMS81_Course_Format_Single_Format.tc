@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Course_Format_Single_Format</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1f7bbe9-29ca-4e98-9f11-dbb56ff821c4</testCaseGuid>
+</TestCaseEntity>
