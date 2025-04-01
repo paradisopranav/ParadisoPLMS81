@@ -16,7 +16,12 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
+import org.openqa.selenium.StaleElementReferenceException as StaleElementReferenceException
+import org.apache.commons.lang.RandomStringUtils as RandomStringUtils
+import com.kms.katalon.core.webui.common.WebUiCommonHelper
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import org.openqa.selenium.WebElement
+import org.openqa.selenium.JavascriptExecutor
 WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
@@ -69,14 +74,9 @@ WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/P
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_QA demo badge 2025/button_Add criteria'))
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Copy of expiration testing/i_No Selection_wid wid-icon-arrowvit'))
+WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/badge dropdown'))
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Copy of expiration testing/li_QA COURSE 2401'))
-
-
-/*WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/coursecriteria_badgedropdown'))
-
-TestObject dropdown = findTestObject('Object Repository/sitebadge_completingsetofcourses/coursecriteria_badgedropdown')
+TestObject dropdown = findTestObject('Object Repository/sitebadge_completingsetofcourses/badge dropdown')
 
 try {
     // Attempt to select the dropdown option
@@ -85,7 +85,7 @@ try {
 catch (StaleElementReferenceException e) {
     WebUI.delay(2)
 
-    dropdown = findTestObject('Object Repository/sitebadge_completingsetofcourses/coursecriteria_badgedropdown')
+    dropdown = findTestObject('Object Repository/sitebadge_completingsetofcourses/badge dropdown')
 
     WebUI.selectOptionByLabel(dropdown, 'Completing a set of courses', true)
 } 
@@ -93,56 +93,56 @@ catch (Exception e) {
     WebUI.comment('Failed to select dropdown option: ' + e.getMessage())
 } // Handle stale element exception by re-finding the object and trying again
 
-*/
+WebUI.selectOptionByValue(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/select_Choose.                    Manual is_f7e05d'), 
+    '5', true)
 
-/*
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Copy of expiration testing/i_No Selection_wid wid-icon-arrowvit'))
+WebUI.acceptAlert()
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Copy of expiration testing/li_QA COURSE 2401'))
+// Identify the element
+TestObject dropdownIcon = findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/i_No Selection_wid wid-icon-arrowvit')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Copy of expiration testing/select_tenant course 201QA COURSE 2401sonal_9f5504'),
-	'1110', true)
+// Use JavaScript click
+WebElement element = WebUiCommonHelper.findWebElement(dropdownIcon, 30)
+JavascriptExecutor executor = (JavascriptExecutor) WebUI.getDriver()
+executor.executeScript("arguments[0].click();", element)
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Copy of expiration testing/input_firstvaluecourse_submitcourse'))
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Copy of expiration testing/input_Any of the selected courses is comple_930cad'))
+WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/i_No Selection_wid wid-icon-arrowvit'))
 
-( // WebUI.selectOptionByValue(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_QA demo badge 2025 2026/select_Choose.                    Manual is_f7e05d'), 
-// '5', true)
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_QA demo badge 2025 2026/span_No Selection_form_autocomplete_downarr_80be32')))
+WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/li_QA COURSE 2401_1'))
 
-WebUI.setText(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_QA demo badge 2025 2026/input_No Selection_form_autocomplete_input-_68a268'), 
-    'regress')
+WebUI.selectOptionByValue(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/select_tenant course 201QA COURSE 2401Katal_dc6dfe'), 
+    '1110', true)
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_QA demo badge 2025 2026/li_Regression course  Testing all the activ_7f5f39'))
+WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/input_Course Progress test_submitcourse'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_QA demo badge 2025 2026/select_REGRESSION QUIZ_2201REGRESSION ILT C_627021'), 
-    '1061', true)
+WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/input_Any of the selected courses is comple_930cad'))
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_QA demo badge 2025 2026/input_REGRESSION ILT COURSE_901_submitcourse'))
-
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_QA demo badge 2025 2026/input_Any of the selected courses is comple_930cad'))
-
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_QA demo badge 2025 2026/button_Enable access'))
+WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/button_Enable access'))
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Changes in badge access/button_Continue'))
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/i_concat(, , Regression course  Testing all_7b893d'))
+WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/a_Recipients (0)'))
+
+WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
+
+WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/i_concat(, , QA COURSE 2401, , )_dropdownMe_3154c4'))
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/a_Disable access'))
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/i_concat(, , Regression course  Testing all_7b893d'))
+WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/i_concat(, , QA COURSE 2401, , )_dropdownMe_3154c4'))
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/a_Copy'))
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Copy of QA demo badge 2025 2026/input_Time Unit_submitbutton'))
+WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Copy of Katalon course criteria badge 2026/input_Time Unit_submitbutton'))
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/i_concat(, , Regression course  Testing all_7b893d_1'))
+WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
+
+WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/i_concat(, , QA COURSE 2401, , )_dropdownMe_3154c4_1'))
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/a_Delete'))
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/button_Delete and remove existing issued badges'))
-*/
 
 WebUI.closeBrowser()
 

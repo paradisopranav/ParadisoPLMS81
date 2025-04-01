@@ -3,7 +3,7 @@
    <description></description>
    <name>badge dropdown</name>
    <tag></tag>
-   <elementGuidId>6c00e75b-1a68-4f6a-933f-06c173b91441</elementGuidId>
+   <elementGuidId>9e4b4d47-2602-47ab-8cd7-54670f67999c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>

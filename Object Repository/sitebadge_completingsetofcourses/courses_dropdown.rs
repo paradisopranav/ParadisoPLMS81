@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>badge dropdown</name>
+   <name>courses_dropdown</name>
    <tag></tag>
-   <elementGuidId>6c00e75b-1a68-4f6a-933f-06c173b91441</elementGuidId>
+   <elementGuidId>f3e338d0-9e10-4f63-90d9-27159ab8fc50</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@name='type']</value>
+         <value>//*[@id=&quot;form_autocomplete_downarrow-1743169040185&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -118,8 +118,13 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Sitelevelbadge_Manua
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Badge recipients/input_Match the search text anywhere in the_df68c1'))
 
-WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
+//WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
 
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/img_Admin User_userpicture'))
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/div_Settings'))
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_PLMS Administration Search/a_Manage Badges'))
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/i_Awarded by Manager_dropdownMenuButton_1'))
 
@@ -137,7 +142,13 @@ WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecr
 
 WebUI.delay(5)
 
-WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
+//WebUI.navigateToUrl('https://plms-php81.paradisolms.net/badges/index.php?type=1')
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/img_Admin User_userpicture'))
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/div_Settings'))
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_PLMS Administration Search/a_Manage Badges'))
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Manage Badges/i_Awarded by Manager_dropdownMenuButton_1_2'))
 

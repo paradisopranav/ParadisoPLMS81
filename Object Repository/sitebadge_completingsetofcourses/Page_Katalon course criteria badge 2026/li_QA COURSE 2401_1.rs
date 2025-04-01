@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Add a New Badge</name>
+   <name>li_QA COURSE 2401_1</name>
    <tag></tag>
-   <elementGuidId>56fee173-56b5-444a-b7b4-bc21c81a100b</elementGuidId>
+   <elementGuidId>43ad6c8d-9826-442f-94d0-9bca9110141d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#single_button67e11c476a20319</value>
+         <value>#form_autocomplete_suggestions-1743162448710 > li:nth-of-type(2)</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//section[@id='region-main']/div/div/div[2]/div/form/button</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='tenant course 201'])[2]/following::li[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,119 +22,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>41f14bba-abb2-44be-99b9-29512129163f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>c3e3a8b3-5d55-4cd4-8fe1-c8e88228cc6e</webElementGuid>
+      <value>li</value>
+      <webElementGuid>dd3131df-e873-452c-b6f3-df503aa03b77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>role</name>
       <type>Main</type>
-      <value>btn btn-round btn-secondary</value>
-      <webElementGuid>4fac79d9-01db-4df4-8dc6-11ad8f3ec204</webElementGuid>
+      <value>option</value>
+      <webElementGuid>6fb05b6e-f1d3-4e54-a5c7-1d9922c8b6fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>data-value</name>
       <type>Main</type>
-      <value>single_button67e11c476a20319</value>
-      <webElementGuid>4f346c09-9d2e-4f43-a66e-16c0431ab784</webElementGuid>
+      <value>1110</value>
+      <webElementGuid>0096a4d6-a63b-4fee-9c28-ac4d05b73f7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>32419589-e3a1-4c58-a29c-9a1487459bf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e3a8f1da-fd03-4b01-8647-b925051d4430</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Add a New Badge</value>
-      <webElementGuid>1544d322-0f19-4432-a26e-dd1a7ac34819</webElementGuid>
+      <value>QA COURSE 2401</value>
+      <webElementGuid>0719bb12-2284-459e-a305-bb9dab83fa5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single_button67e11c476a20319&quot;)</value>
-      <webElementGuid>60c72d30-ae46-4ae1-9b0d-fbd3f04729ad</webElementGuid>
+      <value>id(&quot;form_autocomplete_suggestions-1743162448710&quot;)/li[2]</value>
+      <webElementGuid>6aca5cde-deda-43e4-be82-21719fff4319</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='single_button67e11c476a20319']</value>
-      <webElementGuid>45761112-aca9-4c98-9e32-09e2b96e6efc</webElementGuid>
+      <value>//li[@id='']</value>
+      <webElementGuid>714b3283-42ab-484e-8939-a1a211513731</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='region-main']/div/div/div[2]/div/form/button</value>
-      <webElementGuid>e6774a3c-4686-4e5c-ae08-b1c85f1fabed</webElementGuid>
+      <value>//ul[@id='form_autocomplete_suggestions-1743162448710']/li[2]</value>
+      <webElementGuid>84d0b874-5185-4574-9d98-62e84cd64f16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of badges available: 71'])[1]/following::button[1]</value>
-      <webElementGuid>dd7f2a05-dc79-4e04-a7ed-58f75def64a6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tenant course 201'])[2]/following::li[1]</value>
+      <webElementGuid>bcc89ec8-f510-4a7f-9128-816271a1a88a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site badges: Manage Badges'])[1]/following::button[1]</value>
-      <webElementGuid>06882280-3ce4-4771-b70c-450283c330f3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Selection'])[1]/following::li[2]</value>
+      <webElementGuid>adf75be4-0ace-4e16-9cd3-f0ee28ebcaad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(current)'])[1]/preceding::button[1]</value>
-      <webElementGuid>cb60a391-0b2c-45cc-8e06-f0e87d76547d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon course_Restore activity'])[2]/preceding::li[1]</value>
+      <webElementGuid>3ada4e0b-2cc2-4042-85ba-c72e8c6da280</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::button[1]</value>
-      <webElementGuid>ddddf933-dee0-4ead-ac99-a231fafb11d9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Add a New Badge']/parent::*</value>
-      <webElementGuid>9914345c-8e5f-4ef3-a4c7-d6ede08ecd2d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='backup course_deleting the course'])[2]/preceding::li[2]</value>
+      <webElementGuid>f738e012-e837-4d9f-ac52-8e35bce894e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/button</value>
-      <webElementGuid>aa0178f7-0a0b-4f33-9e61-458fe37c1e23</webElementGuid>
+      <value>//div[2]/ul/li[2]</value>
+      <webElementGuid>871e965d-4b42-4d4a-b4da-2f5af6b66a28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'single_button67e11c476a20319' and (text() = 'Add a New Badge' or . = 'Add a New Badge')]</value>
-      <webElementGuid>31e55c54-ad30-4f57-8f3a-043c84b405c8</webElementGuid>
+      <value>//li[(text() = 'QA COURSE 2401' or . = 'QA COURSE 2401')]</value>
+      <webElementGuid>97ce1b76-6883-4fdc-ae25-d616b194a418</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_Course Progress test_submitcourse</name>
    <tag></tag>
-   <elementGuidId>13cfe81f-66fc-48a2-bb6c-065b300b98d6</elementGuidId>
+   <elementGuidId>ac52d62b-8d3e-4016-8299-381dbf6fa9f8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <value>//input[@id='id_submitcourse']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value>#id_submitcourse</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,94 +23,89 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3bac67af-24c2-4b1e-b6c6-b9dd555b89dd</webElementGuid>
+      <webElementGuid>1c1c4a73-afb6-4797-8907-9a398c263b5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>a1549108-5557-4ff9-a0ad-880468db32b7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>1e848b7d-26d7-462f-9744-6d656a20fc25</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>a9b3b049-de70-4610-9ded-e00c8689af04</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>e27120dd-862b-4644-ace3-665c84edda7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>7c9738b3-5ee4-408c-9b30-48850eb29417</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>3c528faf-d3d2-4eb2-a093-19789055ccf2</webElementGuid>
+      <value>btn btn-round
+                    btn-primary
+                    
+                    </value>
+      <webElementGuid>10f474d4-6b56-42a4-a46a-167a5bae2ea2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>name</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>decec2c8-425d-4f88-bf40-a3bb6e180f5d</webElementGuid>
+      <value>submitcourse</value>
+      <webElementGuid>32136f0a-16dc-4a48-99fc-bb3e637e3aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_submitcourse</value>
+      <webElementGuid>f69624a6-a8c3-4612-b812-c316b3289b56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Add courses</value>
+      <webElementGuid>00e3a188-29e6-4b04-99c2-23760da29426</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>e2cb921a-bd82-4479-a4c9-353c334e1d91</webElementGuid>
+      <value>id(&quot;id_submitcourse&quot;)</value>
+      <webElementGuid>d3224703-454c-456a-8993-05986f78df96</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>7fc5b754-4a34-4d65-9b6b-54bb6c52fd6e</webElementGuid>
+      <value>//input[@id='id_submitcourse']</value>
+      <webElementGuid>136f198b-cc7c-4de4-8346-f37527590ef4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[2]/input</value>
-      <webElementGuid>770d16ae-a699-4cee-a9a1-27842f57597c</webElementGuid>
+      <value>//span[@id='yui_3_17_2_1_1743144524695_171']/input</value>
+      <webElementGuid>144a146e-f2d1-4ef5-ac07-0690473403df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>cf150e87-cb7e-4a5b-8535-a3eed6c21037</webElementGuid>
+      <value>//span[2]/input</value>
+      <webElementGuid>fbfc1fd6-f06e-44db-99f3-2eca238775ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password' and @id = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>fc4badb5-2f95-4f34-ac4c-f4846944d603</webElementGuid>
+      <value>//input[@type = 'submit' and @name = 'submitcourse' and @id = 'id_submitcourse']</value>
+      <webElementGuid>a5ededc2-30aa-4430-a72e-d66a0ec0bb18</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

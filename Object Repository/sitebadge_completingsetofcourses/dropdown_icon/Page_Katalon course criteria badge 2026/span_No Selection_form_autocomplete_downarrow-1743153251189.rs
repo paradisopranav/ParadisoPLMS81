@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log in</name>
+   <name>span_No Selection_form_autocomplete_downarrow-1743153251189</name>
    <tag></tag>
-   <elementGuidId>e4b705ca-f10a-42fa-aa6f-9d8999a513a2</elementGuidId>
+   <elementGuidId>243fa680-8769-4e62-adac-a8af4171a527</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginbtn']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='No Selection'])[1]/following::span[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#loginbtn</value>
+         <value>#form_autocomplete_downarrow-1743153251189</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,111 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>14f45fbc-577a-400f-be50-fc7892f453e8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>35dd193d-746d-4ba0-bffc-0c9af0282b01</webElementGuid>
+      <value>span</value>
+      <webElementGuid>e490801d-8a38-41a1-ac1c-6620ee98eae3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-block btn-round</value>
-      <webElementGuid>5bdb1609-8d0a-4d57-baef-8d64722ede27</webElementGuid>
+      <value>form-autocomplete-downarrow</value>
+      <webElementGuid>9d20320c-be02-48e1-905a-f2ffc35dfe84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginbtn</value>
-      <webElementGuid>c3996aa1-396b-4681-aacf-4fff9a46981c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>e459cbcd-a6b8-47be-9634-f746a734fd78</webElementGuid>
+      <value>form_autocomplete_downarrow-1743153251189</value>
+      <webElementGuid>7f25a83e-46dd-4dd3-8458-ba3889102e1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginbtn&quot;)</value>
-      <webElementGuid>f005a23a-c10c-4d37-aa90-a09480c5854e</webElementGuid>
+      <value>id(&quot;form_autocomplete_downarrow-1743153251189&quot;)</value>
+      <webElementGuid>32548d91-bb3f-4b2a-b2fd-03502e131ec6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='loginbtn']</value>
-      <webElementGuid>646c027c-b708-4953-9be8-898de85f4b11</webElementGuid>
+      <value>//span[@id='form_autocomplete_downarrow-1743153251189']</value>
+      <webElementGuid>bf687749-9f5c-40c1-9bbe-91153e0af090</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[5]/div/button</value>
-      <webElementGuid>5e3d4204-e140-4ffb-b07b-d7bd54a7d481</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1743153251073_54']/span</value>
+      <webElementGuid>ed625147-f370-413f-8123-587bc950c85c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::button[1]</value>
-      <webElementGuid>5021ccd4-d9c5-4d12-85e2-402c946cb534</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Selection'])[1]/following::span[1]</value>
+      <webElementGuid>0b0e3ef1-ab22-4197-b73d-cc32312efab6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='日本語 ‎(ja)‎'])[1]/following::button[1]</value>
-      <webElementGuid>56433162-5803-4a69-b468-bbd3f47707e5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add courses'])[1]/following::span[2]</value>
+      <webElementGuid>e28fd87c-70ff-4f53-aafe-737fee8d9275</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or you can join with'])[1]/preceding::button[1]</value>
-      <webElementGuid>c4153953-9bf5-4e38-a70b-b48d2d47051f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tenant course 201'])[2]/preceding::span[1]</value>
+      <webElementGuid>719adc4b-97b4-4e7e-bbef-ccb7568eb47d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>39e0b89e-a46b-4436-bd06-ae226ecd2917</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA COURSE 2401'])[2]/preceding::span[1]</value>
+      <webElementGuid>1759bc52-6410-4deb-92b5-5fd912046d99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>ff5e953c-181d-48b5-add9-7de25492220f</webElementGuid>
+      <value>//div[2]/div[3]/span</value>
+      <webElementGuid>167caa17-7703-4f88-b18d-0f7733748f30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'loginbtn' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>15e20ce5-724f-4323-8a80-603565764614</webElementGuid>
+      <value>//span[@id = 'form_autocomplete_downarrow-1743153251189']</value>
+      <webElementGuid>97c6efe9-3218-4c4c-89c4-e983aa27f351</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

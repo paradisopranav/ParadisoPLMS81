@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_No Selection_wid wid-icon-arrowvit</name>
+   <tag></tag>
+   <elementGuidId>83d7bd36-5861-49c3-91ea-2a5be500064d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.wid.wid-icon-arrowvit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(@class, 'form-autocomplete-downarrow')]/i[contains(@class, 'wid-icon-arrowvit')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d49b5fc2-4328-4424-b7aa-c4f4fcc9fc84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wid wid-icon-arrowvit</value>
+      <webElementGuid>c45f44e3-f3f2-4f5a-9215-4d63a7f53aa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5e474d7f-c792-4ff7-8025-0e3bf4ff3bfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_autocomplete_downarrow-1743162448710&quot;)/i[@class=&quot;wid wid-icon-arrowvit&quot;]</value>
+      <webElementGuid>1ab3aaec-9971-4080-ae61-1274839598ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='form_autocomplete_downarrow-1743162448710']/i</value>
+      <webElementGuid>0571bc8f-b9d0-428d-9d23-d29319aed95a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/i</value>
+      <webElementGuid>29d185e9-4fe1-45fa-9b78-d05452b0911c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

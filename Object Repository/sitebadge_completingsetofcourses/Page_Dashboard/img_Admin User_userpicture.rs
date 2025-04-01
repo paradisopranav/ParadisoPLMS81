@@ -6,12 +6,12 @@
    <elementGuidId>91db697a-72a9-449b-bee3-51430cdad870</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='action-menu-toggle-1']/span/span[2]/span/img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img.userpicture</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='action-menu-toggle-1']/span/span[2]/span/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>d793101b-bd0f-4825-b5c0-98f711f143cf</webElementGuid>
+      <webElementGuid>fbe6db41-419b-414d-adc1-2f2a5e63cefa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189</value>
-      <webElementGuid>d34f1a86-6871-40be-9b69-d7bb0fbc1cf7</webElementGuid>
+      <webElementGuid>c1612985-4ca0-429a-8512-5932a8bd5a81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>userpicture</value>
-      <webElementGuid>f8bcbc74-e7f2-4849-a6fb-e3ba688e6ae4</webElementGuid>
+      <webElementGuid>b3725be0-91db-4d52-811e-1ee6ee0441ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>width</name>
       <type>Main</type>
       <value>35</value>
-      <webElementGuid>274e3c00-b384-46f1-b8d0-9a845ab07780</webElementGuid>
+      <webElementGuid>09d86a05-2c23-40c4-81f0-414dc45cf39e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>height</name>
       <type>Main</type>
       <value>35</value>
-      <webElementGuid>4ffed8b4-9036-4321-a73b-a3b2dd9d5c90</webElementGuid>
+      <webElementGuid>42459bcc-bd5b-4cc8-ade4-c200ad39e385</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>8d816056-d7d9-4830-8213-448868e3b76a</webElementGuid>
+      <webElementGuid>3218a895-c11a-4ae5-bc0f-17e07f3fec06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;action-menu-toggle-1&quot;)/span[@class=&quot;userbutton&quot;]/span[@class=&quot;avatars&quot;]/span[@class=&quot;avatar current&quot;]/img[@class=&quot;userpicture&quot;]</value>
-      <webElementGuid>bd1ffa4e-131f-408d-909f-702352dd53de</webElementGuid>
+      <webElementGuid>8cd4b44d-e3b8-4897-b838-a6aca2208c99</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='action-menu-toggle-1']/span/span[2]/span/img</value>
-      <webElementGuid>a254f8ff-9510-4f19-a22c-a04ba2102aae</webElementGuid>
+      <webElementGuid>5482c0d5-5e06-49c3-af26-98c3a3c007e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189')]</value>
-      <webElementGuid>77bb76fa-d674-4b49-a0ca-71cac38e5e2f</webElementGuid>
+      <webElementGuid>b2b2fffa-7c23-4087-8570-08b2fea35815</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/span/img</value>
-      <webElementGuid>2ff0d1dc-2b2d-48d5-9aa8-83652051f03b</webElementGuid>
+      <webElementGuid>980f3b23-c116-43fd-bbc1-2c46f4a17d37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189']</value>
-      <webElementGuid>e404ce7d-0c99-474a-b078-e5c34f7e2603</webElementGuid>
+      <webElementGuid>c7f17952-99c4-406a-96ff-f5a3ec435493</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

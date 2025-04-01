@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Settings</name>
+   <name>span_No Selection_form_autocomplete_downarr_044176</name>
    <tag></tag>
-   <elementGuidId>bd37918f-9ab7-4f4f-bdd9-a2dab7b777a8</elementGuidId>
+   <elementGuidId>63067062-1615-4ece-bf2a-91b08cfa6111</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='actionmenuaction-2']/div/div</value>
+         <value>//*[contains(@id, 'form_autocomplete_downarrow-1743149230298')]&#xd;
+&#xd;
+&#xd;
+&#xd;
+</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.menu-title</value>
+         <value>#form_autocomplete_downarrow-1743144524888</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,87 +26,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>63e6094f-78f6-49a1-b304-79222a0f3202</webElementGuid>
+      <value>span</value>
+      <webElementGuid>27837f47-16d2-46b3-b1a9-6e5f39035786</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>menu-title</value>
-      <webElementGuid>8e0efd19-f0af-4d95-b856-e1c3e3186f24</webElementGuid>
+      <value>form-autocomplete-downarrow</value>
+      <webElementGuid>21dbda0b-3ae3-49c9-87c7-185f03428994</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Settings</value>
-      <webElementGuid>f58c5b05-b1dd-4497-b0b3-177ee1fc6950</webElementGuid>
+      <value>form_autocomplete_downarrow-1743144524888</value>
+      <webElementGuid>d9db2d43-10e8-461a-95a3-62c8be613724</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;actionmenuaction-2&quot;)/div[@class=&quot;menu-item cust-menu-item&quot;]/div[@class=&quot;menu-title&quot;]</value>
-      <webElementGuid>4f520eab-81bb-4d2f-9995-9f87658e556e</webElementGuid>
+      <value>id(&quot;form_autocomplete_downarrow-1743144524888&quot;)</value>
+      <webElementGuid>4165a768-f9c1-4df5-9776-2d75d38cdfdc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='form_autocomplete_downarrow-1743144524888']</value>
+      <webElementGuid>63f643ba-310f-4c26-be4a-fa24b844faa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='actionmenuaction-2']/div/div</value>
-      <webElementGuid>724797f9-abd2-4949-8599-cba6514035c1</webElementGuid>
+      <value>//form[@id='mform1_6AF7cdaGoSv8dNS']/div[2]/div[2]/div[3]/span</value>
+      <webElementGuid>2491aeca-e5b8-47c6-b12d-d3b37b7bc44a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::div[2]</value>
-      <webElementGuid>192b2240-a1e6-40a5-8824-fa05dacb8fcb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Selection'])[1]/following::span[1]</value>
+      <webElementGuid>a9ff5e08-8ecc-4378-8fee-283fed1033c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Points'])[1]/following::div[3]</value>
-      <webElementGuid>5537a935-a925-4ae6-8527-a2671d1fa05f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add courses'])[1]/following::span[2]</value>
+      <webElementGuid>5968db20-20b0-47f3-933e-cb6928a1b3c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Day/Night Mode'])[1]/preceding::div[1]</value>
-      <webElementGuid>cbab6932-7736-49a0-9d9c-e4ac0da89c09</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/preceding::div[6]</value>
-      <webElementGuid>aff4e652-4a98-4241-815c-90536c047c7a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::span[5]</value>
+      <webElementGuid>5f177c07-f76e-4db8-bb7e-0d10d83ad384</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[2]/div/div</value>
-      <webElementGuid>51a5859d-7563-4aab-9080-a35024064edb</webElementGuid>
+      <value>//div[2]/div[3]/span</value>
+      <webElementGuid>69d2ba40-ac31-4727-89af-ef83df399cc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Settings' or . = 'Settings')]</value>
-      <webElementGuid>0b16abd1-8d48-460e-8860-e6539f2c09da</webElementGuid>
+      <value>//span[@id = 'form_autocomplete_downarrow-1743144524888']</value>
+      <webElementGuid>a7404963-ae84-4f64-a766-23360f4950d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
