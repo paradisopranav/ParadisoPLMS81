@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log in</name>
+   <name>button_Delete and remove existing issued badges_1</name>
    <tag></tag>
-   <elementGuidId>37f5098e-bcdf-4cea-83cc-fbff13ab7921</elementGuidId>
+   <elementGuidId>38f5df00-b3d0-4b53-934b-d0101d1e1eb9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='loginbtn']</value>
+         <key>CSS</key>
+         <value>#single_button67ebcab36e19f20</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#loginbtn</value>
+         <key>XPATH</key>
+         <value>//section[@id='region-main']/div/div/div[2]/div/form/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>df36a782-caf2-4291-ad66-1381548f6f4a</webElementGuid>
+      <webElementGuid>d18daf64-cfad-4394-a305-d034eb474d17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,102 +31,110 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>561fb65b-d7c0-4122-ba99-f00ae9d5b73c</webElementGuid>
+      <webElementGuid>db8ae0da-278d-4996-904e-c0fa34c5720e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-block btn-round</value>
-      <webElementGuid>c80af10c-ae44-433c-a2e3-f8e395f0165e</webElementGuid>
+      <value>btn btn-round btn-secondary</value>
+      <webElementGuid>e4417b9a-8ca2-42d5-8a16-6098320fe96a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginbtn</value>
-      <webElementGuid>e8095892-514f-47ce-b9ed-aa78bf1226d8</webElementGuid>
+      <value>single_button67ebcab36e19f20</value>
+      <webElementGuid>b3ee5b71-87cb-4dbc-815b-2ddd53b535ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>a7ffa2c4-d92a-48e2-933c-0c9a83c550b3</webElementGuid>
+      <value>Delete and remove existing issued badges</value>
+      <webElementGuid>0363833e-e8d0-4c24-bc58-7ca89806afb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginbtn&quot;)</value>
-      <webElementGuid>66e2af10-ee5c-4344-bd0a-1a4d9b601cb2</webElementGuid>
+      <value>id(&quot;single_button67ebcab36e19f20&quot;)</value>
+      <webElementGuid>e040183f-caf4-44cd-939e-c3e3cfa5ef79</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='loginbtn']</value>
-      <webElementGuid>e5bac44f-9a02-4279-97c7-0fb5db7d5a79</webElementGuid>
+      <value>//button[@id='single_button67ebcab36e19f20']</value>
+      <webElementGuid>7a4677a7-f59b-4598-bf47-8302e1be130c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[5]/div/button</value>
-      <webElementGuid>b0277e22-4b68-4ebf-bb61-4ceb8131a16a</webElementGuid>
+      <value>//section[@id='region-main']/div/div/div[2]/div/form/button</value>
+      <webElementGuid>13e4cd2e-16b1-4a50-a046-2e66e05be305</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::button[1]</value>
-      <webElementGuid>0e0a19a4-18a1-4cdd-9f49-9274d037b9e1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete and keep existing issued badges'])[1]/following::button[1]</value>
+      <webElementGuid>9528d743-4d37-455c-abbb-fffbc2083b7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='日本語 ‎(ja)‎'])[1]/following::button[1]</value>
-      <webElementGuid>0d748a9b-9c39-40ff-962c-93f230013107</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Uploaded Successfully'])[1]/following::button[2]</value>
+      <webElementGuid>637ffab6-131f-48b6-84b7-675015e55a4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or you can join with'])[1]/preceding::button[1]</value>
-      <webElementGuid>5498acfb-c3d8-43f9-aa6e-6a7c54a3c960</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/preceding::button[1]</value>
+      <webElementGuid>f672d8c7-6168-4600-94a1-6681dc46dd1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>292b139f-3e4f-40be-9c45-edba0a298085</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::button[1]</value>
+      <webElementGuid>faea92fd-17cf-4408-8ac7-89e7e24bf101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete and remove existing issued badges']/parent::*</value>
+      <webElementGuid>88789f64-7321-477f-a2e4-fc36322a0b3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>54b2975f-f5c4-43e2-9c30-7b8bb729db12</webElementGuid>
+      <value>//div[2]/div/form/button</value>
+      <webElementGuid>aeb2c6a6-0bf9-4cde-9390-419472c272cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'loginbtn' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>1f8c7d6a-3f82-4e30-80f6-a6ceab6462b6</webElementGuid>
+      <value>//button[@type = 'submit' and @id = 'single_button67ebcab36e19f20' and (text() = 'Delete and remove existing issued badges' or . = 'Delete and remove existing issued badges')]</value>
+      <webElementGuid>fb1489f7-34b4-4f7d-9e73-3d0b80739f68</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
