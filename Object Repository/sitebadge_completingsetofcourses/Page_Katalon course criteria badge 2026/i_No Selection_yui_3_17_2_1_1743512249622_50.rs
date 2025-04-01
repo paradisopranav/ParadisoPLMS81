@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_No Selection_wid wid-icon-arrowvit</name>
+   <name>i_No Selection_yui_3_17_2_1_1743512249622_50</name>
    <tag></tag>
-   <elementGuidId>83d7bd36-5861-49c3-91ea-2a5be500064d</elementGuidId>
+   <elementGuidId>927980ff-5d61-481a-ab5a-c420faf2b7a6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='form_autocomplete_downarrow-1743512249834']/i</value>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1743512249622_50</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>i.wid.wid-icon-arrowvit</value>
+         <key>XPATH</key>
+         <value>//div[3]/span/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>6cd2713e-73e8-4399-b7bf-721e9116bbbd</webElementGuid>
+      <webElementGuid>55ffb7ad-7935-4add-9bbd-1a9940a30d72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>wid wid-icon-arrowvit</value>
-      <webElementGuid>4991d8ab-31ba-4eeb-b660-ac78979e63c2</webElementGuid>
+      <webElementGuid>612897ac-c1d5-482c-b788-4f770edf2c3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,23 +39,39 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>266f3736-9ebb-4a46-bc06-c9d5377075cd</webElementGuid>
+      <webElementGuid>e727403e-6e51-4a6f-af77-60d839e102ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_3_17_2_1_1743512249622_50</value>
+      <webElementGuid>0dcb2c8f-cb86-4bd0-ab8f-768cba493c5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;form_autocomplete_downarrow-1743512249834&quot;)/i[@class=&quot;wid wid-icon-arrowvit&quot;]</value>
-      <webElementGuid>2cd66a96-f28b-4299-8f25-b4bd57ed65de</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1743512249622_50&quot;)</value>
+      <webElementGuid>354c00bd-e55a-4ffc-9cf9-9d89bfb649c9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//i[@id='yui_3_17_2_1_1743512249622_50']</value>
+      <webElementGuid>0adf2a4d-4a7f-4a61-9be3-9ed0b021c137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='form_autocomplete_downarrow-1743512249834']/i</value>
-      <webElementGuid>552b1ee2-02e8-4bd2-b4bb-16c4be14ef93</webElementGuid>
+      <webElementGuid>1ba77e01-e631-46ed-9141-71264901798a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,14 +79,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/span/i</value>
-      <webElementGuid>ad879f14-5cac-429e-85ae-d0851707f345</webElementGuid>
+      <webElementGuid>73b09eb1-b155-4e7a-aedb-6de7d3acc7d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id='form_autocomplete_downarrow-1743162448710']/i</value>
-      <webElementGuid>562f350e-c5c7-4ccb-8a4d-ab43d74004db</webElementGuid>
+      <value>//i[@id = 'yui_3_17_2_1_1743512249622_50']</value>
+      <webElementGuid>fc4a2fcf-4566-4a1c-bcf3-227e56c0b797</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

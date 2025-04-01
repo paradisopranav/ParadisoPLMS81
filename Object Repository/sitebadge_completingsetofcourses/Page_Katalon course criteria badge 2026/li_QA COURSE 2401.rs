@@ -6,12 +6,12 @@
    <elementGuidId>703d7dbb-ed71-4440-b4ab-2c80f4b268d0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon course_Restore activity'])[2]/preceding::li[1]</value>
+         <key>CSS</key>
+         <value>#form_autocomplete_suggestions-1743512249834 > li:nth-of-type(2)</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#form_autocomplete_suggestions-1743144524888 > li:nth-of-type(2)</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='tenant course 201'])[2]/following::li[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>e7df1200-79a5-4ce6-9980-724b4d6dc305</webElementGuid>
+      <webElementGuid>8fc4bec3-670f-46a5-aca3-c863caaa43c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>d9d3ad8d-60a2-4599-a514-913758c7f1fe</webElementGuid>
+      <webElementGuid>866f422f-90b2-4671-9a78-b631821d95da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>1110</value>
-      <webElementGuid>f27d6d4e-798e-41d3-bdc1-628e53714678</webElementGuid>
+      <webElementGuid>cb275ec3-08d0-4bcf-8e9c-a85c8e0630da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f36f2962-e63e-4ef6-a4cc-7eb7306a657c</webElementGuid>
+      <webElementGuid>32c2396e-3f8e-4eb9-96c1-a1514d6e9219</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3f93caab-9f1f-43af-9dc0-cee624fb91d3</webElementGuid>
+      <webElementGuid>d8880478-528f-4622-a235-54126df4858b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,15 +63,23 @@
       <name>text</name>
       <type>Main</type>
       <value>QA COURSE 2401</value>
-      <webElementGuid>b409e866-35d6-4803-a4ee-601eec8edcbb</webElementGuid>
+      <webElementGuid>c445f26a-c5db-497c-b2ed-f7ec8566911e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;form_autocomplete_suggestions-1743144524888&quot;)/li[2]</value>
-      <webElementGuid>1cbf25eb-268b-422a-aee8-b36e40e6f85f</webElementGuid>
+      <value>id(&quot;form_autocomplete_suggestions-1743512249834&quot;)/li[2]</value>
+      <webElementGuid>a30bacaa-2203-40ca-a8b2-93d2d7e3f22a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>form_autocomplete_suggestions-1743509074141-0</value>
+      <webElementGuid>f7136d71-8d68-45d6-bbf2-1e0ffced529e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,15 +87,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='']</value>
-      <webElementGuid>bb3295b3-1071-46de-b824-63c92339bcc2</webElementGuid>
+      <webElementGuid>1f808ed2-e88e-43ce-9d93-099643f877f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='form_autocomplete_suggestions-1743144524888']/li[2]</value>
-      <webElementGuid>8fb4ccdc-181e-4347-91fe-958d7848636e</webElementGuid>
+      <value>//ul[@id='form_autocomplete_suggestions-1743512249834']/li[2]</value>
+      <webElementGuid>5d5a752c-1dd1-4daf-93c6-b39a44f08a00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='tenant course 201'])[2]/following::li[1]</value>
-      <webElementGuid>b114fe0f-ebbe-4251-aa13-9c2e556d3220</webElementGuid>
+      <webElementGuid>dffc29da-9265-4c04-9036-eaf14698ffb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Selection'])[1]/following::li[2]</value>
-      <webElementGuid>0e707640-b6b8-4f77-9923-7ce9d40faf28</webElementGuid>
+      <webElementGuid>0df0d058-ba8f-4acf-9b7c-9848c3714754</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon course_Restore activity'])[2]/preceding::li[1]</value>
-      <webElementGuid>313c3126-8cb3-4f74-a736-fd1bbf5c3e23</webElementGuid>
+      <webElementGuid>2d94f5ad-a748-4d9e-9c92-05872bede461</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='backup course_deleting the course'])[2]/preceding::li[2]</value>
-      <webElementGuid>5e1c5756-dc20-41d5-80c4-a8fe639f4287</webElementGuid>
+      <webElementGuid>6bbf4233-09a1-4249-9aa9-aab3b305fe19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +135,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li[2]</value>
-      <webElementGuid>36c5975a-1e96-4c24-a757-c196d33df8dc</webElementGuid>
+      <webElementGuid>cda344b3-6018-4ac1-9aa4-82954e22605b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +143,70 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'QA COURSE 2401' or . = 'QA COURSE 2401')]</value>
-      <webElementGuid>8dbaef33-37bc-4705-95ee-149d5854b693</webElementGuid>
+      <webElementGuid>c124df7a-591e-497d-a741-0b3b385f5e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='form_autocomplete_suggestions-1743509074141-0']</value>
+      <webElementGuid>d8a99e34-f49e-4149-a7ed-0f1adc2f4227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='form_autocomplete_suggestions-1743509074141']/li</value>
+      <webElementGuid>47c82d12-4068-47e4-87af-6dabb3c1f808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Selection'])[1]/following::li[1]</value>
+      <webElementGuid>fe67bb2a-9356-43d2-abe6-cb067df580e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add courses'])[1]/following::li[1]</value>
+      <webElementGuid>58674fb9-3416-4cb6-aa1d-8994a366932a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::li[1]</value>
+      <webElementGuid>5babec0e-580d-41e9-ab0d-5f6fe35e00f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li</value>
+      <webElementGuid>5c46cd2d-e428-4e2e-94f5-e8d8dc17dbb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'form_autocomplete_suggestions-1743509074141-0' and (text() = 'QA COURSE 2401' or . = 'QA COURSE 2401')]</value>
+      <webElementGuid>32208005-48bd-4b00-939b-3150fecf30e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='form_autocomplete_suggestions-1743144524888']/li[2]</value>
+      <webElementGuid>2bf5bc7d-8564-4e5a-8fe0-2447f8782d70</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

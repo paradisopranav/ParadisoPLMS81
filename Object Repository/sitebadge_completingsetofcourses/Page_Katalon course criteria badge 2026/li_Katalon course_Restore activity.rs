@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_QA COURSE 2401_1</name>
+   <name>li_Katalon course_Restore activity</name>
    <tag></tag>
-   <elementGuidId>43ad6c8d-9826-442f-94d0-9bca9110141d</elementGuidId>
+   <elementGuidId>9867bdf2-4e7f-43cf-8a63-d9fa5ec5baec</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='tenant course 201'])[2]/following::li[1]</value>
+         <value>//li[@id='']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#form_autocomplete_suggestions-1743162448710 > li:nth-of-type(2)</value>
+         <value>#form_autocomplete_suggestions-1743512249834 > li:nth-of-type(2)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>735230fb-965b-477c-b8dd-09f7f64cd2e8</webElementGuid>
+      <webElementGuid>82fc47b6-50db-4146-95f7-a06ad955d4f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +31,15 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>f4332f3c-40a3-4df4-89b8-7d1d21bdc3ef</webElementGuid>
+      <webElementGuid>41479ecb-d61d-4824-b913-50e095eb90f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-value</name>
       <type>Main</type>
-      <value>1110</value>
-      <webElementGuid>4472b363-2118-4a59-abfb-0551a03c300a</webElementGuid>
+      <value>1245</value>
+      <webElementGuid>8da96cf8-e864-4f4b-8d18-3a69e75c6754</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8797d4f4-7653-4512-9cd3-806034fd2afb</webElementGuid>
+      <webElementGuid>b79f6de5-ebca-4d4d-8b1b-7a5b72b4cc1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,23 +55,23 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>776e7ae7-f6bf-4fa2-883a-baf6dce75803</webElementGuid>
+      <webElementGuid>46105851-267f-4786-93c0-7728c8d87df2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>QA COURSE 2401</value>
-      <webElementGuid>fc754bb5-f730-4cac-bd40-7c2611984612</webElementGuid>
+      <value>Katalon course_Restore activity</value>
+      <webElementGuid>9fb8d330-123e-49bf-80bc-1eaaf4bc17aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;form_autocomplete_suggestions-1743162448710&quot;)/li[2]</value>
-      <webElementGuid>14ff3ce9-6de5-4808-838f-d3f2ed9b5764</webElementGuid>
+      <value>id(&quot;form_autocomplete_suggestions-1743512249834&quot;)/li[2]</value>
+      <webElementGuid>c4b909c7-97cd-46a4-ad87-2e91a4a7f8c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,15 +79,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='']</value>
-      <webElementGuid>e1109710-4c46-4bc0-99bc-a939d6ada661</webElementGuid>
+      <webElementGuid>b4fc6215-5df1-41fa-b908-44ec0ec4023e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='form_autocomplete_suggestions-1743162448710']/li[2]</value>
-      <webElementGuid>a12eacb1-fbf8-4775-9fbb-966173d9ecca</webElementGuid>
+      <value>//ul[@id='form_autocomplete_suggestions-1743512249834']/li[2]</value>
+      <webElementGuid>06ac001a-8f61-4363-a80c-212fe17f445d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,31 +95,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='tenant course 201'])[2]/following::li[1]</value>
-      <webElementGuid>3c32df6a-66d3-4b0f-bf47-0002d94fd063</webElementGuid>
+      <webElementGuid>837231af-2cb9-46cb-a585-a66adde2c2f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Selection'])[1]/following::li[2]</value>
-      <webElementGuid>2ce20873-eb1c-4bef-8ff4-acda47ade304</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='backup course_deleting the course'])[2]/preceding::li[1]</value>
+      <webElementGuid>f0b591ef-c62c-456e-8a74-e2c3f7b7b34a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon course_Restore activity'])[2]/preceding::li[1]</value>
-      <webElementGuid>6430ad9e-7590-4045-ac9b-5aabe2bc2714</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='backup course_deleting the course'])[2]/preceding::li[2]</value>
-      <webElementGuid>6b836273-6d1d-4479-9568-97b570b4952d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon_Learning path Course'])[2]/preceding::li[2]</value>
+      <webElementGuid>fdf26af0-3c52-4f79-aa37-a62391c69742</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,14 +119,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li[2]</value>
-      <webElementGuid>9c9ac362-9e5b-4075-a39e-b3ad4b66201c</webElementGuid>
+      <webElementGuid>b0505ff3-4ddd-4e52-931a-a4d8f5b07481</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//li[(text() = 'QA COURSE 2401' or . = 'QA COURSE 2401')]</value>
-      <webElementGuid>ee390030-855a-4b17-b048-a22301819e39</webElementGuid>
+      <value>//li[(text() = 'Katalon course_Restore activity' or . = 'Katalon course_Restore activity')]</value>
+      <webElementGuid>b7166179-9cd1-47a0-988c-e597bcf1cbf6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

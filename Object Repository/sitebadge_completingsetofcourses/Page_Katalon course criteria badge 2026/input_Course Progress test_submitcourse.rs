@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1c1c4a73-afb6-4797-8907-9a398c263b5d</webElementGuid>
+      <webElementGuid>dc306a97-2e3c-4eb6-9b59-c3938787861b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>e27120dd-862b-4644-ace3-665c84edda7e</webElementGuid>
+      <webElementGuid>ba13074b-fc9c-41b5-81c0-24ea2a985e30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
                     btn-primary
                     
                     </value>
-      <webElementGuid>10f474d4-6b56-42a4-a46a-167a5bae2ea2</webElementGuid>
+      <webElementGuid>ae367ca4-ed85-44b3-9891-c928f82015ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>submitcourse</value>
-      <webElementGuid>32136f0a-16dc-4a48-99fc-bb3e637e3aee</webElementGuid>
+      <webElementGuid>a413ffd6-313a-4c0e-95f5-e5c9d3dd0fac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>id_submitcourse</value>
-      <webElementGuid>f69624a6-a8c3-4612-b812-c316b3289b56</webElementGuid>
+      <webElementGuid>67e0c74d-7d6e-4d7a-abf4-e947d8836428</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Add courses</value>
-      <webElementGuid>00e3a188-29e6-4b04-99c2-23760da29426</webElementGuid>
+      <webElementGuid>3e0d8ab6-9232-4d62-b5ce-866ee9f184e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;id_submitcourse&quot;)</value>
-      <webElementGuid>d3224703-454c-456a-8993-05986f78df96</webElementGuid>
+      <webElementGuid>dc407da7-17e4-476c-b850-8b5301b16775</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='id_submitcourse']</value>
-      <webElementGuid>136f198b-cc7c-4de4-8346-f37527590ef4</webElementGuid>
+      <webElementGuid>1d4dbf75-1116-4b59-b988-7c8df5584f96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='yui_3_17_2_1_1743144524695_171']/input</value>
-      <webElementGuid>144a146e-f2d1-4ef5-ac07-0690473403df</webElementGuid>
+      <webElementGuid>fdaa0555-7305-43ee-9173-abb80ecad68b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/input</value>
-      <webElementGuid>fbfc1fd6-f06e-44db-99f3-2eca238775ff</webElementGuid>
+      <webElementGuid>bbf69ba8-41e7-4f41-bd8b-ffa7cf5e537b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'submitcourse' and @id = 'id_submitcourse']</value>
-      <webElementGuid>a5ededc2-30aa-4430-a72e-d66a0ec0bb18</webElementGuid>
+      <webElementGuid>e902571f-6507-4164-9bb1-68e7cdf6d0d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_QA COURSE 2401</name>
+   <tag></tag>
+   <elementGuidId>f51175a9-4b7c-44a2-b36f-a76fdda8f447</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#id_courses</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[text()='QA COURSE 2401']&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e4cb2a44-81e5-4854-81b3-feea1d222952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select </value>
+      <webElementGuid>5492a5ae-36b4-4ae6-a100-4b6ab9fe58e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>courses[]</value>
+      <webElementGuid>2bb63146-943f-4d68-89fe-a53a9e8e33c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_courses</value>
+      <webElementGuid>36f61df8-7f6a-496e-b893-8c4a744dc270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-limittoenrolled</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>35d930b3-ab4c-461b-8e8c-f0ea8a549839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-onlywithcompletion</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>97ecc0e4-8a7f-4be4-9af1-4467f32ae06b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0603d547-7903-4895-b9d7-035df5d52ced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        QA COURSE 2401</value>
+      <webElementGuid>5989652e-8911-4084-b554-114acffc8e0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id_courses&quot;)</value>
+      <webElementGuid>a080dab6-b512-4406-9860-a71680363b7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='id_courses']</value>
+      <webElementGuid>c132582d-9cf6-4cbd-a7f8-ca1eac7f926b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1743509073975_55']/select</value>
+      <webElementGuid>9e58db3b-8a6e-40fd-b4b5-c810423b1c06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add courses'])[1]/following::select[1]</value>
+      <webElementGuid>4e01c9ff-5fcc-40b1-932a-00b67b4fc6b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Uploaded Successfully'])[1]/following::select[1]</value>
+      <webElementGuid>7a3287ee-0ace-4473-bc39-c35e6ddb3c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA COURSE 2401'])[2]/preceding::select[1]</value>
+      <webElementGuid>77d8341a-6233-49da-a190-7c344c2e7393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>951b6a70-d222-449e-9fe5-548e7163119f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'courses[]' and @id = 'id_courses' and (text() = '&#xd;
+        QA COURSE 2401' or . = '&#xd;
+        QA COURSE 2401')]</value>
+      <webElementGuid>4de25365-c840-47d1-abb9-ed2bfa3e0675</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

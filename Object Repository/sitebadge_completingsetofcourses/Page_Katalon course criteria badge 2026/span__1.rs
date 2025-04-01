@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1</name>
+   <tag></tag>
+   <elementGuidId>c28b4541-eca6-4e19-b002-47cd1f2f7317</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='form_autocomplete_selection-1743512249834-0']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form_autocomplete_selection-1743512249834-0 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bfb85bbc-ca72-4644-a59a-056227c357b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>469a8f78-7cf4-4568-a4dc-8756b7e5d944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>× </value>
+      <webElementGuid>58ae54ba-977c-40b2-97a2-8556aa7457ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_autocomplete_selection-1743512249834-0&quot;)/span[1]</value>
+      <webElementGuid>cf436ad4-da4c-4287-b7d1-5bc2fa70870c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='form_autocomplete_selection-1743512249834-0']/span</value>
+      <webElementGuid>eb711ad4-d85d-477f-87dd-99ae70716001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add courses'])[1]/following::span[2]</value>
+      <webElementGuid>34ad4ad3-511e-4639-9e93-c1f7003306a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tenant course 201'])[2]/preceding::span[2]</value>
+      <webElementGuid>9b2e6a86-607b-4261-bf30-b402ab6207fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='backup course_deleting the course'])[2]/preceding::span[2]</value>
+      <webElementGuid>54b029ad-ce07-45d5-b5bf-d4688b20afef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span</value>
+      <webElementGuid>6e659b58-98da-49f7-94e0-b766c3d302f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '× ' or . = '× ')]</value>
+      <webElementGuid>58e4b7bf-d988-4bf9-8f4f-e5df6f9eb016</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
