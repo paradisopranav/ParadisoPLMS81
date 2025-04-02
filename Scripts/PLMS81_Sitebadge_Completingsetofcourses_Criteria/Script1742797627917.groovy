@@ -102,6 +102,7 @@ WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/P
 WebUI.selectOptionByValue(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/select_tenant course 201QA COURSE 2401Katal_dc6dfe'), 
     '1110', true)
 
+WebUI.click(findTestObject('sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/div_QA COURSE 2401'))
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Katalon course criteria badge 2026/input_Course Progress test_submitcourse'))
 
