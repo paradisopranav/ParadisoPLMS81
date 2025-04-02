@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>PLMS81_Discover_Create_Workspace</name>
+   <name>PLMS81_Course_Format_Social_Format</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>7cd39bd7-6d24-4a52-afee-95e91f847dba</testCaseGuid>
+   <testCaseGuid>ac7d284b-838e-4bf7-8db3-5addfaaac4f2</testCaseGuid>
 </TestCaseEntity>
