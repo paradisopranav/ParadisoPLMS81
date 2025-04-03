@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_concat(, , QA COURSE 2401, , )_dropdownMe_3154c4_1</name>
+   <name>img_Admin User_userpicture (1)</name>
    <tag></tag>
-   <elementGuidId>9e73a8ec-76fb-4f72-a916-404a2e8a1e34</elementGuidId>
+   <elementGuidId>691702ae-dc4d-4362-a471-5bcebfeee17b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//i[@id='dropdownMenuButton'])[37]</value>
+         <value>//a[@id='action-menu-toggle-1']/span/span[2]/span/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>tr:nth-of-type(41) > td.actions.cell.c4.lastcol > #dropdownMenuButton</value>
+         <value>img.userpicture</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,87 +22,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>i</value>
-      <webElementGuid>72a55661-5580-436d-a087-015226de591e</webElementGuid>
+      <value>img</value>
+      <webElementGuid>c348211f-3e26-424c-94c2-9df5df95161c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189</value>
+      <webElementGuid>6e0a79b8-6446-4c14-8b47-69476ead82c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fa fa-ellipsis-v</value>
-      <webElementGuid>64826d78-48d5-45f4-bd01-de183cb91610</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>436a861f-13af-41df-a142-44c00a8cf4d1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>dropdownMenuButton</value>
-      <webElementGuid>339ab2b9-8d31-48ef-b30f-a9cd54f44a86</webElementGuid>
+      <value>userpicture</value>
+      <webElementGuid>bd3dc6f9-6fde-462c-b5fd-f0a93eb4d0c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-toggle</name>
+      <name>width</name>
       <type>Main</type>
-      <value>dropdown</value>
-      <webElementGuid>5745ead7-bdc0-4eba-8163-6d6f403b5787</webElementGuid>
+      <value>35</value>
+      <webElementGuid>e18dd03a-9a9c-4f8d-bfce-66c36637f1bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-expanded</name>
+      <name>height</name>
+      <type>Main</type>
+      <value>35</value>
+      <webElementGuid>6e080f90-6ff6-4a2e-8246-3ebeceec3569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>13e1884e-c1c1-4da6-97f0-47796f99eba0</webElementGuid>
+      <webElementGuid>6da95fe1-c343-4c3e-a944-e95968f24f78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/table[@class=&quot;table table-bordered table-striped&quot;]/tbody[1]/tr[41]/td[@class=&quot;actions cell c4 lastcol&quot;]/i[@id=&quot;dropdownMenuButton&quot;]</value>
-      <webElementGuid>47f550f6-fbed-429b-adf9-a7c142e2396b</webElementGuid>
+      <value>id(&quot;action-menu-toggle-1&quot;)/span[@class=&quot;userbutton&quot;]/span[@class=&quot;avatars&quot;]/span[@class=&quot;avatar current&quot;]/img[@class=&quot;userpicture&quot;]</value>
+      <webElementGuid>082de7c6-eff4-43ed-a43c-38fd9da379f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(//i[@id='dropdownMenuButton'])[41]</value>
-      <webElementGuid>bfbe4c1b-6a21-4162-98e8-d507fa05550d</webElementGuid>
+      <value>//a[@id='action-menu-toggle-1']/span/span[2]/span/img</value>
+      <webElementGuid>1c071427-273e-4acd-9d01-35887277d2d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:img</name>
       <type>Main</type>
-      <value>//section[@id='region-main']/div/div/table/tbody/tr[41]/td[5]/i</value>
-      <webElementGuid>1395ec15-8109-4a0d-86ad-409bd289bf98</webElementGuid>
+      <value>//img[contains(@src,'https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189')]</value>
+      <webElementGuid>a5c9e875-c151-4e00-802d-ce4254415d63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[41]/td[5]/i</value>
-      <webElementGuid>177c703f-c331-4391-a76a-e88a20e348fd</webElementGuid>
+      <value>//span[2]/span/img</value>
+      <webElementGuid>09f6d588-98b0-43a7-9f3b-df5220c263cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//i[@type = 'button' and @id = 'dropdownMenuButton']</value>
-      <webElementGuid>94729e32-96a5-4ad7-a444-08345bc5ff92</webElementGuid>
+      <value>//img[@src = 'https://plms-php81.paradisolms.net/pluginfile.php/5/user/icon/paradiso/f2?rev=104189']</value>
+      <webElementGuid>af0c718f-54be-4c7f-bf75-6af8882b9571</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

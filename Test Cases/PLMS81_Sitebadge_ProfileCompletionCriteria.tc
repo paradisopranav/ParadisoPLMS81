@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Sitebadge_ProfileCompletionCriteria</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>47dfd258-5854-439b-876f-3c7192c95918</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>24cb762d-e937-48b2-aabc-993cb36269d1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\S\\Desktop\\Paradiso\\Google_Download\\th.jpg'</defaultValue>
+      <description></description>
+      <id>24cb762d-e937-48b2-aabc-993cb36269d1</id>
+      <masked>false</masked>
+      <name>badgeimage</name>
+   </variable>
+</TestCaseEntity>
