@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Sitebadge_Awardedbadges_Criteria</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6aac4fa0-b347-4b26-bdbe-e7164ebe54dc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4f2958d6-3690-4645-be2e-eb397501f52d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\S\\Desktop\\Paradiso\\Google_Download\\th.jpg'</defaultValue>
+      <description></description>
+      <id>4f2958d6-3690-4645-be2e-eb397501f52d</id>
+      <masked>false</masked>
+      <name>awardbadge</name>
+   </variable>
+</TestCaseEntity>
