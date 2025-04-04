@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_AI Question Generator_1_2</name>
+   <tag></tag>
+   <elementGuidId>77f0494a-a807-4bd3-9e4b-f637809cc9ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@class, 'nav_link_redirect') and normalize-space(text())='AI Question Generator']&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.nav_link_redirect</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ebecbd53-970d-4edc-a800-b5008b9f4703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#linkblock_ai_quiz_generator</value>
+      <webElementGuid>40260b45-c39e-4bab-8914-176da955d4ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav_link_redirect</value>
+      <webElementGuid>93e0b4ad-47f1-442b-9283-d28039cf9525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>4ddd0e31-7587-4b49-a760-382f88122732</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e3415cfc-8be5-4e84-9452-be94ddcc77e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>983a879e-a01e-463a-880f-328d315a26e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AI Question Generator</value>
+      <webElementGuid>a2ffead1-3010-4b6e-8194-3908dc441fb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1743756804016_866&quot;)/a[@class=&quot;nav-link nav_link_redirect&quot;]</value>
+      <webElementGuid>f4b89577-00a0-4dd1-8e72-778ba43792e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='yui_3_17_2_1_1743756804016_866']/a</value>
+      <webElementGuid>453c8850-871d-4879-b194-7c2d11a40132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'AI Question Generator')]</value>
+      <webElementGuid>7b32d855-e6bc-41fb-a688-3ccf7f265fc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::a[2]</value>
+      <webElementGuid>a0a73796-23e4-4c32-95ea-ad4a6d224d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign roles'])[1]/following::a[3]</value>
+      <webElementGuid>cd2e697a-8d9e-425b-ba7b-24e637fc45e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move AI Question Generator block'])[1]/preceding::a[1]</value>
+      <webElementGuid>07286617-783a-4df4-a241-83f98d246e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions menu'])[1]/preceding::a[2]</value>
+      <webElementGuid>d01dba72-3d2f-47eb-b76b-e087435293f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AI Question Generator']/parent::*</value>
+      <webElementGuid>96f1eb69-e1d4-45bc-b949-8bb37a4149e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#linkblock_ai_quiz_generator')]</value>
+      <webElementGuid>24aeaa00-c613-4534-9b9d-8bbf7bad1d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]/a</value>
+      <webElementGuid>7259019a-6771-44a7-b1f6-0c9a759f9df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#linkblock_ai_quiz_generator' and (text() = 'AI Question Generator' or . = 'AI Question Generator')]</value>
+      <webElementGuid>a8d43dea-260c-4614-b399-f8370694c6c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

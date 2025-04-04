@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Quiz AI question generator</name>
+   <tag></tag>
+   <elementGuidId>c9577f08-d08e-4592-b134-ad65f3f66d97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Quiz AI question generator']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.search_course_name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b5c5110-d95b-4ea2-9a99-8d772a6aeb6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search_course_name </value>
+      <webElementGuid>e6dc261c-9199-49e3-ab51-309a268b2882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>2b120353-a986-4856-924a-9753953efda1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>cbdb4232-897d-417c-9496-3aa936f386e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-original-title</name>
+      <type>Main</type>
+      <value>Quiz AI question generator</value>
+      <webElementGuid>fdd78555-678f-4595-96a0-009057052353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip628584</value>
+      <webElementGuid>bcdf88ea-2b8a-4531-b31b-5ca6371bdef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quiz AI question generator</value>
+      <webElementGuid>2ee36316-2cd0-4461-a39b-dda73e0b4f88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1743756492558_43&quot;)/div[@class=&quot;course_search_popup_data&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 course_search_div p-0&quot;]/div[@class=&quot;row course-list&quot;]/div[@class=&quot;row card-box&quot;]/div[@class=&quot;texts-wrap&quot;]/a[1]/div[@class=&quot;search_course_name&quot;]</value>
+      <webElementGuid>4d0477bb-40ea-4edc-842d-2a6f9305d3b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1743756492558_43']/div[2]/div/div[2]/div/div/div[2]/a/div</value>
+      <webElementGuid>5e4308a8-3bce-49d1-8ff3-6990811f44b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quiz'])[1]/following::div[2]</value>
+      <webElementGuid>d44d0f5d-bb6e-4649-ac26-296601ee2445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA'])[2]/preceding::div[1]</value>
+      <webElementGuid>4f2dd5d5-3aa0-4255-ae68-3ad316c5c35a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::div[1]</value>
+      <webElementGuid>db636319-6733-448b-af5b-3bf0e3c9a10f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quiz AI question generator']/parent::*</value>
+      <webElementGuid>864ffe94-1b13-4e40-859b-449d349dfb97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/a/div</value>
+      <webElementGuid>80ace5ae-6799-41f7-b6b6-351e22872c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Quiz AI question generator' or . = 'Quiz AI question generator')]</value>
+      <webElementGuid>ae9d441b-6c23-4071-9207-ce5514296bc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

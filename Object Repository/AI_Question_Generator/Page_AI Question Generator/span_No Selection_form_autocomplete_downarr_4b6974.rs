@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No Selection_form_autocomplete_downarr_4b6974</name>
+   <tag></tag>
+   <elementGuidId>1ce10327-a75f-4d5f-99d4-52463f4b54fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(@class, 'form-autocomplete-downarrow')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form_autocomplete_downarrow-1743756771202</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b822f27c-b452-4562-8af6-5ac043afc7f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-autocomplete-downarrow</value>
+      <webElementGuid>33220360-16c5-475b-9656-b75c1e8e439a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>form_autocomplete_downarrow-1743756771202</value>
+      <webElementGuid>f204c36c-07f0-4d34-b2fb-c3c709a57361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_autocomplete_downarrow-1743756771202&quot;)</value>
+      <webElementGuid>7f6979e1-8add-4e4a-8353-f0d96d5d1cf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='form_autocomplete_downarrow-1743756771202']</value>
+      <webElementGuid>1ba07bec-0ce0-4938-a3f3-ebd7e3f8ada0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='id_activityselection']/div/div/div[2]/div[3]/span</value>
+      <webElementGuid>fdfb4c5c-0e51-45c6-99d8-a99d6245349b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Selection'])[1]/following::span[1]</value>
+      <webElementGuid>85fc3e22-d929-42ac-acf0-c9ed29a2fb8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity List:'])[1]/following::span[2]</value>
+      <webElementGuid>65ade0d7-5535-4986-a07b-d858fb9d591c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Page inbound and outbound Activity'])[3]/preceding::span[1]</value>
+      <webElementGuid>aaabbeb8-1a9b-42ee-81b7-93b4dc31c4f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Vimeo video Activity'])[3]/preceding::span[1]</value>
+      <webElementGuid>b168c869-3249-4e2c-8a79-e18894aeef80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/span</value>
+      <webElementGuid>649d9697-d30b-4642-bae3-da8105462f9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'form_autocomplete_downarrow-1743756771202']</value>
+      <webElementGuid>0e62fa89-f849-4536-bded-02d790a161ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

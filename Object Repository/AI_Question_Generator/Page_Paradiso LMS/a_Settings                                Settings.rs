@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Settings                                Settings</name>
+   <tag></tag>
+   <elementGuidId>9f44c6e1-d644-401b-ba20-2b46ea464ef4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@class='dropdown-item menu-action' and contains(@href, 'admin/search.php') and .//div[@class='menu-title' and text()='Settings']]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>97b6e04d-1b7b-49ff-b4dc-71deb57f3602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://plms-php81.paradisolms.net/admin/search.php</value>
+      <webElementGuid>b87e0d64-f6c4-43ce-ae2c-234b91407a43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item menu-action</value>
+      <webElementGuid>a3d9e8a4-a6a0-477f-9e50-0262fb88be9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>4b0ca7eb-ef54-473b-8d2b-c6fbde588efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>actionmenuaction-2</value>
+      <webElementGuid>a78d606b-cf18-4384-ace3-c370cf29c040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Settings
+                                Settings
+                        </value>
+      <webElementGuid>8d6061f1-7a6f-4a3b-bfe0-0b2d462c8e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action-menu-1-menu&quot;)/a[@class=&quot;dropdown-item menu-action&quot;]</value>
+      <webElementGuid>e47de098-c98b-4e12-b618-35e93a6c33e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='action-menu-1-menu']/a[2]</value>
+      <webElementGuid>806711d2-5294-40c0-9920-410a584f28d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Points'])[1]/following::a[1]</value>
+      <webElementGuid>dea9571f-d93c-4de5-a8b6-a6650dfc24c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='support@paradisosoftware.com'])[1]/following::a[3]</value>
+      <webElementGuid>46a22d21-c5a4-4342-9cbe-3a8ee93c42be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/admin/search.php')]</value>
+      <webElementGuid>7012ab13-99d2-486b-ae1d-5d7fd02fdc75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div/a[2]</value>
+      <webElementGuid>143218c4-7aa4-4bdb-9631-dd8043606cc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://plms-php81.paradisolms.net/admin/search.php' and (text() = '&#xd;
+                                Settings&#xd;
+                                Settings&#xd;
+                        ' or . = '&#xd;
+                                Settings&#xd;
+                                Settings&#xd;
+                        ')]</value>
+      <webElementGuid>5385a2f9-a713-4360-9f48-20de5451aa78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

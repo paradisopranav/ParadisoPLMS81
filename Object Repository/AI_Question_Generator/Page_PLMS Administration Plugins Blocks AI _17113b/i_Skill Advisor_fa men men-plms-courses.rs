@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Skill Advisor_fa men men-plms-courses</name>
+   <tag></tag>
+   <elementGuidId>ba305c63-5f10-46ef-a190-4fe0c7488afd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.men.men-plms-courses</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='itemid_61']/a/div/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>85ada1a7-b4ad-448b-b611-6d8b5affa432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa men men-plms-courses</value>
+      <webElementGuid>d002ae8d-12b7-4e6d-9795-4baa95672806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>21e63a85-fea6-4709-b815-55f7246f6399</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-drawer&quot;)/div[@class=&quot;wrapper w-navigation&quot;]/nav[@id=&quot;sidebar&quot;]/ul[@class=&quot;list-unstyled components&quot;]/li[@id=&quot;itemid_61&quot;]/a[@class=&quot;accordion-toggle collapsed list-group-item list-group-item-action&quot;]/div[@class=&quot;col-md-12 text-center icon_text_nav&quot;]/span[@class=&quot;media-left&quot;]/i[@class=&quot;fa men men-plms-courses&quot;]</value>
+      <webElementGuid>af54eace-984c-49b8-a003-2a0c03f58bf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='itemid_61']/a/div/span/i</value>
+      <webElementGuid>cd3ee4fe-ea25-4de8-a396-8ff60be10823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div/span/i</value>
+      <webElementGuid>9dc564f8-804b-4149-87c5-882419295e2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
