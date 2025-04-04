@@ -44,6 +44,10 @@ WebUI.sendKeys(findTestObject('Object Repository/AI_Question_Generator/Page_PLMS
 
 WebUI.click(findTestObject('Object Repository/AI_Question_Generator/Page_PLMS Administration Search/span_Question'))
 
+WebUI.setEncryptedText(findTestObject('Object Repository/AI_Question_Generator/Page_PLMS Administration Plugins Blocks AI _17113b/input_block_ai_quiz_generator  apikey_s_blo_52270a'),
+	'uwKpzziK/2TVxPHt2l9vip1odnR5QLWHYGdssOKO4A20vfHE+UP8EVdfBYhHKDiYupL2KnpcyfzwNTbOMMrFGMBysUsWKVacsCbX9tjv8fiM2oL+to+j+hzo8htzUejLFW67E+g8zMjv6hTbhC8AfmDs6ASAI+DpjjI4w5MpOt4A0PJqujHFjnrw85Jus8rKD1pV5jmZ1PWmC+UNb6MjvjQz3MqWX/jL')
+
+
 WebUI.selectOptionByValue(findTestObject('Object Repository/AI_Question_Generator/Page_PLMS Administration Plugins Blocks AI _17113b/select_gpt-3.5-turbo            gpt-3.5-tur_5e8193'), 
     'gpt-4-turbo', true)
 
