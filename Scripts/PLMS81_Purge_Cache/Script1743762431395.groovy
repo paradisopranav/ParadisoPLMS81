@@ -17,5 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.focus(findTestObject(null))
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://plms-php81.paradisolms.net/login/index.php')
+
+WebUI.click(findTestObject('Object Repository/purge/Page_Paradiso LMS Log in to the site/div_Login Into your account to continue wit_44048b'))
+
+WebUI.setText(findTestObject('Object Repository/purge/Page_Paradiso LMS Log in to the site/input_Username_username'), 'admin')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/purge/Page_Paradiso LMS Log in to the site/input_Password_password'), 
+    'ed/1/AZbo1YX04df+rN1oA==')
+
+WebUI.click(findTestObject('Object Repository/purge/Page_Paradiso LMS Log in to the site/button_Log in'))
 
