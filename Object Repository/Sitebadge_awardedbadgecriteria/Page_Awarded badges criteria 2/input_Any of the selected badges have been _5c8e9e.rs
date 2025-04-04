@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Time Unit_submitbutton</name>
+   <name>input_Any of the selected badges have been _5c8e9e</name>
    <tag></tag>
-   <elementGuidId>b588b9be-4741-434f-94b6-2a50e024915b</elementGuidId>
+   <elementGuidId>cc9690c6-fd9e-4780-b212-f6058c641db5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b67d4545-1f37-40e5-a91d-3a4e6b6bef8c</webElementGuid>
+      <webElementGuid>9774e67f-d846-4574-abeb-06f207b0c1ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>b0ed0d49-6390-4cfd-8172-ba68c49bdc5e</webElementGuid>
+      <webElementGuid>95419626-6fba-4e1c-a5a5-08b36a45fc57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
                     btn-primary
                     
                     </value>
-      <webElementGuid>603d59b5-c7a7-47db-8844-2aa964277f65</webElementGuid>
+      <webElementGuid>df85ff93-a1b8-4a19-bb07-4cec08657553</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>submitbutton</value>
-      <webElementGuid>14209549-da86-43c7-8f32-9218ac851366</webElementGuid>
+      <webElementGuid>15360651-a644-4ef4-a2cf-c2e433660ec6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,15 +58,15 @@
       <name>id</name>
       <type>Main</type>
       <value>id_submitbutton</value>
-      <webElementGuid>da2ba97f-3ad3-4675-9d02-430c9c2de6d5</webElementGuid>
+      <webElementGuid>60863f6f-3f8e-4ae0-a382-0a2942a4aac5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Create badge</value>
-      <webElementGuid>03946cc4-00d1-41ca-8ce0-3a5bb14b24d0</webElementGuid>
+      <value>Save</value>
+      <webElementGuid>fbb7627a-a782-49f2-b4c2-59df6a2a795a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;id_submitbutton&quot;)</value>
-      <webElementGuid>b9e3d9ca-5470-49a6-8ebf-0873af937d8c</webElementGuid>
+      <webElementGuid>bc9ac336-560d-4196-8847-97882310ef99</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,23 +82,23 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='id_submitbutton']</value>
-      <webElementGuid>f2365107-8e2e-48bb-85b5-0f9a42a30233</webElementGuid>
+      <webElementGuid>5a168375-a50c-4287-9d11-562d9c257399</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='yui_3_17_2_1_1742806038182_863']/input</value>
-      <webElementGuid>edc041f6-f407-4cef-9713-6d57bedac46c</webElementGuid>
+      <value>//span[@id='yui_3_17_2_1_1743758194605_426']/input</value>
+      <webElementGuid>8547977a-da70-4f61-b5be-1f171ed45767</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/span[2]/input</value>
-      <webElementGuid>24dbe0c4-0dd9-4441-98e7-4c0043facc85</webElementGuid>
+      <value>//span[2]/input</value>
+      <webElementGuid>40771ead-1de7-4919-a634-6dfb32755186</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'submitbutton' and @id = 'id_submitbutton']</value>
-      <webElementGuid>34f8f0fb-030c-4896-aca7-a47eb0e08bad</webElementGuid>
+      <webElementGuid>d37e1a0e-ceb0-4c53-b75b-ab1d18f5120b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
