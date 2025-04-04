@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='expiration testing'])[1]/preceding::a[1]</value>
+         <value>(//a[contains(text(),'Delete')])[26]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>da7936ea-877b-45b8-a982-cc07a4966f18</webElementGuid>
+      <webElementGuid>31252565-a4dd-4420-a378-a3bb009f5d53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>00267db0-0107-441e-9171-3286885fd3e2</webElementGuid>
+      <webElementGuid>c422d2dd-758a-4970-bf4b-9af2fd713a83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;delete=41408</value>
-      <webElementGuid>ba42eb15-cfc5-4730-b27f-1c8ef08c7378</webElementGuid>
+      <webElementGuid>e3f9a673-c524-4104-951b-def39978493b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>2a993d4c-217b-4c09-bf1c-c451c00629ac</webElementGuid>
+      <webElementGuid>25a5f167-3bb5-4d7c-b15c-ccc56e6e9273</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1743513385578_18&quot;)/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>af72c194-3113-4a3e-b647-e4685d2466a8</webElementGuid>
+      <webElementGuid>64e5f702-ca13-4142-b22a-c094fe875d0e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='yui_3_17_2_1_1743513385578_18']/div/a[4]</value>
-      <webElementGuid>b9896b99-c386-4957-b17e-03901d4be001</webElementGuid>
+      <webElementGuid>55047d77-03be-459b-94e2-4612088e1c07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Delete')])[26]</value>
-      <webElementGuid>a8729389-4fac-465d-84d0-891f4025c044</webElementGuid>
+      <webElementGuid>23a53479-9767-47a6-b881-5be7fbd4e686</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[26]/following::a[1]</value>
-      <webElementGuid>c21afb85-6f7e-423f-891a-a75b046c6778</webElementGuid>
+      <webElementGuid>3a6537be-2bc1-457b-9ae1-5907d8535fcd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[26]/following::a[2]</value>
-      <webElementGuid>a55f2e40-a4dd-40f2-a2b7-2124d2fe2db9</webElementGuid>
+      <webElementGuid>88d00ca0-c28b-4cba-a8c6-943f5805b7d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy of qa badge11'])[1]/preceding::a[1]</value>
-      <webElementGuid>3e5e5373-05c8-433b-8fda-8b7ad2992dcb</webElementGuid>
+      <webElementGuid>4dcee7eb-c877-4175-aa23-367dc4dc67e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Not available to users'])[15]/preceding::a[2]</value>
-      <webElementGuid>5ba96da6-f230-4cec-a8d8-a7e3ccbb04b1</webElementGuid>
+      <webElementGuid>2db0ff25-5281-4cd1-8381-1d17021306d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;delete=41408')]</value>
-      <webElementGuid>54e2d87a-cbea-408b-a9b1-7f9b11276406</webElementGuid>
+      <webElementGuid>145adc2a-b783-4749-93e5-ef54f5efe603</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[26]/td[5]/div/a[4]</value>
-      <webElementGuid>39445d42-3720-4aa5-bf57-f45d498fd603</webElementGuid>
+      <webElementGuid>66f69b5c-ad6c-43ff-b474-d1baaa132c89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;delete=41408' and (text() = 'Delete' or . = 'Delete')]</value>
-      <webElementGuid>30854e4a-6daf-4d31-a68b-c8c456cb7692</webElementGuid>
+      <webElementGuid>03645625-6241-420f-9854-c22a16999af9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

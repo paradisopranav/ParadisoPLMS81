@@ -6,12 +6,11 @@
    <elementGuidId>76fc3468-18b5-4f2c-98cf-acecf85fd13d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//td[@id='yui_3_17_2_1_1743684628241_18']/div/a[3]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='manul badge'])[1]/preceding::a[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>03c97923-23bc-4add-b3c2-92216314b008</webElementGuid>
+      <webElementGuid>ee1d2dd0-8104-44bf-a829-8be3e58c73b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>dfadbce5-27d1-4618-a65e-cfb8b860dd95</webElementGuid>
+      <webElementGuid>8d98ba09-c65d-496c-8b84-dde86e8005e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=41445&amp;sesskey=Q58hhH75el</value>
-      <webElementGuid>27bac5f8-8b9c-46e5-bf1a-d0168e1fb520</webElementGuid>
+      <webElementGuid>eb9c90ef-965e-49fe-993d-2c852502e617</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Copy</value>
-      <webElementGuid>bdb31741-a7c6-4a24-a809-87cda8a89f0a</webElementGuid>
+      <webElementGuid>6a100cf5-b4eb-47a8-b502-3730a11eafa3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1743684628241_18&quot;)/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>1fd7223d-ffed-4714-83ff-179cfdffff32</webElementGuid>
+      <webElementGuid>d8eb62c9-d358-4124-a25d-04d19fbb1de0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='yui_3_17_2_1_1743684628241_18']/div/a[3]</value>
-      <webElementGuid>26ece6c8-f982-4b0c-9ec9-aa2bd121ba0d</webElementGuid>
+      <webElementGuid>1696d4ff-0588-4b0f-ae4a-2729b067ae4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Copy')])[36]</value>
-      <webElementGuid>3a4fd180-5982-4989-9b19-aebe9580847e</webElementGuid>
+      <webElementGuid>b87061f0-f4dc-4bcc-a1e6-c09f9e5cff4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[36]/following::a[1]</value>
-      <webElementGuid>79341d62-cf65-4226-9615-dc0b477dbcf6</webElementGuid>
+      <webElementGuid>6af303e9-8df4-47c9-93bf-579b3ed8260d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable access'])[15]/following::a[2]</value>
-      <webElementGuid>5aae5afb-b48d-41e1-b0f0-eee73e50b51d</webElementGuid>
+      <webElementGuid>4d7bd364-f4f7-4698-a3e9-178f0fef4945</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[36]/preceding::a[1]</value>
-      <webElementGuid>6d48b316-3206-49ec-8009-c22226b9e373</webElementGuid>
+      <webElementGuid>1f730021-223e-42a0-938b-223203079be5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='manul badge'])[1]/preceding::a[2]</value>
-      <webElementGuid>90793b44-a8a8-474f-a7b3-c419d2c126ef</webElementGuid>
+      <webElementGuid>e2378944-7b26-4163-9ac5-22aa6cd0c7f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=41445&amp;sesskey=Q58hhH75el')]</value>
-      <webElementGuid>5196739d-d308-492d-a503-ea862d4a6c5b</webElementGuid>
+      <webElementGuid>678b2133-d1e0-4087-bbb6-fadc9785712c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[36]/td[5]/div/a[3]</value>
-      <webElementGuid>fbfcc6f2-dcbb-478e-97ad-c6655dc7fe8e</webElementGuid>
+      <webElementGuid>5a253cd7-e4a9-48ad-9357-952e3fd3707b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/action.php?copy=1&amp;id=41445&amp;sesskey=Q58hhH75el' and (text() = 'Copy' or . = 'Copy')]</value>
-      <webElementGuid>c7d2b0d7-c498-4904-a8cc-9103d5fc4ad5</webElementGuid>
+      <webElementGuid>822262c7-b7d2-4122-874f-9411141cd126</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

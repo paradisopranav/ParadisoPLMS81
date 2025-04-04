@@ -6,12 +6,12 @@
    <elementGuidId>01e9fe69-e911-4926-80b6-9e9ff1305297</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='actionmenuaction-2']/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.menu-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='actionmenuaction-2']/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>33d8f717-a29f-4f54-9b99-b69955dc0cbb</webElementGuid>
+      <webElementGuid>5480819f-0613-4816-95db-e67f2b680779</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-title</value>
-      <webElementGuid>f7a8dfa5-0405-41b2-8672-068632028c45</webElementGuid>
+      <webElementGuid>7d117eef-d18b-4b6d-9372-ffcd593f56d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Settings</value>
-      <webElementGuid>903bd07f-f73e-44c0-adb4-14943eab2d26</webElementGuid>
+      <webElementGuid>9c9959c5-f0c4-44b0-8f83-c303bb1b4323</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;actionmenuaction-2&quot;)/div[@class=&quot;menu-item cust-menu-item&quot;]/div[@class=&quot;menu-title&quot;]</value>
-      <webElementGuid>658fe2e3-da35-4fd6-9d70-5a3ca6939f98</webElementGuid>
+      <webElementGuid>3c6b938f-82f3-4353-94d2-98aa3bd4c45b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='actionmenuaction-2']/div/div</value>
-      <webElementGuid>0fe42ff3-6488-4ffc-ba3b-b753d6b75119</webElementGuid>
+      <webElementGuid>fe3965f5-4339-4538-a8ca-67522e5ea769</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::div[2]</value>
-      <webElementGuid>59197b2a-79a2-40d2-850d-09d9a5f09b55</webElementGuid>
+      <webElementGuid>e728aac3-2c60-49e8-8fe3-80704c05ee22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Points'])[1]/following::div[3]</value>
-      <webElementGuid>ef160a58-d800-4faf-b1bb-5db3142098ac</webElementGuid>
+      <webElementGuid>1f7e256f-f64d-4b27-a7ae-be5b5fa12bac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Day/Night Mode'])[1]/preceding::div[1]</value>
-      <webElementGuid>debb1238-2839-406d-afdf-a89cf19bd49e</webElementGuid>
+      <webElementGuid>5ef16867-86f3-47f0-a5f1-004729759a62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/preceding::div[6]</value>
-      <webElementGuid>ee4177aa-3164-4881-a02a-e8e1d6546d5f</webElementGuid>
+      <webElementGuid>de2f5b15-34c9-4741-a191-ddd8c274c3c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/div/div</value>
-      <webElementGuid>a5133f66-4cbb-40e0-9afd-dad544ff225f</webElementGuid>
+      <webElementGuid>7e0cda9d-9bd6-4783-b3b1-fe66fd889e45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Settings' or . = 'Settings')]</value>
-      <webElementGuid>e6ae975e-8a80-47b3-a2ef-1d5dd5ce9dbe</webElementGuid>
+      <webElementGuid>54dd7772-bb05-4746-996d-492f8188cdb5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

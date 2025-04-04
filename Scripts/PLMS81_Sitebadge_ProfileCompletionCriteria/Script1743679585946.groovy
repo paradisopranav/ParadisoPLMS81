@@ -105,19 +105,20 @@ WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteri
 
 WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_Katalon profile completion criteria 2/a_Recipients (0)'))
 
-WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/img_Admin User_userpicture'))
+/*
+ WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/img_Admin User_userpicture'))
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/div_Settings'))
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_PLMS Administration Search/a_Manage Badges'))
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/i_concat(, , QA COURSE 2401, , )_dropdownMe_3154c4'))
+WebUI.click(findTestObject('Sitebadge_ProfileCompletionCriteria/first action menu'))
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/a_Disable access'))
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/i_concat(, , QA COURSE 2401, , )_dropdownMe_3154c4'))
+WebUI.click(findTestObject('Sitebadge_ProfileCompletionCriteria/first action menu'))
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/a_Copy'))
 
@@ -133,7 +134,7 @@ WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecr
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_PLMS Administration Search/a_Manage Badges'))
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/i_concat(, , QA COURSE 2401, , )_dropdownMe_3154c4_1'))
+WebUI.click(findTestObject('Sitebadge_ProfileCompletionCriteria/first action menu'))
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/a_Delete'))
 
@@ -153,35 +154,55 @@ WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/P
 
 WebUI.delay(5)
 
-/* WebUI.click(findTestObject('Page_Dashboard/img_Admin User_userpicture (1)'))
+*/
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/img_Admin User_userpicture'))
 
-WebUI.click(findTestObject('Page_Dashboard/div_Settings (1)'))
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/div_Settings'))
 
-WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_PLMS Administration Search/a_Manage Badges'))
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_PLMS Administration Search/a_Manage Badges'))
 
 WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_Manage Badges/i_Complete First Name_dropdownMenuButton'))
 
 WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_Manage Badges/a_Disable access'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_Manage Badges/i_Complete First Name_dropdownMenuButton'))
 
 WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_Manage Badges/a_Copy'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_Copy of Katalon profile completion criteria 2/input_Time Unit_submitbutton'))
 
-WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_Copy of Katalon profile completion criteria 2/img_Admin User_userpicture'))
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_Copy of Katalon profile completion criteria 2/div_Settings'))
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/img_Admin User_userpicture'))
 
-WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_PLMS Administration Search/a_Manage Badges'))
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/div_Settings'))
+
+WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_PLMS Administration Search/a_Manage Badges'))
 
 WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_Manage Badges/i_Complete First Name_dropdownMenuButton_1'))
 
 WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_Manage Badges/a_Delete'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_Manage Badges/button_Delete and remove existing issued badges'))
 
-*/
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/copyof_actionmenu'))
+
+WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Copy_Deletebtn'))
+
+WebUI.delay(5)
+
+//WebUI.clearText(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Copy_toclickdeletebtn'))
+WebUI.click(findTestObject('Object Repository/Sitebadge_ProfileCompletionCriteria/Page_Manage Badges/button_Delete and remove existing issued badges_1'))
+
+WebUI.delay(5)
 
 WebUI.closeBrowser()
 

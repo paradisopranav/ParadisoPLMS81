@@ -6,12 +6,12 @@
    <elementGuidId>750b2094-488e-43a7-8cdf-1ce441c0dce6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='keepmeloggedin']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#keepmeloggedin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='keepmeloggedin']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8906c156-bbc2-4c0f-8452-504876ed9474</webElementGuid>
+      <webElementGuid>db1529be-1713-4a5f-acd9-a27c0a566bb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>922e9f57-d276-4f1a-bfc8-b93e9bd71fd6</webElementGuid>
+      <webElementGuid>10dc5107-95f1-496e-b5bd-3448198501ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>keepmeloggedin</value>
-      <webElementGuid>b87d5bb1-39b4-4a77-8383-e44d0cefde36</webElementGuid>
+      <webElementGuid>81203c94-2da9-4768-9394-e07c21a6e359</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>keepmeloggedin</value>
-      <webElementGuid>28f45aaf-9a19-4c3a-83c6-334df8f8ba0a</webElementGuid>
+      <webElementGuid>b8740ea1-b01d-4561-8f3d-68c507c0e971</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>9066b45b-6021-407b-afff-a9bcb30b2403</webElementGuid>
+      <webElementGuid>7f73413b-1657-4640-9bba-562778101bc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;keepmeloggedin&quot;)</value>
-      <webElementGuid>dd9e5e1d-01f8-4cea-b4e5-2d31cf4a7d07</webElementGuid>
+      <webElementGuid>6d32f8ad-46b7-4b7e-a63b-cf89253d5dd9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='keepmeloggedin']</value>
-      <webElementGuid>782b177b-f71c-4cb0-9f90-60b8d9180587</webElementGuid>
+      <webElementGuid>a459b7b7-580f-4fe8-b0fc-255b45af85ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='login']/div[4]/input</value>
-      <webElementGuid>05afd738-2216-4496-82c4-a23cf82560cb</webElementGuid>
+      <webElementGuid>35e9d171-445a-4689-9ffc-886c1c97beb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/input</value>
-      <webElementGuid>2ab41459-03d4-4ced-aeee-58066cbc1aeb</webElementGuid>
+      <webElementGuid>b3616c01-270c-40f9-b813-db342ae97230</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'keepmeloggedin' and @id = 'keepmeloggedin']</value>
-      <webElementGuid>14fc74ad-0bfe-4157-9961-5b72b6649d6b</webElementGuid>
+      <webElementGuid>9cbb7d26-9510-41a1-be5c-76ff7638ac50</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

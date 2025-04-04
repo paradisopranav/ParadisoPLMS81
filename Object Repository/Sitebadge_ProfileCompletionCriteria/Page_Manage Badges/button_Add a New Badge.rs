@@ -6,12 +6,12 @@
    <elementGuidId>ae0352bc-2970-4932-975a-04a597a7b471</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='region-main']/div/div/div[2]/div/form/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#single_button67e11c476a20319</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='region-main']/div/div/div[2]/div/form/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>63459427-f784-424c-9185-7da154190a98</webElementGuid>
+      <webElementGuid>bb8b06ab-7448-4668-a233-c2ecfa5153e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>8ad707f9-57cc-4ef9-9988-ba2987421bdd</webElementGuid>
+      <webElementGuid>ea12e2d3-8382-4a51-9646-5125a17d3213</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-round btn-secondary</value>
-      <webElementGuid>3fec86e3-372b-4a92-a06d-7ac9b46c68b6</webElementGuid>
+      <webElementGuid>49c4fd60-658a-4e8e-b5ac-26cec9c17282</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>single_button67e11c476a20319</value>
-      <webElementGuid>4768653b-c538-4ab0-bb4a-da3802e7fea7</webElementGuid>
+      <webElementGuid>5b1b36bd-71eb-4dd0-a1aa-acd81308f4ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add a New Badge</value>
-      <webElementGuid>a1617041-eac9-4a7a-a585-520e4495e667</webElementGuid>
+      <webElementGuid>991e5f78-ac56-4bbb-b83e-1c5328f8ad0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;single_button67e11c476a20319&quot;)</value>
-      <webElementGuid>cf7e6678-439b-4fb6-9851-445eea33e8f8</webElementGuid>
+      <webElementGuid>0168596b-00c0-4fee-8761-798d3829f969</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='single_button67e11c476a20319']</value>
-      <webElementGuid>ad752bde-e5a5-4f01-8e02-be4d74b9acc7</webElementGuid>
+      <webElementGuid>567f4829-6b31-4b90-ae16-5e6782e2f41d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='region-main']/div/div/div[2]/div/form/button</value>
-      <webElementGuid>431b9382-2605-45e2-ab91-143915f0a730</webElementGuid>
+      <webElementGuid>fb13833e-5994-4c70-b443-efac0d516c88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of badges available: 71'])[1]/following::button[1]</value>
-      <webElementGuid>2fe5c66f-8a06-4b37-94dd-6c97fc60cf4f</webElementGuid>
+      <webElementGuid>8f132bd1-8e4b-4f39-85f7-80625f24383c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Site badges: Manage Badges'])[1]/following::button[1]</value>
-      <webElementGuid>844e5415-f0ec-4e36-bb87-72337887f226</webElementGuid>
+      <webElementGuid>2a221dff-e253-48c6-b10f-8cb06cce9405</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(current)'])[1]/preceding::button[1]</value>
-      <webElementGuid>0aa95974-0428-4abd-8c59-9c7d37a378ab</webElementGuid>
+      <webElementGuid>813f2ae3-51b7-4a52-92cc-afd26da12b80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::button[1]</value>
-      <webElementGuid>b7c4935f-0963-4214-94e7-dfecec89888a</webElementGuid>
+      <webElementGuid>43bb6874-7d27-4dfc-bfce-d12647c3871a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add a New Badge']/parent::*</value>
-      <webElementGuid>a56541a5-4438-487a-86c5-07adbe7eea95</webElementGuid>
+      <webElementGuid>8527fbdf-b8c5-4a6d-9bbe-970a5343878c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button</value>
-      <webElementGuid>ee123f63-dbf9-4356-af96-57f9cfa62c12</webElementGuid>
+      <webElementGuid>4243c78a-a22e-4909-8e4d-fac2bf2401ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @id = 'single_button67e11c476a20319' and (text() = 'Add a New Badge' or . = 'Add a New Badge')]</value>
-      <webElementGuid>d3dc80ce-e696-4a12-ab8a-115885ed4ab7</webElementGuid>
+      <webElementGuid>d9f92184-ffe3-43af-8785-bfa77e6a7559</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

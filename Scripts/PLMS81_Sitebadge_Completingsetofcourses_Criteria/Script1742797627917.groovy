@@ -142,7 +142,7 @@ WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecr
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_PLMS Administration Search/a_Manage Badges'))
 
-WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/i_concat(, , QA COURSE 2401, , )_dropdownMe_3154c4_1'))
+WebUI.click(findTestObject('sitebadge_completingsetofcourses/Page_Manage Badges/i_concat(, , QA COURSE 2401, , )_dropdownMe_3154c4'))
 
 WebUI.click(findTestObject('Object Repository/sitebadge_completingsetofcourses/Page_Manage Badges/a_Delete'))
 

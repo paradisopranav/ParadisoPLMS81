@@ -6,12 +6,12 @@
    <elementGuidId>1dbd90f4-172b-4694-b965-5f67f2ce9cde</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//td[@id='yui_3_17_2_1_1743684583439_18']/div/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.dropdown-menu.show > a.dropdown-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Disable access')])[16]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9715d637-ff1b-4a22-95c4-bf41603e2613</webElementGuid>
+      <webElementGuid>c82e7a26-60dc-4dfb-97b5-11410c323e89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>502f9987-1574-418b-b06a-d15b0c6f1cb8</webElementGuid>
+      <webElementGuid>0a07f5f0-80d3-4497-9493-26a69acdcb92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;lock=41445&amp;sesskey=Q58hhH75el</value>
-      <webElementGuid>2dabd4cd-e6e8-4bea-b8ba-f59892162fee</webElementGuid>
+      <webElementGuid>fa5e807b-656e-432a-88d4-73282a1eedae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Disable access</value>
-      <webElementGuid>41e072d9-fbc2-417c-b7da-3873758edb2e</webElementGuid>
+      <webElementGuid>f87140a3-1fe5-4f2f-abfa-f4906f3cba1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1743684583439_18&quot;)/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>e06010ba-700c-4d2b-a984-81eacb769fb5</webElementGuid>
+      <webElementGuid>de5d140b-0944-4423-8f0f-a01898ef7099</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='yui_3_17_2_1_1743684583439_18']/div/a</value>
-      <webElementGuid>5292d696-98c0-4103-8526-04e5d80986aa</webElementGuid>
+      <webElementGuid>303b3029-3382-41bc-a0e4-e5b5a440a450</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Disable access')])[16]</value>
-      <webElementGuid>d37bb4c0-8207-4aa4-b85d-f79faaf3c320</webElementGuid>
+      <webElementGuid>15bfeed1-38b1-459d-bca7-a97a46791fc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete: First Name'])[2]/following::a[2]</value>
-      <webElementGuid>633d10a0-8651-4121-8d7c-829ec4d96686</webElementGuid>
+      <webElementGuid>46a02421-ceb1-4ee3-a258-ba0c9b3b2535</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Available to users'])[16]/following::a[2]</value>
-      <webElementGuid>626dc5df-6b5a-4143-97f4-493643b7a9d0</webElementGuid>
+      <webElementGuid>3bc35914-dae1-4c24-a43d-f4cee5e23f7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[36]/preceding::a[1]</value>
-      <webElementGuid>4a449d4f-75fe-4b6d-9dc2-4002ac6665a6</webElementGuid>
+      <webElementGuid>1771db53-9546-4019-861a-f9e0e3cd0826</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[36]/preceding::a[2]</value>
-      <webElementGuid>088879f2-1110-4d33-80c7-2d7a935085a6</webElementGuid>
+      <webElementGuid>08160c5e-d054-4921-bf47-79adcf3e2d97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;lock=41445&amp;sesskey=Q58hhH75el')]</value>
-      <webElementGuid>5fbb71a2-1a1b-4d2c-9a24-1e818c2a22bc</webElementGuid>
+      <webElementGuid>f8267908-6ccb-47c9-b585-97eb6ea6c494</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[36]/td[5]/div/a</value>
-      <webElementGuid>902eaa37-4759-47a7-bb0a-78b631dd9164</webElementGuid>
+      <webElementGuid>beb26477-37e2-4708-8ec7-85e7476d8f71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;lock=41445&amp;sesskey=Q58hhH75el' and (text() = 'Disable access' or . = 'Disable access')]</value>
-      <webElementGuid>2defae6d-580e-4851-a70d-982cdcfe3585</webElementGuid>
+      <webElementGuid>91e7e879-f266-4a09-af02-83ad9d214aae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

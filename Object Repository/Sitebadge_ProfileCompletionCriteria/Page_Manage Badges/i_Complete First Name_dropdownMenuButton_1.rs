@@ -6,12 +6,12 @@
    <elementGuidId>e6a9dfac-bb4e-458f-ac33-7007ee3d4b1e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//i[@id='dropdownMenuButton'])[37]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>tr:nth-of-type(37) > td.actions.cell.c4.lastcol > #dropdownMenuButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[td/a/span[text()='Katalon profile completion criteria 2']]//td[contains(@class, 'actions')]//i[@id='dropdownMenuButton']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>1d3b8686-fc42-4c48-9184-3e79fd20eb30</webElementGuid>
+      <webElementGuid>12c00740-d52f-48b6-854f-d0d35c0a5472</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-ellipsis-v</value>
-      <webElementGuid>bbbdef87-5f7c-45d9-b7e9-7af78af97a50</webElementGuid>
+      <webElementGuid>dcd062ea-7866-48b4-8174-b81224467925</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3ecb33b9-a8cf-4a4b-8e9e-05bf17755383</webElementGuid>
+      <webElementGuid>49369995-92e7-42a7-89ff-0ffdfa1bb3c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>dropdownMenuButton</value>
-      <webElementGuid>50734453-9f05-4c91-8edb-55d67c15ddc7</webElementGuid>
+      <webElementGuid>bbe8d804-9800-49a5-a0ae-843b6929dcaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>78206777-a0be-4bd8-acf4-3f9611af2f17</webElementGuid>
+      <webElementGuid>d3fd759e-ad7e-4b6e-8529-75e5ad94c68e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>3d43d8b2-56de-4c5a-aa24-843c895fb2c4</webElementGuid>
+      <webElementGuid>e284057c-bf57-4a53-b5dc-94eec5ac7a5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/table[@class=&quot;table table-bordered table-striped&quot;]/tbody[1]/tr[37]/td[@class=&quot;actions cell c4 lastcol&quot;]/i[@id=&quot;dropdownMenuButton&quot;]</value>
-      <webElementGuid>15d4cf4d-9df5-4518-a2eb-f6af458a6249</webElementGuid>
+      <webElementGuid>69a21987-0359-4720-8d90-0f3d0cb1cee8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//i[@id='dropdownMenuButton'])[37]</value>
-      <webElementGuid>ab80826c-da0d-474e-b7f8-44181ddf1a0f</webElementGuid>
+      <webElementGuid>8773a3c7-0c60-4e78-9082-b3ccafd00088</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='region-main']/div/div/table/tbody/tr[37]/td[5]/i</value>
-      <webElementGuid>95315323-52cb-4bb9-b6a4-4fe02e57decc</webElementGuid>
+      <webElementGuid>6c99b6cb-d859-42e0-bd38-30f567d93054</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[37]/td[5]/i</value>
-      <webElementGuid>21cdc7f7-82cc-4d36-b05e-99e0d2b07375</webElementGuid>
+      <webElementGuid>3f61bac7-4d34-4ec0-bd79-ceab1f97915d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[@type = 'button' and @id = 'dropdownMenuButton']</value>
-      <webElementGuid>a40f67e9-18f4-4525-84d7-330e05fab570</webElementGuid>
+      <webElementGuid>e8b9d8a5-9acd-4e4e-9d11-ea26c47beb94</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
