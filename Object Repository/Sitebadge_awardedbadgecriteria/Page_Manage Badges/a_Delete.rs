@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//td[@id='yui_3_17_2_1_1743760022416_18']/div/a[4]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Awarded sys 2'])[1]/preceding::a[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6329a59a-b334-4411-9af4-1986e9e86d7c</webElementGuid>
+      <webElementGuid>aa1ec2cf-695d-46da-a0f9-2b59230561c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>e7ac103d-bd53-4c97-905c-072754faa90f</webElementGuid>
+      <webElementGuid>11dbd45a-e952-4e74-bcbc-7cd207a422ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;delete=41511</value>
-      <webElementGuid>434bcebc-4411-4568-835c-390b77336bc2</webElementGuid>
+      <webElementGuid>dfc62985-5bb4-4f27-86ee-a09f0b2b5fd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>befdbfd5-8d5f-49fc-ab2a-9fd0e25fb9b8</webElementGuid>
+      <webElementGuid>69a9e91a-ccb7-455b-a6df-7079b7fcbf01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1743760022416_18&quot;)/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>a3661c66-7be0-4cb8-b622-aeba5fdf1fc3</webElementGuid>
+      <webElementGuid>221e84e7-0c66-4cbd-accc-991c28a3be24</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='yui_3_17_2_1_1743760022416_18']/div/a[4]</value>
-      <webElementGuid>a87c389e-9bb7-4097-a4c4-502a085e79ab</webElementGuid>
+      <webElementGuid>ba1bdec8-204d-49a7-a985-d777aea44a49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Delete')])[12]</value>
-      <webElementGuid>6cd02718-2e28-4f38-be53-c33d4713f171</webElementGuid>
+      <webElementGuid>c22ce049-27db-4767-b323-9fa61162f925</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[12]/following::a[1]</value>
-      <webElementGuid>6f0490ff-1a8d-4173-b305-1c92a8bffe10</webElementGuid>
+      <webElementGuid>932655ad-179a-46f1-8551-d3a722a1fe67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[12]/following::a[2]</value>
-      <webElementGuid>98b180d3-1525-4c08-8fe6-95b9f91edfb1</webElementGuid>
+      <webElementGuid>a4fdf49e-e61f-4d52-9aa6-ef40c7a6de57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Awarded sys 2'])[1]/preceding::a[1]</value>
-      <webElementGuid>7869578b-ee36-439a-a046-93168d2fa9f8</webElementGuid>
+      <webElementGuid>2b44ab5f-548e-4649-85e0-826623f1475b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Not available to users'])[5]/preceding::a[2]</value>
-      <webElementGuid>befaf4fa-c009-49a1-a65e-ea1beb46a375</webElementGuid>
+      <webElementGuid>d97d3346-9fe8-4faf-8a8a-342d29802c49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;delete=41511')]</value>
-      <webElementGuid>47e3b187-a8d5-4bb2-9a63-3c08b54888d9</webElementGuid>
+      <webElementGuid>5a829120-293e-4cef-921d-ade7377112b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[12]/td[5]/div/a[4]</value>
-      <webElementGuid>d8bc437c-f9d8-4b7d-b4cc-042e6fde823d</webElementGuid>
+      <webElementGuid>f933511c-5168-4772-8fc8-3f16a43d4534</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://plms-php81.paradisolms.net/badges/index.php?sort=name&amp;dir=ASC&amp;page=0&amp;type=1&amp;delete=41511' and (text() = 'Delete' or . = 'Delete')]</value>
-      <webElementGuid>d440512b-33f9-4028-9953-e73001ce92eb</webElementGuid>
+      <webElementGuid>7bf38477-73c1-4772-adbe-f9e4c0ec77f2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>1d98f560-07be-4073-a50d-6176b2e4f88a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//h3[text()='Page content of katalon workspace']/ancestor::a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[2]/following::div[10]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9779dd0d-8d20-4ecd-b3fa-0bb421d39f5e</webElementGuid>
+      <webElementGuid>a1e70483-fc6c-49b8-a687-5774617fa6de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>image</value>
-      <webElementGuid>91029183-d0f8-4c22-b9f8-ea4ed6ff5e6b</webElementGuid>
+      <webElementGuid>0ca443a5-fbb3-478f-a248-2e24452bd25d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ui-id-3</value>
-      <webElementGuid>645e21f8-e99c-4d64-9f41-1757c3a033db</webElementGuid>
+      <webElementGuid>cee68173-18cc-4d09-9a93-0e54dd02ece0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -51,7 +51,7 @@
                             
                                     Page content of katalon workspace
                             </value>
-      <webElementGuid>783ddc9b-06ae-4455-8ae6-c774911eac15</webElementGuid>
+      <webElementGuid>5a2c638d-424a-4b35-9c4d-929c0ce1a876</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +59,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yui_3_17_2_1_1743776352070_54&quot;)/div[3]/div[@class=&quot;ajax-contianer&quot;]/div[@class=&quot;homepage-container&quot;]/div[@class=&quot;home-section all-content&quot;]/div[@class=&quot;all owl-carousel owl-theme owl-loaded owl-drag&quot;]/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/div[@class=&quot;carditem&quot;]/div[@class=&quot;carditem__body&quot;]/div[@class=&quot;&quot;]/a[1]/div[@class=&quot;image&quot;]</value>
-      <webElementGuid>890f4db2-650d-4e37-9a3f-92c483cf769e</webElementGuid>
+      <webElementGuid>812e27b1-a687-4da7-a90a-d0c60c9fdee5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>49cbdcff-ce26-4d58-81b4-eb16a8d8188e</webElementGuid>
+      <webElementGuid>a6c38ff8-eeeb-4666-8c27-f577dec2c0df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,7 +75,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1743776352070_54']/div[3]/div/div/div[3]/div[2]/div/div/div/div/div/div/a/div</value>
-      <webElementGuid>5079f07f-e799-4508-809e-beb23381c26e</webElementGuid>
+      <webElementGuid>28db15de-bd3b-4767-82c6-a2cefd9db994</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[2]/following::div[10]</value>
-      <webElementGuid>df7a8a50-b694-4ac3-8903-d064217882e4</webElementGuid>
+      <webElementGuid>826578d6-a6ea-4c62-9af5-1d739c4bded4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All Content'])[1]/following::div[10]</value>
-      <webElementGuid>aadc134a-2917-43f0-b88c-47b3d577abf9</webElementGuid>
+      <webElementGuid>75fe4b37-f556-4661-9b00-5db3aeca63c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Page content of katalon workspace'])[2]/preceding::div[2]</value>
-      <webElementGuid>1f7d1504-7966-40cb-9ac7-8c5bc857bd63</webElementGuid>
+      <webElementGuid>c031fbb9-3cc9-405f-b8e2-8bec58ec207e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin User'])[3]/preceding::div[3]</value>
-      <webElementGuid>b4405e64-c72f-4282-9abe-a28a9d0fc0b3</webElementGuid>
+      <webElementGuid>d1e5bdf4-6d0d-4730-bc3e-7c2c0261f68e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/div/a/div</value>
-      <webElementGuid>4f74c493-a37b-4583-a594-d3cecb17d6ca</webElementGuid>
+      <webElementGuid>04ea1ec3-1e04-42c6-bc2f-2b6072cf2a36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +131,7 @@
                             
                                     Page content of katalon workspace
                             ')]</value>
-      <webElementGuid>410dd194-040f-463a-a7a2-cafc5c1287ee</webElementGuid>
+      <webElementGuid>4b8b9fae-0023-4f53-a41e-dadee64522c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,7 +139,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='ui-id-3']</value>
-      <webElementGuid>46051a38-f361-4096-80f2-0793183e9db2</webElementGuid>
+      <webElementGuid>6b2a8cc4-4888-4642-83c8-892c12aa9d0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -147,7 +147,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='ui-id-2']/li/div</value>
-      <webElementGuid>73d192ad-e9fd-4986-b63f-3cd9f1cd7670</webElementGuid>
+      <webElementGuid>5c6ea15b-4c38-49cb-a3a1-1146cb3ef782</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -155,7 +155,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I am Admin Assistant.'])[1]/following::div[2]</value>
-      <webElementGuid>7439ccb1-e7fb-4963-813f-25723b8abcb6</webElementGuid>
+      <webElementGuid>9f016611-cbf7-48af-9b81-b78e1a938d88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -163,7 +163,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Page content of katalon workspace'])[6]/preceding::div[1]</value>
-      <webElementGuid>c6f7bd2c-e5f2-4268-9bbf-d5cf6f324030</webElementGuid>
+      <webElementGuid>4d254858-e4f4-4bec-af7b-19dd8326aec5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -171,7 +171,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ul[2]/li/div</value>
-      <webElementGuid>47f26f0d-73ad-4128-89c3-f64b4a34ab0f</webElementGuid>
+      <webElementGuid>2c50b7ae-dd96-4475-8cbd-60f0e812c155</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -179,7 +179,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'ui-id-3' and (text() = 'Page content of katalon workspace' or . = 'Page content of katalon workspace')]</value>
-      <webElementGuid>c03020c3-d83f-4cc5-9e74-7cad323112dd</webElementGuid>
+      <webElementGuid>9a948c02-6cdd-49aa-98d2-6741e53b9b34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -187,7 +187,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='yui_3_17_2_1_1743772916277_59']</value>
-      <webElementGuid>a69fa5ef-147f-464e-8123-8011ee8ec5f2</webElementGuid>
+      <webElementGuid>627fb7e5-2efe-4749-91bb-bfc8359c404c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -195,7 +195,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='yui_3_17_2_1_1743772916277_60']/div</value>
-      <webElementGuid>99f573e7-565b-43b0-b606-d124d2cca637</webElementGuid>
+      <webElementGuid>7d634245-0743-4dca-a728-8b7a04a53c99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -203,7 +203,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[4]/following::div[11]</value>
-      <webElementGuid>a103858d-9499-4e42-bb8a-4e5347d33960</webElementGuid>
+      <webElementGuid>02888306-3f60-49a2-86f8-aa89fb35f1a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -211,7 +211,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Content'])[1]/following::div[11]</value>
-      <webElementGuid>a50390a0-fa61-4ff2-b04e-443709a9fcce</webElementGuid>
+      <webElementGuid>e25d1dc1-346e-4167-a187-ff932cdbed20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -219,7 +219,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Page content of katalon workspace.....'])[4]/preceding::div[2]</value>
-      <webElementGuid>ca5a406b-6e7d-487f-8a2a-2b54c64a05b5</webElementGuid>
+      <webElementGuid>654ad697-9e7f-482e-8193-40cfecfca21c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -227,7 +227,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin User'])[62]/preceding::div[3]</value>
-      <webElementGuid>08e2f191-0066-4e1c-846b-fe9fe4bc0ba2</webElementGuid>
+      <webElementGuid>711654c6-b82f-4ea7-9b9a-0e8459cd3f05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -235,7 +235,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/div/div/div/div/div/div/div/a/div</value>
-      <webElementGuid>5140d6a8-cd41-47d9-b722-7ec1dd8e7752</webElementGuid>
+      <webElementGuid>2dbf1530-6321-4c99-ac65-12c288ee6bc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -251,6 +251,6 @@
                                         
                                                 Page content of katalon workspace.....
                                         ')]</value>
-      <webElementGuid>c653fc65-c3a1-4f78-8af9-1782290d4512</webElementGuid>
+      <webElementGuid>c77fefe7-ce4d-4f13-bb80-1aa0792ba5c3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

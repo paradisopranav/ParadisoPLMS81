@@ -112,16 +112,21 @@ WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecr
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_PLMS Administration Search/a_Manage Badges'))
 
-
 WebUI.click(findTestObject('Object Repository/Sitebadge_awardedbadgecriteria/Page_Manage Badges/i_concat(, , 1 profile test badge, , )_drop_b0133b'))
 
 WebUI.click(findTestObject('Object Repository/Sitebadge_awardedbadgecriteria/Page_Manage Badges/a_Disable access'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Sitebadge_awardedbadgecriteria/Page_Manage Badges/i_concat(, , 1 profile test badge, , )_drop_b0133b'))
 
 WebUI.click(findTestObject('Object Repository/Sitebadge_awardedbadgecriteria/Page_Manage Badges/a_Copy'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/Sitebadge_awardedbadgecriteria/Page_Copy of Awarded badges criteria 2/input_Time Unit_submitbutton'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Sitelevelbadge_Manualissuebyrolecriteria/Page_Dashboard/img_Admin User_userpicture'))
 
@@ -133,12 +138,21 @@ WebUI.click(findTestObject('Object Repository/Sitebadge_awardedbadgecriteria/Pag
 
 WebUI.click(findTestObject('Object Repository/Sitebadge_awardedbadgecriteria/Page_Manage Badges/a_Delete'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/Sitebadge_awardedbadgecriteria/Page_Manage Badges/button_Delete and remove existing issued badges'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Sitebadge_awardedbadgecriteria/Page_Manage Badges/i_concat(, , 1 profile test badge, , )_drop_b0133b_1'))
 
 WebUI.click(findTestObject('Object Repository/Sitebadge_awardedbadgecriteria/Page_Manage Badges/a_Delete_1'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/Sitebadge_awardedbadgecriteria/Page_Manage Badges/button_Delete and remove existing issued badges_1'))
 
+WebUI.delay(5)
+
 WebUI.closeBrowser()
+

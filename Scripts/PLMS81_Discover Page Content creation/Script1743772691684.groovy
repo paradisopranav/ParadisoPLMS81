@@ -16,6 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.apache.commons.lang.RandomStringUtils as RandomStringUtils
 
 WebUI.openBrowser('')
 
@@ -25,10 +26,13 @@ WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.setText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Username_username'), GlobalVariable.Username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'),
-	GlobalVariable.Password)
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Paradiso LMS Log in to the site/input_Password_password'), 
+    GlobalVariable.Password)
 
 WebUI.click(findTestObject('Object Repository/PLMS81_Discover Page Content creation/Page_Paradiso LMS Log in to the site/button_Log in'))
+
+// Generate a random name with 8 characters
+String randomName = RandomStringUtils.randomAlphabetic(8).toLowerCase()
 
 WebUI.click(findTestObject('Object Repository/PLMS81_Discover Page Content creation/Page_Paradiso LMS/i_Home_fa men men-plms-knowledge-hub'))
 
@@ -43,7 +47,7 @@ WebUI.click(findTestObject('Object Repository/PLMS81_Discover Page Content creat
 WebUI.click(findTestObject('Object Repository/PLMS81_Discover Page Content creation/Page_Paradiso LMS/a_Page'))
 
 WebUI.setText(findTestObject('Object Repository/PLMS81_Discover Page Content creation/Page_Add HTML Page/input_Page Title_title'), 
-    'Page content of katalon workspace')
+    randomName)
 
 WebUI.setText(findTestObject('Object Repository/Discover_Page Content/Page_Add HTML Page/p_Page Content_yui_3_17_2_1_1743676975449_799'), 
     'Testing content of page')
@@ -60,7 +64,7 @@ WebUI.click(findTestObject('Object Repository/PLMS81_Discover Page Content creat
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/PLMS81_Discover Page Content creation/Page_Paradiso LMS/input_Create Workspace_q'), 
-    'Page content of katalon workspace')
+    randomName)
 
 WebUI.sendKeys(findTestObject('Object Repository/PLMS81_Discover Page Content creation/Page_Paradiso LMS/input_Create Workspace_q'), 
     Keys.chord(Keys.ENTER))
@@ -69,13 +73,19 @@ WebUI.click(findTestObject('Object Repository/PLMS81_Discover Page Content creat
 
 WebUI.click(findTestObject('Object Repository/PLMS81_Discover Page Content creation/Page_Page content of katalon workspace/i_File Uploaded Successfully_fa fa-chevron-_c840c8'))
 
-
 WebUI.click(findTestObject('Object Repository/PLMS81_Discover Page Content creation/Page_Paradiso LMS/p_Page content of katalon workspace'))
 
 WebUI.click(findTestObject('Object Repository/PLMS81_Discover Page Content creation/Page_Page content of katalon workspace/i_Page content of katalon workspace_fa fa-e_c5cd1a'))
 
 WebUI.click(findTestObject('Object Repository/PLMS81_Discover Page Content creation/Page_Page content of katalon workspace/a_Delete'))
 
-WebUI.closeBrowser()
+WebUI.setText(findTestObject('Object Repository/PLMS81_Discover Page Content creation/Page_Paradiso LMS/input_Create Workspace_q'), 
+    randomName)
 
+WebUI.sendKeys(findTestObject('Object Repository/PLMS81_Discover Page Content creation/Page_Paradiso LMS/input_Create Workspace_q'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.delay(5)
+
+WebUI.closeBrowser()
 
