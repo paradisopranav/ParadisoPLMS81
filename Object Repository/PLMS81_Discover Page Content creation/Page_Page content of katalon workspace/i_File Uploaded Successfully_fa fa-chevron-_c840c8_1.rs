@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_File Uploaded Successfully_fa fa-chevron-_c840c8_1</name>
+   <tag></tag>
+   <elementGuidId>500f70a7-4e3c-4601-98bf-e10adc87178a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='yui_3_17_2_1_1743775045683_333']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-chevron-left.back-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b15538cb-6bc6-4309-87ae-31e0886ccf54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-chevron-left back-icon</value>
+      <webElementGuid>1c7bb95c-6965-466e-a835-ccb3efc2c61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1743775045683_333&quot;)/i[@class=&quot;fa fa-chevron-left back-icon&quot;]</value>
+      <webElementGuid>5303f5ae-a48c-4888-abb7-3ce3f6bdcf2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1743775045683_333']/i</value>
+      <webElementGuid>2d8f8033-658c-4912-8930-c4aa70fc1862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div/div/div/a/i</value>
+      <webElementGuid>77e9db19-10d2-467a-ba1b-29068d086582</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

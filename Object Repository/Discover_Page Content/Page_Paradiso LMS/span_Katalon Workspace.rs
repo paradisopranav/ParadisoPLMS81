@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Katalon Workspace</name>
+   <tag></tag>
+   <elementGuidId>dc2905ea-6f7a-4ad1-8e1e-3132212c7d6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yui_3_17_2_1_1743772118216_43']/div/div/div[49]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ada5f4df-e46f-4285-b47e-928e39f2d363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>2b78014a-7bde-4cad-9adc-67a8913cfc61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon Workspace</value>
+      <webElementGuid>bc6336fb-3cff-4aa2-8d6b-07bd543a1832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1743772118216_43&quot;)/div[@class=&quot;dropdown-menu multi-level workspaces_menu show&quot;]/div[@class=&quot;no-overflow&quot;]/div[@class=&quot;dropdown-item1 dropdown-menu-right&quot;]/a[@class=&quot;dropdown-item workspace_apply&quot;]/span[@class=&quot;name&quot;]</value>
+      <webElementGuid>631b1ffa-7f75-466e-bddb-40dba6ef38ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1743772118216_43']/div/div/div[49]/a/span[2]</value>
+      <webElementGuid>f8d44d54-3e51-4179-ae30-4286a60f0197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[1]/following::span[1]</value>
+      <webElementGuid>324ba0bc-7dcb-4a1a-b355-cb9a6e261743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[48]/following::span[2]</value>
+      <webElementGuid>ba98f532-14b4-4820-90eb-2266553f9aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[49]/preceding::span[1]</value>
+      <webElementGuid>08d32366-ae3e-4620-8e3e-50af40cc481c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='k'])[1]/preceding::span[1]</value>
+      <webElementGuid>e07ddf33-d124-405d-bb06-b08bfd1f4da4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Katalon Workspace']/parent::*</value>
+      <webElementGuid>8c21409e-40d7-4b87-b0aa-6d7be475a0db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[49]/a/span[2]</value>
+      <webElementGuid>e4094564-e9d4-4109-8cb9-8f7e442fa80c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Katalon Workspace' or . = 'Katalon Workspace')]</value>
+      <webElementGuid>2aa049fa-7e00-4740-a9dc-47501db162e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

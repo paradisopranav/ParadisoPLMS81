@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_File Uploaded Successfully_fa fa-chevron-_c840c8</name>
+   <tag></tag>
+   <elementGuidId>1d86df73-c294-41a0-a440-97df917e09da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[contains(@class, 'fa-ellipsis-v')]/parent::a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-chevron-left.back-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b5020d42-0cab-413b-8347-977b68f00cfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-chevron-left back-icon</value>
+      <webElementGuid>24bd663d-dd1d-4ff7-8012-47b0435d81dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1743776384641_333&quot;)/i[@class=&quot;fa fa-chevron-left back-icon&quot;]</value>
+      <webElementGuid>884a4e9b-1a6c-42b9-b643-9036927bf436</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1743776384641_333']/i</value>
+      <webElementGuid>b5478557-0787-4d9b-ae98-71a29a0a86ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div/div/div/a/i</value>
+      <webElementGuid>aa2b4563-8a7d-4f69-aa52-854db8731e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1743773003426_333']/i</value>
+      <webElementGuid>ad7566ec-5978-43f2-bb61-dbdaef6fec61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

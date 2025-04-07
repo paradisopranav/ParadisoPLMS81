@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Page content of katalon workspace_fa fa-e_c5cd1a</name>
+   <tag></tag>
+   <elementGuidId>1a652c6e-433c-452c-b7eb-b8040a42912d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'dropdown-menu')]//a[contains(@data-target, '#removemodal')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-ellipsis-v</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>00c80c57-bd87-4fed-bdc9-a87a41b2cfca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-ellipsis-v</value>
+      <webElementGuid>6bc85289-23f8-4f64-a441-771ed321ce99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1744018647505_334&quot;)/a[@id=&quot;dropdownMenuLink470&quot;]/i[@class=&quot;fa fa-ellipsis-v&quot;]</value>
+      <webElementGuid>254befcc-019a-448a-8e6a-e88b023d425a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='dropdownMenuLink470']/i</value>
+      <webElementGuid>f75ddd9d-9aa0-4646-9029-fcaabe9648ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/div/a/i</value>
+      <webElementGuid>9b294aa7-10e2-447b-b1cb-c98a0f91be1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

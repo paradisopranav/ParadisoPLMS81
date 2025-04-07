@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Home_fa men men-plms-knowledge-hub</name>
+   <tag></tag>
+   <elementGuidId>db269d32-2364-40f8-81fa-3e9da19a3c9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='itemid_161']/a/div/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.men.men-plms-knowledge-hub</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a997f73c-151c-451c-9d41-bf0702e28d1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa men men-plms-knowledge-hub</value>
+      <webElementGuid>f3d52580-1c06-41b1-9997-f11ef79a93fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9579597e-96ad-4d35-8793-cf1f5526be60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-drawer&quot;)/div[@class=&quot;wrapper w-navigation&quot;]/nav[@id=&quot;sidebar&quot;]/ul[@class=&quot;list-unstyled components&quot;]/li[@id=&quot;itemid_161&quot;]/a[@class=&quot;accordion-toggle collapsed list-group-item list-group-item-action&quot;]/div[@class=&quot;col-md-12 text-center icon_text_nav&quot;]/span[@class=&quot;media-left&quot;]/i[@class=&quot;fa men men-plms-knowledge-hub&quot;]</value>
+      <webElementGuid>b28ff971-9c11-4055-a846-d6651a5c8464</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='itemid_161']/a/div/span/i</value>
+      <webElementGuid>197f9f1a-a76e-4a66-9604-cf8b0cd810bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div/span/i</value>
+      <webElementGuid>648b16a9-c9f5-4411-bea8-7f9bbf5c8c1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

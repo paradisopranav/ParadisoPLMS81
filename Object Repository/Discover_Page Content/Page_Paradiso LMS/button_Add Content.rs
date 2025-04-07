@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Content</name>
+   <tag></tag>
+   <elementGuidId>4c4c669a-6aea-46da-8988-80ed63c4ce09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='region-main']/div/div/div[2]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.add-btn.btn.btn-primary.dropdown-toggle.btn-add</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e7f7def8-3d45-4453-9ae0-538b3252d565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-btn btn btn-primary dropdown-toggle btn-add</value>
+      <webElementGuid>e0dc0fd1-7ef7-4c16-8389-2791e261850a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>d60c07fb-1fe2-4cb6-961c-83ecc7dc359d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>d9f65209-60f7-4fdc-bbaf-f8bc126a4764</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#h5pcontent_popup</value>
+      <webElementGuid>907a65fc-33dc-44f7-b8ab-8c0d178ac717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Content</value>
+      <webElementGuid>5f860b77-6ec9-49e9-b415-7c0b5efc298f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;region-main&quot;)/div[@class=&quot;card card-block content-shadow not-card&quot;]/div[1]/div[@class=&quot;d-flex justify-content-between align-items-center flex-wrap discover-bar&quot;]/div[@class=&quot;add_playlist_btn h-100 mb-1&quot;]/button[@class=&quot;add-btn btn btn-primary dropdown-toggle btn-add&quot;]</value>
+      <webElementGuid>ab295a01-43b6-443f-964d-4e3856c41758</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='region-main']/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>e8db3c3b-8763-4c34-87c6-c2c76e76dd12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Playlist'])[1]/following::button[1]</value>
+      <webElementGuid>a0955dfd-7372-44cf-a23f-27c2fd0fd3e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/following::button[1]</value>
+      <webElementGuid>8c19a3ec-5ac9-438a-8345-a70c952ac7e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured Content'])[1]/preceding::button[1]</value>
+      <webElementGuid>a72163d9-f966-45fd-82fa-f7c71bf2d650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/preceding::button[1]</value>
+      <webElementGuid>6cf52e29-9752-4880-a542-a1e3bfb8e7ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>50c02f1d-7708-4c20-9bc0-b96f4b7712f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = '#' and (text() = 'Add Content' or . = 'Add Content')]</value>
+      <webElementGuid>80e77a6d-15f5-4e59-88a3-494ed4e86d89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

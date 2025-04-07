@@ -3,15 +3,15 @@
    <description></description>
    <name>svg</name>
    <tag></tag>
-   <elementGuidId>b2c61f78-31a8-40bd-86bb-c419b2277f92</elementGuidId>
+   <elementGuidId>9e3b22a4-11ef-4f67-b2b2-96554fd87564</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#dropdownWorkspaceMenuLink318 > svg</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[contains(@class, 'dropdown-item1') and contains(@class, 'dropdown-menu-right')]    [./a[@data-name='Katalon Workspace']]    //a[contains(@class, 'dropdownWorkspaceMenuLink')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dropdownWorkspaceMenuLink318 > svg</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

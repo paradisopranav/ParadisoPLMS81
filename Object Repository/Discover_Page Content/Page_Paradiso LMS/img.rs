@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>3b5d72d5-2040-4368-8f91-cf624a9ab363</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.column.content-list > a.dropdown-item > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='h5pcontent_popup']/div/div/div[2]/div/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>564f84b6-d5be-45f2-9f30-76ea6de8073c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://plms-php81.paradisolms.net/local/playlist/img/page.svg</value>
+      <webElementGuid>145c359f-21d5-4846-9d75-83a76cc12da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;h5pcontent_popup&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body h5pcontentbody&quot;]/div[@class=&quot;grouph5pdata&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;column content-list&quot;]/a[@class=&quot;dropdown-item&quot;]/img[1]</value>
+      <webElementGuid>656d48f2-bfd7-4c06-b00e-a89be9299a4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='h5pcontent_popup']/div/div/div[2]/div/div/div/a/img</value>
+      <webElementGuid>009a4148-50a4-4273-9180-1e7784737ac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://plms-php81.paradisolms.net/local/playlist/img/page.svg')]</value>
+      <webElementGuid>d8f52efb-ecf1-4881-9213-6800cb50fb4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a/img</value>
+      <webElementGuid>31648022-4bdc-48ae-bbf5-3ec5982c9bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://plms-php81.paradisolms.net/local/playlist/img/page.svg']</value>
+      <webElementGuid>d0e2b20b-b262-4bfb-a3b2-5a5b22c23487</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

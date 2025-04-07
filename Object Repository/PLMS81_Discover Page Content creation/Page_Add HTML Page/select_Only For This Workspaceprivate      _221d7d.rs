@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Only For This Workspaceprivate      _221d7d</name>
+   <tag></tag>
+   <elementGuidId>780cb004-392b-4a95-999e-0a4399a82a00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='id_visibility']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id_visibility</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f13b69ec-0c84-445d-8753-5135d8f918ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>38abdbbb-3464-4d6f-9c64-0cddaa5ab454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>visibility</value>
+      <webElementGuid>760f8e57-3a61-4f62-aad8-f0c2b7d8a680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_visibility</value>
+      <webElementGuid>c0942ba0-652b-41fe-b99a-cfb6f959fe43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Only For This Workspace/private
+            Public
+        </value>
+      <webElementGuid>56c75140-4924-4c89-afcf-7d2e5d046da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id_visibility&quot;)</value>
+      <webElementGuid>342e4967-1663-466b-b728-ff19715d4183</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='id_visibility']</value>
+      <webElementGuid>2aaec1da-9f44-4168-9c73-c5eb52564d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1743772853041_795']/select</value>
+      <webElementGuid>e3262ce9-5690-470b-b368-08de39d051ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visibility'])[1]/following::select[1]</value>
+      <webElementGuid>ee552d8e-cff2-4cfe-99b7-5a750643d369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Image (PNG)'])[1]/following::select[1]</value>
+      <webElementGuid>8f820c7b-65bc-417a-a627-b07be0fae122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[1]/preceding::select[1]</value>
+      <webElementGuid>5689f71d-723b-4c1f-94cc-0bdd02c615df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage standard tags'])[1]/preceding::select[2]</value>
+      <webElementGuid>4fc4dcf2-cf9c-4853-ae28-2dc75f6157e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>5f61a512-9a96-447d-a82b-1dd41747a549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'visibility' and @id = 'id_visibility' and (text() = '
+            Only For This Workspace/private
+            Public
+        ' or . = '
+            Only For This Workspace/private
+            Public
+        ')]</value>
+      <webElementGuid>8a080726-e792-41bd-815d-8e30d77d94d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

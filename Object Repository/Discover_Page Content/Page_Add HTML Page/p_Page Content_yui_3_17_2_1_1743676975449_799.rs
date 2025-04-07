@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Page Content_yui_3_17_2_1_1743676975449_799</name>
+   <tag></tag>
+   <elementGuidId>687fe5fd-e65d-450c-b712-77aeb488dc54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1743676975449_799</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[contains(text(), 'Page Content')]/following::div[contains(@class, 'editor_atto_content') and @contenteditable='true'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>68fe1e0f-22f3-43e9-ab10-625abb7c0810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>c756bb03-0ec6-4d50-ae47-a5ac0a847126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_3_17_2_1_1743676975449_799</value>
+      <webElementGuid>c8936f80-f3da-418e-a1bc-b753e918d51c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1743676975449_799&quot;)</value>
+      <webElementGuid>ec2e4098-8196-4a5e-9216-bac18609037c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='yui_3_17_2_1_1743676975449_799']</value>
+      <webElementGuid>6c9cf10b-46da-46ac-92f8-5b535f197827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='id_contenteditable']/p</value>
+      <webElementGuid>e496929a-cd23-47b4-bd69-65f1214da6d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Content'])[1]/following::p[1]</value>
+      <webElementGuid>7cac1bd4-7c99-4a3c-bf5a-5147d32e0cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::p[1]</value>
+      <webElementGuid>b2bb585d-6303-4bcb-8a78-6bc518909dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Thumbnail'])[1]/preceding::p[1]</value>
+      <webElementGuid>c28e8b50-5bb2-4616-8142-5f9a7b610ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Thumbnail'])[2]/preceding::p[1]</value>
+      <webElementGuid>db2441c5-422d-4dd0-b7db-3eb210abbbde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/p</value>
+      <webElementGuid>ab3aa227-3b50-4410-8814-17839144c56c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'yui_3_17_2_1_1743676975449_799']</value>
+      <webElementGuid>78b0debf-3846-4b97-90a5-f5cb8052f0f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

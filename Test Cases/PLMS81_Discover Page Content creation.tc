@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing</description>
+   <name>PLMS81_Discover Page Content creation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1e3daee-f658-4a94-9018-2d3816a77c8c</testCaseGuid>
+</TestCaseEntity>

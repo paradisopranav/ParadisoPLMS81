@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Workspaces</name>
+   <tag></tag>
+   <elementGuidId>402ccece-5276-4510-b04f-d3b7092397be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yui_3_17_2_1_1743772853041_804']/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1743772853041_804 > div.contentlabel.col-sm-12.col-md-4.col-lg-4.col-xl-4 > label.col-form-label.d-inline-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>13a95354-82ac-47aa-9e94-0d6bf67dcf33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-form-label  d-inline-block </value>
+      <webElementGuid>f6c46d85-74a4-4c91-b750-fdd556365fcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>id_workspace</value>
+      <webElementGuid>ff141990-066c-4573-beab-42d9a307de67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Workspaces
+        </value>
+      <webElementGuid>4aba8282-e761-40ed-8cf5-c9f42758126e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1743772853041_804&quot;)/div[@class=&quot;contentlabel col-sm-12 col-md-4 col-lg-4 col-xl-4&quot;]/label[@class=&quot;col-form-label  d-inline-block&quot;]</value>
+      <webElementGuid>ecef9dd8-bb45-425d-b81f-a6756825d269</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1743772853041_804']/div/label</value>
+      <webElementGuid>40c1e718-7fc6-41ee-b58d-2042fca43900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Unit'])[1]/following::label[1]</value>
+      <webElementGuid>bcefbe7a-38ce-4066-a807-f826d85b90c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time'])[1]/following::label[2]</value>
+      <webElementGuid>ace22b96-b74a-42ba-8141-103cce2ec307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Side panel'])[1]/preceding::label[2]</value>
+      <webElementGuid>3811685d-c528-47dd-8e2e-3215abf12bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Workspaces']/parent::*</value>
+      <webElementGuid>b2d115c1-c02b-48ad-b9a8-1dd25f88ab26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/label</value>
+      <webElementGuid>5c37a363-ca0e-4d72-9f16-a3fb11572b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+            Workspaces
+        ' or . = '
+            Workspaces
+        ')]</value>
+      <webElementGuid>41fa0149-52c5-4a46-98fd-14b343c10816</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
