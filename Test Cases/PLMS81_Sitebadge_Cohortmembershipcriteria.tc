@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLMS81_Sitebadge_Cohortmembershipcriteria</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd0f16ba-4428-4de9-9a6a-fe6577b9ac45</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>020f8381-458a-4469-95e7-e6905412fd6f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\S\\Desktop\\Paradiso\\Google_Download\\th.jpg'</defaultValue>
+      <description></description>
+      <id>020f8381-458a-4469-95e7-e6905412fd6f</id>
+      <masked>false</masked>
+      <name>cohortbadgeimage</name>
+   </variable>
+</TestCaseEntity>
